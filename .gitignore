@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Datos descargados: son el resultado de correr el programa, no código
+# fuente. Pesan mucho (PDFs + Markdown de miles de providencias) y no
+# deben vivir en git.
+/jurisprudencia/
