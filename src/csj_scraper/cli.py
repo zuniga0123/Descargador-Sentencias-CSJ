@@ -53,6 +53,12 @@ def main() -> None:
         help="Re-descargar aunque ya exista en el índice.",
     )
     parser.add_argument(
+        "--con-original",
+        action="store_true",
+        help="Además del Markdown, descargar también el PDF/Word original de cada providencia "
+        "(duplica tiempo y espacio en disco). Por defecto solo se guarda Markdown + metadata.",
+    )
+    parser.add_argument(
         "--verboso",
         action="store_true",
         help="Mostrar más detalle en los logs.",
@@ -66,7 +72,13 @@ def main() -> None:
     )
 
     anios = _parsear_anios(args.anio)
-    ejecutar(anios=anios, tipos=args.tipo, limite=args.limite, forzar=args.forzar)
+    ejecutar(
+        anios=anios,
+        tipos=args.tipo,
+        limite=args.limite,
+        forzar=args.forzar,
+        descargar_original=args.con_original,
+    )
 
 
 if __name__ == "__main__":

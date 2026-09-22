@@ -101,6 +101,7 @@ def procesar_documento(
     doc: DocumentoEnumerado,
     sala: str = config.SALA,
     forzar: bool = False,
+    descargar_original: bool = True,
 ) -> bool:
     """Descarga, clasifica y registra un documento. Devuelve True si hizo
     trabajo nuevo, False si ya estaba descargado y se saltó."""
@@ -130,12 +131,13 @@ def procesar_documento(
     ruta_md.write_text(encabezado + markdown, encoding="utf-8")
 
     ruta_original = None
-    try:
-        contenido_bin, _content_type = client.download_file(doc.doc_id)
-        ruta_original = carpeta / f"{doc.radicado}.{doc.extension}"
-        ruta_original.write_bytes(contenido_bin)
-    except Exception:
-        logger.exception("No se pudo descargar el archivo original de %s", doc.radicado)
+    if descargar_original:
+        try:
+            contenido_bin, _content_type = client.download_file(doc.doc_id)
+            ruta_original = carpeta / f"{doc.radicado}.{doc.extension}"
+            ruta_original.write_bytes(contenido_bin)
+        except Exception:
+            logger.exception("No se pudo descargar el archivo original de %s", doc.radicado)
 
     metadata = {
         "radicado": doc.radicado,
@@ -188,6 +190,7 @@ def ejecutar(
     sala: str = config.SALA,
     limite: int | None = None,
     forzar: bool = False,
+    descargar_original: bool = True,
 ) -> None:
     tipos = tipos or config.TIPOS_PROVIDENCIA
     db.inicializar()
@@ -204,7 +207,9 @@ def ejecutar(
                         logger.info("Límite de %d documentos alcanzado, deteniendo.", limite)
                         return
                     try:
-                        hizo_trabajo = procesar_documento(client, conn, doc, sala=sala, forzar=forzar)
+                        hizo_trabajo = procesar_documento(
+                            client, conn, doc, sala=sala, forzar=forzar, descargar_original=descargar_original
+                        )
                     except Exception:
                         logger.exception("Error procesando %s (%s)", radicado, doc.doc_id)
                         continue
