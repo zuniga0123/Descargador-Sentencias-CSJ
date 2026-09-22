@@ -1,0 +1,32 @@
+{
+  "radicado": "SL170-2026",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-04-22T14:53:18Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 219,
+  "leyes_o_articulos": [
+    "Decreto 1745 de 2020",
+    "Decreto 1833 de 2016",
+    "Decreto 2071 de 2015",
+    "Decreto 2555 de 2010",
+    "Decreto 656 de 1994",
+    "Decreto 663 de 1993",
+    "Decreto 720 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1328 de 2009",
+    "Ley 1748 de 2017",
+    "Ley 446 de 1998",
+    "Ley 527 de 1999",
+    "Ley 795 de 2003",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2026/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL170-2026.pdf",
+  "fecha_descarga": "2026-09-21T20:12:32.262535+00:00"
+}

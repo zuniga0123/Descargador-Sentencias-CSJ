@@ -1,0 +1,27 @@
+{
+  "radicado": "SL302-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-02-20T16:09:09Z",
+  "magistrado_ponente": "Dra. Marirraquel Rodelo Navarro",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 39,
+  "leyes_o_articulos": [
+    "Decreto 150 de 1976",
+    "Decreto 2388 de 1979",
+    "Ley 1098 de 2006",
+    "Ley 27 de 1974",
+    "Ley 489 de 1998",
+    "Ley 527 de 1999",
+    "Ley 7 de 1979",
+    "Ley 75 de 1968",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Marirraquel Rodelo Navarro/Sentencias/SL302-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:49:38.818795+00:00"
+}

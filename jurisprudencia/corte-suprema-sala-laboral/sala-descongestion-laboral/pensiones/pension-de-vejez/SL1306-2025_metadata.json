@@ -1,0 +1,28 @@
+{
+  "radicado": "SL1306-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-14T19:18:48Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1994",
+    "Decreto 1745 de 1995",
+    "Decreto 1748 de 1995",
+    "Decreto 3063 de 1989",
+    "Decreto 692 de 1994",
+    "Decreto 758 de 1990",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Ana Maria Muñoz Segura/Sentencias/SL1306-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:23:08.970505+00:00"
+}

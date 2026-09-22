@@ -1,0 +1,30 @@
+{
+  "radicado": "SL747-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-28T20:43:06Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 83,
+  "leyes_o_articulos": [
+    "Decreto 1650 de 1977",
+    "Decreto 183 de 1964",
+    "Decreto 1887 de 1994",
+    "Decreto 2701 de 1988",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 222 de 1995",
+    "Ley 527 de 1999",
+    "Ley 54 de 1962",
+    "Ley 6 de 1945",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Donald Jose Dix Ponnefz/Sentencias/SL747-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:37:44.662611+00:00"
+}

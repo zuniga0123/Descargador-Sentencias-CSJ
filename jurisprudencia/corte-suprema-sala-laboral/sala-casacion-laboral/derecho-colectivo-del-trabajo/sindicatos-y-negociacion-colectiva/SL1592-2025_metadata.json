@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1592-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-06-09T16:41:23Z",
+  "magistrado_ponente": "Dra. Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1083 de 2015",
+    "Decreto 1373 de 1966",
+    "Decreto 1469 de 1978",
+    "Decreto 2351 de 1965",
+    "Ley 1476 de 2011",
+    "Ley 527 de 1999",
+    "Ley 734 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2025/Dra. Marjorie Zuñiga Romero/Sentencias/SL1592-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:13:47.663122+00:00"
+}

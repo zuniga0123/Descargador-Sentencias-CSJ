@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1076-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-02T13:22:58Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966",
+    "Decreto 433 de 1971",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL1076-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:28:26.819493+00:00"
+}

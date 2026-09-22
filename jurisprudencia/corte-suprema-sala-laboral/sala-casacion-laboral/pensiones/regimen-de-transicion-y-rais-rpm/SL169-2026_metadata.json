@@ -1,0 +1,33 @@
+{
+  "radicado": "SL169-2026",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-04-22T14:56:21Z",
+  "magistrado_ponente": "Dr. Victor Julio Usme Perea",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 163,
+  "leyes_o_articulos": [
+    "Decreto 1745 de 2020",
+    "Decreto 1833 de 2016",
+    "Decreto 2241 de 2010",
+    "Decreto 656 de 1994",
+    "Decreto 663 de 1993",
+    "Decreto 692 de 1994",
+    "Decreto 720 de 1994",
+    "Ley 10 de 1993",
+    "Ley 100 de 1993",
+    "Ley 1328 de 2009",
+    "Ley 169 de 1896",
+    "Ley 1748 de 2017",
+    "Ley 446 de 1998",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2026/Dr. Victor Julio Usme Perea/Sentencias/SL169-2026.pdf",
+  "fecha_descarga": "2026-09-21T20:12:36.296151+00:00"
+}

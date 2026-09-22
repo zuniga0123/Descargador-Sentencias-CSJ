@@ -1,0 +1,26 @@
+{
+  "radicado": "SL458-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-05T20:44:22Z",
+  "magistrado_ponente": "Dra. Marirraquel Rodelo Navarro",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1572 de 1998",
+    "Decreto 1867 de 1999",
+    "Ley 1437 de 2011",
+    "Ley 14371 de 2011",
+    "Ley 1567 de 1998",
+    "Ley 1572 de 1998",
+    "Ley 443 de 1998",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Marirraquel Rodelo Navarro/Sentencias/SL458-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:45:02.983696+00:00"
+}

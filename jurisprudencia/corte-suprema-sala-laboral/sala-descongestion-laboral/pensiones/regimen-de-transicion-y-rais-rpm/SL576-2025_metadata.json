@@ -1,0 +1,23 @@
+{
+  "radicado": "SL576-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-14T20:06:10Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 51,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Donald Jose Dix Ponnefz/Sentencias/SL576-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:42:04.674695+00:00"
+}

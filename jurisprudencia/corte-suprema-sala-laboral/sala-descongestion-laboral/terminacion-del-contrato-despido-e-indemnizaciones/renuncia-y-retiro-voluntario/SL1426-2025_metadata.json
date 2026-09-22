@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1426-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-22T20:41:45Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Renuncia y retiro voluntario",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 3041 de 1966",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Jorge Prada Sanchez/Sentencias/SL1426-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:18:35.794512+00:00"
+}

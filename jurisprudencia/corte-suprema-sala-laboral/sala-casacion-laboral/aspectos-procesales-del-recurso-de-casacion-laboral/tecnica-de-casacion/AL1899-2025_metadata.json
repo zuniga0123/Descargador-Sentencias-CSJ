@@ -1,0 +1,23 @@
+{
+  "radicado": "AL1899-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2025,
+  "fecha_creacion": "2025-04-01T19:34:48Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Decreto 528 de 1964",
+    "Ley 361 de 1997",
+    "Ley 446 de 1998",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2025/Dr. Luis Benedicto Herrera Diaz/Autos/AL1899-2025.pdf",
+  "fecha_descarga": "2026-09-22T15:19:36.072354+00:00"
+}

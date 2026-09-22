@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1371-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-19T21:04:03Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 1406 de 1999",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1371-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:21:23.468239+00:00"
+}

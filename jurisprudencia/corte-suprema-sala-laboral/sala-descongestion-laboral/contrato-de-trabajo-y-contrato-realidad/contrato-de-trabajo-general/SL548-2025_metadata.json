@@ -1,0 +1,28 @@
+{
+  "radicado": "SL548-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-25T14:30:50Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1887 de 1994",
+    "Decreto 723 de 2013",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 16 de 1969",
+    "Ley 270 de 1996",
+    "Ley 50 de 1990",
+    "Ley 52 de 1962",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL548-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:39:41.007132+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "radicado": "SL185-2026",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-04-27T16:02:00Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Ley 527 de 1999",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2026/Dr. Omar Angel Mejia Amador/Sentencias/SL185-2026.pdf",
+  "fecha_descarga": "2026-09-21T20:12:20.157525+00:00"
+}

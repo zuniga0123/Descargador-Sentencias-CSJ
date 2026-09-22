@@ -1,0 +1,21 @@
+{
+  "radicado": "AL1930-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2025,
+  "fecha_creacion": "2025-04-02T15:20:21Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 2,
+  "leyes_o_articulos": [
+    "Decreto 1400 de 1970",
+    "Decreto 2282 de 1989",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2025/Dr. Luis Benedicto Herrera Diaz/Autos/AL1930-2025.pdf",
+  "fecha_descarga": "2026-09-22T15:18:43.846314+00:00"
+}

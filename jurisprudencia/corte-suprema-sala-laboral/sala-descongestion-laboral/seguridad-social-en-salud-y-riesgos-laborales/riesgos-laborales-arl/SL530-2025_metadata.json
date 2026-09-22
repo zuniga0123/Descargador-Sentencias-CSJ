@@ -1,0 +1,21 @@
+{
+  "radicado": "SL530-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-12T16:17:21Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Ley 153 de 1887",
+    "Ley 16 de 1969",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Ana Maria Muñoz Segura/Sentencias/SL530-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:43:24.789762+00:00"
+}

@@ -119,7 +119,7 @@ def procesar_documento(
     encabezado = (
         f"# {doc.radicado}\n\n"
         f"- **Corte:** {CORTE}\n"
-        f"- **Sala:** Sala de Casación Laboral ({doc.sub_sala.title()})\n"
+        f"- **Sala:** {config.SUB_SALA_NOMBRE_LEGIBLE.get(doc.sub_sala, doc.sub_sala.title())}\n"
         f"- **Magistrado ponente:** {doc.doctor or 'No identificado'}\n"
         f"- **Fecha:** {doc.fecha_creacion or 'No identificada'}\n"
         f"- **Tipo de providencia:** {doc.tipo_providencia or 'No identificado'}\n"

@@ -1,0 +1,24 @@
+{
+  "radicado": "SL595-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-18T20:10:31Z",
+  "magistrado_ponente": "Dr. Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Ley 113 de 1985",
+    "Ley 12 de 1975",
+    "Ley 33 de 1973",
+    "Ley 527 de 1999",
+    "Ley 71 de 1988",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Martin Emilio Beltran Quintero/Sentencias/SL595-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:40:55.275775+00:00"
+}

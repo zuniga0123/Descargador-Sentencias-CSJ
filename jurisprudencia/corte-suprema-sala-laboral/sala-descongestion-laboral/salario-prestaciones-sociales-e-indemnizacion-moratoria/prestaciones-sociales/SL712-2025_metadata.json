@@ -1,0 +1,20 @@
+{
+  "radicado": "SL712-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-28T15:32:27Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 34,
+  "leyes_o_articulos": [
+    "Ley 52 de 1975",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Jorge Prada Sanchez/Sentencias/SL712-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:38:04.445002+00:00"
+}

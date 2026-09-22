@@ -1,0 +1,21 @@
+{
+  "radicado": "SL1087-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-02T14:58:01Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Olga Yineth Merchan Calderon/Sentencias/SL1087-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:27:13.366649+00:00"
+}

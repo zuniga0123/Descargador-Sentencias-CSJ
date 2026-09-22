@@ -1,0 +1,23 @@
+{
+  "radicado": "SL427-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-11T18:36:57Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 45,
+  "leyes_o_articulos": [
+    "Decreto 1477 de 2014",
+    "Ley 1295 de 1994",
+    "Ley 270 de 1996",
+    "Ley 527 de 1999",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL427-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:43:41.589455+00:00"
+}

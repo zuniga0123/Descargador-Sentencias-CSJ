@@ -1,0 +1,22 @@
+{
+  "radicado": "SL975-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-04-23T21:06:20Z",
+  "magistrado_ponente": "Dra. Marirraquel Rodelo Navarro",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 42,
+  "leyes_o_articulos": [
+    "Decreto 1485 de 1994",
+    "Ley 1429 de 2010",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Marirraquel Rodelo Navarro/Sentencias/SL975-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:30:59.049791+00:00"
+}

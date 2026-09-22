@@ -1,0 +1,21 @@
+{
+  "radicado": "SL1610-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-06-16T16:59:06Z",
+  "magistrado_ponente": "Dra. Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 527 de 1999",
+    "Ley 717 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2025/Dra. Marjorie Zuñiga Romero/Sentencias/SL1610-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:13:38.526067+00:00"
+}

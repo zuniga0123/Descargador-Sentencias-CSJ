@@ -1,0 +1,24 @@
+{
+  "radicado": "SL799-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-04-11T20:24:17Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 1388 de 2013",
+    "Decreto 1750 de 2003",
+    "Decreto 3135 de 1968",
+    "Decreto 337 de 1995",
+    "Decreto 416 de 1997",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL799-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:32:42.354101+00:00"
+}

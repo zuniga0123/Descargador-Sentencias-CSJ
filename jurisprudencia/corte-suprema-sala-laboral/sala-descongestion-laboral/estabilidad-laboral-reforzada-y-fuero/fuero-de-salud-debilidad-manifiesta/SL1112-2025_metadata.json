@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1112-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-02T14:59:06Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Estabilidad Laboral Reforzada y Fuero",
+  "subtema": "Fuero de salud / debilidad manifiesta",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 2463 de 2001",
+    "Decreto 2651 de 1991",
+    "Ley 1346 de 2009",
+    "Ley 16 de 1969",
+    "Ley 1618 de 2013",
+    "Ley 361 de 1997",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Olga Yineth Merchan Calderon/Sentencias/SL1112-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:27:06.990621+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "radicado": "SL601-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-20T17:18:58Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 49,
+  "leyes_o_articulos": [
+    "Decreto 0030 de 1951",
+    "Decreto 1760 de 2003",
+    "Decreto 2027 de 1951",
+    "Decreto 2108 de 1992",
+    "Decreto 30 de 1951",
+    "Decreto 435 de 1971",
+    "Decreto 616 de 1954",
+    "Decreto 692 de 1994",
+    "Ley 10 de 1972",
+    "Ley 100 de 1993",
+    "Ley 1118 de 2006",
+    "Ley 4 de 1976",
+    "Ley 527 de 1999",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Ana Maria Muñoz Segura/Sentencias/SL601-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:40:03.964921+00:00"
+}

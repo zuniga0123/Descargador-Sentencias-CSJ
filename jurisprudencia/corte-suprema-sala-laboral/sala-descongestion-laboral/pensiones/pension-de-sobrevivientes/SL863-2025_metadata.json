@@ -1,0 +1,21 @@
+{
+  "radicado": "SL863-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-04-22T16:44:39Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 832 de 1996",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Donald Jose Dix Ponnefz/Sentencias/SL863-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:31:56.266219+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1253-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-19T22:05:46Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 1083 de 2015",
+    "Decreto 2127 de 1945",
+    "Decreto 797 de 1949",
+    "Ley 16 de 1968",
+    "Ley 2213 de 2022",
+    "Ley 50 de 1990",
+    "Ley 50 de 1999",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2025/Dr. Donald Jose Dix Ponnefz/Sentencias/SL1253-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:21:02.854209+00:00"
+}

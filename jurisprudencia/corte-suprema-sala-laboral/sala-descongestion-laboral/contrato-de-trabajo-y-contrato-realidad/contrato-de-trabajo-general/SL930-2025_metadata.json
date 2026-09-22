@@ -1,0 +1,20 @@
+{
+  "radicado": "SL930-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-04-10T15:28:05Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Ana Maria Muñoz Segura/Sentencias/SL930-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:33:15.013471+00:00"
+}

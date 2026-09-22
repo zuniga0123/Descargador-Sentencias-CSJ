@@ -1,0 +1,30 @@
+{
+  "radicado": "SL1373-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-20T13:14:15Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 68,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1562 de 2012",
+    "Ley 1581 de 2012",
+    "Ley 2 de 1984",
+    "Ley 446 de 1998",
+    "Ley 45 de 1990",
+    "Ley 527 de 1999",
+    "Ley 57 de 1915",
+    "Ley 6 de 1945",
+    "Ley 663 de 1993",
+    "Ley 9 de 1979"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Ana Maria Muñoz Segura/Sentencias/SL1373-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:20:52.230216+00:00"
+}

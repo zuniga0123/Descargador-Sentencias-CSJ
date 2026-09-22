@@ -1,0 +1,31 @@
+{
+  "radicado": "SL274-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-02-20T19:29:13Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 89,
+  "leyes_o_articulos": [
+    "Decreto 1485 de 1994",
+    "Decreto 4588 de 2006",
+    "Ley 100 de 1993",
+    "Ley 1233 de 2008",
+    "Ley 1429 de 2010",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 527 de 1999",
+    "Ley 789 de 1990",
+    "Ley 789 de 2002",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Olga Yineth Merchan Calderon/Sentencias/SL274-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:49:22.063692+00:00"
+}

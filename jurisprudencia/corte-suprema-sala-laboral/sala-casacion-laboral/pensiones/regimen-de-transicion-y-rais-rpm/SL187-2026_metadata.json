@@ -1,0 +1,25 @@
+{
+  "radicado": "SL187-2026",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-04-28T12:17:34Z",
+  "magistrado_ponente": "Dr. Juan Carlos Espeleta Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 2430 de 2024",
+    "Ley 270 de 1996",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003",
+    "Ley 979 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2026/Dr. Juan Carlos Espeleta Sanchez/Sentencias/SL187-2026.pdf",
+  "fecha_descarga": "2026-09-21T20:11:52.495228+00:00"
+}

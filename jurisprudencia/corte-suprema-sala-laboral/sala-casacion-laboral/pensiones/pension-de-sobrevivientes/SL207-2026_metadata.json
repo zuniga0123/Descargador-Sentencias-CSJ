@@ -1,0 +1,22 @@
+{
+  "radicado": "SL207-2026",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-04-28T12:56:42Z",
+  "magistrado_ponente": "Dr. Juan Carlos Espeleta Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2026/Dr. Juan Carlos Espeleta Sanchez/Sentencias/SL207-2026.pdf",
+  "fecha_descarga": "2026-09-21T20:11:48.617424+00:00"
+}

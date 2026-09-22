@@ -1,0 +1,30 @@
+{
+  "radicado": "SL1466-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-28T17:16:48Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 1298 de 1994",
+    "Decreto 1651 de 1977",
+    "Decreto 1653 de 1977",
+    "Decreto 1750 de 2003",
+    "Decreto 1876 de 1994",
+    "Decreto 3135 de 1968",
+    "Decreto 758 de 1990",
+    "Ley 10 de 1990",
+    "Ley 100 de 1993",
+    "Ley 12 de 1976",
+    "Ley 2158 de 1948",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2025/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL1466-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:17:04.194556+00:00"
+}

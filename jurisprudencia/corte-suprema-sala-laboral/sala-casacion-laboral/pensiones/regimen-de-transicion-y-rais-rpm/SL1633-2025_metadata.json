@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1633-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-07-01T19:14:59Z",
+  "magistrado_ponente": "Dra. Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 71,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 1642 de 1995",
+    "Decreto 2241 de 2010",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 446 de 1998",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2025/Dra. Marjorie Zuñiga Romero/Sentencias/SL1633-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:12:57.577555+00:00"
+}

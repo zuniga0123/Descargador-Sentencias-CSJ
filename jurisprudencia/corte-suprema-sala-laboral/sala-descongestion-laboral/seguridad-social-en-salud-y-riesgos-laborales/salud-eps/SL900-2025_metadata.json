@@ -1,0 +1,24 @@
+{
+  "radicado": "SL900-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-04-10T20:21:00Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Decreto 2562 de 2014",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 1438 de 2011",
+    "Ley 2351 de 1965"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Jorge Prada Sanchez/Sentencias/SL900-2025.docx",
+  "fecha_descarga": "2026-09-22T14:32:54.756972+00:00"
+}

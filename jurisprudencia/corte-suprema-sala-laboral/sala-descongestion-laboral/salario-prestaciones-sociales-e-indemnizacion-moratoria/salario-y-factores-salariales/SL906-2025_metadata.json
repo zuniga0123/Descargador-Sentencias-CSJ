@@ -1,0 +1,30 @@
+{
+  "radicado": "SL906-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-04-10T14:00:37Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 19 de 2012",
+    "Decreto 2351 de 1965",
+    "Decreto 2463 de 2001",
+    "Decreto 3083 de 2007",
+    "Ley 1346 de 2009",
+    "Ley 1450 de 2011",
+    "Ley 1618 de 2013",
+    "Ley 319 de 1996",
+    "Ley 336 de 1996",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Olga Yineth Merchan Calderon/Sentencias/SL906-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:33:27.829626+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "radicado": "SL1238-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-12T16:34:43Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 48,
+  "leyes_o_articulos": [
+    "Decreto 196 de 1995",
+    "Decreto 2071 de 2015",
+    "Decreto 255 de 2010",
+    "Decreto 2555 de 2010",
+    "Decreto 691 de 1994",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1328 de 2009",
+    "Ley 1748 de 2014",
+    "Ley 43 de 1975",
+    "Ley 527 de 1999",
+    "Ley 795 de 2003",
+    "Ley 91 de 1989"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1238-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:24:13.739125+00:00"
+}

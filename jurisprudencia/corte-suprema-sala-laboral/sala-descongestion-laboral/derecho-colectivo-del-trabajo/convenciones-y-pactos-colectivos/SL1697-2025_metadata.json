@@ -1,0 +1,30 @@
+{
+  "radicado": "SL1697-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-07-08T16:44:22Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 42,
+  "leyes_o_articulos": [
+    "Decreto 016 de 1954",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 2590 de 2003",
+    "Ley 100 de 1993",
+    "Ley 1564 de 2012",
+    "Ley 33 de 1985",
+    "Ley 4 de 1497",
+    "Ley 4 de 1976",
+    "Ley 446 de 1998",
+    "Ley 527 de 1999",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Omar Angel Mejia Amador/Sentencias/SL1697-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:12:39.637289+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "radicado": "SL627-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-20T14:53:20Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 1889 de 1994",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL627-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:40:22.010195+00:00"
+}

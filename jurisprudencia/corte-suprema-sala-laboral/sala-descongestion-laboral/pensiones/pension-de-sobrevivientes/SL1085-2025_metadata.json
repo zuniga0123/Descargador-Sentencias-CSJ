@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1085-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-02T14:57:08Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 69,
+  "leyes_o_articulos": [
+    "LEY 2014 DE 2008",
+    "Ley 100 de 1993",
+    "Ley 1204 de 2008",
+    "Ley 16 de 1969",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Olga Yineth Merchan Calderon/Sentencias/SL1085-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:27:15.382586+00:00"
+}

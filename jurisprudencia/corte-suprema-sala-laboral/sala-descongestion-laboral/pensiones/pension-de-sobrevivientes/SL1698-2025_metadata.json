@@ -1,0 +1,21 @@
+{
+  "radicado": "SL1698-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-07-08T16:45:31Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 45,
+  "leyes_o_articulos": [
+    "Ley 25 de 1992",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Omar Angel Mejia Amador/Sentencias/SL1698-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:12:37.521672+00:00"
+}

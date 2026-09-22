@@ -1,0 +1,22 @@
+{
+  "radicado": "SL346-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-02-25T13:48:59Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1204 de 2008",
+    "Ley 527 de 1999",
+    "Ley 717 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Ana Maria Muñoz Segura/Sentencias/SL346-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:48:20.834913+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "radicado": "SL621-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-21T15:28:52Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 4,
+  "leyes_o_articulos": [
+    "Decreto 3135 de 1968",
+    "Decreto 785 de 2005",
+    "Ley 11 de 1986",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Jorge Prada Sanchez/Sentencias/SL621-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:39:57.994547+00:00"
+}

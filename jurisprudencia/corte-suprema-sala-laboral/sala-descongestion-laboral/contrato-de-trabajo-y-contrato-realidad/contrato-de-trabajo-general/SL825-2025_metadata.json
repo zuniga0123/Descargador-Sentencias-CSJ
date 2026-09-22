@@ -1,0 +1,29 @@
+{
+  "radicado": "SL825-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-04-02T17:11:25Z",
+  "magistrado_ponente": "Dra. Marirraquel Rodelo Navarro",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Decreto 1075 de 2015",
+    "Decreto 2463 de 2001",
+    "Ley 100 de 1993",
+    "Ley 1346 de 2009",
+    "Ley 16 de 1969",
+    "Ley 1618 de 2013",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Marirraquel Rodelo Navarro/Sentencias/SL825-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:36:07.051529+00:00"
+}

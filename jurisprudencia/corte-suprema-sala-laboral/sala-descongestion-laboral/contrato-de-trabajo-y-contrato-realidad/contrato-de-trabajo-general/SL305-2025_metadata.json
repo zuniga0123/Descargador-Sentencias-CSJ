@@ -1,0 +1,23 @@
+{
+  "radicado": "SL305-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-02-21T20:08:16Z",
+  "magistrado_ponente": "Dr. Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 2463 de 2001",
+    "Ley 1346 de 2009",
+    "Ley 1618 de 2013",
+    "Ley 361 de 1997",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Martin Emilio Beltran Quintero/Sentencias/SL305-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:48:44.436073+00:00"
+}

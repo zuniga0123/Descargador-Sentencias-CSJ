@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1386-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-22T16:34:49Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 2148 de 1992",
+    "Decreto 3135 de 1968",
+    "Decreto 416 de 1997",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL1386-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:18:46.632953+00:00"
+}

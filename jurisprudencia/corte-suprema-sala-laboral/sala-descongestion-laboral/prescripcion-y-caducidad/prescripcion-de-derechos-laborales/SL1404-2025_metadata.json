@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1404-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-22T13:50:13Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 116 de 1976",
+    "Decreto 2511 de 1998",
+    "Ley 16 de 1969",
+    "Ley 2220 de 2022",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL1404-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:19:14.189623+00:00"
+}

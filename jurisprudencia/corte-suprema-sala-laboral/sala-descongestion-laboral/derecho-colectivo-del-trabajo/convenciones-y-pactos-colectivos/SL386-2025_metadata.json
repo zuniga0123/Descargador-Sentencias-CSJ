@@ -1,0 +1,22 @@
+{
+  "radicado": "SL386-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-02-28T13:37:17Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Ley 153 de 1887",
+    "Ley 16 de 1972",
+    "Ley 527 de 1999",
+    "Ley 74 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Jorge Prada Sanchez/Sentencias/SL386-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:46:48.454598+00:00"
+}

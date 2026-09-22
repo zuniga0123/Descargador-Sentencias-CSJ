@@ -1,0 +1,22 @@
+{
+  "radicado": "SL132-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-02-11T20:55:11Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 42,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Donald Jose Dix Ponnefz/Sentencias/SL132-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:52:06.010192+00:00"
+}

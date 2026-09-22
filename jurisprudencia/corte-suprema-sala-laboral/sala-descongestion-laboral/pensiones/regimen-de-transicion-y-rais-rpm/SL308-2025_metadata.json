@@ -1,0 +1,24 @@
+{
+  "radicado": "SL308-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-02-25T15:00:40Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 468 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1233 de 2008",
+    "Ley 15 de 1959",
+    "Ley 344 de 1996",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Donald Jose Dix Ponnefz/Sentencias/SL308-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:48:11.869793+00:00"
+}

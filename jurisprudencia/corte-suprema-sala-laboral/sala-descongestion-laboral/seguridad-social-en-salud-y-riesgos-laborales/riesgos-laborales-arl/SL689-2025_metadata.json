@@ -1,0 +1,21 @@
+{
+  "radicado": "SL689-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-27T19:26:09Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 2618 de 2013",
+    "Decreto 4819 de 2010",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL689-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:38:22.918262+00:00"
+}

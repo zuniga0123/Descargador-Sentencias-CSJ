@@ -1,0 +1,29 @@
+{
+  "radicado": "SL578-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-14T20:08:35Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 66,
+  "leyes_o_articulos": [
+    "Decreto 142 de 2006",
+    "Decreto 4712 de 2008",
+    "Decreto 510 de 2003",
+    "Decreto 656 de 1994",
+    "Decreto 832 de 1996",
+    "Decreto 833 de 1996",
+    "Ley 100 de 1993",
+    "Ley 2 de 1984",
+    "Ley 527 de 1999",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Donald Jose Dix Ponnefz/Sentencias/SL578-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:42:02.891137+00:00"
+}

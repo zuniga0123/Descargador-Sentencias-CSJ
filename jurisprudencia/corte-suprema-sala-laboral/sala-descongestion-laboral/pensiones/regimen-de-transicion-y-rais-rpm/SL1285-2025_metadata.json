@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1285-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-15T15:16:31Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 43,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1158 de 1994",
+    "Decreto 4937 de 2009",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Jorge Prada Sanchez/Sentencias/SL1285-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:22:48.529424+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "radicado": "AL4192-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2025,
+  "fecha_creacion": "2025-07-01T21:08:08Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Ley 2381 de 2024",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Ivan Mauricio Lenis Gomez/Autos/AL4192-2025.pdf",
+  "fecha_descarga": "2026-09-22T15:02:49.655053+00:00"
+}

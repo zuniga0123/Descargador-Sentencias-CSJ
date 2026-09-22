@@ -1,0 +1,20 @@
+{
+  "radicado": "SL1618-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-06-17T20:03:08Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL1618-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:13:23.444002+00:00"
+}

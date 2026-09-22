@@ -1,0 +1,31 @@
+{
+  "radicado": "SL693-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-27T19:33:39Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Decreto 1305 de 1975",
+    "Decreto 2337 de 1971",
+    "Decreto 2701 de 1988",
+    "Decreto 3220 de 1953",
+    "Decreto 612 de 1977",
+    "Decreto 89 de 1984",
+    "Decreto 95 de 1989",
+    "Ley 100 de 1993",
+    "Ley 33 de 1973",
+    "Ley 527 de 1999",
+    "Ley 82 de 1947",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL693-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:38:19.170075+00:00"
+}

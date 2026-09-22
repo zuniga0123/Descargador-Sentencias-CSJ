@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1715-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-07-16T13:17:35Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1437 de 2011",
+    "Ley 527 de 1999",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL1715-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:12:33.841694+00:00"
+}

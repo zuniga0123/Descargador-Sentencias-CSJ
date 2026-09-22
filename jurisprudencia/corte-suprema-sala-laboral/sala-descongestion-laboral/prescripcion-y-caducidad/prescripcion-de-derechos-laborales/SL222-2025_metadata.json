@@ -1,0 +1,26 @@
+{
+  "radicado": "SL222-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-02-13T21:14:16Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 34,
+  "leyes_o_articulos": [
+    "Decreto 1469 de 1978",
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1993",
+    "Ley 222 de 1965",
+    "Ley 222 de 1995",
+    "Ley 2351 de 1965",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL222-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:50:31.835005+00:00"
+}

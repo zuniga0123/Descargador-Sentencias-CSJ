@@ -1,0 +1,25 @@
+{
+  "radicado": "SL776-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-31T16:54:18Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1887 de 1994",
+    "Decreto 3041 de 1966",
+    "Ley 100 de 1993",
+    "Ley 270 de 1996",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL776-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:37:28.115908+00:00"
+}

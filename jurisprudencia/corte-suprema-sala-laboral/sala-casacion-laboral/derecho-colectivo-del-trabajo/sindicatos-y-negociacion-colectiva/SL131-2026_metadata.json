@@ -1,0 +1,22 @@
+{
+  "radicado": "SL131-2026",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-04-29T22:02:15Z",
+  "magistrado_ponente": "Dra. Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 150,
+  "leyes_o_articulos": [
+    "Decreto 089 de 2014",
+    "Decreto 2351 de 1965",
+    "Ley 1563 de 2012",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2026/Dra. Marjorie Zuñiga Romero/Sentencias/SL131-2026.pdf",
+  "fecha_descarga": "2026-09-21T20:11:40.803196+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1040-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-04-28T12:57:40Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Despido sin justa causa",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Ley 1232 de 2008",
+    "Ley 1382 de 2008",
+    "Ley 527 de 1999",
+    "Ley 790 de 2002",
+    "Ley 82 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1040-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:29:33.895870+00:00"
+}

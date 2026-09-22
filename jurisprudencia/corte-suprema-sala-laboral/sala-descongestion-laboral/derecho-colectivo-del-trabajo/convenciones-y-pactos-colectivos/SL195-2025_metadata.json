@@ -1,0 +1,22 @@
+{
+  "radicado": "SL195-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-02-13T21:28:10Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 0298 de 1989",
+    "Decreto 1867 de 1999",
+    "Ley 1572 de 1998",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL195-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:50:26.243630+00:00"
+}

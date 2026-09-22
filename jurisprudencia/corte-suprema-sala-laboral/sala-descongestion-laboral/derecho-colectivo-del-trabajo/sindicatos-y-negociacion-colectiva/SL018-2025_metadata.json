@@ -1,0 +1,28 @@
+{
+  "radicado": "SL018-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-01-24T15:21:27Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 84,
+  "leyes_o_articulos": [
+    "Decreto 1373 de 1966",
+    "Decreto 1469 de 1978",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Ley 1437 de 2011",
+    "Ley 1469 de 1978",
+    "Ley 2351 de 1965",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Donald Jose Dix Ponnefz/Sentencias/SL018-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:54:53.536030+00:00"
+}

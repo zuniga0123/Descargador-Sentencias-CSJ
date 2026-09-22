@@ -1,0 +1,22 @@
+{
+  "radicado": "SL574-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-14T21:28:40Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2350 de 1944",
+    "Ley 527 de 1999",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Donald Jose Dix Ponnefz/Sentencias/SL574-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:41:59.269375+00:00"
+}

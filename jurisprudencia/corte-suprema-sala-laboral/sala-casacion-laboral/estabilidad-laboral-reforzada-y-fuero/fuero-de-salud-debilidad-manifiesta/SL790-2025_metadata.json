@@ -1,0 +1,25 @@
+{
+  "radicado": "SL790-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-04-01T17:56:00Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Estabilidad Laboral Reforzada y Fuero",
+  "subtema": "Fuero de salud / debilidad manifiesta",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 2463 de 2001",
+    "Ley 1346 de 2009",
+    "Ley 1618 de 2013",
+    "Ley 1996 de 2019",
+    "Ley 361 de 1997",
+    "Ley 527 de 1999",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2025/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL790-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:36:41.680060+00:00"
+}

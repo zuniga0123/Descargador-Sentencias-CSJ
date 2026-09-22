@@ -1,0 +1,21 @@
+{
+  "radicado": "AL4129-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2025,
+  "fecha_creacion": "2025-07-01T16:34:09Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 34,
+  "leyes_o_articulos": [
+    "Decreto 3995 de 2007",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2025/Dr. Luis Benedicto Herrera Diaz/Autos/AL4129-2025.pdf",
+  "fecha_descarga": "2026-09-22T15:03:01.789025+00:00"
+}

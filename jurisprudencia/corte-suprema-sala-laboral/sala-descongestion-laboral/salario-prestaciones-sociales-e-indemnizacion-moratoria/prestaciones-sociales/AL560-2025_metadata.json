@@ -1,0 +1,21 @@
+{
+  "radicado": "AL560-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2025,
+  "fecha_creacion": "2025-02-12T16:30:49Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Decreto 528 de 1964",
+    "Ley 2213 de 2022",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Omar Angel Mejia Amador/Autos/AL560-2025.pdf",
+  "fecha_descarga": "2026-09-22T15:26:18.082272+00:00"
+}

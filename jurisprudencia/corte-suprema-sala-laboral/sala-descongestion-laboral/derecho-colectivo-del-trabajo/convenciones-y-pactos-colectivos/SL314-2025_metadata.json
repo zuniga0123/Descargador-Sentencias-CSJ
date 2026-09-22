@@ -1,0 +1,22 @@
+{
+  "radicado": "SL314-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-03T17:54:27Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 37,
+  "leyes_o_articulos": [
+    "Decreto 2264 de 2013",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL314-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:46:19.429795+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "radicado": "SL120-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-02-12T15:55:01Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL120-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:51:51.881290+00:00"
+}

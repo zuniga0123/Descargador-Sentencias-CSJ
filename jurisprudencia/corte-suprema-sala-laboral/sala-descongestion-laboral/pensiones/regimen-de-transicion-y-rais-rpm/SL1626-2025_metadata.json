@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1626-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-06-12T20:37:41Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 69,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 1507 de 2014",
+    "Decreto 19 de 2012",
+    "Ley 019 de 2012",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Omar Angel Mejia Amador/Sentencias/SL1626-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:13:30.957729+00:00"
+}

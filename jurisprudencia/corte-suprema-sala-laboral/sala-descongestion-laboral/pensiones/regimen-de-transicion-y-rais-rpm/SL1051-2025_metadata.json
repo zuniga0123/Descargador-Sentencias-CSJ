@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1051-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-02T14:01:55Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1298 de 1994",
+    "Decreto 1750 de 2003",
+    "Decreto 1876 de 1994",
+    "Ley 10 de 1990",
+    "Ley 100 de 1993",
+    "Ley 12 de 1976",
+    "Ley 2158 de 1948",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL1051-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:27:59.696832+00:00"
+}

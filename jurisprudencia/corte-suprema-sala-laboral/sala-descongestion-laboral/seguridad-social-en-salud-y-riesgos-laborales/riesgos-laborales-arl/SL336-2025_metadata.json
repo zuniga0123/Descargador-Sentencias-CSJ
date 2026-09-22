@@ -1,0 +1,24 @@
+{
+  "radicado": "SL336-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-02-24T14:39:51Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 4588 de 2006",
+    "Ley 1233 de 2008",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL336-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:48:42.626459+00:00"
+}

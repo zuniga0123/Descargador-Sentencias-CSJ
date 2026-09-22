@@ -1,0 +1,20 @@
+{
+  "radicado": "AL2370-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2025,
+  "fecha_creacion": "2025-04-23T19:36:41Z",
+  "magistrado_ponente": "Dra. Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 1,
+  "leyes_o_articulos": [
+    "Decreto 528 de 1964",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2025/Dra. Marjorie Zuñiga Romero/Autos/AL2370-2025.pdf",
+  "fecha_descarga": "2026-09-22T15:15:04.364586+00:00"
+}

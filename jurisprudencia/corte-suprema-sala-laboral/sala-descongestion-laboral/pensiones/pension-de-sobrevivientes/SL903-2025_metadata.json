@@ -1,0 +1,28 @@
+{
+  "radicado": "SL903-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-04-10T00:42:31Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 232 de 1984",
+    "Decreto 3041 de 1966",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 113 de 1985",
+    "Ley 33 de 1973",
+    "Ley 527 de 1999",
+    "Ley 71 de 1988",
+    "Ley 797 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Ana Maria Muñoz Segura/Sentencias/SL903-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:33:41.429098+00:00"
+}

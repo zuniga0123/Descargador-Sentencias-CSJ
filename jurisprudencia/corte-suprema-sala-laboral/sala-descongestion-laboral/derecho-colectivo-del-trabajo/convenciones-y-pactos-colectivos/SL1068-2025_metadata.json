@@ -1,0 +1,21 @@
+{
+  "radicado": "SL1068-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-07T15:05:13Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 3135 de 1968",
+    "Ley 1564 de 2012",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL1068-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:26:20.816305+00:00"
+}

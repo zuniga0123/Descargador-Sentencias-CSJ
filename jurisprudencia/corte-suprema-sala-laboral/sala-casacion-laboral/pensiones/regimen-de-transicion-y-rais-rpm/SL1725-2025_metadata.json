@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1725-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-07-21T19:52:31Z",
+  "magistrado_ponente": "Dra. Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2025/Dra. Marjorie Zuñiga Romero/Sentencias/SL1725-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:12:26.591461+00:00"
+}

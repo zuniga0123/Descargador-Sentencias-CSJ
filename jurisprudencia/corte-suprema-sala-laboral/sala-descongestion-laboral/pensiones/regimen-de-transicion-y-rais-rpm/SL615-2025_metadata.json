@@ -1,0 +1,26 @@
+{
+  "radicado": "SL615-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-19T21:48:49Z",
+  "magistrado_ponente": "Dra. Marirraquel Rodelo Navarro",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 77,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 1887 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1395 de 2010",
+    "Ley 527 de 1999",
+    "Ley 550 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Marirraquel Rodelo Navarro/Sentencias/SL615-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:40:46.103888+00:00"
+}

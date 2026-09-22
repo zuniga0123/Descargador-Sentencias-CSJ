@@ -1,0 +1,23 @@
+{
+  "radicado": "SL149-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-02-12T20:31:08Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 527 de 1999",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL149-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:51:35.556825+00:00"
+}

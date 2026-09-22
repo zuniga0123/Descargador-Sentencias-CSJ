@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1429-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-23T20:51:37Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 0169 de 2006",
+    "Decreto 169 de 2006",
+    "Decreto 2127 de 1945",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 1149 de 2007",
+    "Ley 527 de 1999",
+    "Ley 550 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2025/Dr. Donald Jose Dix Ponnefz/Sentencias/SL1429-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:17:57.838654+00:00"
+}

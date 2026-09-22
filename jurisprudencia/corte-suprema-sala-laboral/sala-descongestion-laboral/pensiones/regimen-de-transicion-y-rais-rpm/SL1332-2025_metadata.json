@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1332-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-16T00:13:31Z",
+  "magistrado_ponente": "Dra. Marirraquel Rodelo Navarro",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 62,
+  "leyes_o_articulos": [
+    "Decreto 3041 de 1966",
+    "Decreto 433 de 1971",
+    "Ley 100 de 1993",
+    "Ley 12 de 1975",
+    "Ley 33 de 1973",
+    "Ley 527 de 1999",
+    "Ley 90 de 1946",
+    "Ley 90 de 1948"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Marirraquel Rodelo Navarro/Sentencias/SL1332-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:22:03.740449+00:00"
+}

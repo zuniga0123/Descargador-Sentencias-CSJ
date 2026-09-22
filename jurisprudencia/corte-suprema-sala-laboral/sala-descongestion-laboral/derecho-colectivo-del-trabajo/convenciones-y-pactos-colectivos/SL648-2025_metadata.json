@@ -1,0 +1,24 @@
+{
+  "radicado": "SL648-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-27T14:44:23Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 2013 de 2012",
+    "Decreto 2114 de 2013",
+    "Decreto 2115 de 2013",
+    "Decreto 3000 de 2013",
+    "Ley 254 de 2000",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL648-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:38:55.480335+00:00"
+}

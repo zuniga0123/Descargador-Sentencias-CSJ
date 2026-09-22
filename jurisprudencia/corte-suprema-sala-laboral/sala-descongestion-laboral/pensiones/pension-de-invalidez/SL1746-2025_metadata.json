@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1746-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-07-22T17:49:28Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2090 de 2003",
+    "Ley 100 de 1993",
+    "Ley 1295 de 1994",
+    "Ley 1395 de 2010",
+    "Ley 169 de 1896",
+    "Ley 527 de 1999",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Omar Angel Mejia Amador/Sentencias/SL1746-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:12:24.819337+00:00"
+}

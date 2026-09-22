@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1505-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-06-04T17:52:41Z",
+  "magistrado_ponente": "Dra. Clara Ines Lopez Davila",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 656 de 1994",
+    "Decreto 663 de 1993",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2025/Dra. Clara Ines Lopez Davila/Sentencias/SL1505-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:14:51.612521+00:00"
+}

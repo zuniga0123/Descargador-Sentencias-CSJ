@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1336-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-16T16:15:18Z",
+  "magistrado_ponente": "Dra. Clara Ines Lopez Davila",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 73,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 1818 de 1998",
+    "Ley 1563 de 2012",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2025/Dra. Clara Ines Lopez Davila/Sentencias/SL1336-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:21:58.427540+00:00"
+}

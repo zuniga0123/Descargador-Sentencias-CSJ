@@ -1,0 +1,28 @@
+{
+  "radicado": "SL643-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-21T15:32:10Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 4588 de 2006",
+    "Ley 100 de 1993",
+    "Ley 1233 de 2008",
+    "Ley 1253 de 2008",
+    "Ley 1393 de 2010",
+    "Ley 1610 de 2013",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 527 de 1999",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Jorge Prada Sanchez/Sentencias/SL643-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:39:52.555752+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "radicado": "SL984-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-04-24T15:44:44Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 85,
+  "leyes_o_articulos": [
+    "Decreto 1333 de 1989",
+    "Decreto 2025 de 2011",
+    "Decreto 2351 de 1965",
+    "Decreto 2417 de 2007",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Olga Yineth Merchan Calderon/Sentencias/SL984-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:30:44.353214+00:00"
+}

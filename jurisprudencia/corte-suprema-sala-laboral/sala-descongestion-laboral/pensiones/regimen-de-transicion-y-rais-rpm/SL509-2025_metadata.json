@@ -1,0 +1,21 @@
+{
+  "radicado": "SL509-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-18T14:29:57Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL509-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:41:19.010144+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "radicado": "SL031-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-01-30T20:37:58Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1257 de 2008",
+    "Ley 16 de 1969",
+    "Ley 16 de 1972",
+    "Ley 294 de 1996",
+    "Ley 527 de 1999",
+    "Ley 54 de 1990",
+    "Ley 74 de 1968",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Olga Yineth Merchan Calderon/Sentencias/SL031-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:54:22.300138+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "radicado": "SL325-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-02-20T22:52:40Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Tipos de contrato y vinculación",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Decreto 797 de 1979",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 797 de 1949",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL325-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:48:57.849827+00:00"
+}

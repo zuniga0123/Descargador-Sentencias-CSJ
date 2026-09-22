@@ -1,0 +1,22 @@
+{
+  "radicado": "AL3338-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2025,
+  "fecha_creacion": "2025-07-14T17:52:00Z",
+  "magistrado_ponente": "Dra. Clara Ines Lopez Davila",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 1,
+  "leyes_o_articulos": [
+    "Decreto 575 de 2013",
+    "Ley 1285 de 2009",
+    "Ley 270 de 1996",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2025/Dra. Clara Ines Lopez Davila/Autos/AL3338-2025.docx",
+  "fecha_descarga": "2026-09-22T14:02:07.076669+00:00"
+}

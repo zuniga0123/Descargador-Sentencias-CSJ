@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1303-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-14T20:13:11Z",
+  "magistrado_ponente": "Dr. Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 1651 de 1977",
+    "Decreto 2148 de 1992",
+    "Decreto 3135 de 1968",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Martin Emilio Beltran Quintero/Sentencias/SL1303-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:22:59.844437+00:00"
+}

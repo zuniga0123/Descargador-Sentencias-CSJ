@@ -1,0 +1,30 @@
+{
+  "radicado": "SL055-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-01-30T20:42:15Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1083 de 2015",
+    "Decreto 1262 de 1997",
+    "Decreto 1333 de 1986",
+    "Decreto 1950 de 1973",
+    "Decreto 1959 de 1973",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Decreto 344 de 1966",
+    "Ley 11 de 1986",
+    "Ley 1952 de 2019",
+    "Ley 527 de 1999",
+    "Ley 54 de 1962"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Jorge Prada Sanchez/Sentencias/SL055-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:54:14.842377+00:00"
+}

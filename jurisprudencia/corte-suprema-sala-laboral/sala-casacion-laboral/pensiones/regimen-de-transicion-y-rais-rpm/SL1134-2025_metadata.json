@@ -1,0 +1,29 @@
+{
+  "radicado": "SL1134-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-08T20:08:34Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 64,
+  "leyes_o_articulos": [
+    "Decreto 2241 de 2010",
+    "Decreto 3995 de 2008",
+    "Decreto 663 de 1993",
+    "Decreto 692 de 1994",
+    "Decreto 720 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1395 de 2010",
+    "Ley 169 de 1896",
+    "Ley 1748 de 2014",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2025/Dr. Donald Jose Dix Ponnefz/Sentencias/SL1134-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:25:31.606319+00:00"
+}

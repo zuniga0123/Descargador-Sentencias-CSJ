@@ -1,0 +1,23 @@
+{
+  "radicado": "SL636-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-20T17:10:15Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1443 de 2014",
+    "Decreto 2851 de 2013",
+    "Ley 1503 de 2011",
+    "Ley 1562 de 2012",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Ana Maria Muñoz Segura/Sentencias/SL636-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:40:12.983920+00:00"
+}

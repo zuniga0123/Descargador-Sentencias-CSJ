@@ -1,0 +1,25 @@
+{
+  "radicado": "SL540-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-17T13:58:06Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1993",
+    "Ley 1496 de 2011",
+    "Ley 2351 de 1965",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL540-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:41:55.567749+00:00"
+}

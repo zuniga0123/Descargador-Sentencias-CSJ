@@ -1,0 +1,29 @@
+{
+  "radicado": "SL1191-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-08T21:51:52Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 37,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1919 de 2002",
+    "Decreto 2127 de 1945",
+    "Decreto 2127 de 1946",
+    "Decreto 2615 de 1942",
+    "Decreto 789 de 1949",
+    "Decreto 797 de 1949",
+    "Ley 1437 de 2011",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL1191-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:25:15.337793+00:00"
+}

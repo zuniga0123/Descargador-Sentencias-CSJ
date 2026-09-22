@@ -1,0 +1,24 @@
+{
+  "radicado": "SL840-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-04-03T20:53:20Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 54,
+  "leyes_o_articulos": [
+    "Decreto 1474 de 1997",
+    "Decreto 1748 de 1995",
+    "Ley 2351 de 1965",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL840-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:35:04.030670+00:00"
+}

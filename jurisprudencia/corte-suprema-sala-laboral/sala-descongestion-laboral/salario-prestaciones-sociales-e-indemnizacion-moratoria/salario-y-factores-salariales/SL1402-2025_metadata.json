@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1402-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-22T13:18:55Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 98,
+  "leyes_o_articulos": [
+    "Decreto 1833 de 2016",
+    "Decreto 2210 de 2004",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 527 de 1999",
+    "Ley 789 de 2002",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL1402-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:19:18.046772+00:00"
+}

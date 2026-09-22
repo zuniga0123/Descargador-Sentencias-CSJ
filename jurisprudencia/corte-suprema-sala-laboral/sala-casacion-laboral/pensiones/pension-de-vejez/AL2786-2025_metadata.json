@@ -1,0 +1,23 @@
+{
+  "radicado": "AL2786-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-12T17:35:26Z",
+  "magistrado_ponente": "Dra. Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 270 de 1996",
+    "Ley 527 de 1999",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2025/Dra. Marjorie Zuñiga Romero/Autos/AL2786-2025.pdf",
+  "fecha_descarga": "2026-09-22T15:10:34.716107+00:00"
+}

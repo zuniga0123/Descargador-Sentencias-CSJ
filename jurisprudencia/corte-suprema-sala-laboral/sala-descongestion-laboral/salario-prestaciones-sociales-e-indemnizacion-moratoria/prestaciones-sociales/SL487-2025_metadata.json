@@ -1,0 +1,27 @@
+{
+  "radicado": "SL487-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-14T20:05:11Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 62,
+  "leyes_o_articulos": [
+    "Decreto 1252 de 2002",
+    "Decreto 2013 de 2012",
+    "Decreto 797 de 1949",
+    "Ley 344 de 1966",
+    "Ley 344 de 1996",
+    "Ley 432 de 1998",
+    "Ley 527 de 1999",
+    "Ley 90 de 1946",
+    "Ley 91 de 1989"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL487-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:42:06.460745+00:00"
+}

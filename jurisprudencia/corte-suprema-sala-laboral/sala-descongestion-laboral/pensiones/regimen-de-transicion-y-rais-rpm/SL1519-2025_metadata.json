@@ -1,0 +1,31 @@
+{
+  "radicado": "SL1519-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-30T17:10:59Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 82,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 2071 de 2015",
+    "Decreto 3466 de 1982",
+    "Decreto 656 de 1994",
+    "Decreto 663 de 1993",
+    "Decreto 720 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1328 de 2009",
+    "Ley 1748 de 2014",
+    "Ley 446 de 1998",
+    "Ley 527 de 1999",
+    "Ley 795 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Olga Yineth Merchan Calderon/Sentencias/SL1519-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:15:52.494953+00:00"
+}

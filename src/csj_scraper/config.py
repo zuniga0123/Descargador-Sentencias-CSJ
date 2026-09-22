@@ -30,6 +30,11 @@ SUB_SALAS = {
 }
 SUB_SALA_DESCONOCIDA = "sub-sala-sin-identificar"
 
+SUB_SALA_NOMBRE_LEGIBLE = {
+    "PERMANENTE": "Sala de Casación Laboral",
+    "DESCONGESTION": "Sala de Descongestión Laboral",
+}
+
 TIPOS_PROVIDENCIA = ["SENTENCIA", "AUTO"]
 
 # Término de búsqueda usado para enumerar (casi) todas las providencias de

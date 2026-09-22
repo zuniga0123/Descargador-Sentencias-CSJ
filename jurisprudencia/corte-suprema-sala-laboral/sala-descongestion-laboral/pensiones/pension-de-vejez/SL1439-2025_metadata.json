@@ -1,0 +1,31 @@
+{
+  "radicado": "SL1439-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-23T15:56:01Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 37,
+  "leyes_o_articulos": [
+    "Decreto 1748 de 1995",
+    "Decreto 1833 de 2016",
+    "Decreto 2694 de 2000",
+    "Decreto 306 de 2004",
+    "Decreto 3061 de 2004",
+    "Decreto 3798 de 2003",
+    "Decreto 530 de 1994",
+    "Decreto 586 de 2017",
+    "Decreto 700 de 2013",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999",
+    "Ley 60 de 1993",
+    "Ley 715 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1439-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:18:13.624973+00:00"
+}

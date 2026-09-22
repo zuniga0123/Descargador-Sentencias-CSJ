@@ -1,0 +1,28 @@
+{
+  "radicado": "SL1380-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-21T22:15:50Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 48,
+  "leyes_o_articulos": [
+    "Decreto 30 de 1966",
+    "Decreto 3041 de 1966",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 1562 de 2012",
+    "Ley 16 de 1972",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL1380-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:19:27.098779+00:00"
+}

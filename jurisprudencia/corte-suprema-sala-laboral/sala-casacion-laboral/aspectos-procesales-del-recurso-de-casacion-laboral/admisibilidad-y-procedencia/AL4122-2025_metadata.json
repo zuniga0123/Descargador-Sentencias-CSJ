@@ -1,0 +1,22 @@
+{
+  "radicado": "AL4122-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2025,
+  "fecha_creacion": "2025-07-01T15:57:12Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 3,
+  "leyes_o_articulos": [
+    "Ley 1395 de 2010",
+    "Ley 2213 de 2022",
+    "Ley 270 de 1996",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2025/Dr. Luis Benedicto Herrera Diaz/Autos/AL4122-2025.pdf",
+  "fecha_descarga": "2026-09-22T15:03:03.499589+00:00"
+}

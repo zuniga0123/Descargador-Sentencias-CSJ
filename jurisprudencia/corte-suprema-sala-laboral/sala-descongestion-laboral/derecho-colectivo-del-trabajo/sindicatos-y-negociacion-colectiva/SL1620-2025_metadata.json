@@ -1,0 +1,20 @@
+{
+  "radicado": "SL1620-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-06-17T20:05:38Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Ley 2213 de 2022",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL1620-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:13:19.554338+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL294-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-02-20T20:17:13Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 1651 de 1977",
+    "Decreto 2013 de 2012",
+    "Decreto 2148 de 1992",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 3135 de 1968",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL294-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:49:12.440916+00:00"
+}

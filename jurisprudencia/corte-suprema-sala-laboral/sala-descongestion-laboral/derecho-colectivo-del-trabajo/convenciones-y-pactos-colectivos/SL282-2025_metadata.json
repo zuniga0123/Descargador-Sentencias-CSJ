@@ -1,0 +1,29 @@
+{
+  "radicado": "SL282-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-02-21T13:50:47Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 16 de 1972",
+    "Ley 33 de 1985",
+    "Ley 4 de 1966",
+    "Ley 4 de 1976",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 6 de 1945",
+    "Ley 74 de 1968",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Jorge Prada Sanchez/Sentencias/SL282-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:48:53.234633+00:00"
+}

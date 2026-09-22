@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1180-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-09T14:48:32Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Tipos de contrato y vinculación",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 2025 de 2012",
+    "Ley 1429 de 2010",
+    "Ley 1610 de 2013",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Jorge Prada Sanchez/Sentencias/SL1180-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:25:06.375945+00:00"
+}

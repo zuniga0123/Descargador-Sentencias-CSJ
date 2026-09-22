@@ -1,0 +1,23 @@
+{
+  "radicado": "AL1348-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-12T16:24:20Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 3041 de 1966",
+    "Ley 100 de 1993",
+    "Ley 1781 de 2016",
+    "Ley 270 de 1996",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Ana Maria Muñoz Segura/Autos/AL1348-2025.pdf",
+  "fecha_descarga": "2026-09-22T15:22:27.648269+00:00"
+}

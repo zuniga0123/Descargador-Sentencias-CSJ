@@ -3,7 +3,12 @@ __pycache__/
 .venv/
 venv/
 
-# Datos descargados: son el resultado de correr el programa, no código
-# fuente. Pesan mucho (PDFs + Markdown de miles de providencias) y no
-# deben vivir en git.
-/jurisprudencia/
+# Datos descargados: se suben a git por lotes para que no se pierdan al
+# reciclarse el contenedor efímero de la sesión (ver README). Se excluyen
+# los PDF/Word originales (no se descargan por defecto, ver --con-original)
+# y los archivos temporales de SQLite.
+/jurisprudencia/**/*.pdf
+/jurisprudencia/**/*.doc
+/jurisprudencia/**/*.docx
+/jurisprudencia/indice.sqlite-wal
+/jurisprudencia/indice.sqlite-shm

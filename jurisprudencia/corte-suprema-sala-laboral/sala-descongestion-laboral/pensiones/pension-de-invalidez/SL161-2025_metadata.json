@@ -1,0 +1,29 @@
+{
+  "radicado": "SL161-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-02-11T16:30:23Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 91,
+  "leyes_o_articulos": [
+    "Decreto 1507 de 2014",
+    "Decreto 1848 de 1968",
+    "Decreto 758 de 1990",
+    "Decreto 780 de 2016",
+    "Decreto 806 de 1998",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 527 de 1999",
+    "Ley 57 de 1887",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL161-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:52:18.982044+00:00"
+}

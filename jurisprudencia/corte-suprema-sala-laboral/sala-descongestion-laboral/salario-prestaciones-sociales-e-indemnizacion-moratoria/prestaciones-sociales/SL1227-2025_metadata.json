@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1227-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-12T14:23:10Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Ley 100 de 1993",
+    "Ley 16 de 1968",
+    "Ley 33 de 1985",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Ana Maria Muñoz Segura/Sentencias/SL1227-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:24:40.837628+00:00"
+}

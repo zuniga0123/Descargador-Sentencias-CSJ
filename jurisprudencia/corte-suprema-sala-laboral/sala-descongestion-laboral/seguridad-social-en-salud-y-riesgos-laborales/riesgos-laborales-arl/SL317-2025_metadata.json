@@ -1,0 +1,27 @@
+{
+  "radicado": "SL317-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-02-28T12:36:44Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 2025 de 2011",
+    "Decreto 468 de 1990",
+    "Ley 1233 de 2008",
+    "Ley 1429 de 2010",
+    "Ley 16 de 1969",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL317-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:46:57.858273+00:00"
+}

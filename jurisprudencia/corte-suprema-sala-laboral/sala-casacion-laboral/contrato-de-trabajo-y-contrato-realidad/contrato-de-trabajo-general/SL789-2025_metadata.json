@@ -1,0 +1,22 @@
+{
+  "radicado": "SL789-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-04-01T17:50:02Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Decreto 528 de 1964",
+    "Ley 361 de 1997",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2025/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL789-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:36:43.576787+00:00"
+}

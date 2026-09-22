@@ -1,0 +1,28 @@
+{
+  "radicado": "SL685-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-27T16:59:11Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 65,
+  "leyes_o_articulos": [
+    "Decreto 1054 de 1995",
+    "Decreto 1299 de 1994",
+    "Decreto 142 de 2006",
+    "Decreto 656 de 1994",
+    "Decreto 73 de 2006",
+    "Decreto 832 de 1996",
+    "Decreto 833 de 1996",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL685-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:38:46.315047+00:00"
+}

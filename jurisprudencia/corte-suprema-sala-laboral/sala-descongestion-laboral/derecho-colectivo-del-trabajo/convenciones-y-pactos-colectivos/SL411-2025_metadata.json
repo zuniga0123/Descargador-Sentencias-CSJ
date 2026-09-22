@@ -1,0 +1,26 @@
+{
+  "radicado": "SL411-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-04T16:17:29Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 042 de 2020",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 1955 de 2019",
+    "Ley 33 de 1985",
+    "Ley 4 de 1976",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Donald Jose Dix Ponnefz/Sentencias/SL411-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:45:42.689441+00:00"
+}

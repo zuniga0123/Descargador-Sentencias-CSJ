@@ -1,0 +1,27 @@
+{
+  "radicado": "SL414-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-02-27T21:34:54Z",
+  "magistrado_ponente": "Dra. Clara Ines Lopez Davila",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 1352 de 2013",
+    "Decreto 1507 de 2014",
+    "Decreto 2463 de 2001",
+    "Decreto 917 de 1999",
+    "Ley 1346 de 2009",
+    "Ley 16 de 1969",
+    "Ley 1618 de 2013",
+    "Ley 361 de 1997",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2025/Dra. Clara Ines Lopez Davila/Sentencias/SL414-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:47:01.394898+00:00"
+}

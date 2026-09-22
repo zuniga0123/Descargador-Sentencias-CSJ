@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1350-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-05-16T23:05:48Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 3771 de 2007",
+    "Decreto 528 de 1964",
+    "Decreto 832 de 1996",
+    "Ley 100 de 1993",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 527 de 1999",
+    "Ley 860 de 1993",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL1350-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:21:52.431394+00:00"
+}

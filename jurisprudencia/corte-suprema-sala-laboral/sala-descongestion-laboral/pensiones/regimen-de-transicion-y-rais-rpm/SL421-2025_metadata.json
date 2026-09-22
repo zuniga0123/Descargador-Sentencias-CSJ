@@ -1,0 +1,28 @@
+{
+  "radicado": "SL421-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-11T18:26:22Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 190 de 2003",
+    "Decreto 2013 de 2012",
+    "Decreto 2315 de 1965",
+    "Ley 100 de 1993",
+    "Ley 28 de 1943",
+    "Ley 527 de 1999",
+    "Ley 584 de 2009",
+    "Ley 790 de 2002",
+    "Ley 797 de 2003",
+    "Ley 812 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL421-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:43:52.577983+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "radicado": "SL746-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-04-04T13:55:05Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 528 de 1964",
+    "Ley 16 de 1969",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL746-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:34:47.432348+00:00"
+}

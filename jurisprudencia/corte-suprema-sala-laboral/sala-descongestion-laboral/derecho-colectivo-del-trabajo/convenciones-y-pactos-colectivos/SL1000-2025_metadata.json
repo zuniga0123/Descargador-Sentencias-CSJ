@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1000-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-04-25T17:11:03Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 1651 de 1977",
+    "Decreto 1653 de 1977",
+    "Decreto 2148 de 1992",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 2158 de 1948",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL1000-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:29:55.589100+00:00"
+}

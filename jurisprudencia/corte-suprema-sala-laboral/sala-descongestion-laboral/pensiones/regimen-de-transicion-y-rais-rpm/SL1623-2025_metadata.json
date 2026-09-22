@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1623-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-06-12T19:16:19Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 113,
+  "leyes_o_articulos": [
+    "Decreto 2177 de 1989",
+    "Ley 100 de 1993",
+    "Ley 1336 de 2009",
+    "Ley 1346 de 2009",
+    "Ley 1450 de 2011",
+    "Ley 48 de 1968",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003",
+    "Ley 82 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Omar Angel Mejia Amador/Sentencias/SL1623-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:13:44.083362+00:00"
+}

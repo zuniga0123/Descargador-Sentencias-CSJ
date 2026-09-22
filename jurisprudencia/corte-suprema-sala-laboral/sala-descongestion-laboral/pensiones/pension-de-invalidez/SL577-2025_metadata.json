@@ -1,0 +1,25 @@
+{
+  "radicado": "SL577-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-14T21:22:43Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 1507 de 2014",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999",
+    "Ley 762 de 2002",
+    "Ley 82 de 1988",
+    "Ley 860 de 2003",
+    "Ley 962 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Donald Jose Dix Ponnefz/Sentencias/SL577-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:42:01.025504+00:00"
+}

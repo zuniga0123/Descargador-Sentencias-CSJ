@@ -1,0 +1,24 @@
+{
+  "radicado": "SL553-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2025,
+  "fecha_creacion": "2025-03-18T15:38:00Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 3170 de 1964",
+    "Decreto 600 de 2008",
+    "Ley 100 de 1993",
+    "Ley 169 de 1896",
+    "Ley 1753 de 2015",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL553-2025.pdf",
+  "fecha_descarga": "2026-09-22T14:41:13.683349+00:00"
+}

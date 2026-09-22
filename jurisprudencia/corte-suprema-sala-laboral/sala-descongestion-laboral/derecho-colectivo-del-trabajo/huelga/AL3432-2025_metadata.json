@@ -1,0 +1,22 @@
+{
+  "radicado": "AL3432-2025",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2025,
+  "fecha_creacion": "2025-06-03T16:14:41Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Huelga",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 2164 de 1959",
+    "Ley 1563 de 2012",
+    "Ley 1781 de 2016",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2025/Dr. Jorge Prada Sanchez/Autos/AL3432-2025.pdf",
+  "fecha_descarga": "2026-09-22T15:05:12.261458+00:00"
+}
