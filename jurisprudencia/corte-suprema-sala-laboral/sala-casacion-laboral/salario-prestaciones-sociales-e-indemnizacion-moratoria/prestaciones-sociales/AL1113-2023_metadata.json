@@ -1,0 +1,21 @@
+{
+  "radicado": "AL1113-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2024,
+  "fecha_creacion": "2023-07-24T17:46:28Z",
+  "magistrado_ponente": "Dra. Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Decreto 2350 de 1944",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dra. Marjorie Zuñiga Romero/Autos/AL1113-2023.pdf",
+  "fecha_descarga": "2026-09-23T00:42:06.486440+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "radicado": "SL2656-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-09-30T22:00:39Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Decreto 1869 de 2017",
+    "Decreto 190 de 2003",
+    "Decreto 627 de 1974",
+    "Ley 10 de 1990",
+    "Ley 100 de 1993",
+    "Ley 19 de 1958",
+    "Ley 527 de 1999",
+    "Ley 617 de 2000",
+    "Ley 790 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Ana Maria Muñoz Segura/Sentencias/SL2656-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:06:18.822551+00:00"
+}

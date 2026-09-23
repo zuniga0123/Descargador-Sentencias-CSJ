@@ -1,0 +1,23 @@
+{
+  "radicado": "SL504-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-19T15:23:00Z",
+  "magistrado_ponente": "Dr.Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 63,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1740 de 2014",
+    "Ley 270 de 1996",
+    "Ley 527 de 1999",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Martin Emilio Beltran Quintero/Sentencias/SL504-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:02:25.448746+00:00"
+}

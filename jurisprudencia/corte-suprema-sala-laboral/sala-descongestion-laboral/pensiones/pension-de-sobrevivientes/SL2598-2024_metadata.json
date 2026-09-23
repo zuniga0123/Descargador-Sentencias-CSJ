@@ -1,0 +1,26 @@
+{
+  "radicado": "SL2598-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-09-25T16:13:32Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL2598-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:08:17.424433+00:00"
+}

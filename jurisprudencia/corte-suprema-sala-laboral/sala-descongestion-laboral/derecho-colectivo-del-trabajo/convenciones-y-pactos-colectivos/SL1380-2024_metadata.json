@@ -1,0 +1,28 @@
+{
+  "radicado": "SL1380-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-06-12T13:38:42Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 1615 de 2003",
+    "Decreto 1835 de 1994",
+    "Decreto 2123 de 1992",
+    "Decreto 2201 de 1987",
+    "Decreto 2387 de 2001",
+    "Decreto 2408 de 2014",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 527 de 1999",
+    "Ley 651 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL1380-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:42:22.178976+00:00"
+}

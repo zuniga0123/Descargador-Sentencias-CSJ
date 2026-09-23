@@ -1,0 +1,28 @@
+{
+  "radicado": "SL2963-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-15T13:58:52Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 3041 de 1966",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 16 de 1972",
+    "Ley 33 de 1985",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 74 de 1968",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Omar Angel Mejia Amador/Sentencias/SL2963-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:56:51.979463+00:00"
+}

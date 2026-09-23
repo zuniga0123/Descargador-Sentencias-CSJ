@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3523-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2025-02-06T00:28:28Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1281 de 1994",
+    "Decreto 1282 de 1994",
+    "Decreto 1835 de 1994",
+    "Decreto 2090 de 2003",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Ana Maria Muñoz Segura/Sentencias/SL3523-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:42:25.333515+00:00"
+}

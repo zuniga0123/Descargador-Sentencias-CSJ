@@ -1,0 +1,28 @@
+{
+  "radicado": "SL639-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-05-03T20:08:03Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 65,
+  "leyes_o_articulos": [
+    "Decreto 1406 de 1999",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1992",
+    "Ley 100 de 1993",
+    "Ley 1450 de 2011",
+    "Ley 1753 de 2015",
+    "Ley 270 de 1996",
+    "Ley 527 de 1999",
+    "Ley 528 de 1964",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL639-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:51:21.802145+00:00"
+}

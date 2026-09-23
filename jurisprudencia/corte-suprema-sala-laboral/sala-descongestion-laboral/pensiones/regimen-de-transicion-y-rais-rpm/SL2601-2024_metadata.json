@@ -1,0 +1,31 @@
+{
+  "radicado": "SL2601-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-09-25T21:53:39Z",
+  "magistrado_ponente": "Dra. Marirraquel Rodelo Navarro",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 60,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 1352 de 2013",
+    "Decreto 1507 de 2014",
+    "Ley 100 de 1993",
+    "Ley 1346 de 2009",
+    "Ley 1562 de 2012",
+    "Ley 1564 de 2012",
+    "Ley 23 de 1981",
+    "Ley 361 de 1997",
+    "Ley 527 de 1999",
+    "Ley 762 de 2002",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Marirraquel Rodelo Navarro/Sentencias/SL2601-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:07:56.994541+00:00"
+}

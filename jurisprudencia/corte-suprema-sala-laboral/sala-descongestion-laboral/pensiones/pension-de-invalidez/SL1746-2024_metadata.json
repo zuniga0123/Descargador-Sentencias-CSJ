@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1746-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-09-12T22:53:24Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 1507 de 2014",
+    "Ley 100 de 1993",
+    "Ley 1562 de 2012",
+    "Ley 1564 de 2012",
+    "Ley 16 de 1969",
+    "Ley 23 de 1981",
+    "Ley 361 de 1997",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL1746-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:11:23.718044+00:00"
+}

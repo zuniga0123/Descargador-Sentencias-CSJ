@@ -1,0 +1,26 @@
+{
+  "radicado": "SL2904-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-12T16:34:23Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1352 de 2013",
+    "Decreto 1507 de 2014",
+    "Decreto 2463 de 2001",
+    "Ley 019 de 2012",
+    "Ley 100 de 1993",
+    "Ley 1562 de 2012",
+    "Ley 527 de 1999",
+    "Ley 965 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Donald Jose Dix Ponnefz/Sentencias/SL2904-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:58:07.494690+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1214-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-07-09T19:38:02Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 44,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2351 de 1965",
+    "Ley 16 de 1969",
+    "Ley 2 de 1984",
+    "Ley 48 de 1968",
+    "Ley 527 de 1999",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1214-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:32:54.199570+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3490-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-12-19T16:20:24Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 163,
+  "leyes_o_articulos": [
+    "Decreto 1079 de 2015",
+    "Decreto 1373 de 1966",
+    "Decreto 2351 de 1965",
+    "Decreto 2762 de 2001",
+    "Ley 11 de 1984",
+    "Ley 336 de 1996",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL3490-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:43:11.553323+00:00"
+}

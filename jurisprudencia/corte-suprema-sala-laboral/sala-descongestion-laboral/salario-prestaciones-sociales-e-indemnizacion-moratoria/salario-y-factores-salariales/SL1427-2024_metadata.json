@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1427-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-06-13T20:50:50Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 116 de 1976",
+    "Decreto 1529 de 1990",
+    "Ley 222 de 1995",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Ana Maria Muñoz Segura/Sentencias/SL1427-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:41:07.639394+00:00"
+}

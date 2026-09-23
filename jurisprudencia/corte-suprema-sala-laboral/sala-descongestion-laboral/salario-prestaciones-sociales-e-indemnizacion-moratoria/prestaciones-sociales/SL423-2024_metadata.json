@@ -1,0 +1,27 @@
+{
+  "radicado": "SL423-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-13T17:00:39Z",
+  "magistrado_ponente": "Dra.Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 44,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 2013 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 797 de 1949",
+    "Ley 446 de 1998",
+    "Ley 527 de 1999",
+    "Ley 6 de 1945",
+    "Ley 797 de 1949",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra.Olga Yineth Merchan Calderon/Sentencias/SL423-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:04:05.511516+00:00"
+}

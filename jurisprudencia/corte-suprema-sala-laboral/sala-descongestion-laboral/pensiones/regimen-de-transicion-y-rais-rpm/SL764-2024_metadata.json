@@ -1,0 +1,29 @@
+{
+  "radicado": "SL764-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-11T21:13:10Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 101,
+  "leyes_o_articulos": [
+    "Decreto 1833 de 2016",
+    "Decreto 292 de 1994",
+    "Decreto 656 de 1994",
+    "Decreto 663 de 1993",
+    "Decreto 692 de 1994",
+    "Decreto 720 de 1994",
+    "Decreto 758 de 1990",
+    "LEY 100 DE 1993",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL764-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:56:20.239885+00:00"
+}

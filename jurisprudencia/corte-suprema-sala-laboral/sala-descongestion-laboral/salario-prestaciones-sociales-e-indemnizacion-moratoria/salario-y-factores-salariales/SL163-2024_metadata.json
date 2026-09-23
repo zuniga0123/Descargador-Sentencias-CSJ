@@ -1,0 +1,23 @@
+{
+  "radicado": "SL163-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-02-16T14:18:32Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 2027 de 1951",
+    "Decreto 2351 de 1965",
+    "Ley 48 de 1968",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Donald Jose Dix Ponnefz/Sentencias/SL163-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:10:05.142500+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "radicado": "SL2454-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-09-12T17:14:43Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 3771 de 2007",
+    "Ley 527 de 1999",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL2454-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:12:11.137233+00:00"
+}

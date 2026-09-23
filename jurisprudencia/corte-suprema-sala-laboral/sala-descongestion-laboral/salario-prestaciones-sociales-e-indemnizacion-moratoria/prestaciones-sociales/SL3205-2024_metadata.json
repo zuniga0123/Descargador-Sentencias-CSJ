@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3205-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-12-09T13:56:15Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Decreto 116 de 1976",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 527 de 1999",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL3205-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:48:52.256928+00:00"
+}

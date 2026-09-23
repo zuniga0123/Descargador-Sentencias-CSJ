@@ -1,0 +1,31 @@
+{
+  "radicado": "SL620-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-08T20:01:53Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 1650 de 1977",
+    "Decreto 2630 de 1983",
+    "Decreto 3041 de 1966",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 157 de 1887",
+    "Ley 1607 de 2012",
+    "Ley 33 de 1985",
+    "Ley 4 de 1966",
+    "Ley 527 de 1999",
+    "Ley 71 de 1988",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr.Gerardo Botero Zuluaga/Sentencias/SL620-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:57:39.424500+00:00"
+}

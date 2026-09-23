@@ -1,0 +1,31 @@
+{
+  "radicado": "SL3448-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-12-13T14:55:37Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 51,
+  "leyes_o_articulos": [
+    "Decreto 1469 de 1978",
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966",
+    "Decreto 433 de 1971",
+    "Decreto 528 de 1964",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 16 de 1972",
+    "Ley 2 de 1984",
+    "Ley 270 de 1996",
+    "Ley 527 de 1999",
+    "Ley 74 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL3448-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:44:51.368261+00:00"
+}

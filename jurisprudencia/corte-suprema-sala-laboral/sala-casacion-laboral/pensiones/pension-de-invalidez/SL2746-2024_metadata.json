@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2746-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-10-17T16:17:32Z",
+  "magistrado_ponente": "Dra. Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1993",
+    "Ley 361 de 1997",
+    "Ley 527 de 1999",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dra. Marjorie Zuñiga Romero/Sentencias/SL2746-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:03:08.116237+00:00"
+}

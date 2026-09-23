@@ -1,0 +1,32 @@
+{
+  "radicado": "SL3516-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2025-01-16T19:43:14Z",
+  "magistrado_ponente": "Dra. Clara Ines Lopez Davila",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1980",
+    "Decreto 1160 de 1989",
+    "Decreto 1295 de 1994",
+    "Decreto 1889 de 1994",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 113 de 1985",
+    "Ley 12 de 1975",
+    "Ley 16 de 1969",
+    "Ley 270 de 1996",
+    "Ley 33 de 1973",
+    "Ley 527 de 1999",
+    "Ley 71 de 1988",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dra. Clara Ines Lopez Davila/Sentencias/SL3516-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:42:30.767691+00:00"
+}

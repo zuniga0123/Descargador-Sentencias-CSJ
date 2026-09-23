@@ -1,0 +1,26 @@
+{
+  "radicado": "SL602-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-03T19:19:15Z",
+  "magistrado_ponente": "Dra.Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 3041 de 1966",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 113 de 1985",
+    "Ley 12 de 1975",
+    "Ley 153 de 1887",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dra.Marjorie Zuñiga Romero/Sentencias/SL602-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:59:32.367212+00:00"
+}

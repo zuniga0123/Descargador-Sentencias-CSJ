@@ -1,0 +1,29 @@
+{
+  "radicado": "SL3341-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-12-10T14:48:32Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 1083 de 2015",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 3135 de 1968",
+    "Decreto 4369 de 2006",
+    "Decreto 797 de 1949",
+    "Ley 019 de 2012",
+    "Ley 489 de 1998",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 909 de 2004"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL3341-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:48:01.757697+00:00"
+}

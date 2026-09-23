@@ -1,0 +1,29 @@
+{
+  "radicado": "SL1184-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-05-23T13:28:02Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1453 de 1998",
+    "Decreto 1582 de 1998",
+    "Decreto 2701 de 1988",
+    "Ley 100 de 1993",
+    "Ley 1421 de 2010",
+    "Ley 1427 de 2010",
+    "Ley 244 de 1995",
+    "Ley 344 de 1996",
+    "Ley 432 de 1998",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL1184-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:46:35.135886+00:00"
+}

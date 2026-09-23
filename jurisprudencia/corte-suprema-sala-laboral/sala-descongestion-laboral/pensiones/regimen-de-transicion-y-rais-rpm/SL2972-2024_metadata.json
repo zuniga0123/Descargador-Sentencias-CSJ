@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2972-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-14T14:58:33Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 171 de 1961",
+    "Ley 33 de 1985",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL2972-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:57:17.447316+00:00"
+}

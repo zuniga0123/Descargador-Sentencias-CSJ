@@ -1,0 +1,29 @@
+{
+  "radicado": "SL606-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-05T13:16:10Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 1437 de 2015",
+    "Decreto 1591 de 1989",
+    "Decreto 2283 de 2003",
+    "Decreto 255 de 2000",
+    "Decreto 2721 de 2008",
+    "Decreto 2842 de 2013",
+    "Ley 100 de 1993",
+    "Ley 2213 de 2022",
+    "Ley 527 de 1999",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr.Gerardo Botero Zuluaga/Sentencias/SL606-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:58:56.331662+00:00"
+}

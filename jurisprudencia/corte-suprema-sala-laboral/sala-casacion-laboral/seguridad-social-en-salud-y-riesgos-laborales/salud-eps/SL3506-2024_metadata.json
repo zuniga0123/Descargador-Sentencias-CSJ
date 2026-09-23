@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3506-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-12-19T18:01:00Z",
+  "magistrado_ponente": "Dra. Clara Ines Lopez Davila",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1507 de 2014",
+    "Ley 16 de 1969",
+    "Ley 1618 de 2013",
+    "Ley 361 de 1997",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dra. Clara Ines Lopez Davila/Sentencias/SL3506-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:43:05.739518+00:00"
+}

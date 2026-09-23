@@ -1,0 +1,28 @@
+{
+  "radicado": "SL1278-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-05-29T21:42:35Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 2101 de 1987",
+    "Decreto 2201 de 1987",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 33 de 1985",
+    "Ley 4 de 1987",
+    "Ley 527 de 1999",
+    "Ley 6 de 1945",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL1278-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:45:01.857819+00:00"
+}

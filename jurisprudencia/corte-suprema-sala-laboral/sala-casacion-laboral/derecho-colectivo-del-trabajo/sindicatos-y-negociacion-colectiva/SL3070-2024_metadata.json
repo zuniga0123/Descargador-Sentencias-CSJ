@@ -1,0 +1,27 @@
+{
+  "radicado": "SL3070-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-20T16:52:21Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 78,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 616 de 1954",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 1562 de 2012",
+    "Ley 1920 de 2018",
+    "Ley 356 de 1994",
+    "Ley 527 de 1999",
+    "Ley 82 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL3070-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:54:14.878668+00:00"
+}

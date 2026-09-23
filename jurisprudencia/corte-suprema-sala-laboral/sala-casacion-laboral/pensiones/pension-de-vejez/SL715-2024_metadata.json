@@ -1,0 +1,33 @@
+{
+  "radicado": "SL715-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-06-23T21:41:33Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 123,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 142 de 2006",
+    "Decreto 1474 de 1997",
+    "Decreto 1513 de 1998",
+    "Decreto 1748 de 1995",
+    "Decreto 1889 de 1994",
+    "Decreto 2555 de 2010",
+    "Decreto 3798 de 2003",
+    "Decreto 692 de 1994",
+    "Decreto 719 de 1994",
+    "Decreto 758 de 1990",
+    "Decreto 832 de 1996",
+    "LEY 100 DE 1993",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Fernando Castillo Cadena/Sentencias/SL715-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:39:11.215051+00:00"
+}

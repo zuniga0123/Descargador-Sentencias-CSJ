@@ -1,0 +1,21 @@
+{
+  "radicado": "SL471-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-22T13:26:17Z",
+  "magistrado_ponente": "Dra.Clara Ines Lopez Davila",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 575 de 2013",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dra.Clara Ines Lopez Davila/Sentencias/SL471-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:00:49.641162+00:00"
+}

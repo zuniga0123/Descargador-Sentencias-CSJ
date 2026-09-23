@@ -1,0 +1,28 @@
+{
+  "radicado": "SL601-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-09T15:48:41Z",
+  "magistrado_ponente": "Dr.Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 45,
+  "leyes_o_articulos": [
+    "Decreto 656 de 1994",
+    "Decreto 663 de 1993",
+    "Decreto 720 de 1994",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 1562 de 2012",
+    "Ley 1564 de 2012",
+    "Ley 270 de 1996",
+    "Ley 446 de 1998",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr.Ivan Mauricio Lenis Gomez/Sentencias/SL601-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:57:03.796114+00:00"
+}

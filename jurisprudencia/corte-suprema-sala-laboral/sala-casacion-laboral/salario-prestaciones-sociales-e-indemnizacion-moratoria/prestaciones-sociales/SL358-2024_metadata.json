@@ -1,0 +1,22 @@
+{
+  "radicado": "SL358-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-22T22:28:27Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Ley 50 de 1960",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr.Gerardo Botero Zuluaga/Sentencias/SL358-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:54:15.299614+00:00"
+}

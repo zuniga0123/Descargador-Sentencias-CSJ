@@ -1,0 +1,29 @@
+{
+  "radicado": "SL1864-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-07-22T22:43:51Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1824 de 1965",
+    "Decreto 2665 de 1989",
+    "Decreto 2665 de 1998",
+    "Decreto 3041 de 1966",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 527 de 1999",
+    "Ley 6 de 1945",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL1864-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:28:37.553778+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "radicado": "SL335-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-07T17:25:22Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 52,
+  "leyes_o_articulos": [
+    "Decreto 19 de 2012",
+    "Decreto 2463 de 2001",
+    "Decreto 528 de 1965",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 1562 de 2012",
+    "Ley 527 de 1999",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL335-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:04:44.801649+00:00"
+}

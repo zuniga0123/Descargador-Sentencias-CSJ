@@ -1,0 +1,32 @@
+{
+  "radicado": "SL303-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-05T14:53:50Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 1068 de 2015",
+    "Decreto 1082 de 2015",
+    "Decreto 1083 de 2015",
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 1150 de 2007",
+    "Ley 1474 de 2011",
+    "Ley 16 de 1969",
+    "Ley 527 de 1999",
+    "Ley 797 de 1949",
+    "Ley 80 de 1993",
+    "Ley 995 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL303-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:04:54.047049+00:00"
+}

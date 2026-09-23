@@ -1,0 +1,24 @@
+{
+  "radicado": "SL795-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-16T14:22:24Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 8,
+  "leyes_o_articulos": [
+    "Decreto 1557 de 1989",
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL795-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:55:43.578156+00:00"
+}

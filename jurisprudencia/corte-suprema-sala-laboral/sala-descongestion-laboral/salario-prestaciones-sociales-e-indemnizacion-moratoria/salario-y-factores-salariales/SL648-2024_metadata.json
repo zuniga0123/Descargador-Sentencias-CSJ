@@ -1,0 +1,25 @@
+{
+  "radicado": "SL648-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-08T21:17:25Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 85,
+  "leyes_o_articulos": [
+    "Decreto 3803 de 2003",
+    "LEY 100 DE 1993",
+    "Ley 50 de 1990",
+    "Ley 52 de 1962",
+    "Ley 527 de 1999",
+    "Ley 54 de 1992",
+    "Ley 90 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL648-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:57:28.687384+00:00"
+}

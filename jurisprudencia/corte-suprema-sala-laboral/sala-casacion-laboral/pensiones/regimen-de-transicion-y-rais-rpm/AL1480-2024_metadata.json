@@ -1,0 +1,21 @@
+{
+  "radicado": "AL1480-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-22T21:52:20Z",
+  "magistrado_ponente": "Dra.Clara Ines Lopez Davila",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Decreto 528 de 1964",
+    "Ley 2213 de 2022",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dra.Clara Ines Lopez Davila/Autos/AL1480-2024.pdf",
+  "fecha_descarga": "2026-09-23T00:28:49.255119+00:00"
+}

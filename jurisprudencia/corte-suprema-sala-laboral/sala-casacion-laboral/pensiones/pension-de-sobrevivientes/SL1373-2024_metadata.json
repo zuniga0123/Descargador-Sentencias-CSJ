@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1373-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-06-12T16:22:03Z",
+  "magistrado_ponente": "Dra. Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dra. Marjorie Zuñiga Romero/Sentencias/SL1373-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:42:13.144626+00:00"
+}

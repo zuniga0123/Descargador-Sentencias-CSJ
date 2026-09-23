@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2147-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-08-21T20:43:32Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 807 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1118 de 2006",
+    "Ley 1149 de 2007",
+    "Ley 344 de 1996",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL2147-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:19:06.182619+00:00"
+}

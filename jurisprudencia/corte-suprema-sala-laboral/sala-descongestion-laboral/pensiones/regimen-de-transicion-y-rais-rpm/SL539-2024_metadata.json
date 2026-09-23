@@ -1,0 +1,27 @@
+{
+  "radicado": "SL539-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-21T16:59:42Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 2527 de 2000",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 527 de 1999",
+    "Ley 549 de 1999",
+    "Ley 797 de 2003",
+    "Ley 812 de 2003",
+    "Ley 91 de 1989"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Jorge Prada Sanchez/Sentencias/SL539-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:01:05.912520+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2504-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-09-20T13:47:30Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 86,
+  "leyes_o_articulos": [
+    "Decreto 1748 de 1995",
+    "Decreto 4712 de 2018",
+    "Ley 100 de 1993",
+    "Ley 1299 de 1994",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL2504-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:09:45.752961+00:00"
+}

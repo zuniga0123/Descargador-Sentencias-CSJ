@@ -1,0 +1,21 @@
+{
+  "radicado": "SL3455-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-12-16T19:17:05Z",
+  "magistrado_ponente": "Dra. Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 95,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Ley 2088 de 2021",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dra. Marjorie Zuñiga Romero/Sentencias/SL3455-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:44:21.297418+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "radicado": "SL642-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-09-30T22:22:50Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 59,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Gerardo Botero Zuluaga/Sentencias/SL642-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:06:13.710267+00:00"
+}

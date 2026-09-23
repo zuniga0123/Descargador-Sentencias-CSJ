@@ -1,0 +1,22 @@
+{
+  "radicado": "SL929-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-30T20:06:20Z",
+  "magistrado_ponente": "Dra. Marirraquel Rodelo Navarro",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 34,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Ley 16 de 1969",
+    "Ley 4107 de 2011",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Marirraquel Rodelo Navarro/Sentencias/SL929-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:52:13.644789+00:00"
+}

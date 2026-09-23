@@ -1,0 +1,22 @@
+{
+  "radicado": "SL2231-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-08-22T14:36:21Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 1082 de 2015",
+    "Ley 1955 de 2019",
+    "Ley 4 de 1976",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Jorge Prada Sanchez/Sentencias/SL2231-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:18:43.506456+00:00"
+}

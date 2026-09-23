@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2882-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-07T20:01:54Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1887 de 1994",
+    "Ley 100 de 1993",
+    "Ley 446 de 1998",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Olga Yineth Merchan Calderon/Sentencias/SL2882-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:58:57.218939+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "radicado": "SL603-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-03T19:27:18Z",
+  "magistrado_ponente": "Dra.Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Ley 1581 de 2012",
+    "Ley 361 de 1997",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dra.Marjorie Zuñiga Romero/Sentencias/SL603-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:59:26.014987+00:00"
+}

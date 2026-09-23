@@ -1,0 +1,29 @@
+{
+  "radicado": "SL3195-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-28T20:33:31Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1848 de 1969",
+    "Decreto 2988 de 2006",
+    "Decreto 3135 de 1968",
+    "Decreto 3148 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 1045 de 1978",
+    "Ley 16 de 1969",
+    "Ley 3135 de 1968",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL3195-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:51:01.581164+00:00"
+}

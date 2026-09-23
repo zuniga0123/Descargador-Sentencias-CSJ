@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2633-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-10-10T15:18:27Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 41,
+  "leyes_o_articulos": [
+    "Decreto 1515 de 1998",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL2633-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:04:03.173754+00:00"
+}

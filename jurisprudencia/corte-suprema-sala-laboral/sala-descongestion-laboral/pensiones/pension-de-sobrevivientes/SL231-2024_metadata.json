@@ -1,0 +1,25 @@
+{
+  "radicado": "SL231-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-02-27T14:55:10Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 48,
+  "leyes_o_articulos": [
+    "Decreto 1889 de 1994",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 1753 de 2015",
+    "Ley 527 de 1999",
+    "Ley 54 de 1990",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL231-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:07:31.472074+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "radicado": "SL786-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-12T19:58:45Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Ley 527 de 1999",
+    "Ley 790 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra.Ana Maria Muñoz Segura/Sentencias/SL786-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:56:02.001043+00:00"
+}

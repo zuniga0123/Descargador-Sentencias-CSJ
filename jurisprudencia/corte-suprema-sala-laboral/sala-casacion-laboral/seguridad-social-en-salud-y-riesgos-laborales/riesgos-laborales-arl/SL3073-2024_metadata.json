@@ -1,0 +1,22 @@
+{
+  "radicado": "SL3073-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-20T17:13:31Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 4369 de 2006",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL3073-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:54:09.075188+00:00"
+}

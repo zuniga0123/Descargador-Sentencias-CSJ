@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3020-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-14T16:59:39Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Despido sin justa causa",
+  "puntaje_clasificacion": 50,
+  "leyes_o_articulos": [
+    "Decreto 116 de 1976",
+    "Decreto 2127 de 1945",
+    "Ley 2213 de 2022",
+    "Ley 527 de 1999",
+    "Ley 712 de 2011"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL3020-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:57:12.173363+00:00"
+}

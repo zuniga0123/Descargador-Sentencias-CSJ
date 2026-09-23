@@ -1,0 +1,31 @@
+{
+  "radicado": "SL597-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-02T18:34:33Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Decreto 1591 de 1989",
+    "Decreto 2340 de 1946",
+    "Decreto 3041 de 1966",
+    "Ley 100 de 1993",
+    "Ley 206 de 1938",
+    "Ley 33 de 1985",
+    "Ley 527 de 1999",
+    "Ley 53 de 1945",
+    "Ley 63 de 1940",
+    "Ley 64 de 1946",
+    "Ley 71 de 1988",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL597-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:59:44.657477+00:00"
+}

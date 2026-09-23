@@ -1,0 +1,31 @@
+{
+  "radicado": "SL448-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-18T14:17:53Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 57,
+  "leyes_o_articulos": [
+    "Decreto 1748 de 1995",
+    "Decreto 1848 de 1969",
+    "Decreto 2709 de 1994",
+    "Decreto 4937 de 2009",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1285 de 2009",
+    "Ley 169 de 1896",
+    "Ley 270 de 1996",
+    "Ley 33 de 1985",
+    "Ley 527 de 1999",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL448-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:03:05.492204+00:00"
+}

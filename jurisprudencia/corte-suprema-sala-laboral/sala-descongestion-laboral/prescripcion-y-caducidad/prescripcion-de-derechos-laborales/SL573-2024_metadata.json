@@ -1,0 +1,22 @@
+{
+  "radicado": "SL573-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-22T20:48:13Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 56,
+  "leyes_o_articulos": [
+    "Decreto 2463 de 2001",
+    "Ley 100 de 1993",
+    "Ley 2 de 1984",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL573-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:00:16.309982+00:00"
+}

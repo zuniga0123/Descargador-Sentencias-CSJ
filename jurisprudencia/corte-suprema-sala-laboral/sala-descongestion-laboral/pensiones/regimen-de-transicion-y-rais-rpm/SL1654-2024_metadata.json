@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1654-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-07-02T21:18:33Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 663 de 1993",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1151 de 2007",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1654-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:35:05.007933+00:00"
+}

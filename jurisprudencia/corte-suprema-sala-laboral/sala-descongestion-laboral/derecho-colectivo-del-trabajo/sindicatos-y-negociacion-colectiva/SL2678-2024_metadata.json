@@ -1,0 +1,28 @@
+{
+  "radicado": "SL2678-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-10-01T21:18:52Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 64,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 1373 de 1966",
+    "Decreto 1469 de 1978",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Ley 39 de 1985",
+    "Ley 527 de 1999",
+    "Ley 550 de 1999",
+    "Ley 789 de 2002",
+    "Ley 909 de 2004"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Jorge Prada Sanchez/Sentencias/SL2678-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:05:45.579779+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3111-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-20T16:21:25Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1889 de 1994",
+    "Decreto 2463 de 2001",
+    "Decreto 3170 de 1994",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Jorge Prada Sanchez/Sentencias/SL3111-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:54:28.885870+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1456-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-06-17T14:30:54Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 1281 de 2002",
+    "Decreto 4747 de 2007",
+    "Ley 1122 de 2007",
+    "Ley 1437 de 2011",
+    "Ley 1438 de 2011",
+    "Ley 446 de 1998",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Ana Maria Muñoz Segura/Sentencias/SL1456-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:40:34.265942+00:00"
+}

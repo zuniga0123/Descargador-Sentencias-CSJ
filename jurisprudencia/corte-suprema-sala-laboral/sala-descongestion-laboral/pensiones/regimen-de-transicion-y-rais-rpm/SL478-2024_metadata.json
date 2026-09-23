@@ -1,0 +1,29 @@
+{
+  "radicado": "SL478-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-19T13:33:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 64,
+  "leyes_o_articulos": [
+    "Decreto 1406 de 1999",
+    "Decreto 1465 de 1982",
+    "Decreto 4936 de 2011",
+    "Decreto 656 de 1994",
+    "Decreto 692 de 1994",
+    "Decreto 758 de 1990",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1564 de 2012",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Donald Jose Dix Ponnefz/Sentencias/SL478-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:02:34.748589+00:00"
+}

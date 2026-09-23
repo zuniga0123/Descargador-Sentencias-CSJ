@@ -1,0 +1,33 @@
+{
+  "radicado": "SL2044-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-08-06T20:30:37Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1833 de 2013",
+    "Decreto 1833 de 2016",
+    "Decreto 2153 de 1999",
+    "Decreto 254 de 2000",
+    "Decreto 2677 de 1971",
+    "Decreto 807 de 1994",
+    "Decreto 951 de 2002",
+    "Ley 100 de 1993",
+    "Ley 1118 de 2006",
+    "Ley 153 de 1887",
+    "Ley 27 de 1976",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL2044-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:23:25.913916+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2991-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-15T15:01:02Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Ley 26 de 1976",
+    "Ley 27 de 1976",
+    "Ley 32 de 1985",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Olga Yineth Merchan Calderon/Sentencias/SL2991-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:56:37.398850+00:00"
+}

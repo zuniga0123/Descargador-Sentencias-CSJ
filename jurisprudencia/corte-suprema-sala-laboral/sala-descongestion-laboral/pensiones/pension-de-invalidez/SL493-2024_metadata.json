@@ -1,0 +1,23 @@
+{
+  "radicado": "SL493-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-20T19:27:41Z",
+  "magistrado_ponente": "Dra.Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 1642 de 1995",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra.Olga Yineth Merchan Calderon/Sentencias/SL493-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:01:40.825974+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1632-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-07-03T14:35:13Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 205,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 11 de 1984",
+    "Ley 1563 de 2012",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 712 de 2001",
+    "Ley 712 de 2012"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL1632-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:34:58.503536+00:00"
+}

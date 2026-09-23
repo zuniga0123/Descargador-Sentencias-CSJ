@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2988-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-15T15:03:55Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 80,
+  "leyes_o_articulos": [
+    "Decreto 1771 de 1994",
+    "Decreto 614 de 1984",
+    "Ley 100 de 1993",
+    "Ley 1562 de 2012",
+    "Ley 52 de 1993",
+    "Ley 527 de 1999",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Olga Yineth Merchan Calderon/Sentencias/SL2988-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:56:30.328584+00:00"
+}

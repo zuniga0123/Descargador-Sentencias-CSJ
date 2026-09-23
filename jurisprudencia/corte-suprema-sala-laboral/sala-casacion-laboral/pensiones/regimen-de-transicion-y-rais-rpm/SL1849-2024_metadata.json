@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1849-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-07-23T21:03:27Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 51,
+  "leyes_o_articulos": [
+    "Decreto 2665 de 1988",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Omar Angel Mejia Amador/Sentencias/SL1849-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:27:54.669373+00:00"
+}

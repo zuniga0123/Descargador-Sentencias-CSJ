@@ -1,0 +1,32 @@
+{
+  "radicado": "SL2985-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-18T16:13:59Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 44,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Decreto 1295 de 1994",
+    "Decreto 2104 de 1983",
+    "Decreto 2891 de 2013",
+    "Decreto 2981 de 2013",
+    "Decreto 4741 de 2001",
+    "Decreto 614 de 1984",
+    "Decreto 838 de 2005",
+    "Ley 1562 de 2012",
+    "Ley 361 de 1997",
+    "Ley 388 de 1997",
+    "Ley 52 de 1993",
+    "Ley 527 de 1999",
+    "Ley 9 de 1979"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL2985-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:55:53.616503+00:00"
+}

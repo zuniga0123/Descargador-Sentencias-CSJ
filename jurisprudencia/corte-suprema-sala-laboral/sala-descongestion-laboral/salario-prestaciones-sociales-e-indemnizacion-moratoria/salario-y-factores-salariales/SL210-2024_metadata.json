@@ -1,0 +1,24 @@
+{
+  "radicado": "SL210-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-02-21T20:39:45Z",
+  "magistrado_ponente": "Dra.Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 62,
+  "leyes_o_articulos": [
+    "Decreto 2463 de 2001",
+    "Ley 1618 de 2013",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 54 de 1992"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra.Olga Yineth Merchan Calderon/Sentencias/SL210-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:09:14.854304+00:00"
+}

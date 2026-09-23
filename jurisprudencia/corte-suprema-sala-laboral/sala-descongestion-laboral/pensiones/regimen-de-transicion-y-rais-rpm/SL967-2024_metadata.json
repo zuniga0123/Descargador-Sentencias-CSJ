@@ -1,0 +1,27 @@
+{
+  "radicado": "SL967-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-05-07T13:55:27Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 53,
+  "leyes_o_articulos": [
+    "Decreto 2071 de 2015",
+    "Decreto 720 de 1994",
+    "Decreto 795 de 2003",
+    "Ley 100 de 1993",
+    "Ley 1328 de 2009",
+    "Ley 1748 de 2014",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 795 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL967-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:50:55.307497+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "radicado": "SL618-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-08T19:59:21Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 2245 de 2012",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr.Gerardo Botero Zuluaga/Sentencias/SL618-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:57:41.295982+00:00"
+}

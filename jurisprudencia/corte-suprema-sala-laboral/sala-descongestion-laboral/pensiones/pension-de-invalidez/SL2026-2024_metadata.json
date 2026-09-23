@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2026-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-08-05T15:23:12Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 1672 de 1973",
+    "Decreto 3170 de 1964",
+    "Ley 10 de 1972",
+    "Ley 100 de 1993",
+    "Ley 1753 de 2015",
+    "Ley 527 de 1999",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL2026-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:24:34.466092+00:00"
+}

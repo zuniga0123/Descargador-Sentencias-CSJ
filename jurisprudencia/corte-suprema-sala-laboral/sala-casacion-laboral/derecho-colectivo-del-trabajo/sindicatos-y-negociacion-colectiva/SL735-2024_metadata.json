@@ -1,0 +1,21 @@
+{
+  "radicado": "SL735-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-06-23T22:53:18Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 92,
+  "leyes_o_articulos": [
+    "Decreto 2264 de 2013",
+    "Ley 527 de 1999",
+    "Ley 59 de 1983"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Omar Angel Mejia Amador/Sentencias/SL735-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:38:50.521732+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "radicado": "AL1282-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-22T16:45:46Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1285 de 2009",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr.Fernando Castillo Cadena/Autos/AL1282-2024.pdf",
+  "fecha_descarga": "2026-09-23T00:29:20.716116+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "radicado": "SL1005-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-05-09T19:38:27Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 1352 de 2013",
+    "Decreto 1507 de 2014",
+    "Decreto 1507 de 2017",
+    "Decreto 758 de 1990",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 1562 de 2012",
+    "Ley 19 de 2012",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Olga Yineth Merchan Calderon/Sentencias/SL1005-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:50:18.857873+00:00"
+}

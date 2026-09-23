@@ -1,0 +1,22 @@
+{
+  "radicado": "SL2340-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-08-28T19:42:55Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 117,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1393 de 2010",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL2340-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:16:09.250114+00:00"
+}

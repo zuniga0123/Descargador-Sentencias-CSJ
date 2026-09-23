@@ -1,0 +1,21 @@
+{
+  "radicado": "SL726-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-10T23:02:56Z",
+  "magistrado_ponente": "Dr.Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 4 de 1976",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr.Luis Benedicto Herrera Diaz/Sentencias/SL726-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:56:38.179699+00:00"
+}

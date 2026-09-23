@@ -1,0 +1,25 @@
+{
+  "radicado": "SL246-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-02-23T18:39:23Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 43,
+  "leyes_o_articulos": [
+    "Decreto 2012 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 254 de 2000",
+    "Decreto 797 de 1949",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra.Ana Maria Muñoz Segura/Sentencias/SL246-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:08:08.171316+00:00"
+}

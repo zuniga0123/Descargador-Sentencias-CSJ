@@ -1,0 +1,29 @@
+{
+  "radicado": "SL2380-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-09-12T17:01:54Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1474 de 1997",
+    "Decreto 1748 de 1995",
+    "Decreto 1887 de 1994",
+    "Decreto 3041 de 1966",
+    "Decreto 3798 de 2003",
+    "Decreto 758 de 1990",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL2380-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:12:14.732555+00:00"
+}

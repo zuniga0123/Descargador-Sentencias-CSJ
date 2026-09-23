@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3107-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-21T13:59:19Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 356 de 1994",
+    "Ley 527 de 1999",
+    "Ley 746 de 2002",
+    "Ley 84 de 1989"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Ana Maria Muñoz Segura/Sentencias/SL3107-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:53:54.416400+00:00"
+}

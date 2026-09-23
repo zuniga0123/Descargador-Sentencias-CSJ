@@ -1,0 +1,22 @@
+{
+  "radicado": "SL060-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-02-08T16:37:45Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1443 de 2014",
+    "Ley 527 de 1999",
+    "Ley 797 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL060-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:10:42.387154+00:00"
+}

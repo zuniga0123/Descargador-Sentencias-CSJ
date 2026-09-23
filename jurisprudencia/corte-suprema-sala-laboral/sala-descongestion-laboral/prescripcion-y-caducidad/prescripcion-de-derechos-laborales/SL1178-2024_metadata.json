@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1178-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-05-23T13:23:30Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1947",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 1045 de 1978",
+    "Ley 153 de 1887",
+    "Ley 254 de 2000",
+    "Ley 3135 de 1968",
+    "Ley 489 de 1998",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL1178-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:46:38.727563+00:00"
+}

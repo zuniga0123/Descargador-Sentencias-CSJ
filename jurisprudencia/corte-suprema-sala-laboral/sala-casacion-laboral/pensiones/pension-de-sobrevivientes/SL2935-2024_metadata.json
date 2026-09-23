@@ -1,0 +1,22 @@
+{
+  "radicado": "SL2935-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-08T13:50:00Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 1260 de 1970",
+    "Decreto 999 de 1988",
+    "Ley 33 de 1973",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL2935-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:58:46.532426+00:00"
+}

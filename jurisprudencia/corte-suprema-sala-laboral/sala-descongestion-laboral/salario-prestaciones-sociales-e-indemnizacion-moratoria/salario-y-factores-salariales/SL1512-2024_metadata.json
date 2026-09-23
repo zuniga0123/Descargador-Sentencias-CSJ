@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1512-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-06-27T14:30:32Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 50,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1295 de 1995",
+    "Decreto 1299 de 1994",
+    "Decreto 1650 de 1977",
+    "Decreto 1748 de 1995",
+    "Decreto 3041 de 1966",
+    "Ley 100 de 1993",
+    "Ley 1299 de 1994",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL1512-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:36:16.766854+00:00"
+}

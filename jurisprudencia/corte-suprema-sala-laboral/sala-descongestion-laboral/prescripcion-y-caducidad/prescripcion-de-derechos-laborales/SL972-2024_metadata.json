@@ -1,0 +1,24 @@
+{
+  "radicado": "SL972-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-05-07T14:11:51Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 67,
+  "leyes_o_articulos": [
+    "Decreto 564 de 2020",
+    "Decreto 806 de 2020",
+    "Ley 1116 de 2006",
+    "Ley 153 de 1987",
+    "Ley 222 de 1995",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL972-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:50:51.680003+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL318-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-01T21:47:17Z",
+  "magistrado_ponente": "Dr.Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Decreto 2651 de 1991",
+    "Decreto 2762 de 2001",
+    "Ley 1010 de 2006",
+    "Ley 1562 de 2012",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Martin Emilio Beltran Quintero/Sentencias/SL318-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:06:11.433032+00:00"
+}

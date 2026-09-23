@@ -1,0 +1,30 @@
+{
+  "radicado": "SL1931-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-07-26T14:18:59Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 13 de 2001",
+    "Decreto 1474 de 1997",
+    "Decreto 1513 de 1998",
+    "Decreto 1748 de 1995",
+    "Decreto 3798 de 2003",
+    "Decreto 510 de 2003",
+    "Decreto 510 de 2013",
+    "Decreto 656 de 1194",
+    "Decreto 656 de 1994",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL1931-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:26:53.268703+00:00"
+}

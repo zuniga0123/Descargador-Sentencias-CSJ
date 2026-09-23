@@ -1,0 +1,21 @@
+{
+  "radicado": "AL3879-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2024,
+  "fecha_creacion": "2024-07-23T14:29:23Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 196 de 1971",
+    "Ley 527 de 1999",
+    "Ley 69 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Omar Angel Mejia Amador/Autos/AL3879-2024.pdf",
+  "fecha_descarga": "2026-09-23T00:04:32.097749+00:00"
+}

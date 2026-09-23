@@ -1,0 +1,30 @@
+{
+  "radicado": "SL528-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-21T15:02:46Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 49,
+  "leyes_o_articulos": [
+    "Decreto 3553 de 2008",
+    "Decreto 4588 de 2006",
+    "Decreto 468 de 1990",
+    "Decreto 510 de 2003",
+    "Ley 100 de 1993",
+    "Ley 1233 de 2008",
+    "Ley 15 de 1959",
+    "Ley 344 de 1996",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL528-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:01:33.937031+00:00"
+}

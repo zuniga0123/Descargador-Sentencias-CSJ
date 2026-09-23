@@ -1,0 +1,22 @@
+{
+  "radicado": "AL738-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2024,
+  "fecha_creacion": "2024-02-29T16:31:19Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 1748 de 1995",
+    "Decreto 3798 de 2003",
+    "Decreto 833 de 2016",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr.Fernando Castillo Cadena/Autos/AL738-2024.pdf",
+  "fecha_descarga": "2026-09-23T00:37:02.376525+00:00"
+}

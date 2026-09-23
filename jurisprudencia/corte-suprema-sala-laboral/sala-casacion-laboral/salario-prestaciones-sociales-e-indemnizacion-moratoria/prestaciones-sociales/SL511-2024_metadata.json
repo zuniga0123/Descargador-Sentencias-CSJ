@@ -1,0 +1,28 @@
+{
+  "radicado": "SL511-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-21T17:04:37Z",
+  "magistrado_ponente": "Dr.Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 84,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1160 de 1947",
+    "Decreto 1252 de 2000",
+    "Decreto 2567 de 1946",
+    "Decreto 432 de 1998",
+    "Ley 153 de 1887",
+    "Ley 344 de 1996",
+    "Ley 432 de 1998",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr.Omar Angel Mejia Amador/Sentencias/SL511-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:01:02.484246+00:00"
+}

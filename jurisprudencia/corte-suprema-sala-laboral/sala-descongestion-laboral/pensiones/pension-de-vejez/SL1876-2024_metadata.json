@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1876-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-07-22T15:34:46Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 656 de 1994",
+    "Ley 100 de 1993",
+    "Ley 489 de 1998",
+    "Ley 527 de 1999",
+    "Ley 700 de 2001",
+    "Ley 797 de 2003",
+    "Ley 860 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL1876-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:28:48.510073+00:00"
+}

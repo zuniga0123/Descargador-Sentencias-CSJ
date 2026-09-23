@@ -1,0 +1,27 @@
+{
+  "radicado": "SL712-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-10T18:41:06Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 2463 de 2001",
+    "Decreto 917 de 1997",
+    "Ley 1507 de 2014",
+    "Ley 1618 de 2013",
+    "Ley 361 de 1997",
+    "Ley 527 de 1999",
+    "Ley 6 de 1969",
+    "Ley 762 de 2002",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL712-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:56:53.065712+00:00"
+}

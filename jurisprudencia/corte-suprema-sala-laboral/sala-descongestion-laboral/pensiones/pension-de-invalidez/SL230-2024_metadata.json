@@ -1,0 +1,24 @@
+{
+  "radicado": "SL230-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-02-27T14:56:36Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 1507 de 2014",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 23 de 1981",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL230-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:07:29.346272+00:00"
+}

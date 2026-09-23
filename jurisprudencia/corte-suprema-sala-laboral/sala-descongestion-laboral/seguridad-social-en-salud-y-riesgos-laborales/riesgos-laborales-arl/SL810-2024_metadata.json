@@ -1,0 +1,25 @@
+{
+  "radicado": "SL810-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-18T22:52:23Z",
+  "magistrado_ponente": "Dra.Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 49,
+  "leyes_o_articulos": [
+    "Decreto 173 de 2001",
+    "Ley 100 de 1993",
+    "Ley 100 de 1999",
+    "Ley 1562 de 2012",
+    "Ley 527 de 1999",
+    "Ley 776 de 2002",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra.Olga Yineth Merchan Calderon/Sentencias/SL810-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:54:43.377715+00:00"
+}

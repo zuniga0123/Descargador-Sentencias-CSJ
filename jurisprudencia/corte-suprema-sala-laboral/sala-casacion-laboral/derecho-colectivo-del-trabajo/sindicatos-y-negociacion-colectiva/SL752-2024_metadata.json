@@ -1,0 +1,21 @@
+{
+  "radicado": "SL752-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-08-21T21:42:47Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Ley 1563 de 2012",
+    "Ley 527 de 1999",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL752-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:18:56.768458+00:00"
+}

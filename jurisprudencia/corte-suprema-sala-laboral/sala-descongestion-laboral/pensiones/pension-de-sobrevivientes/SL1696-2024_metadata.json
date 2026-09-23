@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1696-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-07-05T13:36:07Z",
+  "magistrado_ponente": "Dra. Marirraquel Rodelo Navarro",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 2067 de 1991",
+    "Decreto 3041 de 1966",
+    "Decreto 3044 de 1966",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 4 de 1976",
+    "Ley 433 de 1971",
+    "Ley 527 de 1999",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Marirraquel Rodelo Navarro/Sentencias/SL1696-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:33:58.739963+00:00"
+}

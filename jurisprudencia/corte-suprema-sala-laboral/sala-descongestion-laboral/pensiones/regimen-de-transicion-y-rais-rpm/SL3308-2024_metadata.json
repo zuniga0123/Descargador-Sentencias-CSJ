@@ -1,0 +1,33 @@
+{
+  "radicado": "SL3308-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-12-06T16:29:32Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 1161 de 1994",
+    "Decreto 1352 de 2013",
+    "Decreto 1507 de 2014",
+    "Decreto 232 de 1984",
+    "Decreto 3041 de 1966",
+    "Decreto 4936 de 2011",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1346 de 2009",
+    "Ley 1562 de 2012",
+    "Ley 1564 de 2012",
+    "Ley 361 de 1997",
+    "Ley 527 de 1999",
+    "Ley 762 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Donald Jose Dix Ponnefz/Sentencias/SL3308-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:49:17.481392+00:00"
+}

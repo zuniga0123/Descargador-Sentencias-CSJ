@@ -1,0 +1,31 @@
+{
+  "radicado": "SL3176-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-26T13:57:03Z",
+  "magistrado_ponente": "Dra. Marirraquel Rodelo Navarro",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 55,
+  "leyes_o_articulos": [
+    "Decreto 1281 de 2002",
+    "Decreto 674 de 2014",
+    "Decreto 780 de 2016",
+    "Decreto 971 de 2011",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 1281 de 2002",
+    "Ley 1437 de 2011",
+    "Ley 1438 de 2011",
+    "Ley 270 de 1996",
+    "Ley 527 de 1999",
+    "Ley 715 de 2001",
+    "Ley 715 de 2011"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Marirraquel Rodelo Navarro/Sentencias/SL3176-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:52:21.123952+00:00"
+}

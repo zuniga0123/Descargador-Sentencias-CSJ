@@ -1,0 +1,30 @@
+{
+  "radicado": "SL672-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-22T20:14:35Z",
+  "magistrado_ponente": "Dra.Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 47,
+  "leyes_o_articulos": [
+    "Decreto 1227 de 2000",
+    "Decreto 2078 de 2004",
+    "Decreto 274 de 2000",
+    "Decreto 3357 de 2009",
+    "Decreto 3358 de 2009",
+    "Decreto 4789 de 2009",
+    "Ley 100 de 1993",
+    "Ley 1139 de 2007",
+    "Ley 171 de 1961",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dra.Marjorie Zuñiga Romero/Sentencias/SL672-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:54:30.629489+00:00"
+}

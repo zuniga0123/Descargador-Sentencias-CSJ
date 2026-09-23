@@ -1,0 +1,29 @@
+{
+  "radicado": "SL2605-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-10-07T18:51:13Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 2365 de 1965",
+    "Decreto 2453 de 2001",
+    "Decreto 2463 de 2001",
+    "Ley 1346 de 2009",
+    "Ley 2 de 1984",
+    "Ley 361 de 1996",
+    "Ley 361 de 1997",
+    "Ley 446 de 1998",
+    "Ley 527 de 1999",
+    "Ley 712 de 2001",
+    "Ley 787 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL2605-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:04:42.386711+00:00"
+}

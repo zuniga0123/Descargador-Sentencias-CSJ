@@ -1,0 +1,29 @@
+{
+  "radicado": "SL1910-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-07-23T19:55:08Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 043 de 1971",
+    "Decreto 1824 de 1965",
+    "Decreto 1887 de 1994",
+    "Decreto 2879 de 1985",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 527 de 1999",
+    "Ley 6 de 1945",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL1910-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:28:00.196850+00:00"
+}

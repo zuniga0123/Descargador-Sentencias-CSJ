@@ -1,0 +1,31 @@
+{
+  "radicado": "SL3065-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-20T16:27:33Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 47,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 1352 de 2013",
+    "Decreto 1507 de 2014",
+    "Decreto 19 de 2012",
+    "Ley 100 de 1993",
+    "Ley 1562 de 2012",
+    "Ley 1564 de 2012",
+    "Ley 16 de 1969",
+    "Ley 23 de 1981",
+    "Ley 361 de 1997",
+    "Ley 527 de 1999",
+    "Ley 762 de 2002",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL3065-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:54:27.420608+00:00"
+}

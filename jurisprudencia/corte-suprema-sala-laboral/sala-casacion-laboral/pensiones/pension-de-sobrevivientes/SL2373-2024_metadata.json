@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2373-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-09-29T18:55:33Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1257 de 2008",
+    "Ley 16 de 1972",
+    "Ley 248 de 1995",
+    "Ley 25 de 1992",
+    "Ley 294 de 1996",
+    "Ley 51 de 1981",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Omar Angel Mejia Amador/Sentencias/SL2373-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:06:54.651448+00:00"
+}

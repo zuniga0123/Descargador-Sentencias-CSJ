@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1210-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-05-27T14:01:09Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 01 de 1984",
+    "Decreto 0298 de 1989",
+    "Decreto 1572 de 1998",
+    "Ley 1437 de 2011",
+    "Ley 14371 de 2011",
+    "Ley 1567 de 1998",
+    "Ley 270 de 1996",
+    "Ley 443 de 1998",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL1210-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:45:34.864789+00:00"
+}

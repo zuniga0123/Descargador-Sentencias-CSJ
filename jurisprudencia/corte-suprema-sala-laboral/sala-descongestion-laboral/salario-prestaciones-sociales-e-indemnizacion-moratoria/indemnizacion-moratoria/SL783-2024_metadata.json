@@ -1,0 +1,27 @@
+{
+  "radicado": "SL783-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-06-24T02:14:36Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 46,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 797 de 1949",
+    "Ley 153 de 1887",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 344 de 1996",
+    "Ley 527 de 1999",
+    "Ley 797 de 1949",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Ana Maria Muñoz Segura/Sentencias/SL783-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:37:59.797701+00:00"
+}

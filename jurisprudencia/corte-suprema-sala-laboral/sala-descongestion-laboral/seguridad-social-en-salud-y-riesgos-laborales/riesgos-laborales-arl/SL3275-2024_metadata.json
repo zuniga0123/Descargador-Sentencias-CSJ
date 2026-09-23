@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3275-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-12-03T19:26:26Z",
+  "magistrado_ponente": "Dra. Marirraquel Rodelo Navarro",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 1477 de 2014",
+    "Decreto 1507 de 2014",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999",
+    "Ley 776 de 2002",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Marirraquel Rodelo Navarro/Sentencias/SL3275-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:50:38.325104+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "radicado": "SL018-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-02-23T21:16:11Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 2520 de 1993",
+    "Decreto 444 de 1967",
+    "Ley 26 de 1976",
+    "Ley 27 de 1976",
+    "Ley 31 de 1992",
+    "Ley 444 de 1967",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Jorge Prada Sanchez/Sentencias/SL018-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:07:55.278185+00:00"
+}

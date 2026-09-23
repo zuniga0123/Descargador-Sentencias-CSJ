@@ -1,0 +1,23 @@
+{
+  "radicado": "SL745-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-06-23T22:13:32Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 76,
+  "leyes_o_articulos": [
+    "Decreto 1067 de 2015",
+    "Decreto 2351 de 1965",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Fernando Castillo Cadena/Sentencias/SL745-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:38:59.984024+00:00"
+}

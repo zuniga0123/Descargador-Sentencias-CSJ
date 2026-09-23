@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2939-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-08T19:11:38Z",
+  "magistrado_ponente": "Dr. Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 2108 de 1992",
+    "Ley 100 de 1993",
+    "Ley 4 de 1976",
+    "Ley 446 de 1998",
+    "Ley 527 de 1999",
+    "Ley 640 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Martin Emilio Beltran Quintero/Sentencias/SL2939-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:58:42.980135+00:00"
+}

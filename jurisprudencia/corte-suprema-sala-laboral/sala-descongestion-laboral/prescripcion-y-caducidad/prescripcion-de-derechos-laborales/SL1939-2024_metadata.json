@@ -1,0 +1,32 @@
+{
+  "radicado": "SL1939-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-08-05T17:54:23Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 1281 de 2002",
+    "Decreto 1281 de 2012",
+    "Decreto 19 de 2012",
+    "Decreto 4747 de 2007",
+    "Decreto 546 de 2017",
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 1438 de 2011",
+    "Ley 1753 de 2015",
+    "Ley 1797 de 2016",
+    "Ley 19 de 2012",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Jorge Prada Sanchez/Sentencias/SL1939-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:23:38.654094+00:00"
+}

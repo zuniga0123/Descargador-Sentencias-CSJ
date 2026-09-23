@@ -1,0 +1,21 @@
+{
+  "radicado": "SL464-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-14T16:53:21Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Ley 16 de 1969",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL464-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:03:32.928218+00:00"
+}

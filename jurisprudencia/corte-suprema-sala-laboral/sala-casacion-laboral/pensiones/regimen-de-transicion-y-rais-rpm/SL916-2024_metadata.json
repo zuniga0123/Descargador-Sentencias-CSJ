@@ -1,0 +1,23 @@
+{
+  "radicado": "SL916-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-05-03T16:26:59Z",
+  "magistrado_ponente": "Dra. Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1564 de 2012",
+    "Ley 527 de 1999",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dra. Marjorie Zuñiga Romero/Sentencias/SL916-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:51:34.863208+00:00"
+}

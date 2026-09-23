@@ -1,0 +1,22 @@
+{
+  "radicado": "AL3005-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2024,
+  "fecha_creacion": "2024-06-12T12:41:03Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Decreto 528 de 1964",
+    "Ley 446 de 1998",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Luis Benedicto Herrera Diaz/Autos/AL3005-2024.pdf",
+  "fecha_descarga": "2026-09-23T00:14:01.719797+00:00"
+}

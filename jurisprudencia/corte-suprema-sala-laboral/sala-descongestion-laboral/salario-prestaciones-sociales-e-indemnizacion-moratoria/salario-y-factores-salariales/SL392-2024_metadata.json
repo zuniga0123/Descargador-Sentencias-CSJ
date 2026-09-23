@@ -1,0 +1,30 @@
+{
+  "radicado": "SL392-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-08T19:49:53Z",
+  "magistrado_ponente": "Dr.Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 116,
+  "leyes_o_articulos": [
+    "Decreto 2171 de 1992",
+    "Decreto 2351 de 1965",
+    "Decreto 410 de 1971",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 53 de 1887",
+    "Ley 640 de 2001",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Martin Emilio Beltran Quintero/Sentencias/SL392-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:04:31.808127+00:00"
+}

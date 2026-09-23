@@ -1,0 +1,20 @@
+{
+  "radicado": "SL317-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-05T15:06:32Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Tipos de contrato y vinculación",
+  "puntaje_clasificacion": 4,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL317-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:05:58.203704+00:00"
+}

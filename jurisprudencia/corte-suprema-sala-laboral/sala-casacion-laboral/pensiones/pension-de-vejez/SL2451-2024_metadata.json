@@ -1,0 +1,30 @@
+{
+  "radicado": "SL2451-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-09-16T14:04:57Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 3135 de 1968",
+    "Ley 141 de 1994",
+    "Ley 142 de 1994",
+    "Ley 1781 de 2016",
+    "Ley 1821 de 2016",
+    "Ley 270 de 1996",
+    "Ley 3135 de 1968",
+    "Ley 527 de 1999",
+    "Ley 53 de 1887",
+    "Ley 712 de 2001",
+    "Ley 789 de 2002",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL2451-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:10:32.226018+00:00"
+}

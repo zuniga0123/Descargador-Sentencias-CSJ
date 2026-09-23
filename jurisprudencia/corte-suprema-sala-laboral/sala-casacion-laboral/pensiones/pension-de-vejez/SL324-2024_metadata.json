@@ -1,0 +1,25 @@
+{
+  "radicado": "SL324-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-01T21:10:42Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 575 de 2013",
+    "Decreto 832 de 1996",
+    "Ley 1151 de 2007",
+    "Ley 171 de 1961",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr.Fernando Castillo Cadena/Sentencias/SL324-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:06:22.316828+00:00"
+}

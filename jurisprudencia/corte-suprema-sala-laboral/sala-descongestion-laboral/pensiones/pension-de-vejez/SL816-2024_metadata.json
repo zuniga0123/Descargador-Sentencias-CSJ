@@ -1,0 +1,22 @@
+{
+  "radicado": "SL816-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-19T16:36:35Z",
+  "magistrado_ponente": "Dra.Marirraquel Rodelo Navarro",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 56,
+  "leyes_o_articulos": [
+    "Decreto 1730 de 2001",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra.Marirraquel Rodelo Navarro/Sentencias/SL816-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:54:33.997596+00:00"
+}

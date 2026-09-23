@@ -1,0 +1,23 @@
+{
+  "radicado": "SL531-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-22T15:22:32Z",
+  "magistrado_ponente": "Dr.Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1281 de 1994",
+    "Ley 1149 de 2007",
+    "Ley 16 de 1969",
+    "Ley 2090 de 2003",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr.Luis Benedicto Herrera Diaz/Sentencias/SL531-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:00:34.454490+00:00"
+}

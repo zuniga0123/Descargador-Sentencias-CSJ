@@ -1,0 +1,21 @@
+{
+  "radicado": "SL023-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-01-26T17:58:12Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Donald Jose Dix Ponnefz/Sentencias/SL023-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:12:31.111976+00:00"
+}

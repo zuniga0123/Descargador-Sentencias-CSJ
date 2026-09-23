@@ -1,0 +1,22 @@
+{
+  "radicado": "SL3005-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-18T19:52:18Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Ley 1503 de 2011",
+    "Ley 527 de 1999",
+    "Ley 764 de 2002",
+    "Ley 769 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL3005-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:55:46.244619+00:00"
+}

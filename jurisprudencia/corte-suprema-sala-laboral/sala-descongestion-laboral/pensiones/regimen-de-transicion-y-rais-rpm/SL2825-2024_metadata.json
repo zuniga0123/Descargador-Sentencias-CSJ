@@ -1,0 +1,28 @@
+{
+  "radicado": "SL2825-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-10-25T20:07:56Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 2241 de 2010",
+    "Decreto 663 de 1993",
+    "Ley 100 de 1993",
+    "Ley 1151 de 2007",
+    "Ley 1328 de 2009",
+    "Ley 1748 de 2014",
+    "Ley 527 de 1999",
+    "Ley 6 de 1945",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Donald Jose Dix Ponnefz/Sentencias/SL2825-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:00:38.119442+00:00"
+}

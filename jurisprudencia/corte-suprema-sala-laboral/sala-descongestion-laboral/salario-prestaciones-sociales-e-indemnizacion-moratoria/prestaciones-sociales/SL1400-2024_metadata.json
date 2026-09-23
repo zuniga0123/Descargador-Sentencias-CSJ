@@ -1,0 +1,29 @@
+{
+  "radicado": "SL1400-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-06-12T20:26:38Z",
+  "magistrado_ponente": "Dra. Marirraquel Rodelo Navarro",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 50,
+  "leyes_o_articulos": [
+    "DECRETO 178 DE 2002",
+    "Decreto 1042 de 1978",
+    "Decreto 1045 de 1978",
+    "Decreto 178 de 2002",
+    "Decreto 1876 de 1994",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 6 de 1945",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Marirraquel Rodelo Navarro/Sentencias/SL1400-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:41:42.081476+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "radicado": "AL1621-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-08T20:20:01Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 658 de 1994",
+    "Decreto 883 de 1993",
+    "Ley 1748 de 2014",
+    "Ley 527 de 1999",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr.Gerardo Botero Zuluaga/Autos/AL1621-2024.pdf",
+  "fecha_descarga": "2026-09-23T00:26:28.635179+00:00"
+}

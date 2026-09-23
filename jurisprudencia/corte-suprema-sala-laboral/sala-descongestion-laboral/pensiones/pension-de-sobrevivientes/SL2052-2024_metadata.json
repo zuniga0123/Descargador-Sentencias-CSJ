@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2052-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-08-06T20:55:28Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1406 de 1990",
+    "Decreto 1406 de 1999",
+    "Decreto 2280 de 1994",
+    "Decreto 656 de 1994",
+    "Ley 100 de 1993",
+    "Ley 488 de 1998",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL2052-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:23:10.751824+00:00"
+}

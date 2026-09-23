@@ -1,0 +1,25 @@
+{
+  "radicado": "SL270-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-02-28T21:59:31Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 433 de 1971",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1251 de 2008",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003",
+    "Ley 797 de 2993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL270-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:07:05.455042+00:00"
+}

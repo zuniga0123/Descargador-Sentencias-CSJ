@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3090-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-20T21:24:34Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Renuncia y retiro voluntario",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 0298 de 1989",
+    "Decreto 1567 de 1998",
+    "Decreto 1617 de 1977",
+    "Decreto 1867 de 1999",
+    "Ley 14371 de 2011",
+    "Ley 1572 de 1998",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Olga Yineth Merchan Calderon/Sentencias/SL3090-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:53:59.870884+00:00"
+}

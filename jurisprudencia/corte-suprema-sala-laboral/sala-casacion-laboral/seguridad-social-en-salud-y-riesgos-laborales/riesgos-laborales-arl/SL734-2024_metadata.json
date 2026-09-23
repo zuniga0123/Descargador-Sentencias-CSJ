@@ -1,0 +1,28 @@
+{
+  "radicado": "SL734-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-06-23T22:45:58Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 77,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1772 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1295 de 1994",
+    "Ley 1562 de 2012",
+    "Ley 16 de 1969",
+    "Ley 527 de 1999",
+    "Ley 528 de 1964",
+    "Ley 776 de 2002",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Omar Angel Mejia Amador/Sentencias/SL734-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:37:06.136142+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2022-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-08-05T15:20:47Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Decreto 2025 de 2011",
+    "Decreto 2351 de 1965",
+    "Decreto 683 de 2018",
+    "Ley 1285 de 2009",
+    "Ley 1429 de 2010",
+    "Ley 270 de 1996",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL2022-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:24:36.332119+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "radicado": "AL1306-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-22T13:37:05Z",
+  "magistrado_ponente": "Dr.Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1285 de 2009",
+    "Ley 527 de 1999",
+    "Ley 712 de 2001",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr.Luis Benedicto Herrera Diaz/Autos/AL1306-2024.pdf",
+  "fecha_descarga": "2026-09-23T00:30:20.102637+00:00"
+}

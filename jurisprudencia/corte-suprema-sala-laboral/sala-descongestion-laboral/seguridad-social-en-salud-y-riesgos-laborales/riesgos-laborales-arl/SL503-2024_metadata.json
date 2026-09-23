@@ -1,0 +1,20 @@
+{
+  "radicado": "SL503-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-19T15:21:10Z",
+  "magistrado_ponente": "Dr.Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Ley 16 de 1969",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Martin Emilio Beltran Quintero/Sentencias/SL503-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:02:27.290826+00:00"
+}

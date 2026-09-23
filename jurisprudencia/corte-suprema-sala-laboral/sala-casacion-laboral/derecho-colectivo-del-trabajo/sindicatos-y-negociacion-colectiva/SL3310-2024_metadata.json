@@ -1,0 +1,22 @@
+{
+  "radicado": "SL3310-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-12-09T14:31:04Z",
+  "magistrado_ponente": "Dra. Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 128,
+  "leyes_o_articulos": [
+    "Decreto 089 de 2014",
+    "Decreto 2351 de 1965",
+    "Decreto 904 de 1951",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dra. Marjorie Zuñiga Romero/Sentencias/SL3310-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:48:46.792565+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "radicado": "SL704-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-09T19:03:04Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Decreto 1075 de 2015",
+    "Decreto 1373 de 1966",
+    "Decreto 2351 de 1965",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr.Gerardo Botero Zuluaga/Sentencias/SL704-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:57:14.854507+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "radicado": "SL2729-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-10-15T17:37:33Z",
+  "magistrado_ponente": "Dra. Clara Ines Lopez Davila",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 2677 de 1971",
+    "Decreto 2709 de 1994",
+    "Decreto 2879 de 1985",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 188 de 1959",
+    "Ley 27 de 1976",
+    "Ley 527 de 1999",
+    "Ley 71 de 1988",
+    "Ley 712 de 2001",
+    "Ley 789 de 2002",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dra. Clara Ines Lopez Davila/Sentencias/SL2729-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:03:24.664089+00:00"
+}

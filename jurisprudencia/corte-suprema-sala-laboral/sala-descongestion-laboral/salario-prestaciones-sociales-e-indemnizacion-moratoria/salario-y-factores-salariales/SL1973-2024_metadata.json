@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1973-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-09-12T22:43:59Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Decreto 797 de 1949",
+    "Ley 1496 de 2011",
+    "Ley 16 de 1968",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1973-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:11:29.602508+00:00"
+}

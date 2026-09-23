@@ -1,0 +1,32 @@
+{
+  "radicado": "SL654-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-09T19:24:31Z",
+  "magistrado_ponente": "Dr.Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Decreto 1212 de 1990",
+    "Decreto 1214 de 1990",
+    "Decreto 1435 de 1990",
+    "Decreto 2743 de 2010",
+    "Decreto 2909 de 1991",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 1214 de 1990",
+    "Ley 171 de 1961",
+    "Ley 1792 de 2000",
+    "Ley 21 de 1988",
+    "Ley 4 de 1992",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr.Omar Angel Mejia Amador/Sentencias/SL654-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:57:07.423130+00:00"
+}

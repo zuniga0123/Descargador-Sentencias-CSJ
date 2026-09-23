@@ -1,0 +1,25 @@
+{
+  "radicado": "SL880-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-25T16:58:54Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 77,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 113 de 1985",
+    "Ley 1753 de 2015",
+    "Ley 270 de 1996",
+    "Ley 527 de 1999",
+    "Ley 54 de 1990",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL880-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:53:20.041183+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "radicado": "SL2516-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-09-20T15:29:22Z",
+  "magistrado_ponente": "Dra. Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 51,
+  "leyes_o_articulos": [
+    "Decreto 1406 de 1999",
+    "Decreto 1833 de 2016",
+    "Decreto 1889 de 1994",
+    "Decreto 3800 de 2003",
+    "Decreto 780 de 2016",
+    "Ley 019 de 2012",
+    "Ley 100 de 1993",
+    "Ley 1346 de 2019",
+    "Ley 361 de 1997",
+    "Ley 527 de 1999",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dra. Marjorie Zuñiga Romero/Sentencias/SL2516-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:09:23.233705+00:00"
+}

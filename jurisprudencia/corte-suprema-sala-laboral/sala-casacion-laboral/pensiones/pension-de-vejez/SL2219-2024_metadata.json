@@ -1,0 +1,26 @@
+{
+  "radicado": "SL2219-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-08-23T13:54:45Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 57,
+  "leyes_o_articulos": [
+    "Decreto 1730 de 2001",
+    "Decreto 1833 de 2016",
+    "Decreto 2796 de 2013",
+    "Decreto 4640 de 2005",
+    "Decreto 4712 de 2008",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Omar Angel Mejia Amador/Sentencias/SL2219-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:18:10.302926+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "radicado": "SL728-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-09-06T20:14:04Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Huelga",
+  "puntaje_clasificacion": 337,
+  "leyes_o_articulos": [
+    "Decreto 2519 de 1993",
+    "Decreto 753 de 1956",
+    "Decreto 806 de 2020",
+    "Ley 105 de 1993",
+    "Ley 1210 de 2008",
+    "Ley 142 de 1994",
+    "Ley 1682 de 2003",
+    "Ley 1682 de 2013",
+    "Ley 222 de 1995",
+    "Ley 336 de 1996",
+    "Ley 527 de 1999",
+    "Ley 584 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL728-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:13:58.987067+00:00"
+}

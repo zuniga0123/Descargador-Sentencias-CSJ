@@ -1,0 +1,32 @@
+{
+  "radicado": "SL1376-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-06-12T13:41:31Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 69,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 1409 de 1999",
+    "Decreto 1637 de 2000",
+    "Decreto 1772 de 1994",
+    "Decreto 2800 de 2003",
+    "Ley 100 de 1993",
+    "Ley 1562 de 2012",
+    "Ley 2 de 1984",
+    "Ley 527 de 1999",
+    "Ley 633 de 2000",
+    "Ley 776 de 2002",
+    "Ley 797 de 2003",
+    "Ley 828 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL1376-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:42:16.785481+00:00"
+}

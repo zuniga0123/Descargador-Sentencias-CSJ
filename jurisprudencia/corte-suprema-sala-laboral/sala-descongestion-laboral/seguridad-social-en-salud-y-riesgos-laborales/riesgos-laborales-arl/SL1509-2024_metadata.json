@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1509-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-06-25T13:20:25Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 46,
+  "leyes_o_articulos": [
+    "Decreto 169 de 2006",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 15 de 1959",
+    "Ley 336 de 1996",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL1509-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:37:20.637930+00:00"
+}

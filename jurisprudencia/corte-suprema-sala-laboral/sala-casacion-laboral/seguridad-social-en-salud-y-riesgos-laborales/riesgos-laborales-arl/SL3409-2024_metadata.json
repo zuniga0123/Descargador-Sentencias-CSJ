@@ -1,0 +1,31 @@
+{
+  "radicado": "SL3409-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-12-13T16:48:15Z",
+  "magistrado_ponente": "Dra. Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 54,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Decreto 1295 de 1994",
+    "Decreto 1637 de 2006",
+    "Decreto 1772 de 1994",
+    "Decreto 2313 de 2006",
+    "Decreto 780 de 2016",
+    "Ley 1295 de 1994",
+    "Ley 1562 de 2012",
+    "Ley 336 de 1996",
+    "Ley 488 de 1998",
+    "Ley 527 de 1999",
+    "Ley 633 de 2000",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dra. Marjorie Zuñiga Romero/Sentencias/SL3409-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:44:41.618253+00:00"
+}

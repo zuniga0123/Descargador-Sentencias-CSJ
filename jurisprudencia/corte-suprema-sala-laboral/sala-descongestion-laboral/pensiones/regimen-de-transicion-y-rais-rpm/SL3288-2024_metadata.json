@@ -1,0 +1,31 @@
+{
+  "radicado": "SL3288-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-12-05T19:17:37Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 54,
+  "leyes_o_articulos": [
+    "Decreto 130 de 1976",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 130 de 1976",
+    "Ley 1952 de 2019",
+    "Ley 2080 de 2021",
+    "Ley 344 de 1996",
+    "Ley 489 de 1998",
+    "Ley 527 de 1999",
+    "Ley 54 de 1962",
+    "Ley 71 de 1988",
+    "Ley 734 de 2002",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL3288-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:49:56.176338+00:00"
+}

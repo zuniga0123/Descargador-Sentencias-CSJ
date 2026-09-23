@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1880-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-07-22T21:58:06Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 306 de 2004",
+    "Decreto 3061 de 1997",
+    "Decreto 530 de 1994",
+    "Decreto 586 de 2017",
+    "Decreto 700 de 2013",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999",
+    "Ley 60 de 1993",
+    "Ley 715 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL1880-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:28:44.774255+00:00"
+}

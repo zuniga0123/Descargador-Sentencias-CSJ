@@ -1,0 +1,29 @@
+{
+  "radicado": "SL1095-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-05-21T14:29:39Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Estabilidad Laboral Reforzada y Fuero",
+  "subtema": "Fuero de salud / debilidad manifiesta",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 1352 de 2013",
+    "Decreto 2351 de 1965",
+    "Decreto 2463 de 2001",
+    "Decreto 780 de 2016",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 527 de 1999",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Donald Jose Dix Ponnefz/Sentencias/SL1095-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:47:57.494790+00:00"
+}

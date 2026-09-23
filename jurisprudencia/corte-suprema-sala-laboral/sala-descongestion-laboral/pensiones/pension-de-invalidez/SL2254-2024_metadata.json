@@ -1,0 +1,31 @@
+{
+  "radicado": "SL2254-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-08-22T20:47:15Z",
+  "magistrado_ponente": "Dra. Marirraquel Rodelo Navarro",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 50,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 1352 de 2013",
+    "Decreto 19 de 2012",
+    "Decreto 2463 de 2001",
+    "Decreto 656 de 2004",
+    "Ley 019 de 2012",
+    "Ley 100 de 1993",
+    "Ley 1562 de 2012",
+    "Ley 527 de 1999",
+    "Ley 717 de 2001",
+    "Ley 860 de 2003",
+    "Ley 962 de 2005",
+    "Ley 965 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Marirraquel Rodelo Navarro/Sentencias/SL2254-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:18:27.090669+00:00"
+}

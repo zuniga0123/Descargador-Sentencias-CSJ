@@ -1,0 +1,24 @@
+{
+  "radicado": "SL855-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-24T19:52:20Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 34,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 2108 de 1992",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 4 de 1976",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Olga Yineth Merchan Calderon/Sentencias/SL855-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:53:43.223834+00:00"
+}

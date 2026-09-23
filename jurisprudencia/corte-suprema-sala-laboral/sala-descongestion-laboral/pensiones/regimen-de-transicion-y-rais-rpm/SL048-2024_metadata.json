@@ -1,0 +1,32 @@
+{
+  "radicado": "SL048-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-02-02T14:12:07Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 69,
+  "leyes_o_articulos": [
+    "Decreto 1068 de 1995",
+    "Decreto 2241 de 2010",
+    "Decreto 3995 de 2008",
+    "Decreto 656 de 1994",
+    "Decreto 663 de 1993",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1328 de 2009",
+    "Ley 1437 de 2011",
+    "Ley 1564 de 2012",
+    "Ley 1748 de 2014",
+    "Ley 527 de 1999",
+    "Ley 795 de 2003",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Jorge Prada Sanchez/Sentencias/SL048-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:11:56.242691+00:00"
+}

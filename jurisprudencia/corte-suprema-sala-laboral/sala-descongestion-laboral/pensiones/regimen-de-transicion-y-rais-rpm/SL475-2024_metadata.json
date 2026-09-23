@@ -1,0 +1,28 @@
+{
+  "radicado": "SL475-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-19T13:33:41Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 3553 de 2008",
+    "Decreto 4588 de 2006",
+    "Decreto 468 de 1990",
+    "Decreto 468 de 1998",
+    "Ley 100 de 1993",
+    "Ley 1233 de 2008",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 79 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Donald Jose Dix Ponnefz/Sentencias/SL475-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:02:32.707533+00:00"
+}

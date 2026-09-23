@@ -1,0 +1,28 @@
+{
+  "radicado": "SL644-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-11T21:42:40Z",
+  "magistrado_ponente": "Dr.Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1833 de 2016",
+    "Decreto 780 de 2016",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 1346 de 2009",
+    "Ley 22 de 1967",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003",
+    "Ley 82 de 1988",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr.Omar Angel Mejia Amador/Sentencias/SL644-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:56:18.340618+00:00"
+}

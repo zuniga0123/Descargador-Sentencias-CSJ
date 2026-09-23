@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2874-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-05T14:01:39Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 38,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 790 de 2002",
+    "Ley 797 de 2003",
+    "Ley 797 de 2033"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Ana Maria Muñoz Segura/Sentencias/SL2874-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:59:48.731315+00:00"
+}

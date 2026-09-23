@@ -1,0 +1,21 @@
+{
+  "radicado": "SL1538-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-06-25T14:07:40Z",
+  "magistrado_ponente": "Dra. Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 2879 de 1985",
+    "Decreto 692 de 1994",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dra. Marjorie Zuñiga Romero/Sentencias/SL1538-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:37:11.235169+00:00"
+}

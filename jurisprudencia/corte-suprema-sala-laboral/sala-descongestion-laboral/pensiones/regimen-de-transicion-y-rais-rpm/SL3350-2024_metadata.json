@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3350-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-12-10T16:26:13Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 55,
+  "leyes_o_articulos": [
+    "Decreto 1406 de 1999",
+    "Decreto 1818 de 1996",
+    "Ley 100 de 1993",
+    "Ley 446 de 1998",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL3350-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:47:37.744105+00:00"
+}

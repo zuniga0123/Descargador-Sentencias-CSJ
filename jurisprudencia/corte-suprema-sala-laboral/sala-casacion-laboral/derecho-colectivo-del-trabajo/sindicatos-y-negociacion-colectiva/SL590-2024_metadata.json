@@ -1,0 +1,27 @@
+{
+  "radicado": "SL590-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-22T22:08:13Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 134,
+  "leyes_o_articulos": [
+    "Decreto 1227 de 2022",
+    "Decreto 555 de 2022",
+    "Ley 1098 de 2006",
+    "Ley 1563 de 2012",
+    "Ley 1581 de 2012",
+    "Ley 2088 de 2021",
+    "Ley 2121 de 2021",
+    "Ley 222 de 1995",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr.Fernando Castillo Cadena/Sentencias/SL590-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:54:19.468820+00:00"
+}

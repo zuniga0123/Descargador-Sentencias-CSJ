@@ -1,0 +1,32 @@
+{
+  "radicado": "SL799-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-06-24T00:58:52Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 75,
+  "leyes_o_articulos": [
+    "Decreto 1481 de 1989",
+    "Decreto 2351 de 1965",
+    "Decreto 455 de 2004",
+    "Decreto 663 de 1993",
+    "Ley 100 de 1993",
+    "Ley 1391 de 2010",
+    "Ley 153 de 1887",
+    "Ley 222 de 1995",
+    "Ley 2351 de 1965",
+    "Ley 50 de 1990",
+    "Ley 510 de 1999",
+    "Ley 52 de 1975",
+    "Ley 527 de 1999",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Donald Jose Dix Ponnefz/Sentencias/SL799-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:38:42.061172+00:00"
+}

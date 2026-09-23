@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1200-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-05-27T20:51:45Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 3615 de 2005",
+    "Ley 153 de 1887",
+    "Ley 20 de 1974",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Donald Jose Dix Ponnefz/Sentencias/SL1200-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:45:25.724575+00:00"
+}

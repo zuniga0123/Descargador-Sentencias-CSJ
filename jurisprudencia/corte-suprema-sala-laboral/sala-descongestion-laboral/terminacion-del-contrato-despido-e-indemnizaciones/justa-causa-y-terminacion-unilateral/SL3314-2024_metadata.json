@@ -1,0 +1,26 @@
+{
+  "radicado": "SL3314-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-12-06T12:38:09Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 370 de 1993",
+    "Decreto 617 de 1954",
+    "Ley 527 de 1999",
+    "Ley 6 de 1975",
+    "Ley 64 de 1946",
+    "Ley 64 de 1976",
+    "Ley 790 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL3314-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:49:43.324459+00:00"
+}

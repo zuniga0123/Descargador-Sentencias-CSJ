@@ -1,0 +1,27 @@
+{
+  "radicado": "SL375-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-15T19:10:57Z",
+  "magistrado_ponente": "Dra.Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1889 de 1994",
+    "Ley 10 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1328 de 2009",
+    "Ley 16 de 1969",
+    "Ley 1650 de 1977",
+    "Ley 278 de 1996",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dra.Marjorie Zuñiga Romero/Sentencias/SL375-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:55:49.156318+00:00"
+}

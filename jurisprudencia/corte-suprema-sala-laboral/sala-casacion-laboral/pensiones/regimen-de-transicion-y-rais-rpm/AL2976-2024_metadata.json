@@ -1,0 +1,24 @@
+{
+  "radicado": "AL2976-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2024,
+  "fecha_creacion": "2024-06-12T12:12:56Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 1275 de 1994",
+    "Decreto 3110 de 1954",
+    "Ley 1285 de 2009",
+    "Ley 270 de 1996",
+    "Ley 527 de 1999",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Luis Benedicto Herrera Diaz/Autos/AL2976-2024.pdf",
+  "fecha_descarga": "2026-09-23T00:14:27.380939+00:00"
+}

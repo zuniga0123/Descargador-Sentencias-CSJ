@@ -1,0 +1,29 @@
+{
+  "radicado": "SL188-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-02-22T17:48:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 183 de 1964",
+    "Decreto 1887 de 1994",
+    "Decreto 2665 de 1988",
+    "Decreto 3041 de 1966",
+    "Ley 100 de 1993",
+    "Ley 1116 de 2006",
+    "Ley 1650 de 1977",
+    "Ley 222 de 1995",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL188-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:08:23.440874+00:00"
+}

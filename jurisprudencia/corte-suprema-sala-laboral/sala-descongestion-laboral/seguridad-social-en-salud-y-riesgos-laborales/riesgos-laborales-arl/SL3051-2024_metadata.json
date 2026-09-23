@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3051-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-22T13:31:59Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 45,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Decreto 1295 de 1994",
+    "Decreto 1443 de 2014",
+    "Decreto 614 de 1984",
+    "Ley 16 de 1969",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL3051-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:53:38.330549+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "radicado": "SL622-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-09-06T22:06:01Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1257 de 2008",
+    "Ley 1719 de 2014",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Gerardo Botero Zuluaga/Sentencias/SL622-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:13:26.674105+00:00"
+}

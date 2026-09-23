@@ -1,0 +1,24 @@
+{
+  "radicado": "SL624-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-06-23T23:01:06Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Ley 100 de 1993",
+    "Ley 1361 de 2009",
+    "Ley 527 de 1999",
+    "Ley 54 de 1990",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Omar Angel Mejia Amador/Sentencias/SL624-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:38:47.535613+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "radicado": "SL809-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-17T20:06:42Z",
+  "magistrado_ponente": "Dra.Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 58,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 614 de 1984",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990",
+    "Ley 52 de 1993",
+    "Ley 527 de 1999",
+    "Ley 776 de 2002",
+    "Ley 794 de 2003",
+    "Ley 9 de 1979"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra.Olga Yineth Merchan Calderon/Sentencias/SL809-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:55:23.860682+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "radicado": "SL373-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-08T20:38:47Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 062 de 1985",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL373-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:04:27.395267+00:00"
+}

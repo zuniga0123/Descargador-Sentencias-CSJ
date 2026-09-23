@@ -1,0 +1,31 @@
+{
+  "radicado": "SL1616-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-06-28T15:48:57Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 062 de 1986",
+    "Decreto 1045 de 1978",
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 3135 de 1968",
+    "Ley 062 de 1986",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 6 de 1945",
+    "Ley 65 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL1616-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:35:16.136817+00:00"
+}

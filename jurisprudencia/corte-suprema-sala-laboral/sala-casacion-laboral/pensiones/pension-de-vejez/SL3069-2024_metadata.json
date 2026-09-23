@@ -1,0 +1,31 @@
+{
+  "radicado": "SL3069-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-22T21:24:28Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 100,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 1513 de 1998",
+    "Decreto 1748 de 1995",
+    "Decreto 3798 de 2003",
+    "Decreto 3995 de 2008",
+    "Decreto 692 de 1994",
+    "Decreto 812 de 2003",
+    "Ley 100 de 1993",
+    "Ley 1214 de 1990",
+    "Ley 527 de 1999",
+    "Ley 812 de 2003",
+    "Ley 90 de 1946",
+    "Ley 91 de 1989"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL3069-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:53:03.020261+00:00"
+}

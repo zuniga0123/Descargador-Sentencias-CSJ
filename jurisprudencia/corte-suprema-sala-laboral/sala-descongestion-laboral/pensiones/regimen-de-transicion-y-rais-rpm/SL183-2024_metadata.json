@@ -1,0 +1,30 @@
+{
+  "radicado": "SL183-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-02-21T16:50:57Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 232 de 1984",
+    "Decreto 3041 de 1966",
+    "Decreto 3041 de 1996",
+    "Ley 1149 de 2007",
+    "Ley 1285 de 2009",
+    "Ley 171 de 1961",
+    "Ley 270 de 1996",
+    "Ley 33 de 1973",
+    "Ley 5 de 1969",
+    "Ley 527 de 1999",
+    "Ley 71 de 1988",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL183-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:08:19.486683+00:00"
+}

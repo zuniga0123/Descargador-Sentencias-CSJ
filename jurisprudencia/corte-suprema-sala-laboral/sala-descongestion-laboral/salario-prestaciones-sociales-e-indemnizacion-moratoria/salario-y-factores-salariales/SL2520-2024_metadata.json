@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2520-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-09-19T19:25:08Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Ley 153 de 1887",
+    "Ley 2351 de 1965",
+    "Ley 319 de 1996",
+    "Ley 527 de 1999",
+    "Ley 57 de 1887",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Jorge Prada Sanchez/Sentencias/SL2520-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:10:04.146962+00:00"
+}

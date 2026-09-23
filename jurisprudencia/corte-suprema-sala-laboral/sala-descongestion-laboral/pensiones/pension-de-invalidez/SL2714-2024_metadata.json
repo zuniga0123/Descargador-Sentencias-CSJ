@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2714-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-10-07T16:57:12Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1833 de 2016",
+    "Decreto 1889 de 1994",
+    "Decreto 2555 de 2010",
+    "Decreto 719 de 1994",
+    "Decreto 832 de 1996",
+    "Decreto 876 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1328 de 2009",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL2714-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:04:44.367816+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "radicado": "SL2215-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-08-21T14:34:55Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 34,
+  "leyes_o_articulos": [
+    "Decreto 1406 de 1999",
+    "Decreto 528 de 1964",
+    "Ley 10 de 1972",
+    "Ley 100 de 1993",
+    "Ley 1214 de 1990",
+    "Ley 16 de 1969",
+    "Ley 1788 de 2016",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL2215-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:20:00.164297+00:00"
+}

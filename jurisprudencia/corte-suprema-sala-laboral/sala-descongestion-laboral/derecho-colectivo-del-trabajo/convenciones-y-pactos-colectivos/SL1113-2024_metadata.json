@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1113-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-05-20T20:48:50Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 2127 de 1945",
+    "Decreto 2842 de 2013",
+    "Ley 171 de 1961",
+    "Ley 527 de 1999",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Ana Maria Muñoz Segura/Sentencias/SL1113-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:48:03.520687+00:00"
+}

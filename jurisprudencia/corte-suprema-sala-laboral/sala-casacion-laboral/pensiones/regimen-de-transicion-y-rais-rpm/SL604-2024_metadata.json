@@ -1,0 +1,33 @@
+{
+  "radicado": "SL604-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-03T19:32:12Z",
+  "magistrado_ponente": "Dra.Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 67,
+  "leyes_o_articulos": [
+    "Decreto 1015 de 1956",
+    "Decreto 1282 de 1994",
+    "Decreto 1302 de 1994",
+    "Decreto 1352 de 2013",
+    "Decreto 1352 de 2015",
+    "Decreto 1507 de 2014",
+    "Decreto 1562 de 2012",
+    "Decreto 2007 de 1991",
+    "Ley 100 de 1993",
+    "Ley 12 de 1947",
+    "Ley 1562 de 2012",
+    "Ley 32 de 1961",
+    "Ley 527 de 1999",
+    "Ley 776 de 2002",
+    "Ley 776 de 2012"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dra.Marjorie Zuñiga Romero/Sentencias/SL604-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:59:24.423615+00:00"
+}

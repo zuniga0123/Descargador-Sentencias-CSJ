@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2177-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-08-15T16:24:44Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998",
+    "Ley 527 de 1999",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL2177-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:20:32.171448+00:00"
+}

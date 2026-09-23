@@ -1,0 +1,23 @@
+{
+  "radicado": "SL851-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-06-24T02:29:28Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 78,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 1748 de 1995",
+    "Decreto 656 de 1994",
+    "Ley 100 de 1993",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL851-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:37:52.217508+00:00"
+}

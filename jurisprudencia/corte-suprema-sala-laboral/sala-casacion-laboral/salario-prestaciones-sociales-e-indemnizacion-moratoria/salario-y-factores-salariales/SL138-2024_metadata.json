@@ -1,0 +1,30 @@
+{
+  "radicado": "SL138-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-04-22T20:18:06Z",
+  "magistrado_ponente": "Dr.Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 61,
+  "leyes_o_articulos": [
+    "Decreto 1273 de 2018",
+    "Decreto 1406 de 1999",
+    "Decreto 3041 de 1966",
+    "Decreto 3063 de 1989",
+    "Decreto 692 de 1994",
+    "Decreto 780 de 2015",
+    "Decreto 780 de 2016",
+    "Ley 100 de 1993",
+    "Ley 1650 de 1977",
+    "Ley 433 de 1971",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr.Luis Benedicto Herrera Diaz/Sentencias/SL138-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:54:28.818523+00:00"
+}

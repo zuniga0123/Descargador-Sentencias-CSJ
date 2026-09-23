@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2365-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-08-29T21:33:48Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1352 de 2013",
+    "Decreto 19 de 2012",
+    "Decreto 2463 de 2001",
+    "Ley 100 de 1993",
+    "Ley 1562 de 2012",
+    "Ley 19 de 2012",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL2365-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:15:25.730084+00:00"
+}

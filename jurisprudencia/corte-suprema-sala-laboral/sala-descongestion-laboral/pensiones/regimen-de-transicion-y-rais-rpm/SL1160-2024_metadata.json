@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1160-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-05-23T15:01:09Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 51,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Ley 100 de 1993",
+    "Ley 446 de 1996",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL1160-2024.pdf",
+  "fecha_descarga": "2026-09-22T22:46:09.783935+00:00"
+}

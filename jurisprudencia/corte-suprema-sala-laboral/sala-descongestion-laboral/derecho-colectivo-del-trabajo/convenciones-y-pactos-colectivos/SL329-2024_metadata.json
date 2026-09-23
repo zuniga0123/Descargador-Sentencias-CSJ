@@ -1,0 +1,26 @@
+{
+  "radicado": "SL329-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-03-01T21:21:18Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 1586 de 1989",
+    "Decreto 1590 de 1989",
+    "Decreto 1651 de 1991",
+    "Decreto 895 de 1991",
+    "Ley 33 de 1985",
+    "Ley 527 de 1999",
+    "Ley 53 de 1945",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL329-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:06:20.519147+00:00"
+}

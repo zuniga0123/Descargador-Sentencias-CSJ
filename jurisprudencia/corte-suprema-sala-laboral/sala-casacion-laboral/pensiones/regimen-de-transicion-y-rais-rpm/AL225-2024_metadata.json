@@ -1,0 +1,21 @@
+{
+  "radicado": "AL225-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2024,
+  "fecha_creacion": "2024-01-31T14:32:08Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 2,
+  "leyes_o_articulos": [
+    "Decreto 528 de 1964",
+    "Ley 2213 de 2022",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr.Gerardo Botero Zuluaga/Autos/AL225-2024.pdf",
+  "fecha_descarga": "2026-09-23T00:40:18.868455+00:00"
+}

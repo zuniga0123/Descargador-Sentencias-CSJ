@@ -1,0 +1,26 @@
+{
+  "radicado": "SL3173-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-11-26T13:58:20Z",
+  "magistrado_ponente": "Dra. Marirraquel Rodelo Navarro",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Decreto 1507 de 2014",
+    "Decreto 1507 de 2015",
+    "Decreto 1651 de 1991",
+    "Ley 019 de 2012",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dra. Marirraquel Rodelo Navarro/Sentencias/SL3173-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:52:17.343052+00:00"
+}

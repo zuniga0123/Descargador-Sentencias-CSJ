@@ -1,0 +1,31 @@
+{
+  "radicado": "SL3510-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-12-19T19:55:35Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 135,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1010 de 2006",
+    "Ley 11 de 1984",
+    "Ley 1116 de 2006",
+    "Ley 1562 de 2012",
+    "Ley 1857 de 2017",
+    "Ley 2101 de 2021",
+    "Ley 2213 de 2022",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 59 de 1983",
+    "Ley 776 de 2002",
+    "Ley 82 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2024/Dr. Omar Angel Mejia Amador/Sentencias/SL3510-2024.pdf",
+  "fecha_descarga": "2026-09-22T21:43:04.692617+00:00"
+}

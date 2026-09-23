@@ -1,0 +1,29 @@
+{
+  "radicado": "SL272-2024",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2024,
+  "fecha_creacion": "2024-02-28T21:52:11Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 62,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 1582 de 1998",
+    "Decreto 1876 de 1994",
+    "Decreto 1919 de 2002",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 10 de 1990",
+    "Ley 344 de 1996",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2024/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL272-2024.pdf",
+  "fecha_descarga": "2026-09-22T23:07:09.044596+00:00"
+}
