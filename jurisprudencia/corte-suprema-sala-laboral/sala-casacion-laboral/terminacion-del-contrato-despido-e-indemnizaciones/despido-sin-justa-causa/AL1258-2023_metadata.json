@@ -1,0 +1,23 @@
+{
+  "radicado": "AL1258-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-06-07T18:27:29Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Despido sin justa causa",
+  "puntaje_clasificacion": 2,
+  "leyes_o_articulos": [
+    "Decreto 575 de 2013",
+    "Ley 1151 de 2007",
+    "Ley 270 de 1996",
+    "Ley 527 de 1999",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Fernando Castillo Cadena/Autos/AL1258-2023.pdf",
+  "fecha_descarga": "2026-09-23T23:08:49.958131+00:00"
+}

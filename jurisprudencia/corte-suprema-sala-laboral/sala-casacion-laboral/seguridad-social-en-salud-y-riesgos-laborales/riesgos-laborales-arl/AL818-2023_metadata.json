@@ -1,0 +1,21 @@
+{
+  "radicado": "AL818-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-02T20:41:58Z",
+  "magistrado_ponente": "Dra.Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 2,
+  "leyes_o_articulos": [
+    "Decreto 042 de 2020",
+    "Ley 1581 de 2012",
+    "Ley 2213 de 2022"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dra.Marjorie Zuñiga Romero/Autos/AL818-2023.pdf",
+  "fecha_descarga": "2026-09-23T23:20:30.264144+00:00"
+}

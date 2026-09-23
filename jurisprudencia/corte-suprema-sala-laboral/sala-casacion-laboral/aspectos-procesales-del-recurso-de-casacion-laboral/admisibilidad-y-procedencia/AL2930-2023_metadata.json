@@ -1,0 +1,24 @@
+{
+  "radicado": "AL2930-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-12-05T20:24:29Z",
+  "magistrado_ponente": "Dr.Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Decreto 528 de 1964",
+    "Decreto 719 de 1989",
+    "Decreto 969 de 1946",
+    "Ley 1395 de 2010",
+    "Ley 712 de 2001",
+    "Ley 75 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Ivan Mauricio Lenis Gomez/Autos/AL2930-2023.pdf",
+  "fecha_descarga": "2026-09-23T22:24:43.263962+00:00"
+}

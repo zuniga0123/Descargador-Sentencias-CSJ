@@ -1,0 +1,21 @@
+{
+  "radicado": "AL3246-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2024-03-12T17:28:42Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Ley 527 de 1999",
+    "Ley 6 de 1945",
+    "Ley 797 de 1949"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr. Ivan Mauricio Lenis Gomez/Autos/AL3246-2023.pdf",
+  "fecha_descarga": "2026-09-23T22:14:50.774285+00:00"
+}

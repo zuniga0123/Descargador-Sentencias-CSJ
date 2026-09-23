@@ -1,0 +1,20 @@
+{
+  "radicado": "AL2447-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-10-05T21:12:53Z",
+  "magistrado_ponente": "Dr.Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 4,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Luis Benedicto Herrera Diaz/Autos/AL2447-2023.pdf",
+  "fecha_descarga": "2026-09-23T22:37:39.461351+00:00"
+}

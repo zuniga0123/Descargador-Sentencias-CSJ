@@ -1,0 +1,21 @@
+{
+  "radicado": "AL2883-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-11-29T18:51:03Z",
+  "magistrado_ponente": "Dra.Clara Ines Lopez Davila",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 4,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 270 de 1996",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dra.Clara Ines Lopez Davila/Autos/AL2883-2023.pdf",
+  "fecha_descarga": "2026-09-23T22:26:05.390893+00:00"
+}

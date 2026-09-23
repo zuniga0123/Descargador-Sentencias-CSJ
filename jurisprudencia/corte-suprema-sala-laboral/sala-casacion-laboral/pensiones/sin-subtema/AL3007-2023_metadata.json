@@ -1,0 +1,21 @@
+{
+  "radicado": "AL3007-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-12-07T15:03:43Z",
+  "magistrado_ponente": "Dra.Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": 3,
+  "leyes_o_articulos": [
+    "Ley 2213 de 2022",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dra.Marjorie Zuñiga Romero/Autos/AL3007-2023.pdf",
+  "fecha_descarga": "2026-09-23T22:14:33.279224+00:00"
+}

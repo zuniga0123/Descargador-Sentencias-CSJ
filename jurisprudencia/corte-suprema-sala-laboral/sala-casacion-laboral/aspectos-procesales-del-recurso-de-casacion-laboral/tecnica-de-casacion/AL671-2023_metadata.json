@@ -1,0 +1,22 @@
+{
+  "radicado": "AL671-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-04-21T19:42:42Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Ley 100 de 1993",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Fernando Castillo Cadena/Autos/AL671-2023.pdf",
+  "fecha_descarga": "2026-09-23T23:23:53.644140+00:00"
+}

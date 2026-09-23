@@ -1,0 +1,19 @@
+{
+  "radicado": "AL334-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-03-02T11:46:08Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 3,
+  "leyes_o_articulos": [
+    "Ley 1285 de 2009"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Fernando Castillo Cadena/Autos/AL334-2023.pdf",
+  "fecha_descarga": "2026-09-23T23:32:23.296763+00:00"
+}

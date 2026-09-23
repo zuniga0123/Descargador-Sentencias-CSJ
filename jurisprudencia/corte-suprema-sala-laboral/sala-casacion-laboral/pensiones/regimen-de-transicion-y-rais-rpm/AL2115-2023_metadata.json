@@ -1,0 +1,21 @@
+{
+  "radicado": "AL2115-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-26T03:45:40Z",
+  "magistrado_ponente": "Dr.Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1285 de 2009",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Ivan Mauricio Lenis Gomez/Autos/AL2115-2023.pdf",
+  "fecha_descarga": "2026-09-23T22:46:25.918959+00:00"
+}

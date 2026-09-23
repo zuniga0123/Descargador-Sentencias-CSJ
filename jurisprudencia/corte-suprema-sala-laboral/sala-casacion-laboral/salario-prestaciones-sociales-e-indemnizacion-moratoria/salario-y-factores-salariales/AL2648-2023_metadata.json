@@ -1,0 +1,20 @@
+{
+  "radicado": "AL2648-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-10-30T19:23:43Z",
+  "magistrado_ponente": "Dr.Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 1887 de 1994",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Omar Angel Mejia Amador/Autos/AL2648-2023.pdf",
+  "fecha_descarga": "2026-09-23T22:32:24.604058+00:00"
+}

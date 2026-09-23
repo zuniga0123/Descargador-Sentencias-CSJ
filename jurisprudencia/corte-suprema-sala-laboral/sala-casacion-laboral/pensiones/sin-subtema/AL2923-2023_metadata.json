@@ -1,0 +1,21 @@
+{
+  "radicado": "AL2923-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": null,
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": 3,
+  "leyes_o_articulos": [
+    "Ley 2213 de 2022",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Gerardo Botero Zuluaga/Autos/AL2923-2023.pdf",
+  "fecha_descarga": "2026-09-23T22:25:26.571414+00:00"
+}

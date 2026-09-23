@@ -1,0 +1,21 @@
+{
+  "radicado": "AL2960-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-12-14T17:59:33Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Ley 1781 de 2016",
+    "Ley 270 de 1996",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Jimena Isabel Godoy Fajardo/Autos/AL2960-2023.pdf",
+  "fecha_descarga": "2026-09-23T22:17:00.294796+00:00"
+}

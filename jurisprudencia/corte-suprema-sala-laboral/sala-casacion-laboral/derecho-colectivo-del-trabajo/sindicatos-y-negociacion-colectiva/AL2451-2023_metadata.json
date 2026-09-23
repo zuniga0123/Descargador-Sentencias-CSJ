@@ -1,0 +1,20 @@
+{
+  "radicado": "AL2451-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-10-05T21:17:38Z",
+  "magistrado_ponente": "Dr.Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Ley 1149 de 2007",
+    "Ley 2213 de 2022"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Luis Benedicto Herrera Diaz/Autos/AL2451-2023.pdf",
+  "fecha_descarga": "2026-09-23T22:37:20.461884+00:00"
+}

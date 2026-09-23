@@ -1,0 +1,24 @@
+{
+  "radicado": "AL1047-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-16T19:32:22Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 8,
+  "leyes_o_articulos": [
+    "Decreto 2158 de 1948",
+    "Ley 100 de 1993",
+    "Ley 1395 de 2010",
+    "Ley 2213 de 2022",
+    "Ley 270 de 1996",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Fernando Castillo Cadena/Autos/AL1047-2023.pdf",
+  "fecha_descarga": "2026-09-23T23:13:58.922511+00:00"
+}

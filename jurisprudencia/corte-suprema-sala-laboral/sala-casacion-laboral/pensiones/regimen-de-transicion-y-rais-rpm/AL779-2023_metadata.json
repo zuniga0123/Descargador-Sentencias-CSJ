@@ -1,0 +1,22 @@
+{
+  "radicado": "AL779-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-04-27T19:10:20Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1887 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1395 de 2010"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Fernando Castillo Cadena/Autos/AL779-2023.pdf",
+  "fecha_descarga": "2026-09-23T23:21:21.212131+00:00"
+}

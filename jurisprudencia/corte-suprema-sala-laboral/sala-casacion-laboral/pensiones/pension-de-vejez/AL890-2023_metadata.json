@@ -1,0 +1,19 @@
+{
+  "radicado": "AL890-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-05T17:54:29Z",
+  "magistrado_ponente": "Dr.Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Ivan Mauricio Lenis Gomez/Autos/AL890-2023.pdf",
+  "fecha_descarga": "2026-09-23T23:17:59.073519+00:00"
+}

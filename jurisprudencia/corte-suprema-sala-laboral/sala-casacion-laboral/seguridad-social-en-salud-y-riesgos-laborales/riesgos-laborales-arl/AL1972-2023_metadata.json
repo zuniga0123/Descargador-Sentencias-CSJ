@@ -1,0 +1,24 @@
+{
+  "radicado": "AL1972-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-14T19:45:08Z",
+  "magistrado_ponente": "Dr.Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1295 de 1994",
+    "Ley 1562 de 2012",
+    "Ley 16 de 1968",
+    "Ley 776 de 2002",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Luis Benedicto Herrera Diaz/Autos/AL1972-2023.pdf",
+  "fecha_descarga": "2026-09-23T22:51:14.489972+00:00"
+}

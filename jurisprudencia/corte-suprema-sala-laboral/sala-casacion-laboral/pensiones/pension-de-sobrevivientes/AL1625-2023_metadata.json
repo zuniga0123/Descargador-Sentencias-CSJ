@@ -1,0 +1,23 @@
+{
+  "radicado": "AL1625-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-06-30T19:54:32Z",
+  "magistrado_ponente": "Dr.Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Decreto 575 de 2013",
+    "Ley 100 de 1993",
+    "Ley 1151 de 2007",
+    "Ley 1285 de 2009",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Luis Benedicto Herrera Diaz/Autos/AL1625-2023.pdf",
+  "fecha_descarga": "2026-09-23T23:00:26.211076+00:00"
+}

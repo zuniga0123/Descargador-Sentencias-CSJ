@@ -1,0 +1,20 @@
+{
+  "radicado": "AL2124-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-26T03:54:43Z",
+  "magistrado_ponente": "Dr.Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 8,
+  "leyes_o_articulos": [
+    "Decreto 2555 de 2010",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Ivan Mauricio Lenis Gomez/Autos/AL2124-2023.pdf",
+  "fecha_descarga": "2026-09-23T22:46:00.040379+00:00"
+}

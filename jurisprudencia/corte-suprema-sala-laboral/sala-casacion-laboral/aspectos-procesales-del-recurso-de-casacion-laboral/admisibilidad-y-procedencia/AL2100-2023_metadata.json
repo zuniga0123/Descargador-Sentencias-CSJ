@@ -1,0 +1,19 @@
+{
+  "radicado": "AL2100-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": null,
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 1,
+  "leyes_o_articulos": [
+    "Ley 2213 de 2022"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Gerardo Botero Zuluaga/Autos/AL2100-2023.pdf",
+  "fecha_descarga": "2026-09-23T22:47:11.316744+00:00"
+}

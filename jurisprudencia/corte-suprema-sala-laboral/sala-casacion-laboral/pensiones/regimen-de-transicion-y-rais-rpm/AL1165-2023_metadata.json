@@ -1,0 +1,21 @@
+{
+  "radicado": "AL1165-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": null,
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 4,
+  "leyes_o_articulos": [
+    "Ley 2213 de 2022",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Gerardo Botero Zuluaga/Autos/AL1165-2023.pdf",
+  "fecha_descarga": "2026-09-23T23:11:20.396635+00:00"
+}

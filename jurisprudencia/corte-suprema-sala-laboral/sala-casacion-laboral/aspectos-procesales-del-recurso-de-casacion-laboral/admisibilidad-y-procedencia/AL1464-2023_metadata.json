@@ -1,0 +1,24 @@
+{
+  "radicado": "AL1464-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-06-23T19:53:35Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 528 de 1964",
+    "Decreto 719 de 1989",
+    "Decreto 969 de 1946",
+    "Ley 1395 de 2010",
+    "Ley 712 de 2001",
+    "Ley 75 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Fernando Castillo Cadena/Autos/AL1464-2023.pdf",
+  "fecha_descarga": "2026-09-23T23:04:56.440301+00:00"
+}

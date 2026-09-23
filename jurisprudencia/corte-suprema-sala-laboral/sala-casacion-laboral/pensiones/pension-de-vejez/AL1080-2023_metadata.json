@@ -1,0 +1,21 @@
+{
+  "radicado": "AL1080-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-24T02:28:29Z",
+  "magistrado_ponente": "Dr.Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 270 de 1996",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Omar Angel Mejia Amador/Autos/AL1080-2023.pdf",
+  "fecha_descarga": "2026-09-23T23:12:59.522948+00:00"
+}

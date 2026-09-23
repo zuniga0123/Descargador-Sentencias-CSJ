@@ -1,0 +1,23 @@
+{
+  "radicado": "AL1596-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-07-05T21:16:04Z",
+  "magistrado_ponente": "Dr.Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": 3,
+  "leyes_o_articulos": [
+    "Decreto 575 de 2013",
+    "Decreto 806 de 2020",
+    "Ley 2213 de 2022",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Omar Angel Mejia Amador/Autos/AL1596-2023.pdf",
+  "fecha_descarga": "2026-09-23T22:59:12.961842+00:00"
+}

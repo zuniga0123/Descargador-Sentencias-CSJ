@@ -1,0 +1,21 @@
+{
+  "radicado": "AL1268-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": null,
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2661 de 1960",
+    "Decreto 528 de 1964"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Gerardo Botero Zuluaga/Autos/AL1268-2023.pdf",
+  "fecha_descarga": "2026-09-23T23:09:11.078444+00:00"
+}

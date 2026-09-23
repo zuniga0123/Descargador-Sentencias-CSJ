@@ -1,0 +1,22 @@
+{
+  "radicado": "AL2133-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-25T20:32:40Z",
+  "magistrado_ponente": "Dr.Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 8,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Luis Benedicto Herrera Diaz/Autos/AL2133-2023.pdf",
+  "fecha_descarga": "2026-09-23T22:46:47.287252+00:00"
+}

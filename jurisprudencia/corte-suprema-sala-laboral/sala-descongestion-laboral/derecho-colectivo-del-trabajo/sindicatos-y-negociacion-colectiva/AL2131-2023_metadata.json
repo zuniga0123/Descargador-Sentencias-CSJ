@@ -1,0 +1,20 @@
+{
+  "radicado": "AL2131-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-31T09:45:27Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Ley 1781 de 2016",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Omar De Jesus Restrepo Ochoa/Autos/AL2131-2023.pdf",
+  "fecha_descarga": "2026-09-23T22:45:15.032461+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "radicado": "AL085-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2023,
+  "fecha_creacion": "2023-02-24T22:16:36Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 8,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Ley 6 de 1972"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Gerardo Botero Zuluaga/Autos/AL085-2023.pdf",
+  "fecha_descarga": "2026-09-23T23:33:02.720705+00:00"
+}
