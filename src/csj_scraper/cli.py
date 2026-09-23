@@ -14,7 +14,7 @@ import logging
 from datetime import datetime
 
 from . import config
-from .pipeline import ejecutar
+from .pipeline import ejecutar, reconstruir_indice
 
 
 def _parsear_anios(valor: str) -> list[str]:
@@ -59,6 +59,12 @@ def main() -> None:
         "(duplica tiempo y espacio en disco). Por defecto solo se guarda Markdown + metadata.",
     )
     parser.add_argument(
+        "--reconstruir-indice",
+        action="store_true",
+        help="No descarga nada: regenera jurisprudencia/indice.sqlite a partir de los "
+        ".md y _metadata.json existentes (p.ej. después de clonar el repositorio).",
+    )
+    parser.add_argument(
         "--verboso",
         action="store_true",
         help="Mostrar más detalle en los logs.",
@@ -70,6 +76,10 @@ def main() -> None:
         format="%(asctime)s %(levelname)s %(message)s",
         datefmt="%H:%M:%S",
     )
+
+    if args.reconstruir_indice:
+        reconstruir_indice()
+        return
 
     anios = _parsear_anios(args.anio)
     ejecutar(

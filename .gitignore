@@ -5,10 +5,12 @@ venv/
 
 # Datos descargados: se suben a git por lotes para que no se pierdan al
 # reciclarse el contenedor efímero de la sesión (ver README). Se excluyen
-# los PDF/Word originales (no se descargan por defecto, ver --con-original)
-# y los archivos temporales de SQLite.
+# los PDF/Word originales (no se descargan por defecto, ver --con-original).
 /jurisprudencia/**/*.pdf
 /jurisprudencia/**/*.doc
 /jurisprudencia/**/*.docx
+# El índice SQLite es un derivado (supera los 100MB por archivo de GitHub):
+# se regenera con `python main.py --reconstruir-indice`.
+/jurisprudencia/indice.sqlite
 /jurisprudencia/indice.sqlite-wal
 /jurisprudencia/indice.sqlite-shm

@@ -1,10 +1,8 @@
-"""Índice SQLite de las providencias descargadas.
+"""Índice SQLite local de las providencias descargadas.
 
-El esquema usa nombres de columna compatibles con el proyecto hermano de
-Corte Constitucional (mismo patrón: radicado, corte, fecha, tema, subtema,
-área, ruta_archivo) para poder unir ambos índices más adelante, más las
-columnas propias de la CSJ (sala/sub_sala, magistrado ponente, leyes
-citadas).
+Es un derivado: la fuente de verdad son los .md y _metadata.json que se
+suben a git. El índice no se sube (supera el límite de 100MB por archivo
+de GitHub) y se reconstruye con `python main.py --reconstruir-indice`.
 """
 
 from __future__ import annotations
@@ -44,19 +42,20 @@ CREATE INDEX IF NOT EXISTS idx_providencias_tema ON providencias (tema, subtema)
 CREATE INDEX IF NOT EXISTS idx_providencias_ano ON providencias (ano);
 CREATE INDEX IF NOT EXISTS idx_providencias_sub_sala ON providencias (sub_sala);
 
+-- rowid de providencias_fts = providencias.id, para poder unir resultados.
 CREATE VIRTUAL TABLE IF NOT EXISTS providencias_fts USING fts5(
     radicado,
     tema,
     subtema,
     texto_completo,
-    content='',
-    tokenize='unicode61'
+    tokenize='unicode61 remove_diacritics 2'
 );
 """
 
 
 @contextmanager
-def conectar(db_path: Path = config.DB_PATH):
+def conectar(db_path: Path | None = None):
+    db_path = db_path or config.DB_PATH
     db_path.parent.mkdir(parents=True, exist_ok=True)
     conn = sqlite3.connect(db_path)
     conn.execute("PRAGMA journal_mode=WAL;")
@@ -67,8 +66,15 @@ def conectar(db_path: Path = config.DB_PATH):
         conn.close()
 
 
-def inicializar(db_path: Path = config.DB_PATH) -> None:
+def inicializar(db_path: Path | None = None) -> None:
     with conectar(db_path) as conn:
+        legado = conn.execute(
+            "SELECT sql FROM sqlite_master WHERE name = 'providencias_fts'"
+        ).fetchone()
+        # La primera versión creó una tabla FTS "contentless" que no permitía
+        # saber a qué providencia correspondía cada resultado.
+        if legado and "content=''" in legado[0]:
+            conn.execute("DROP TABLE providencias_fts")
         conn.executescript(SCHEMA)
 
 
@@ -148,11 +154,12 @@ def registrar_providencia(
             fecha_descarga,
         ),
     )
+    (providencia_id,) = conn.execute(
+        "SELECT id FROM providencias WHERE corte = ? AND radicado = ? AND sub_sala = ?",
+        (corte, radicado, sub_sala),
+    ).fetchone()
+    conn.execute("DELETE FROM providencias_fts WHERE rowid = ?", (providencia_id,))
     conn.execute(
-        "DELETE FROM providencias_fts WHERE radicado = ?",
-        (radicado,),
-    )
-    conn.execute(
-        "INSERT INTO providencias_fts (radicado, tema, subtema, texto_completo) VALUES (?, ?, ?, ?)",
-        (radicado, tema, subtema, texto_completo),
+        "INSERT INTO providencias_fts (rowid, radicado, tema, subtema, texto_completo) VALUES (?, ?, ?, ?, ?)",
+        (providencia_id, radicado, tema, subtema, texto_completo),
     )

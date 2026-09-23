@@ -184,6 +184,51 @@ def procesar_documento(
     return True
 
 
+def reconstruir_indice() -> int:
+    """Regenera indice.sqlite desde cero a partir de los .md y
+    _metadata.json en disco (que son la fuente de verdad en git)."""
+    for sufijo in ("", "-wal", "-shm"):
+        config.DB_PATH.with_name(config.DB_PATH.name + sufijo).unlink(missing_ok=True)
+    db.inicializar()
+    total = 0
+    with db.conectar() as conn:
+        for ruta_metadata in sorted((config.OUTPUT_ROOT / config.CORTE_DIR_NAME).rglob("*_metadata.json")):
+            meta = json.loads(ruta_metadata.read_text(encoding="utf-8"))
+            ruta_md = ruta_metadata.with_name(f"{meta['radicado']}.md")
+            if not ruta_md.exists():
+                logger.warning("Falta el Markdown de %s, se omite", meta["radicado"])
+                continue
+            _, _, cuerpo = ruta_md.read_text(encoding="utf-8").partition("\n---\n\n")
+            originales = [
+                p for p in ruta_metadata.parent.glob(f"{meta['radicado']}.*") if p.suffix in (".pdf", ".doc", ".docx")
+            ]
+            db.registrar_providencia(
+                conn,
+                corte=meta["corte"],
+                sala=meta["sala"],
+                sub_sala=meta["sub_sala"],
+                tipo_providencia=meta.get("tipo_providencia"),
+                radicado=meta["radicado"],
+                ano=meta.get("ano"),
+                fecha_creacion=meta.get("fecha_creacion"),
+                magistrado_ponente=meta.get("magistrado_ponente"),
+                area=meta["area"],
+                tema=meta["tema"],
+                subtema=meta["subtema"],
+                puntaje_clasificacion=meta.get("puntaje_clasificacion", 0),
+                leyes_o_articulos=meta.get("leyes_o_articulos", []),
+                doc_id_origen=meta["doc_id_origen"],
+                ruta_markdown=str(ruta_md.relative_to(config.PROJECT_ROOT)),
+                ruta_original=str(originales[0].relative_to(config.PROJECT_ROOT)) if originales else None,
+                ruta_metadata=str(ruta_metadata.relative_to(config.PROJECT_ROOT)),
+                fecha_descarga=meta["fecha_descarga"],
+                texto_completo=cuerpo,
+            )
+            total += 1
+    logger.info("Índice reconstruido con %d providencias.", total)
+    return total
+
+
 def ejecutar(
     anios: list[str],
     tipos: list[str] | None = None,
@@ -193,6 +238,11 @@ def ejecutar(
     descargar_original: bool = True,
 ) -> None:
     tipos = tipos or config.TIPOS_PROVIDENCIA
+    # El índice no viaja en git: en un clon nuevo hay que regenerarlo para
+    # que la corrida no vuelva a descargar lo que ya está en los archivos.
+    if not config.DB_PATH.exists() and any(config.OUTPUT_ROOT.rglob("*_metadata.json")):
+        logger.info("No hay índice local pero sí providencias descargadas: reconstruyendo índice...")
+        reconstruir_indice()
     db.inicializar()
     client = CsjApiClient()
     procesados = 0
