@@ -1,0 +1,26 @@
+{
+  "radicado": "SL957-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-10T22:11:22Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Despido sin justa causa",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 2127 de 1945",
+    "Decreto 2245 de 2012",
+    "Decreto 2714 de 2014",
+    "Decreto 2714 de 2015",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL957-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:55:39.659996+00:00"
+}

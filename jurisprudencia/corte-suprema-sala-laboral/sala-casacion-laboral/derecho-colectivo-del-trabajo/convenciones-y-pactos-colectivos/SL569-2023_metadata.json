@@ -1,0 +1,23 @@
+{
+  "radicado": "SL569-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-03-23T20:29:01Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1848 de 1969",
+    "Decreto 2879 de 1985",
+    "Decreto 3131 de 1968",
+    "Decreto 758 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Gerardo Botero Zuluaga/Sentencias/SL569-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:07:00.000798+00:00"
+}

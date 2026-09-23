@@ -1,0 +1,22 @@
+{
+  "radicado": "SL764-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-04-24T16:17:35Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 2463 de 2001",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL764-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:02:01.233553+00:00"
+}

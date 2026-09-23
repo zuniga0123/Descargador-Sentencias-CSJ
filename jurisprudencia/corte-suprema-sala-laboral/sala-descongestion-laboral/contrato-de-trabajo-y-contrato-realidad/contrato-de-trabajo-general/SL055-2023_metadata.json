@@ -1,0 +1,24 @@
+{
+  "radicado": "SL055-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-03-13T22:05:13Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 1335 de 1990",
+    "Decreto 1569 de 1998",
+    "Decreto 785 de 2005",
+    "Ley 10 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1569 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL055-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:10:01.315467+00:00"
+}

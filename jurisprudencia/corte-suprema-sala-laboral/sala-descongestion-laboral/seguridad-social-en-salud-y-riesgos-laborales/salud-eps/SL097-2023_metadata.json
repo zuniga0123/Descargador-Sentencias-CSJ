@@ -1,0 +1,25 @@
+{
+  "radicado": "SL097-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-02-07T14:25:06Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 93,
+  "leyes_o_articulos": [
+    "Decreto 1485 de 1994",
+    "Decreto 2309 de 2002",
+    "Decreto 3380 de 1981",
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 23 de 1981"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL097-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:19:08.814234+00:00"
+}

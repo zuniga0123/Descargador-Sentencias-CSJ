@@ -1,0 +1,29 @@
+{
+  "radicado": "SL594-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-03-28T16:23:18Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 111,
+  "leyes_o_articulos": [
+    "Decreto 116 de 1976",
+    "Decreto 2351 de 1965",
+    "Decreto 617 de 1954",
+    "Ley 11 de 1984",
+    "Ley 121 de 1982",
+    "Ley 16 de 1969",
+    "Ley 50 de 1936",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 712 de 2001",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Olga Yineth Merchan Calderon/Sentencias/SL594-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:06:00.997028+00:00"
+}

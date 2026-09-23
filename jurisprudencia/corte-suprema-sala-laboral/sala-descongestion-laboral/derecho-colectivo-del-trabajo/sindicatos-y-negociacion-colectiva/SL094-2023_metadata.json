@@ -1,0 +1,21 @@
+{
+  "radicado": "SL094-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-02-06T20:51:51Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 43,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 1564 de 2012",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Donald Jose Dix Ponnefz/Sentencias/SL094-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:19:48.961550+00:00"
+}

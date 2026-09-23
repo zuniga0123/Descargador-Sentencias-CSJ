@@ -1,0 +1,31 @@
+{
+  "radicado": "SL408-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-03-13T19:53:33Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 45,
+  "leyes_o_articulos": [
+    "Decreto 1049 de 2006",
+    "Decreto 2241 de 2010",
+    "Decreto 656 de 1994",
+    "Decreto 663 de 1993",
+    "Decreto 692 de 1994",
+    "Decreto 720 de 1994",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 1328 de 2009",
+    "Ley 169 de 1896",
+    "Ley 1748 de 2014",
+    "Ley 795 de 2003",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL408-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:10:30.792772+00:00"
+}

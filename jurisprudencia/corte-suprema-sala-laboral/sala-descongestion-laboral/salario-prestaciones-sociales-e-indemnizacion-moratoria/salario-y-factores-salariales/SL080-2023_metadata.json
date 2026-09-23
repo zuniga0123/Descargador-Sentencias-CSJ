@@ -1,0 +1,28 @@
+{
+  "radicado": "SL080-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-08T01:09:01Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 2651 de 1991",
+    "Decreto 797 de 1949",
+    "LEY 1149 de 2007",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 52 de 1975",
+    "Ley 712 de 2001",
+    "Ley 789 de 2002",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Ana Maria Muñoz Segura/Sentencias/SL080-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:58:18.865765+00:00"
+}

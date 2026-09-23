@@ -1,0 +1,21 @@
+{
+  "radicado": "SL1141-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-29T19:40:03Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Ley 1116 de 2006",
+    "Ley 1740 de 2014",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL1141-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:52:22.911161+00:00"
+}

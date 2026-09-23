@@ -1,0 +1,20 @@
+{
+  "radicado": "SL1137-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-30T20:51:39Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Ley 1437 de 2011",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Olga Yineth Merchan Calderon/Sentencias/SL1137-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:51:49.813336+00:00"
+}

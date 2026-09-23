@@ -1,0 +1,29 @@
+{
+  "radicado": "SL1025-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-17T17:06:46Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 102,
+  "leyes_o_articulos": [
+    "Decreto 1049 de 2006",
+    "Decreto 2241 de 2010",
+    "Decreto 3800 de 2003",
+    "Decreto 663 de 1993",
+    "Decreto 720 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1151 de 2007",
+    "Ley 1328 de 2009",
+    "Ley 1748 de 2014",
+    "Ley 656 de 1994",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL1025-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:54:22.307886+00:00"
+}

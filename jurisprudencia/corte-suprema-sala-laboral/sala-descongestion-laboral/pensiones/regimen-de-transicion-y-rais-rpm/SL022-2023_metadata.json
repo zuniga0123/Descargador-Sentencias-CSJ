@@ -1,0 +1,25 @@
+{
+  "radicado": "SL022-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-01-27T19:15:54Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 2591 de 1991",
+    "Decreto 692 de 1994",
+    "Decreto 806 de 2020",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL022-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:21:22.186005+00:00"
+}

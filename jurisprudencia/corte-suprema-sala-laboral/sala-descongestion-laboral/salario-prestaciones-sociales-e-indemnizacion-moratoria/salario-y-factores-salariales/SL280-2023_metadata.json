@@ -1,0 +1,29 @@
+{
+  "radicado": "SL280-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-03-01T14:08:26Z",
+  "magistrado_ponente": "Dr.Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 47,
+  "leyes_o_articulos": [
+    "Decreto 1887 de 1994",
+    "Decreto 2665 de 1988",
+    "Decreto 3063 de 1989",
+    "Ley 100 de 1993",
+    "Ley 1116 de 2006",
+    "Ley 1117 de 2006",
+    "Ley 171 de 1961",
+    "Ley 222 de 1995",
+    "Ley 7 de 1991",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Martin Emilio Beltran Quintero/Sentencias/SL280-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:13:52.042620+00:00"
+}

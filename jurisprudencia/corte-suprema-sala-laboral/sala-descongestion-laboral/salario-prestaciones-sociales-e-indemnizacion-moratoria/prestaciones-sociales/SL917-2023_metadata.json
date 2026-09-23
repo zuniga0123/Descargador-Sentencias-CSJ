@@ -1,0 +1,28 @@
+{
+  "radicado": "SL917-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-08T15:48:28Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 5012 de 2009",
+    "Ley 1098 de 2006",
+    "Ley 115 de 1994",
+    "Ley 1295 de 2009",
+    "Ley 30 de 1992",
+    "Ley 50 de 1990",
+    "Ley 60 de 1993",
+    "Ley 715 de 2001",
+    "Ley 715 de 2004",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL917-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:57:01.523169+00:00"
+}

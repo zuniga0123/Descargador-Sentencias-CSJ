@@ -1,0 +1,29 @@
+{
+  "radicado": "SL098-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-02-06T17:04:56Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 139,
+  "leyes_o_articulos": [
+    "Decreto 116 de 1976",
+    "Decreto 2025 de 2011",
+    "Decreto 4588 de 2006",
+    "Decreto 468 de 1990",
+    "Ley 1233 de 2008",
+    "Ley 1429 de 2010",
+    "Ley 15 de 1959",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 789 de 2002",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL098-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:19:06.891727+00:00"
+}

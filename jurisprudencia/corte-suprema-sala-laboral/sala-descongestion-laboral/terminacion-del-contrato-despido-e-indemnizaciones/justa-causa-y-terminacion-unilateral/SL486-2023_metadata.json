@@ -1,0 +1,20 @@
+{
+  "radicado": "SL486-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-03-15T16:46:51Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 130 de 2014",
+    "Decreto 3000 de 2011"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL486-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:08:09.435858+00:00"
+}

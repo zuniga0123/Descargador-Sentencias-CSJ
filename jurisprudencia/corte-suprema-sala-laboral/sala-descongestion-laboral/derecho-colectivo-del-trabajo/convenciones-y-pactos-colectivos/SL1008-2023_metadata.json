@@ -1,0 +1,19 @@
+{
+  "radicado": "SL1008-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-16T15:00:39Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 2519 de 2015"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL1008-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:55:14.813198+00:00"
+}

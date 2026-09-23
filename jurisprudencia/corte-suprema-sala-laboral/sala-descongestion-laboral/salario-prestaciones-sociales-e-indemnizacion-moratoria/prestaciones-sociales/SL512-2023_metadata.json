@@ -1,0 +1,23 @@
+{
+  "radicado": "SL512-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-03-23T14:29:23Z",
+  "magistrado_ponente": "Dr. Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 102,
+  "leyes_o_articulos": [
+    "Decreto 4369 de 2006",
+    "Ley 1 de 1963",
+    "Ley 50 de 1990",
+    "Ley 712 de 2001",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Martin Emilio Beltran Quintero/Sentencias/SL512-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:07:20.320420+00:00"
+}

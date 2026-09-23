@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1068-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-19T23:34:07Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 01 de 1984",
+    "Decreto 1 de 1984",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1962",
+    "Decreto 2351 de 1965",
+    "Decreto 797 de 1949",
+    "Ley 2351 de 1965",
+    "Ley 6 de 1945",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Fernando Castillo Cadena/Sentencias/SL1068-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:53:43.368962+00:00"
+}

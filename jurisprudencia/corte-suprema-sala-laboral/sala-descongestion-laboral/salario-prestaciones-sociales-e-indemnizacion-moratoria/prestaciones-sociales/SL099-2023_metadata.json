@@ -1,0 +1,23 @@
+{
+  "radicado": "SL099-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-02-08T14:10:21Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "LEY 1564 DE 2012",
+    "LEY 50 DE 1990",
+    "Ley 1564 de 2012",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL099-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:18:42.056290+00:00"
+}

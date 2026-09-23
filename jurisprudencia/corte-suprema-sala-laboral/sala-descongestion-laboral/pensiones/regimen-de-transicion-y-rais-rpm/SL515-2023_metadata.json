@@ -1,0 +1,22 @@
+{
+  "radicado": "SL515-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-03-23T14:56:00Z",
+  "magistrado_ponente": "Dr.Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 38,
+  "leyes_o_articulos": [
+    "Decreto 528 de 1964",
+    "Decreto 528 de 1995",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Martin Emilio Beltran Quintero/Sentencias/SL515-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:07:16.452047+00:00"
+}

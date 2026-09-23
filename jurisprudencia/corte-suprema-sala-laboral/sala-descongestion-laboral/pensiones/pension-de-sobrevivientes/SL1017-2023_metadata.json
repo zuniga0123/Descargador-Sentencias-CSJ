@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1017-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-16T22:39:30Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1204 de 2008",
+    "Ley 1574 de 2012",
+    "Ley 1754 de 2012",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL1017-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:54:08.944445+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "radicado": "SL025-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-01-27T21:44:39Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Ley 361 de 1997",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL025-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:21:02.281993+00:00"
+}

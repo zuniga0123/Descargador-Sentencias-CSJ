@@ -1,0 +1,20 @@
+{
+  "radicado": "SL464-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-08T01:23:48Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 42,
+  "leyes_o_articulos": [
+    "Decreto 4588 de 2006",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL464-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:58:11.438772+00:00"
+}

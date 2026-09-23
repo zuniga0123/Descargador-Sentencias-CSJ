@@ -1,0 +1,21 @@
+{
+  "radicado": "SL188-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-02-15T20:47:03Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 54,
+  "leyes_o_articulos": [
+    "Decreto 1507 de 2014",
+    "Ley 100 de 1993",
+    "Ley 361 de 1997"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL188-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:17:32.841623+00:00"
+}

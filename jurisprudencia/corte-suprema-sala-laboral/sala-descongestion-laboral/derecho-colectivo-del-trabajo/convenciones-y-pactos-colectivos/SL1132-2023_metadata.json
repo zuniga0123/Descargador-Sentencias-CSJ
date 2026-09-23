@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1132-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-29T14:29:22Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Decreto 528 de 1964",
+    "Ley 16 de 1969",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Ana Maria Muñoz Segura/Sentencias/SL1132-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:52:30.296041+00:00"
+}

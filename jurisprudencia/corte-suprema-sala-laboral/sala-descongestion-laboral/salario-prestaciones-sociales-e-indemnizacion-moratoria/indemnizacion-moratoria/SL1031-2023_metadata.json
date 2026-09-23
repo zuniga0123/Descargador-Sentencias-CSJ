@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1031-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-23T18:26:42Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 01 de 1984",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1865",
+    "Decreto 797 de 1949",
+    "Ley 6 de 1945",
+    "Ley 797 de 1949",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL1031-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:53:22.858058+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "radicado": "SL491-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-03-15T20:34:46Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 74,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 1160 de 1947",
+    "Decreto 1582 de 1998",
+    "Decreto 1848 de 1969",
+    "Decreto 3118 de 1968",
+    "Decreto 416 de 1997",
+    "Decreto 432 de 1998",
+    "Decreto 797 de 1949",
+    "Ley 3135 de 1968",
+    "Ley 344 de 1996",
+    "Ley 41 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL491-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:09:11.725304+00:00"
+}

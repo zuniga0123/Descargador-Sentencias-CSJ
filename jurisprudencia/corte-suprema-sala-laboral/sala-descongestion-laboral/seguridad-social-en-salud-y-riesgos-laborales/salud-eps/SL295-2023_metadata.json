@@ -1,0 +1,30 @@
+{
+  "radicado": "SL295-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-02-27T21:17:49Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 2423 de 1996",
+    "Decreto 2747 de 2007",
+    "Decreto 4747 de 2007",
+    "Decreto 723 de 1997",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 1122 de 2207",
+    "Ley 1281 de 2002",
+    "Ley 1437 de 2011",
+    "Ley 1438 de 2011",
+    "Ley 16 de 1969",
+    "Ley 715 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL295-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:14:15.452324+00:00"
+}

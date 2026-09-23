@@ -1,0 +1,20 @@
+{
+  "radicado": "SL1134-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-31T15:37:53Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 49,
+  "leyes_o_articulos": [
+    "Decreto 116 de 1976",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Olga Yineth Merchan Calderon/Sentencias/SL1134-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:51:46.081557+00:00"
+}

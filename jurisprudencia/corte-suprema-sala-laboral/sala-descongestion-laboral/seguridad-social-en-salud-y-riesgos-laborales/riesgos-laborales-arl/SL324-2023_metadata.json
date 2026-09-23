@@ -1,0 +1,21 @@
+{
+  "radicado": "SL324-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-03-03T20:10:04Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Ley 153 de 1886",
+    "Ley 153 de 1887",
+    "Ley 53 de 1887"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL324-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:12:55.355657+00:00"
+}

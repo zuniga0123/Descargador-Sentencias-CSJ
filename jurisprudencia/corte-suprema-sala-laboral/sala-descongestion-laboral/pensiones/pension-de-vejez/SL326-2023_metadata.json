@@ -1,0 +1,25 @@
+{
+  "radicado": "SL326-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-03-02T16:34:44Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1999",
+    "Decreto 13 de 2001",
+    "Decreto 142 de 2006",
+    "Decreto 4712 de 2008",
+    "Decreto 832 de 1996",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL326-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:13:20.362998+00:00"
+}

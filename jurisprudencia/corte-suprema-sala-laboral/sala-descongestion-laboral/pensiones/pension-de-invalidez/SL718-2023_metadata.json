@@ -1,0 +1,26 @@
+{
+  "radicado": "SL718-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-04-20T15:51:55Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 19 de 2012",
+    "Decreto 2351 de 1965",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 860 de 2003",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Ana Maria Muñoz Segura/Sentencias/SL718-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:02:34.747658+00:00"
+}

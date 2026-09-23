@@ -1,0 +1,20 @@
+{
+  "radicado": "SL949-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-10T11:13:46Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 2463 de 2001",
+    "Ley 361 de 1997"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Donald Jose Dix Ponnefz/Sentencias/SL949-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:57:05.105783+00:00"
+}

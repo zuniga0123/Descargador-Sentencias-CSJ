@@ -1,0 +1,31 @@
+{
+  "radicado": "SL844-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-04T15:51:49Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 130 de 1976",
+    "Decreto 1572 de 1998",
+    "Decreto 2351 de 1965",
+    "Decreto 2504 de 1998",
+    "Decreto 2702 de 2003",
+    "Decreto 2707 de 2003",
+    "Decreto 3135 de 1968",
+    "Decreto 528 de 1964",
+    "Decreto 797 de 1949",
+    "Ley 153 de 1887",
+    "Ley 16 de 1968",
+    "Ley 443 de 1998",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL844-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:59:06.100718+00:00"
+}

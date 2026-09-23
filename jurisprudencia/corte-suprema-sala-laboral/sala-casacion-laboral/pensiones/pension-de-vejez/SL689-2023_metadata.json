@@ -1,0 +1,23 @@
+{
+  "radicado": "SL689-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-04-17T16:35:08Z",
+  "magistrado_ponente": "Dr.Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 042 de 2020",
+    "Decreto 1160 de 1994",
+    "Decreto 1748 de 1995",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Luis Benedicto Herrera Diaz/Sentencias/SL689-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:03:24.056518+00:00"
+}

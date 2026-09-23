@@ -1,0 +1,26 @@
+{
+  "radicado": "SL935-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-10T16:28:01Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 42,
+  "leyes_o_articulos": [
+    "Decreto 017 de 2016",
+    "Decreto 1373 de 1966",
+    "Decreto 1373 de 1996",
+    "Decreto 1469 de 1978",
+    "Decreto 2351 de 1965",
+    "Decreto 564 de 2020",
+    "Ley 100 de 1993",
+    "Ley 1563 de 2012"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL935-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:56:14.380171+00:00"
+}

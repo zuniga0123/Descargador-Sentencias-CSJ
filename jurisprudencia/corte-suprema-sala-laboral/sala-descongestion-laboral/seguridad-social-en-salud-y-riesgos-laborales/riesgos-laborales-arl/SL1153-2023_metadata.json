@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1153-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-30T19:58:19Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 43,
+  "leyes_o_articulos": [
+    "Decreto 797 de 1949",
+    "Ley 1285 de 2009",
+    "Ley 16 de 1969",
+    "Ley 270 de 1996",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL1153-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:51:51.946297+00:00"
+}

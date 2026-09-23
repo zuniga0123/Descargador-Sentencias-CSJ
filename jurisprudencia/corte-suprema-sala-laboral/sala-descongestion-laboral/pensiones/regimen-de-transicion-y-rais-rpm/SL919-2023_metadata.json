@@ -1,0 +1,22 @@
+{
+  "radicado": "SL919-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-08T18:38:19Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 1581 de 2012",
+    "Ley 1784 de 2014"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL919-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:56:57.671605+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1173-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-06-02T00:31:47Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 43,
+  "leyes_o_articulos": [
+    "Decreto 1858 de 1995",
+    "Decreto 3771 de 2007",
+    "Decreto 569 de 2004",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL1173-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:51:20.290818+00:00"
+}

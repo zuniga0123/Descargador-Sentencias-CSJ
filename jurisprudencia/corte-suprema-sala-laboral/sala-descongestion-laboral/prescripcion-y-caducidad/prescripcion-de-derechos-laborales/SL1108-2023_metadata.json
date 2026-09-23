@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1108-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-24T15:33:39Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 54,
+  "leyes_o_articulos": [
+    "Decreto 232 de 1984",
+    "Decreto 3041 de 1966",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL1108-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:53:06.299727+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "radicado": "SL898-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-05T15:36:47Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 38,
+  "leyes_o_articulos": [
+    "Decreto 3041 de 1966",
+    "Decreto 433 de 1971",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 153 de 1987",
+    "Ley 433 de 1971",
+    "Ley 90 de 1946",
+    "Ley 90 de 1948"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Jorge Prada Sanchez/Sentencias/SL898-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:58:40.588739+00:00"
+}

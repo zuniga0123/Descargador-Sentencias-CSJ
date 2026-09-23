@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1022-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-17T15:17:35Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 72,
+  "leyes_o_articulos": [
+    "Decreto 2567 de 1946",
+    "Decreto 2614 de 2022",
+    "Decreto 45 de 1990",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1022-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:55:18.668152+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "radicado": "SL138-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-02-13T19:13:03Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 49,
+  "leyes_o_articulos": [
+    "Ley 712 de 2001",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Donald Jose Dix Ponnefz/Sentencias/SL138-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:18:13.889270+00:00"
+}

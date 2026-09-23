@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1156-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-30T20:56:01Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 116,
+  "leyes_o_articulos": [
+    "Decreto 089 de 2014",
+    "Decreto 1469 de 1978",
+    "Decreto 2351 de 1965",
+    "Decreto 2365 de 1965",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL1156-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:51:01.768819+00:00"
+}

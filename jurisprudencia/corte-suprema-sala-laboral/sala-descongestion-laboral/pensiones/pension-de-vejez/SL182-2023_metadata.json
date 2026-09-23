@@ -1,0 +1,26 @@
+{
+  "radicado": "SL182-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-02-17T17:48:47Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 47,
+  "leyes_o_articulos": [
+    "Decreto 142 de 2006",
+    "Decreto 3041 de 1966",
+    "Decreto 656 de 1994",
+    "Decreto 832 de 1996",
+    "Decreto 836 de 1996",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL182-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:16:35.466125+00:00"
+}

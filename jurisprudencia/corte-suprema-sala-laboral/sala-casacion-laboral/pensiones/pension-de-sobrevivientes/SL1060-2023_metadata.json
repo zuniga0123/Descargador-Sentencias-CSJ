@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1060-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-19T14:43:46Z",
+  "magistrado_ponente": "Dr.Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 3041 de 1966",
+    "Decreto 690 de 1974",
+    "Ley 100 de 1993",
+    "Ley 33 de 1973",
+    "Ley 433 de 1971",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Omar Angel Mejia Amador/Sentencias/SL1060-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:54:25.883310+00:00"
+}

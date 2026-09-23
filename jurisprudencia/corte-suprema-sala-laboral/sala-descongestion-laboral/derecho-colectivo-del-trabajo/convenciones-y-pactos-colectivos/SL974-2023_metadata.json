@@ -1,0 +1,19 @@
+{
+  "radicado": "SL974-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-11T20:25:08Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 2313 de 2012"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Jorge Prada Sanchez/Sentencias/SL974-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:56:08.732166+00:00"
+}

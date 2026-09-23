@@ -1,0 +1,25 @@
+{
+  "radicado": "SL479-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-03-15T15:07:15Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 01 de 1963",
+    "Ley 153 de 1887",
+    "Ley 2 de 1984",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Donald Jose Dix Ponnefz/Sentencias/SL479-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:09:17.122372+00:00"
+}

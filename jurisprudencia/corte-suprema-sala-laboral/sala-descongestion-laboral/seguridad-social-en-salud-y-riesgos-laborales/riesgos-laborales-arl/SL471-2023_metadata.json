@@ -1,0 +1,30 @@
+{
+  "radicado": "SL471-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-03-14T16:52:13Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Decreto 1221 de 1975",
+    "Decreto 1242 de 1970",
+    "Decreto 1586 de 1989",
+    "Decreto 1591 de 1989",
+    "Decreto 2108 de 1992",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 21 de 1988",
+    "Ley 270 de 1996",
+    "Ley 445 de 1998",
+    "Ley 6 de 1992",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL471-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:09:32.133206+00:00"
+}

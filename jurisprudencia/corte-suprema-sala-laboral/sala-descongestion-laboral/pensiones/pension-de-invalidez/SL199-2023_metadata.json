@@ -1,0 +1,26 @@
+{
+  "radicado": "SL199-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-02-16T21:29:53Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 2280 de 1994",
+    "Decreto 656 de 1994",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 860 de 2003",
+    "Ley 860 de 3003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL199-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:17:03.176952+00:00"
+}

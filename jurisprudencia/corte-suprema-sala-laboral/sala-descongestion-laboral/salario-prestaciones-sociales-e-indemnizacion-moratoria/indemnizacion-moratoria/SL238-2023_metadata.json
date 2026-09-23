@@ -1,0 +1,23 @@
+{
+  "radicado": "SL238-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-02-23T20:00:31Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 51,
+  "leyes_o_articulos": [
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 1149 de 2007",
+    "Ley 80 de 1990",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Olga Yineth Merchan Calderon/Sentencias/SL238-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:14:57.175245+00:00"
+}

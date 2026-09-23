@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1066-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-19T23:38:38Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 169 de 2008",
+    "Decreto 2127 de 1945",
+    "Decreto 575 de 2013",
+    "Ley 100 de 1993",
+    "Ley 2213 de 2022",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Fernando Castillo Cadena/Sentencias/SL1066-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:53:41.474987+00:00"
+}

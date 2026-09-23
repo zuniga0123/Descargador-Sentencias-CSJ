@@ -1,0 +1,30 @@
+{
+  "radicado": "SL867-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-02T18:09:15Z",
+  "magistrado_ponente": "Dra.Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 1437 de 2015",
+    "Decreto 1750 de 2003",
+    "Decreto 2012 de 2013",
+    "Decreto 2148 de 1992",
+    "Decreto 3170 de 1964",
+    "Decreto 600 de 2008",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1151 de 2007",
+    "Ley 1753 de 2015",
+    "Ley 712 de 2001",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dra.Marjorie Zuñiga Romero/Sentencias/SL867-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:59:38.849590+00:00"
+}

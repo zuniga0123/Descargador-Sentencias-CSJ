@@ -1,0 +1,25 @@
+{
+  "radicado": "SL298-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-02-28T20:10:27Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Decreto 1660 de 1989",
+    "Ley 10 de 1993",
+    "Ley 100 de 1993",
+    "Ley 1118 de 2006",
+    "Ley 54 de 1990",
+    "Ley 71 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Olga Yineth Merchan Calderon/Sentencias/SL298-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:14:06.350754+00:00"
+}

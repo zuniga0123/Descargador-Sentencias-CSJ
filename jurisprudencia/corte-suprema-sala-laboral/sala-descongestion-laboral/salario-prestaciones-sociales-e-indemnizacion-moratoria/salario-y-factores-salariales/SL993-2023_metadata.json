@@ -1,0 +1,23 @@
+{
+  "radicado": "SL993-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-15T21:23:23Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 54,
+  "leyes_o_articulos": [
+    "Decreto 1083 de 2015",
+    "Decreto 2127 de 1945",
+    "Decreto 219 de 2004",
+    "Decreto 2351 de 1965",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Olga Yineth Merchan Calderon/Sentencias/SL993-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:55:28.678890+00:00"
+}

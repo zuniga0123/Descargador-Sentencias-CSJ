@@ -1,0 +1,31 @@
+{
+  "radicado": "SL120-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-02-08T16:55:48Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Decreto 1352 de 2013",
+    "Decreto 1477 de 2014",
+    "Decreto 1507 de 2014",
+    "Decreto 19 de 2012",
+    "Decreto 2566 de 2009",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 1562 de 2012",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL120-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:17:51.715677+00:00"
+}

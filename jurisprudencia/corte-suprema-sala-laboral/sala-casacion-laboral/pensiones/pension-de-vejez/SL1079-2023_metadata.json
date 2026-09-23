@@ -1,0 +1,30 @@
+{
+  "radicado": "SL1079-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-21T22:36:09Z",
+  "magistrado_ponente": "Dr.Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 91,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 142 de 2006",
+    "Decreto 1474 de 1997",
+    "Decreto 1513 de 1998",
+    "Decreto 1887 de 1994",
+    "Decreto 692 de 1994",
+    "Decreto 832 de 1996",
+    "Decreto 833 de 1996",
+    "Ley 100 de 1993",
+    "Ley 1955 de 2019",
+    "Ley 717 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Omar Angel Mejia Amador/Sentencias/SL1079-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:53:50.763475+00:00"
+}

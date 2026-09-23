@@ -1,0 +1,24 @@
+{
+  "radicado": "SL528-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-03-21T20:29:36Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 46,
+  "leyes_o_articulos": [
+    "Decreto 1833 de 2016",
+    "Decreto 3771 de 2007",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Olga Yineth Merchan Calderon/Sentencias/SL528-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:07:43.975848+00:00"
+}

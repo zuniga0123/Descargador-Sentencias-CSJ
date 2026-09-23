@@ -1,0 +1,25 @@
+{
+  "radicado": "SL198-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-02-16T20:11:44Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1333 de 1986",
+    "Decreto 1333 de 1996",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 1333 de 1986",
+    "Ley 142 de 1994",
+    "Ley 3135 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL198-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:17:05.018743+00:00"
+}

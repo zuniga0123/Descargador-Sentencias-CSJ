@@ -1,0 +1,30 @@
+{
+  "radicado": "SL1217-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-06-07T04:18:59Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 113 de 1985",
+    "Ley 12 de 1975",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 33 de 1973",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Olga Yineth Merchan Calderon/Sentencias/SL1217-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:49:16.674495+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL652-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-08T01:14:46Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 2025 de 2011",
+    "Decreto 4588 de 2006",
+    "Decreto 468 de 1990",
+    "Ley 1233 de 2008",
+    "Ley 1429 de 2010",
+    "Ley 50 de 1990",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Donald Jose Dix Ponnefz/Sentencias/SL652-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:58:16.829573+00:00"
+}

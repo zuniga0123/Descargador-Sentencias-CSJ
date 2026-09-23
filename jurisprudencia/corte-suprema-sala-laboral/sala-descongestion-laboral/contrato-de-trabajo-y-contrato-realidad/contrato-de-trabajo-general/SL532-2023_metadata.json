@@ -1,0 +1,21 @@
+{
+  "radicado": "SL532-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-03-21T14:20:30Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 4369 de 2006",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Ana Maria Muñoz Segura/Sentencias/SL532-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:08:03.952667+00:00"
+}

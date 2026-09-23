@@ -1,0 +1,24 @@
+{
+  "radicado": "SL284-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-02-24T16:14:03Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "DECRETO 01 DE 1984",
+    "Decreto 01 de 1984",
+    "LEY 1437 DE 2011",
+    "Ley 100 de 1993",
+    "Ley 1437 de 2011",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Ana Maria Muñoz Segura/Sentencias/SL284-2023.pdf",
+  "fecha_descarga": "2026-09-23T21:14:50.012677+00:00"
+}

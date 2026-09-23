@@ -1,0 +1,25 @@
+{
+  "radicado": "SL965-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-05-10T23:02:27Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "DECRETO 2701 DE 1988",
+    "Decreto 1158 de 1994",
+    "Decreto 2701 de 1988",
+    "Decreto 546 de 1971",
+    "Decreto 691 de 1994",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL965-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:56:28.538690+00:00"
+}
