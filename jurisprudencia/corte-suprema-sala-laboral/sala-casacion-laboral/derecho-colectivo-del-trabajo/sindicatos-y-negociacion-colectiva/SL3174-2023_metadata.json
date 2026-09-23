@@ -1,0 +1,22 @@
+{
+  "radicado": "SL3174-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2024-03-31T01:14:49Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 99,
+  "leyes_o_articulos": [
+    "Decreto 1469 de 1978",
+    "Ley 1563 de 2012",
+    "Ley 527 de 1999",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL3174-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:47:37.865131+00:00"
+}

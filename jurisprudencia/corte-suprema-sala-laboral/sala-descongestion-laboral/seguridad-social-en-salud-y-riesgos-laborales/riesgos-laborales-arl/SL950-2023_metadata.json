@@ -1,0 +1,20 @@
+{
+  "radicado": "SL950-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-09T02:16:42Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Ley 361 de 1997",
+    "Ley 371 de 1996"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Donald Jose Dix Ponnefz/Sentencias/SL950-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:31:59.713047+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2681-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2024-01-22T13:02:37Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 1333 de 1986",
+    "Decreto 2125 de 1945",
+    "Decreto 2127 de 1945",
+    "Decreto 797 de 1949",
+    "LEY 1150 DE 2007",
+    "LEY 80 DE 1993",
+    "Ley 3135 de 1968",
+    "Ley 790 de 2002",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL2681-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:53:06.421716+00:00"
+}

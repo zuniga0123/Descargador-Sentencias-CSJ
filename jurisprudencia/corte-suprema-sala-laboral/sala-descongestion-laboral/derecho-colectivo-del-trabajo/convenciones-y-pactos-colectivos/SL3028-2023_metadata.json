@@ -1,0 +1,26 @@
+{
+  "radicado": "SL3028-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-12-12T19:56:40Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Decreto 2651 de 1991",
+    "Ley 100 de 1993",
+    "Ley 169 de 1896",
+    "Ley 1781 de 2016",
+    "Ley 446 de 1998",
+    "Ley 71 de 1988",
+    "Ley 74 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL3028-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:55:31.475368+00:00"
+}

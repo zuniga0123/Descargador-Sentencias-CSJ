@@ -1,0 +1,22 @@
+{
+  "radicado": "SL2920-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2024-03-19T20:03:28Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 64,
+  "leyes_o_articulos": [
+    "Decreto 1753 de 2015",
+    "Decreto 1818 de 1996",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Ana Maria Muñoz Segura/Sentencias/SL2920-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:48:37.632096+00:00"
+}

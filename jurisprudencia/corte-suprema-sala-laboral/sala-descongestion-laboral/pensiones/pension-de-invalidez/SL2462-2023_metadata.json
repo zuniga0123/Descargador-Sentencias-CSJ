@@ -1,0 +1,28 @@
+{
+  "radicado": "SL2462-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-10-24T15:35:47Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1242 de 1970",
+    "Decreto 1586 de 1989",
+    "Decreto 2108 de 1992",
+    "Decreto 236 de 1999",
+    "Decreto 3130 de 1968",
+    "Ley 100 de 1993",
+    "Ley 21 de 1988",
+    "Ley 4 de 1976",
+    "Ley 6 de 1992",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Ana Maria Muñoz Segura/Sentencias/SL2462-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:12:48.603602+00:00"
+}

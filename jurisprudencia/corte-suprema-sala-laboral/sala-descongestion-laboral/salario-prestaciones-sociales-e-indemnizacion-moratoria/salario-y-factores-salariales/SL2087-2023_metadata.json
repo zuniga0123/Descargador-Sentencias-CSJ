@@ -1,0 +1,21 @@
+{
+  "radicado": "SL2087-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-29T17:46:33Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 69,
+  "leyes_o_articulos": [
+    "Ley 344 de 1996",
+    "Ley 50 de 1990",
+    "Ley 54 de 1992"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL2087-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:25:51.520947+00:00"
+}

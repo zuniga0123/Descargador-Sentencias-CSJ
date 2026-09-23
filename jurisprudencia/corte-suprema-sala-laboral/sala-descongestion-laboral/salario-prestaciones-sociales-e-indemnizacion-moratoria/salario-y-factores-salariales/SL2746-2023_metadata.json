@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2746-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2024-01-22T12:34:45Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 139,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 1429 de 2010",
+    "Ley 222 de 1995",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 527 de 1999",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL2746-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:53:15.872388+00:00"
+}

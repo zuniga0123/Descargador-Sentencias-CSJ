@@ -1,0 +1,28 @@
+{
+  "radicado": "SL2814-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2024-01-22T14:56:48Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 3041 de 1966",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 16 de 1969",
+    "Ley 16 de 1972",
+    "Ley 171 de 1961",
+    "Ley 1781 de 2016"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Ana Maria Muñoz Segura/Sentencias/SL2814-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:52:22.292512+00:00"
+}

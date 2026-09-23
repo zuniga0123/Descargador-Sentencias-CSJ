@@ -1,0 +1,29 @@
+{
+  "radicado": "SL2771-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-11-20T17:29:51Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 62,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1947",
+    "Decreto 1252 de 2002",
+    "Decreto 1848 de 1969",
+    "Decreto 2511 de 1998",
+    "Decreto 2767 de 1945",
+    "Decreto 3118 de 1968",
+    "Decreto 3135 de 1968",
+    "Ley 344 de 1996",
+    "Ley 50 de 1990",
+    "Ley 52 de 1973",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL2771-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:04:57.110394+00:00"
+}

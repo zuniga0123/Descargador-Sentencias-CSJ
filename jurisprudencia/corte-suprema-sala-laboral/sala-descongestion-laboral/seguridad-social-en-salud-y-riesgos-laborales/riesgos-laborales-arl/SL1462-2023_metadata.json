@@ -1,0 +1,28 @@
+{
+  "radicado": "SL1462-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-06-28T14:22:22Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 133,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1642 de 1995",
+    "Ley 100 de 1993",
+    "Ley 1098 de 2006",
+    "Ley 142 de 1994",
+    "Ley 1562 de 2012",
+    "Ley 270 de 1996",
+    "Ley 446 de 1998",
+    "Ley 776 de 2002",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL1462-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:42:43.726758+00:00"
+}

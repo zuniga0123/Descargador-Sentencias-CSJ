@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1860-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-10T17:16:38Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1399 de 1990",
+    "Decreto 739 de 1991",
+    "Ley 10 de 1990",
+    "Ley 153 de 1887",
+    "Ley 50 de 1990",
+    "Ley 789 de 2002",
+    "Ley 998 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Jorge Prada Sanchez/Sentencias/SL1860-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:30:56.356831+00:00"
+}

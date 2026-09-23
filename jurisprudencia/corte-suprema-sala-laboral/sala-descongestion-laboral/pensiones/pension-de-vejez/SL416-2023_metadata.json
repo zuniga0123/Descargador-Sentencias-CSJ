@@ -1,0 +1,26 @@
+{
+  "radicado": "SL416-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-07-04T17:37:55Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 79,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 3995 de 2008",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1214 de 1990",
+    "Ley 812 de 2003",
+    "Ley 90 de 1946",
+    "Ley 91 de 1989"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL416-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:41:46.478683+00:00"
+}

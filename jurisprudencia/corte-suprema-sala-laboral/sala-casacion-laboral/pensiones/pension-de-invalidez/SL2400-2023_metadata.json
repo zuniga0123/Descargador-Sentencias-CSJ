@@ -1,0 +1,26 @@
+{
+  "radicado": "SL2400-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-10-10T20:45:16Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 1641 de 1995",
+    "Decreto 1642 de 1995",
+    "Decreto 19 de 2012",
+    "Ley 100 de 1993",
+    "Ley 860 de 2003",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Gerardo Botero Zuluaga/Sentencias/SL2400-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:15:40.532634+00:00"
+}

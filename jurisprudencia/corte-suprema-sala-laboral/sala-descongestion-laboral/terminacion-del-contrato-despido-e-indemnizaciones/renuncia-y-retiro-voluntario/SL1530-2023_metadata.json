@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1530-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-14T21:09:10Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Renuncia y retiro voluntario",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 13 de 1967",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 584 de 2000",
+    "Ley 616 de 1954"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Ana Maria Muñoz Segura/Sentencias/SL1530-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:30:05.435710+00:00"
+}

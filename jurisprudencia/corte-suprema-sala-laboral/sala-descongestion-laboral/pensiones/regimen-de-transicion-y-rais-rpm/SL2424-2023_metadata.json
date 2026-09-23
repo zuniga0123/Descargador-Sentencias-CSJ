@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2424-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-10-20T17:00:10Z",
+  "magistrado_ponente": "Dr.Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 70,
+  "leyes_o_articulos": [
+    "Decreto 654 de 1994",
+    "Decreto 663 de 1993",
+    "Decreto 692 de 1994",
+    "Decreto 720 de 1994",
+    "Ley 100 de 1993",
+    "Ley 169 de 1896",
+    "Ley 1748 de 2014",
+    "Ley 795 de 2003",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Martin Emilio Beltran Quintero/Sentencias/SL2424-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:13:07.631119+00:00"
+}

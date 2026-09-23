@@ -1,0 +1,32 @@
+{
+  "radicado": "SL2035-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-12-17T13:31:01Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 2013 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 3135 de 1968",
+    "Decreto 553 de 2015",
+    "Decreto 797 de 1949",
+    "Decreto 797 de 2003",
+    "Ley 1105 de 2006",
+    "Ley 16 de 1969",
+    "Ley 254 de 2000",
+    "Ley 4 de 1966",
+    "Ley 6 de 1945",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Gerardo Botero Zuluaga/Sentencias/SL2035-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:54:36.965703+00:00"
+}

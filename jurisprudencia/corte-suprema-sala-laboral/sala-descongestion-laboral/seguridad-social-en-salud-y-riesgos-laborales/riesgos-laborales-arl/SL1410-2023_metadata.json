@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1410-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-06-23T14:24:38Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1352 de 2013",
+    "Decreto 1543 de 1997",
+    "Decreto 2463 de 2001",
+    "LEY 361 DE 1997",
+    "Ley 1346 de 2009",
+    "Ley 1618 de 2013",
+    "Ley 361 de 1997",
+    "Ley 762 de 2002",
+    "Ley 972 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Jorge Prada Sanchez/Sentencias/SL1410-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:44:42.254072+00:00"
+}

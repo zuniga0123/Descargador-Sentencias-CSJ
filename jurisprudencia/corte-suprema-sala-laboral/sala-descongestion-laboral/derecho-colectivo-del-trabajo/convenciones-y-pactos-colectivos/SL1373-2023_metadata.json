@@ -1,0 +1,33 @@
+{
+  "radicado": "SL1373-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-06-20T21:10:24Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 1474 de 1995",
+    "Decreto 1642 de 1995",
+    "Decreto 1650 de 1977",
+    "Decreto 1818 de 1996",
+    "Decreto 2282 de 1989",
+    "Decreto 2665 de 1988",
+    "Decreto 3063 de 1989",
+    "Decreto 3798 de 2003",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 712 de 2001",
+    "Ley 791 de 2002",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL1373-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:43:23.391384+00:00"
+}

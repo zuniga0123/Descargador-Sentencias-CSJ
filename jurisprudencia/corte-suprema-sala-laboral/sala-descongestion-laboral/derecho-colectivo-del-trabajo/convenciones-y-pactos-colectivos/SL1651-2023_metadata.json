@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1651-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-07-18T19:57:01Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 47,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 2590 de 2003",
+    "Decreto 4713 de 2009",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 4 de 1976",
+    "Ley 446 de 1998",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL1651-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:37:11.984901+00:00"
+}

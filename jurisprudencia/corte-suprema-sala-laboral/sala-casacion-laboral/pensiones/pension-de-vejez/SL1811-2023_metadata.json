@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1811-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-03T16:17:04Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 2879 de 1985",
+    "Ley 2213 de 2022",
+    "Ley 33 de 1985",
+    "Ley 6 de 1945",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Gerardo Botero Zuluaga/Sentencias/SL1811-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:32:56.815101+00:00"
+}

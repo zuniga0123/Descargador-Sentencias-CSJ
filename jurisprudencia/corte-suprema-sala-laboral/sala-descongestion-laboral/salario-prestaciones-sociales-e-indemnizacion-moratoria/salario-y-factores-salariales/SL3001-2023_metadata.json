@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3001-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2024-01-22T14:40:08Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 5012 de 2009",
+    "Ley 1098 de 2006",
+    "Ley 115 de 1994",
+    "Ley 1295 de 2009",
+    "Ley 5012 de 2009",
+    "Ley 715 de 2004"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Donald Jose Dix Ponnefz/Sentencias/SL3001-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:52:33.516209+00:00"
+}

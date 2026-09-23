@@ -1,0 +1,21 @@
+{
+  "radicado": "SL2890-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-11-29T15:37:28Z",
+  "magistrado_ponente": "Dra.Clara Ines Lopez Davila",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 3135 de 1968",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dra.Clara Ines Lopez Davila/Sentencias/SL2890-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:01:53.683523+00:00"
+}

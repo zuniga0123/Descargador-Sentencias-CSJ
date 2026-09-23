@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1070-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2024-02-21T21:43:21Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1833 de 2016",
+    "Decreto 807 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1118 de 2006",
+    "Ley 153 de 1887",
+    "Ley 27 de 1976",
+    "Ley 50 de 1990",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr. Fernando Castillo Cadena/Sentencias/SL1070-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:50:52.184176+00:00"
+}

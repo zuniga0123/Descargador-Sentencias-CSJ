@@ -1,0 +1,21 @@
+{
+  "radicado": "SL2640-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-11-09T15:57:14Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Ley 153 de 1887",
+    "Ley 16 de 1989"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL2640-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:06:37.283235+00:00"
+}

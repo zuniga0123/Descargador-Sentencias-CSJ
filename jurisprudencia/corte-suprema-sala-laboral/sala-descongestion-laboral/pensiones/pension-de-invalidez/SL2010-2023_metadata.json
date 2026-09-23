@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2010-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-23T14:31:19Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 169 de 1896",
+    "Ley 270 de 1996",
+    "Ley 375 de 1997",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL2010-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:26:27.487807+00:00"
+}

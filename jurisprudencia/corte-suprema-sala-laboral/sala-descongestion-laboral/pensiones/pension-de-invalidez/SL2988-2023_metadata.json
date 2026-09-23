@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2988-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-12-07T19:37:15Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 1833 de 2016",
+    "Decreto 3771 de 2007",
+    "Decreto 4944 de 2009",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL2988-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:57:33.012701+00:00"
+}

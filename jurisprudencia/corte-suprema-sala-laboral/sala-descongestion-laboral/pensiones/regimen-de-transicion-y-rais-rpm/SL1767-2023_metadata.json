@@ -1,0 +1,28 @@
+{
+  "radicado": "SL1767-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-04T19:00:47Z",
+  "magistrado_ponente": "Dr.Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 1650 de 1977",
+    "Decreto 1887 de 1994",
+    "Decreto 2610 de 1989",
+    "Decreto 2665 de 1988",
+    "Decreto 3798 de 2003",
+    "Ley 100 de 1993",
+    "Ley 1116 de 2006",
+    "Ley 222 de 1995",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Martin Emilio Beltran Quintero/Sentencias/SL1767-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:32:47.958897+00:00"
+}

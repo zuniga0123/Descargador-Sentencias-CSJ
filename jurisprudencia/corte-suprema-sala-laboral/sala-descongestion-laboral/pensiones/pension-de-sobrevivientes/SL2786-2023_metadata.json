@@ -1,0 +1,22 @@
+{
+  "radicado": "SL2786-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-11-21T17:25:17Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1753 de 2015",
+    "Ley 54 de 1990",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL2786-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:04:36.444077+00:00"
+}

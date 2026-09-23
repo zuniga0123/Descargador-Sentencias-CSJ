@@ -1,0 +1,31 @@
+{
+  "radicado": "SL2036-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-10-13T00:00:39Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 1848 de 1969",
+    "Decreto 2283 de 2003",
+    "Decreto 255 de 2000",
+    "Decreto 2721 de 2008",
+    "Decreto 2842 de 2013",
+    "Decreto 2921 de 1948",
+    "Decreto 806 de 2020",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 33 de 1985",
+    "Ley 50 de 1990",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Gerardo Botero Zuluaga/Sentencias/SL2036-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:15:02.275495+00:00"
+}

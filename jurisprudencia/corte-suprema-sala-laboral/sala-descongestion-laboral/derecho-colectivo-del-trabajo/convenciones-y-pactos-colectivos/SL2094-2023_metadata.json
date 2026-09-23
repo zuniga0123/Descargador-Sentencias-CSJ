@@ -1,0 +1,21 @@
+{
+  "radicado": "SL2094-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-29T20:13:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 3135 de 1968",
+    "Decreto 758 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL2094-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:25:47.808934+00:00"
+}

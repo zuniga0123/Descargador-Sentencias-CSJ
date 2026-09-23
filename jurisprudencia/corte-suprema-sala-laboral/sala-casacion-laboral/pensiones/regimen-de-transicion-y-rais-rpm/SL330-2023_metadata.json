@@ -1,0 +1,23 @@
+{
+  "radicado": "SL330-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-09-05T14:03:28Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 74,
+  "leyes_o_articulos": [
+    "Decreto 288 de 2014",
+    "Ley 100 de 1993",
+    "Ley 1580 de 2012",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Fernando Castillo Cadena/Sentencias/SL330-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:24:11.726780+00:00"
+}

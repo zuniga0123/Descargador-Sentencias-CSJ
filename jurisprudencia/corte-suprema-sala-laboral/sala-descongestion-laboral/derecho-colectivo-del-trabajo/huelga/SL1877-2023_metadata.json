@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1877-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-10T21:30:32Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Huelga",
+  "puntaje_clasificacion": 84,
+  "leyes_o_articulos": [
+    "Decreto 2164 de 1959",
+    "Ley 1149 de 2007",
+    "Ley 1210 de 2008",
+    "Ley 17 de 1972",
+    "Ley 319 de 1996",
+    "Ley 32 de 1985",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL1877-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:29:50.947428+00:00"
+}

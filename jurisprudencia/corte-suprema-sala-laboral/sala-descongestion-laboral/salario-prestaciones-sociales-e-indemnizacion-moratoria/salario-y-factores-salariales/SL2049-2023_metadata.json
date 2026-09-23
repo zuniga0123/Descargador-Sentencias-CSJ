@@ -1,0 +1,21 @@
+{
+  "radicado": "SL2049-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-09-07T16:31:24Z",
+  "magistrado_ponente": "Dr.Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 41,
+  "leyes_o_articulos": [
+    "Decreto 1510 de 2013",
+    "Ley 153 de 1887",
+    "Ley 1564 de 2012"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Martin Emilio Beltran Quintero/Sentencias/SL2049-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:22:55.086287+00:00"
+}

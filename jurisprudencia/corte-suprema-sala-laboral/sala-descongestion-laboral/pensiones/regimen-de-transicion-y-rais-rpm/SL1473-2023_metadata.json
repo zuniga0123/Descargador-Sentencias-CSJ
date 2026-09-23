@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1473-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-06-29T16:09:57Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 38,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Decreto 1260 de 2000",
+    "Decreto 1572 de 1973",
+    "Ley 10 de 1972",
+    "Ley 100 de 1993",
+    "Ley 171 de 1971",
+    "Ley 25 de 1971",
+    "Ley 294 de 1996",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL1473-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:42:50.443048+00:00"
+}

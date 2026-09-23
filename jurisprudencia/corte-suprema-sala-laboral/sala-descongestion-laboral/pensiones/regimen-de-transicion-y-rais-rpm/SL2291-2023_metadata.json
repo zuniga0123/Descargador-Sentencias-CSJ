@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2291-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-09-29T12:48:31Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 1341 de 2009",
+    "Ley 142 de 1994",
+    "Ley 1431 de 2009",
+    "Ley 2027 de 1951",
+    "Ley 33 de 1985",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Ana Maria Muñoz Segura/Sentencias/SL2291-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:18:35.923546+00:00"
+}

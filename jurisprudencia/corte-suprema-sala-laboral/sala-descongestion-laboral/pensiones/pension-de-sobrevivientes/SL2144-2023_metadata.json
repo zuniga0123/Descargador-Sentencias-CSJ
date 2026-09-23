@@ -1,0 +1,32 @@
+{
+  "radicado": "SL2144-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-09-06T20:28:03Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 45,
+  "leyes_o_articulos": [
+    "Decreto 0758 de 1990",
+    "Decreto 0780 de 1990",
+    "Decreto 1889 de 1994",
+    "Decreto 2591 de 1990",
+    "Decreto 758 de 1990",
+    "LEY 153 DE 1987",
+    "LEY 54 DE 1990",
+    "Ley 100 de 1993",
+    "Ley 169 de 1896",
+    "Ley 25 de 1992",
+    "Ley 54 DE 1990",
+    "Ley 55 de 1993",
+    "Ley 797 de 2003",
+    "Ley 979 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Donald Jose Dix Ponnefz/Sentencias/SL2144-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:23:09.042076+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "radicado": "SL339-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-09-05T13:01:34Z",
+  "magistrado_ponente": "Dra.Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Decreto 1373 de 1966",
+    "Decreto 2351 de 1965",
+    "Ley 1437 de 2011",
+    "Ley 1581 de 2012",
+    "Ley 1755 de 2015"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dra.Marjorie Zuñiga Romero/Sentencias/SL339-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:24:21.071873+00:00"
+}

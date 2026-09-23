@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1411-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-06-23T14:34:41Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 47,
+  "leyes_o_articulos": [
+    "Decreto 1507 de 2014",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 769 de 2002",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Jorge Prada Sanchez/Sentencias/SL1411-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:44:40.198265+00:00"
+}

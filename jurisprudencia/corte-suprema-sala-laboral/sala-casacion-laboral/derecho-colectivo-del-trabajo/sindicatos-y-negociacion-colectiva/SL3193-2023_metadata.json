@@ -1,0 +1,27 @@
+{
+  "radicado": "SL3193-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-12-18T16:17:48Z",
+  "magistrado_ponente": "Dr.Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 87,
+  "leyes_o_articulos": [
+    "Decreto 1083 de 2015",
+    "Decreto 1373 de 1966",
+    "Decreto 1469 de 1978",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Ley 443 de 1998",
+    "Ley 550 de 1999",
+    "Ley 789 de 2002",
+    "Ley 909 de 2004"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Luis Benedicto Herrera Diaz/Sentencias/SL3193-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:54:14.225785+00:00"
+}

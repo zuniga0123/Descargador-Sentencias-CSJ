@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3072-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2024-06-23T21:58:24Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 84,
+  "leyes_o_articulos": [
+    "Decreto 13 de 1967",
+    "Ley 2141 de 2021",
+    "Ley 2591 de 1991",
+    "Ley 344 de 1996",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Omar Angel Mejia Amador/Sentencias/SL3072-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:46:20.425961+00:00"
+}

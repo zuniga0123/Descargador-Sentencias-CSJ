@@ -1,0 +1,22 @@
+{
+  "radicado": "SL2112-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2024-01-22T13:50:26Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 1564 de 2012",
+    "Ley 19 de 2012"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Ana Maria Muñoz Segura/Sentencias/SL2112-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:52:51.746459+00:00"
+}

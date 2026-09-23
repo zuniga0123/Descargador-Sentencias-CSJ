@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2140-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-10-03T20:58:37Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1607 de 2002",
+    "Decreto 2351 de 1965",
+    "Ley 1566 de 2012",
+    "Ley 2351 de 1965",
+    "Ley 30 de 1986",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Donald Jose Dix Ponnefz/Sentencias/SL2140-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:17:57.539908+00:00"
+}

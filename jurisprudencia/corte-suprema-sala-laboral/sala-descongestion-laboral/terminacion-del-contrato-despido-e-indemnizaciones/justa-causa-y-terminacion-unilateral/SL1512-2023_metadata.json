@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1512-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2024-09-12T22:02:57Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 2351 de 1995",
+    "Ley 1010 de 2006",
+    "Ley 1280 de 2009",
+    "Ley 16 de 1969"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL1512-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:45:51.853757+00:00"
+}

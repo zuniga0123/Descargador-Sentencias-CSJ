@@ -1,0 +1,28 @@
+{
+  "radicado": "SL2957-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-12-06T21:11:12Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 76,
+  "leyes_o_articulos": [
+    "Decreto 1011 de 2006",
+    "Decreto 1485 de 1994",
+    "Decreto 2025 de 2011",
+    "Ley 100 de 1993",
+    "Ley 1233 de 2008",
+    "Ley 1438 de 2011",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 715 de 2001",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL2957-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:58:35.592713+00:00"
+}

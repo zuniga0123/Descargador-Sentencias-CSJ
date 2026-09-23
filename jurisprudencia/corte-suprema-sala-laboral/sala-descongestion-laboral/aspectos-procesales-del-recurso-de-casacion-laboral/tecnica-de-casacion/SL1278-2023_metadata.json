@@ -1,0 +1,21 @@
+{
+  "radicado": "SL1278-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-06-20T17:28:24Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 190 de 2003",
+    "Decreto 528 de 1964",
+    "Ley 790 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL1278-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:45:59.135359+00:00"
+}

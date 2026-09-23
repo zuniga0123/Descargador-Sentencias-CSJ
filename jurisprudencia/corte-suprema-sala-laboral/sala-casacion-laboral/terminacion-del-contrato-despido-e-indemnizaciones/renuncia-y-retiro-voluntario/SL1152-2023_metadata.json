@@ -1,0 +1,29 @@
+{
+  "radicado": "SL1152-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-12-17T13:27:09Z",
+  "magistrado_ponente": "Dra.Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Renuncia y retiro voluntario",
+  "puntaje_clasificacion": 80,
+  "leyes_o_articulos": [
+    "Decreto 2463 de 2001",
+    "Ley 1306 de 2009",
+    "Ley 1346 de 2009",
+    "Ley 1352 de 2013",
+    "Ley 1618 de 2013",
+    "Ley 1996 de 2019",
+    "Ley 361 de 1993",
+    "Ley 361 de 1997",
+    "Ley 362 de 1997",
+    "Ley 52 de 1975",
+    "Ley 762 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dra.Marjorie Zuñiga Romero/Sentencias/SL1152-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:54:39.130816+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2126-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-09-06T14:38:35Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 55,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Decreto 832 de 1996",
+    "Ley 100 de 1993",
+    "Ley 1257 de 2008",
+    "Ley 294 de 1996",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL2126-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:23:11.117760+00:00"
+}

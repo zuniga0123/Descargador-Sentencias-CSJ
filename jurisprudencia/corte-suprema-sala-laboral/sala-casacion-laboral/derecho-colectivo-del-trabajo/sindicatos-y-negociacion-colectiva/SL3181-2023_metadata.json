@@ -1,0 +1,20 @@
+{
+  "radicado": "SL3181-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2024-04-15T17:41:47Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Ley 1563 de 2012",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr. Fernando Castillo Cadena/Sentencias/SL3181-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:47:17.091560+00:00"
+}

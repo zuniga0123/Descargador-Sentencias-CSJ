@@ -1,0 +1,21 @@
+{
+  "radicado": "SL1560-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-07-11T13:54:31Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 49,
+  "leyes_o_articulos": [
+    "Decreto 3177 de 2007",
+    "Decreto 3771 de 2007",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Donald Jose Dix Ponnefz/Sentencias/SL1560-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:39:48.577374+00:00"
+}

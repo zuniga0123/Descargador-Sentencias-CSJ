@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1920-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-16T17:37:11Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 60,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 306 de 1992",
+    "Ley 153 de 1887",
+    "Ley 2591 de 1991",
+    "Ley 53 de 1887",
+    "Ley 791 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Olga Yineth Merchan Calderon/Sentencias/SL1920-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:28:59.223386+00:00"
+}

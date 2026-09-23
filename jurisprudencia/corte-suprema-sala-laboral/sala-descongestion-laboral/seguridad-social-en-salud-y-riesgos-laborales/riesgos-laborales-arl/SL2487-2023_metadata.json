@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2487-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-10-24T14:42:15Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2509 de 2015",
+    "Ley 1295 de 1994",
+    "Ley 43 de 1990",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL2487-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:12:52.999379+00:00"
+}

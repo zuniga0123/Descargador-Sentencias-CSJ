@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1521-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-07-05T20:33:24Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 23541 de 1965",
+    "Ley 16 de 1969",
+    "Ley 319 de 1996",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL1521-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:41:02.433274+00:00"
+}

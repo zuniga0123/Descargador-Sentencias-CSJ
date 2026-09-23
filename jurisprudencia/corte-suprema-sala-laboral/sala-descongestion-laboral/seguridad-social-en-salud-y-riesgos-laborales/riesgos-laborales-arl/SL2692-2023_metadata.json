@@ -1,0 +1,21 @@
+{
+  "radicado": "SL2692-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-11-22T13:43:05Z",
+  "magistrado_ponente": "Dr.Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 12562 de 2012",
+    "Decreto 2463 de 2001",
+    "Ley 9 de 1979"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Martin Emilio Beltran Quintero/Sentencias/SL2692-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:04:31.180752+00:00"
+}

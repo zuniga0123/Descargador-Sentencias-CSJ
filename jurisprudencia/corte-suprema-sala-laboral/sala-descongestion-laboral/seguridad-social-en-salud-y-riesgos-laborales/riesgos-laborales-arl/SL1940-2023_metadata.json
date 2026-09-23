@@ -1,0 +1,31 @@
+{
+  "radicado": "SL1940-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-16T00:13:03Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Decreto 1137 de 1999",
+    "Decreto 1340 de 1995",
+    "Decreto 1833 de 2016",
+    "Decreto 2127 de 1945",
+    "Decreto 2737 de 1989",
+    "Decreto 289 de 2014",
+    "Decreto 2923 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1450 de 2011",
+    "Ley 319 de 1996",
+    "Ley 509 de 1999",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Donald Jose Dix Ponnefz/Sentencias/SL1940-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:29:23.124884+00:00"
+}

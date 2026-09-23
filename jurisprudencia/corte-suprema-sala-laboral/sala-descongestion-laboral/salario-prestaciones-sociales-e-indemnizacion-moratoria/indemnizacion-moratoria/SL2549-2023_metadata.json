@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2549-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-11-02T16:38:28Z",
+  "magistrado_ponente": "Dr.Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 140 de 2017",
+    "Decreto 2519 de 2015",
+    "Decreto 4588 de 2006",
+    "Decreto 797 de 1949",
+    "Ley 50 de 1990",
+    "Ley 797 de 1949",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Martin Emilio Beltran Quintero/Sentencias/SL2549-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:09:41.208327+00:00"
+}

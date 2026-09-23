@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2930-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2024-03-19T21:31:59Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 4369 de 2006",
+    "Decreto 583 de 2016",
+    "Decreto 683 de 2018",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Ana Maria Muñoz Segura/Sentencias/SL2930-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:48:07.455819+00:00"
+}

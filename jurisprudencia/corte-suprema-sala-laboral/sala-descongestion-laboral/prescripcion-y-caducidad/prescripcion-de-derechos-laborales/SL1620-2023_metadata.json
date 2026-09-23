@@ -1,0 +1,29 @@
+{
+  "radicado": "SL1620-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-07-18T14:42:58Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1947",
+    "Decreto 1615 de 2003",
+    "Decreto 2062 de 2003",
+    "Decreto 2127 de 1945",
+    "Decreto 2591 de 1991",
+    "Ley 1045 de 1978",
+    "Ley 153 de 1887",
+    "Ley 254 de 2000",
+    "Ley 3135 de 1968",
+    "Ley 489 de 1998",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL1620-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:37:18.971905+00:00"
+}

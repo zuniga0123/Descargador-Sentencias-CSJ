@@ -1,0 +1,22 @@
+{
+  "radicado": "SL2810-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-11-22T21:06:48Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Ley 1295 de 1994",
+    "Ley 1562 de 2012",
+    "Ley 57 de 1915"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Jorge Prada Sanchez/Sentencias/SL2810-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:03:48.812859+00:00"
+}

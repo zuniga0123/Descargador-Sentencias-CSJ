@@ -1,0 +1,30 @@
+{
+  "radicado": "SL1439-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-06-23T21:46:31Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 142 de 2006",
+    "Decreto 1474 de 1997",
+    "Decreto 1513 de 1998",
+    "Decreto 1748 de 1995",
+    "Decreto 3798 de 2003",
+    "Decreto 646 de 1994",
+    "Decreto 656 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1299 de 1994",
+    "Ley 153 de 1887",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL1439-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:44:24.065775+00:00"
+}

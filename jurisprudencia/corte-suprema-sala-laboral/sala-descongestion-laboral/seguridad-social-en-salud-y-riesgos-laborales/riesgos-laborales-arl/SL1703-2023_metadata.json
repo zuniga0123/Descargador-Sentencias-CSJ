@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1703-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-07-25T17:45:55Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Ley 16 de 1969",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 9 de 1979"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Olga Yineth Merchan Calderon/Sentencias/SL1703-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:35:34.446017+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3071-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-12-11T21:06:49Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1833 de 2016",
+    "Decreto 1887 de 1994",
+    "Decreto 3041 de 1966",
+    "Ley 100 de 1993",
+    "Ley 6 de 1945",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Donald Jose Dix Ponnefz/Sentencias/SL3071-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:57:54.785430+00:00"
+}

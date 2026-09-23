@@ -1,0 +1,21 @@
+{
+  "radicado": "SL2572-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-11-01T16:28:22Z",
+  "magistrado_ponente": "Dr.Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 34,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 2351 de 1965",
+    "Ley 906 de 2004"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Omar Angel Mejia Amador/Sentencias/SL2572-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:10:22.807075+00:00"
+}

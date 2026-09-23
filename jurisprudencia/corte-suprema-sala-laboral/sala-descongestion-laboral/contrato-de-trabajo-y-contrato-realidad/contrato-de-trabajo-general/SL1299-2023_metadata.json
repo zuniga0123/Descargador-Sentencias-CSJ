@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1299-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-06-13T20:05:24Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2520 de 1993",
+    "Decreto 3135 de 1968",
+    "Decreto 340 de 1980",
+    "Ley 200 de 1995",
+    "Ley 25 de 1923",
+    "Ley 31 de 1992",
+    "Ley 734 de 2002",
+    "Ley 734 de 2022"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL1299-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:47:52.676162+00:00"
+}

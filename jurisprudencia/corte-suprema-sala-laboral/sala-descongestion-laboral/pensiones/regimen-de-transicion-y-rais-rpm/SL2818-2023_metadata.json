@@ -1,0 +1,31 @@
+{
+  "radicado": "SL2818-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-11-23T21:14:21Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 47,
+  "leyes_o_articulos": [
+    "Decreto 1642 de 1995",
+    "Decreto 1833 de 2016",
+    "Decreto 2013 de 2012",
+    "Decreto 553 de 2015",
+    "Ley 100 de 1993",
+    "Ley 1105 de 2006",
+    "Ley 1149 de 2007",
+    "Ley 1755 de 2015",
+    "Ley 2106 de 2016",
+    "Ley 2106 de 2019",
+    "Ley 254 de 2000",
+    "Ley 498 de 1998",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL2818-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:02:41.937466+00:00"
+}

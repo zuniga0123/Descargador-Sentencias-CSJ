@@ -1,0 +1,29 @@
+{
+  "radicado": "SL1983-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-17T22:04:54Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 1833 de 2016",
+    "Decreto 807 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1214 de 1990",
+    "Ley 153 de 1887",
+    "Ley 238 de 1995",
+    "Ley 27 de 1976",
+    "Ley 50 de 1990",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003",
+    "Ley 91 de 1989"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Ana Maria Muñoz Segura/Sentencias/SL1983-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:28:14.422253+00:00"
+}

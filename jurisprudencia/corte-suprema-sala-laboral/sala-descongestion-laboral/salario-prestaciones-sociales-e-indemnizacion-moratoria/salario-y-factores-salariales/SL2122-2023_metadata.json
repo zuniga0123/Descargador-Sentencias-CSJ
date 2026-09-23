@@ -1,0 +1,22 @@
+{
+  "radicado": "SL2122-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-09-01T15:41:06Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 5012 de 2009",
+    "Ley 100 de 1993",
+    "Ley 115 de 1994",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Ana Maria Muñoz Segura/Sentencias/SL2122-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:24:47.218675+00:00"
+}

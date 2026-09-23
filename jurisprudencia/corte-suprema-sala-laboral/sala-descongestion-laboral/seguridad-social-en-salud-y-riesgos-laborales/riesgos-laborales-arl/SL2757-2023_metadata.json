@@ -1,0 +1,31 @@
+{
+  "radicado": "SL2757-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-11-17T17:29:42Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 80,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 1637 de 2000",
+    "Decreto 2800 de 2003",
+    "Decreto 295 de 1994",
+    "Decreto 468 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1562 de 2012",
+    "Ley 633 de 2000",
+    "Ley 776 de 2002",
+    "Ley 776 de 2022",
+    "Ley 797 de 2003",
+    "Ley 828 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL2757-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:03:13.307808+00:00"
+}

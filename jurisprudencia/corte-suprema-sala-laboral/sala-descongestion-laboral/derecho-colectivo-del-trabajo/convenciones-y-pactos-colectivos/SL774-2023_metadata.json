@@ -1,0 +1,23 @@
+{
+  "radicado": "SL774-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-07-04T19:32:22Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 2519 de 2015",
+    "Decreto 2651 de 1991",
+    "Ley 16 de 1968",
+    "Ley 27 de 1976",
+    "Ley 424 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL774-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:41:27.979984+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "radicado": "SL3138-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2024-06-23T11:11:05Z",
+  "magistrado_ponente": "Dra. Clara Ines Lopez Davila",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 43,
+  "leyes_o_articulos": [
+    "Ley 1563 de 2012",
+    "Ley 527 de 1999",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Clara Ines Lopez Davila/Sentencias/SL3138-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:46:35.906192+00:00"
+}

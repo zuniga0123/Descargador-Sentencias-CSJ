@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1702-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-07-24T21:49:59Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1968",
+    "Decreto 1848 de 1969",
+    "Decreto 3138 de 1968",
+    "Ley 100 de 1993",
+    "Ley 1848 de 1969",
+    "Ley 3138 de 1968",
+    "Ley 33 de 1985",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Olga Yineth Merchan Calderon/Sentencias/SL1702-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:35:41.459442+00:00"
+}

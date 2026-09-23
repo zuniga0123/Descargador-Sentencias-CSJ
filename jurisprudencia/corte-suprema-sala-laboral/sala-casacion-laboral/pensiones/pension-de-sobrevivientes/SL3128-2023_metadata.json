@@ -1,0 +1,28 @@
+{
+  "radicado": "SL3128-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2024-04-22T21:58:27Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 1273 de 2018",
+    "Decreto 1406 de 1999",
+    "Decreto 692 de 1994",
+    "Decreto 780 de 2016",
+    "LEY 797 DE 2002",
+    "Ley 100 de 1993",
+    "Ley 1250 de 2008",
+    "Ley 527 de 1999",
+    "Ley 797 de 2002",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr. Gerardo Botero Zuluaga/Sentencias/SL3128-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:47:01.448856+00:00"
+}

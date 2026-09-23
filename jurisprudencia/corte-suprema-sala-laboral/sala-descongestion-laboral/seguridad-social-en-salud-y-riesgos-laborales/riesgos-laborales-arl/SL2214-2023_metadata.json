@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2214-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-09-15T20:33:28Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 1352 de 2013",
+    "Decreto 1477 de 2014",
+    "Decreto 1507 de 2014",
+    "Decreto 1832 de 1994",
+    "Decreto 2566 de 2009",
+    "Ley 1395 de 2010",
+    "Ley 1562 de 2012"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Donald Jose Dix Ponnefz/Sentencias/SL2214-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:21:23.625301+00:00"
+}

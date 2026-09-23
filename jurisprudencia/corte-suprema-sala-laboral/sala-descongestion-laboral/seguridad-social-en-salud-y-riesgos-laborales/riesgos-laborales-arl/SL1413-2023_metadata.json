@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1413-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-06-23T13:59:08Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 67,
+  "leyes_o_articulos": [
+    "Decreto 1477 de 2014",
+    "Decreto 1507 de 2014",
+    "Decreto 2351 de 1965",
+    "Ley 1295 de 1994",
+    "Ley 1465 de 2012",
+    "Ley 1562 de 2012",
+    "Ley 9 de 1979"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL1413-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:43:46.160862+00:00"
+}

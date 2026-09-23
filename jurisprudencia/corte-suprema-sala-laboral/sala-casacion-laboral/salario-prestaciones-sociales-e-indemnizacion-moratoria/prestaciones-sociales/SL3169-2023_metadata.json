@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3169-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-12-14T16:26:25Z",
+  "magistrado_ponente": "Dr.Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 51,
+  "leyes_o_articulos": [
+    "Decreto 1176 de 1991",
+    "Ley 1149 de 2007",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 584 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Ivan Mauricio Lenis Gomez/Sentencias/SL3169-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:54:55.577003+00:00"
+}

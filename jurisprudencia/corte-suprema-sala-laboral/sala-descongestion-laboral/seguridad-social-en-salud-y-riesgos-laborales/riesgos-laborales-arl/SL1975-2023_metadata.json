@@ -1,0 +1,31 @@
+{
+  "radicado": "SL1975-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-22T16:50:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 106,
+  "leyes_o_articulos": [
+    "Decreto 1293 de 2009",
+    "Decreto 1293 de 2020",
+    "Decreto 196 de 1971",
+    "Decreto 205 de 2003",
+    "Ley 1564 de 2012",
+    "Ley 222 de 1995",
+    "Ley 23 de 1991",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 640 de 2001",
+    "Ley 712 de 2001",
+    "Ley 734 de 2002",
+    "Ley 794 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL1975-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:27:37.458892+00:00"
+}

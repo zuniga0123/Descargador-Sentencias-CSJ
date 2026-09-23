@@ -1,0 +1,26 @@
+{
+  "radicado": "SL2994-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2024-03-12T16:27:41Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 39,
+  "leyes_o_articulos": [
+    "Decreto 656 de 1994",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 4 de 1992",
+    "Ley 527 de 1999",
+    "Ley 656 de 1994",
+    "Ley 700 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr. Omar Angel Mejia Amador/Sentencias/SL2994-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:48:52.070928+00:00"
+}

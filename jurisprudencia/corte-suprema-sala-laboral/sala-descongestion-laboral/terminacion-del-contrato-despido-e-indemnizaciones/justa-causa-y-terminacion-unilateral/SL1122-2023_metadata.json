@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1122-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-08T22:29:36Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1118 de 2006",
+    "Ley 17 de 1972",
+    "Ley 319 de 1996",
+    "Ley 50 de 1990",
+    "Ley 734 de 2002",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1122-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:32:34.980904+00:00"
+}

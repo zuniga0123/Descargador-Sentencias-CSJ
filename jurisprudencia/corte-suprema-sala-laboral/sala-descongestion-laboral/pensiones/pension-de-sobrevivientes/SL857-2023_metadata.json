@@ -1,0 +1,22 @@
+{
+  "radicado": "SL857-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2024-02-22T20:17:42Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 46,
+  "leyes_o_articulos": [
+    "Decreto 0758 de 1990",
+    "Decreto 1160 de 1989",
+    "Decreto 758 de 1990",
+    "Ley 1574 de 2012"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL857-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:50:27.838868+00:00"
+}

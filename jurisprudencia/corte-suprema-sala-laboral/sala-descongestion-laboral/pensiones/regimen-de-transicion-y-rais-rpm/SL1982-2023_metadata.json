@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1982-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-17T21:49:52Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 55,
+  "leyes_o_articulos": [
+    "Decreto 1887 de 1994",
+    "Decreto 2665 de 1988",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1581 de 2012",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Ana Maria Muñoz Segura/Sentencias/SL1982-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:28:16.193266+00:00"
+}

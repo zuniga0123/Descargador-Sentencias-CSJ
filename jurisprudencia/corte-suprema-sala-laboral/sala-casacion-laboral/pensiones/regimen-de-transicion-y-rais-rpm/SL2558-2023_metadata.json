@@ -1,0 +1,28 @@
+{
+  "radicado": "SL2558-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2024-03-12T15:01:38Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 51,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 1352 de 2013",
+    "Decreto 1507 de 2014",
+    "Decreto 2463 de 2001",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr. Omar Angel Mejia Amador/Sentencias/SL2558-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:49:03.383854+00:00"
+}

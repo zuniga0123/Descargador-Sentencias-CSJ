@@ -1,0 +1,29 @@
+{
+  "radicado": "SL2339-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2024-01-22T12:57:16Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 60,
+  "leyes_o_articulos": [
+    "Decreto 1068 de 1995",
+    "Decreto 1687 de 2001",
+    "Decreto 1888 de 1994",
+    "Decreto 3800 de 2003",
+    "Decreto 663 de 1993",
+    "Decreto 691 de 1994",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 270 de 1996",
+    "Ley 795 de 2003",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL2339-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:53:10.179519+00:00"
+}

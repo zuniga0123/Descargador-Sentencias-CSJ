@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2910-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-12-06T16:25:32Z",
+  "magistrado_ponente": "Dr.Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 3135 de 1968",
+    "Decreto 528 de 1964",
+    "Decreto 797 de 1949",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 244 de 1995",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Martin Emilio Beltran Quintero/Sentencias/SL2910-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:59:14.329140+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2979-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2024-04-15T17:13:05Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 206,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Decreto 1769 de 2003",
+    "Ley 1857 de 2017",
+    "Ley 21 de 1982",
+    "Ley 2101 de 2021",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 633 de 2000",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL2979-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:47:25.402064+00:00"
+}

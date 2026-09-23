@@ -1,0 +1,22 @@
+{
+  "radicado": "SL2351-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-10-05T21:05:05Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Ley 1523 de 2012",
+    "Ley 161 de 1994",
+    "Ley 388 de 1997"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL2351-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:16:12.354171+00:00"
+}

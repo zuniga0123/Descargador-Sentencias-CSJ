@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1896-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-11T21:10:35Z",
+  "magistrado_ponente": "Dr.Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 1214 de 1990",
+    "Decreto 1792 de 2000",
+    "Decreto 797 de 1949",
+    "Ley 789 de 2002",
+    "Ley 797 de 1949"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Omar Angel Mejia Amador/Sentencias/SL1896-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:30:25.731258+00:00"
+}

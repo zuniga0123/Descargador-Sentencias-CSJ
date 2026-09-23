@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3190-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-12-18T14:26:31Z",
+  "magistrado_ponente": "Dr.Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 49,
+  "leyes_o_articulos": [
+    "Decreto 528 de 1964",
+    "Decreto 750 de 1990",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Ley 91 de 1989"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Luis Benedicto Herrera Diaz/Sentencias/SL3190-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:54:15.934827+00:00"
+}

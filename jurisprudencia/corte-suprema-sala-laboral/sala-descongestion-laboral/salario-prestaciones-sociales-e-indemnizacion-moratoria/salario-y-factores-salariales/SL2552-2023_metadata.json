@@ -1,0 +1,21 @@
+{
+  "radicado": "SL2552-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-12-05T16:05:27Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 58,
+  "leyes_o_articulos": [
+    "LEY 52 DE 1975",
+    "Ley 50 de 1990",
+    "Ley 54 de 1992"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Donald Jose Dix Ponnefz/Sentencias/SL2552-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:59:34.964050+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "radicado": "SL1884-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-15T15:35:45Z",
+  "magistrado_ponente": "Dr.Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 2123 de 1992",
+    "Decreto 2200 de 1987",
+    "Decreto 692 de 1994",
+    "Ley 10 de 1993",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 171 de 1968",
+    "Ley 50 de 1990",
+    "Ley 651 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Omar Angel Mejia Amador/Sentencias/SL1884-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:29:39.661456+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2247-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-11-02T16:28:49Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1833 de 2016",
+    "Decreto 1889 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1257 de 2008",
+    "Ley 245 de 1996",
+    "Ley 294 de 1996",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL2247-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:09:51.132911+00:00"
+}

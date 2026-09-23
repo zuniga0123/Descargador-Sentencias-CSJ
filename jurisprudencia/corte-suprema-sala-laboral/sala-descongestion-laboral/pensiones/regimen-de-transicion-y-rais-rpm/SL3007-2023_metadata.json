@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3007-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-12-07T20:51:28Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "DECRETO 960 DE 1970",
+    "Decreto 960 de 1970",
+    "LEY 100 DE 1993",
+    "LEY 797 DE 2003",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL3007-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:56:08.243653+00:00"
+}

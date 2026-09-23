@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1984-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-08-17T22:22:12Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1373 de 1966",
+    "Decreto 2127 de 1945",
+    "Ley 734 de 2002",
+    "Ley 734 de 2022"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dra. Ana Maria Muñoz Segura/Sentencias/SL1984-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:28:12.541795+00:00"
+}

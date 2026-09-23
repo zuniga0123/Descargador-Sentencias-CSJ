@@ -1,0 +1,32 @@
+{
+  "radicado": "SL2914-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-11-30T17:08:37Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 51,
+  "leyes_o_articulos": [
+    "Decreto 1748 de 1995",
+    "Decreto 306 de 2004",
+    "Decreto 3061 de 1997",
+    "Decreto 3061 de 2004",
+    "Decreto 3064 de 1997",
+    "Decreto 530 de 1994",
+    "Decreto 586 de 2016",
+    "Decreto 586 de 2017",
+    "Decreto 700 de 2013",
+    "Ley 100 de 1993",
+    "Ley 1285 de 2009",
+    "Ley 270 de 1996",
+    "Ley 60 de 1993",
+    "Ley 715 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL2914-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:01:12.139465+00:00"
+}

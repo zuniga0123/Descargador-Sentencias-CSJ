@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2532-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-10-26T19:39:08Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 142 de 1994",
+    "Ley 326 de 1997",
+    "Ley 689 de 2001",
+    "Ley 789 de 2002",
+    "Ley 798 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL2532-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:11:10.259282+00:00"
+}

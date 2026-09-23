@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1360-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-06-20T15:15:38Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 61,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 1607 de 2003",
+    "Decreto 691 de 1994",
+    "Ley 153 de 1887"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL1360-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:45:16.909584+00:00"
+}

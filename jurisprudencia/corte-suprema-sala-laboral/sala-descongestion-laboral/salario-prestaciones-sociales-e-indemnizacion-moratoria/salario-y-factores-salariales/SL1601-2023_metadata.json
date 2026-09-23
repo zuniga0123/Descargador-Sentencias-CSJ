@@ -1,0 +1,29 @@
+{
+  "radicado": "SL1601-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-07-13T16:25:04Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 1887 de 1994",
+    "Decreto 2327 de 1991",
+    "Decreto 2610 de 1989",
+    "Decreto 2665 de 1988",
+    "Decreto 501 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1116 de 2006",
+    "Ley 171 de 1961",
+    "Ley 222 de 1995",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL1601-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:38:33.269143+00:00"
+}

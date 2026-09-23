@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1491-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-12-17T13:45:58Z",
+  "magistrado_ponente": "Dr.Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2463 de 2001",
+    "Ley 1618 de 2013",
+    "Ley 222 de 1983",
+    "Ley 361 de 1997",
+    "Ley 362 de 1997",
+    "Ley 762 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Ivan Mauricio Lenis Gomez/Sentencias/SL1491-2023.pdf",
+  "fecha_descarga": "2026-09-23T19:54:31.528544+00:00"
+}

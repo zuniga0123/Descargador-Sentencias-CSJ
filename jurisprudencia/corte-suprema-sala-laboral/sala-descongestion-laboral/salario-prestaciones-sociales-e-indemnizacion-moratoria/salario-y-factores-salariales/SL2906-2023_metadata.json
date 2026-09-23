@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2906-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-11-30T18:06:42Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 46,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 1748 de 1995",
+    "Decreto 2610 de 1989",
+    "Decreto 2665 de 1988",
+    "Decreto 3366 de 2007",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Jorge Prada Sanchez/Sentencias/SL2906-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:01:02.955837+00:00"
+}

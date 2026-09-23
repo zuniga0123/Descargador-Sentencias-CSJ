@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2745-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-11-16T12:41:44Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 41,
+  "leyes_o_articulos": [
+    "Ley 129 de 1931",
+    "Ley 320 de 1996",
+    "Ley 50 de 1990",
+    "Ley 789 de 2002",
+    "Ley 995 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL2745-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:05:49.958716+00:00"
+}

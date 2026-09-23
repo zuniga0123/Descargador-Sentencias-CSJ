@@ -1,0 +1,29 @@
+{
+  "radicado": "SL1506-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-06-30T23:16:00Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1388 de 2013",
+    "Decreto 169 de 2008",
+    "Decreto 1748 de 1995",
+    "Decreto 1833 de 2016",
+    "Decreto 2013 de 2012",
+    "Decreto 3041 de 1966",
+    "Decreto 3789 de 2003",
+    "Ley 100 de 1993",
+    "Ley 1042 de 1978",
+    "Ley 1151 de 2007",
+    "Ley 254 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Fernando Castillo Cadena/Sentencias/SL1506-2023.doc",
+  "fecha_descarga": "2026-09-23T20:42:00.921261+00:00"
+}

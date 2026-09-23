@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1322-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-06-14T22:41:06Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 2011 de 2012",
+    "Decreto 2013 de 2012",
+    "Decreto 326 de 1996",
+    "Decreto 553 de 2015",
+    "Ley 100 de 1993",
+    "Ley 1105 de 2005",
+    "Ley 254 de 2000",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2023/Dr.Gerardo Botero Zuluaga/Sentencias/SL1322-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:47:21.140576+00:00"
+}

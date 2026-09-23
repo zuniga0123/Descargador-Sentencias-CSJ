@@ -1,0 +1,31 @@
+{
+  "radicado": "SL2257-2023",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2023,
+  "fecha_creacion": "2023-09-25T16:16:58Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1623 de 2020",
+    "Decreto 1672 de 1973",
+    "Decreto 1848 de 1969",
+    "Decreto 2601 de 2009",
+    "Decreto 528 de 1964",
+    "Decreto 805 de 2000",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 33 de 1985",
+    "Ley 4 de 1992",
+    "Ley 54 de 1962",
+    "Ley 62 de 1985",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2023/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL2257-2023.pdf",
+  "fecha_descarga": "2026-09-23T20:19:24.098666+00:00"
+}
