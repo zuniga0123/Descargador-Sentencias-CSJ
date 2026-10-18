@@ -1,0 +1,20 @@
+{
+  "radicado": "AL2537-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2022,
+  "fecha_creacion": "2022-06-17T22:48:36Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 1,
+  "leyes_o_articulos": [
+    "Decreto 2158 de 1948",
+    "Ley 1395 de 2010"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Gerardo Botero Zuluaga/Autos/AL2537-2022.pdf",
+  "fecha_descarga": "2026-10-18T08:50:00.318863+00:00"
+}
