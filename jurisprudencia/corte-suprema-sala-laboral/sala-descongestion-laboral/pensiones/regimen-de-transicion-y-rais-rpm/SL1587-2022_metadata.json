@@ -1,0 +1,21 @@
+{
+  "radicado": "SL1587-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-05-16T16:54:14Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 69,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Ana Maria Muñoz Segura/Sentencias/SL1587-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:07:50.243965+00:00"
+}

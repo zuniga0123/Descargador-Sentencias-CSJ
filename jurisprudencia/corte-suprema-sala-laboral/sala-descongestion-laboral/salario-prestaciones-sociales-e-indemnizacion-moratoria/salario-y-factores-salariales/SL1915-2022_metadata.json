@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1915-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-06-08T15:54:35Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 39,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1393 de 2010",
+    "Ley 1562 de 2012",
+    "Ley 1595 de 2012",
+    "Ley 50 de 1990",
+    "Ley 776 de 2002",
+    "Ley 995 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Ana Maria Muñoz Segura/Sentencias/SL1915-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:59:56.294995+00:00"
+}

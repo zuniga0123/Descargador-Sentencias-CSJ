@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1666-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-05-19T20:31:48Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1672 de 1973",
+    "Decreto 1848 de 1969",
+    "Decreto 2879 de 1985",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1666-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:05:59.847775+00:00"
+}

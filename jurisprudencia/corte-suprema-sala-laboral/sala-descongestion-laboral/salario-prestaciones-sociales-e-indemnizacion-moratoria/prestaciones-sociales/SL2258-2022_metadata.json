@@ -1,0 +1,22 @@
+{
+  "radicado": "SL2258-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-07-07T17:07:32Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 43,
+  "leyes_o_articulos": [
+    "Decreto 1176 de 1991",
+    "Decreto 528 de 1964",
+    "Ley 1740 de 2014",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL2258-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:49:08.723873+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "radicado": "SL2460-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-07-21T20:46:10Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 39,
+  "leyes_o_articulos": [
+    "Decreto 190 de 2003",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 520 de 1990",
+    "Ley 789 de 2002",
+    "Ley 790 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL2460-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:43:24.968932+00:00"
+}

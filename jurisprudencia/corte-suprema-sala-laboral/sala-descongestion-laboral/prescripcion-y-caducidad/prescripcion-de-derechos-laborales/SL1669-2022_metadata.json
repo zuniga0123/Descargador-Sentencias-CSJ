@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1669-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-06-17T23:37:18Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 2027 de 1951",
+    "Decreto 2282 de 1989",
+    "Ley 1118 de 2006",
+    "Ley 153 de 1887"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Jorge Prada Sanchez/Sentencias/SL1669-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:54:54.078134+00:00"
+}

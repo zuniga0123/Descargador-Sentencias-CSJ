@@ -1,0 +1,30 @@
+{
+  "radicado": "SL1829-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-06-02T21:36:52Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 83,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1160 de 1949",
+    "Decreto 1252 de 2000",
+    "Decreto 1252 de 2002",
+    "Decreto 2013 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 797 de 1949",
+    "Ley 344 de 1966",
+    "Ley 344 de 1996",
+    "Ley 4107 de 2011",
+    "Ley 432 de 1998",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL1829-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:58:28.878330+00:00"
+}

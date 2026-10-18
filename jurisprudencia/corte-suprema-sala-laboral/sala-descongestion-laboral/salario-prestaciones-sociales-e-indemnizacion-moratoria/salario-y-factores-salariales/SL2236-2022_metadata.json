@@ -1,0 +1,28 @@
+{
+  "radicado": "SL2236-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-07-05T15:35:21Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 3130 de 1968",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 3 de 1986",
+    "Ley 3130 de 1968",
+    "Ley 3135 de 1868",
+    "Ley 3135 de 1968",
+    "Ley 50 de 1990",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL2236-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:50:34.054885+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "radicado": "SL1583-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-05-16T16:01:37Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 0541 de 2016",
+    "Decreto 1160 de 1947",
+    "Decreto 1252 de 2000",
+    "Decreto 2013 de 2012",
+    "Decreto 2351 de 1965",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 2351 de 1965",
+    "Ley 33 de 1985",
+    "Ley 344 de 1996",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Ana Maria Muñoz Segura/Sentencias/SL1583-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:08:00.863178+00:00"
+}

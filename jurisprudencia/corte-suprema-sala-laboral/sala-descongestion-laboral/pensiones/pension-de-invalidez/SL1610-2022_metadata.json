@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1610-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-05-16T20:28:42Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 43,
+  "leyes_o_articulos": [
+    "Decreto 19 de 2012",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 712 de 2002",
+    "Ley 860 de 2003",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL1610-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:05:25.960892+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "radicado": "SL2222-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-07-07T16:42:05Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 52,
+  "leyes_o_articulos": [
+    "Decreto 0758 de 1990",
+    "Decreto 1848 de 1969",
+    "Decreto 2709 de 1994",
+    "Decreto 3041 de 1966",
+    "Decreto 3135 de 1968",
+    "Decreto 433 de 1971",
+    "Decreto 758 de 1990",
+    "LEY 100 DE 1993",
+    "Ley 100 de 1993",
+    "Ley 12 de 1975",
+    "Ley 33 de 1985",
+    "Ley 4 de 1976"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL2222-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:47:54.269468+00:00"
+}

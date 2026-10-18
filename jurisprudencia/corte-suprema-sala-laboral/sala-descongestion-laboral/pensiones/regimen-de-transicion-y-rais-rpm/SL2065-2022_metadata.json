@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2065-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-06-22T21:07:00Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 1833 de 2016",
+    "Decreto 3771 de 2007",
+    "Decreto 4944 de 2009",
+    "Ley 100 de 1993",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Donald Jose Dix Ponnefz/Sentencias/SL2065-2022.doc",
+  "fecha_descarga": "2026-10-18T06:54:03.250797+00:00"
+}

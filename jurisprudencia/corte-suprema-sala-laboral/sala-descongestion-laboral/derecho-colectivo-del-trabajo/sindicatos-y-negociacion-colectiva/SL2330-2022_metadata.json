@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2330-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-07-11T18:57:56Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 43,
+  "leyes_o_articulos": [
+    "Decreto 089 de 2014",
+    "Decreto 1373 de 1966",
+    "Decreto 1469 de 1978",
+    "Decreto 2351 de 1965",
+    "Decreto 904 de 1951",
+    "Ley 11 de 1984"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL2330-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:47:46.764117+00:00"
+}

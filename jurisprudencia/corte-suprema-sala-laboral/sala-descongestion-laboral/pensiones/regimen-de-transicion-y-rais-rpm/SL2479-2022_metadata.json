@@ -1,0 +1,31 @@
+{
+  "radicado": "SL2479-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-07-21T03:26:27Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 69,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 1328 de 2009",
+    "Decreto 3800 de 2003",
+    "Decreto 656 de 1994",
+    "Decreto 663 de 1993",
+    "Decreto 720 de 1994",
+    "Decreto 806 de 2020",
+    "Ley 100 de 1993",
+    "Ley 1328 de 2009",
+    "Ley 1748 de 2014",
+    "Ley 270 de 1996",
+    "Ley 57 de 1887",
+    "Ley 795 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL2479-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:44:29.330568+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1746-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-05-26T15:53:11Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 832 de 1996",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 389 de 1997"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Jorge Prada Sanchez/Sentencias/SL1746-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:03:51.179501+00:00"
+}

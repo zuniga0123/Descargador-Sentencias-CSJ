@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2006-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-06-15T16:49:55Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 2013 de 2012",
+    "Decreto 2148 de 1992",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL2006-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:56:57.790956+00:00"
+}

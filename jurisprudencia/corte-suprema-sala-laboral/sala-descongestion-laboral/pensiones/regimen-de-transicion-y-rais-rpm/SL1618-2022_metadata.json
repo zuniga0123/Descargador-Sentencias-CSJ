@@ -1,0 +1,28 @@
+{
+  "radicado": "SL1618-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-07-21T09:59:52Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 75,
+  "leyes_o_articulos": [
+    "Decreto 1049 de 2006",
+    "Decreto 2241 de 2010",
+    "Decreto 663 de 1993",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 1328 de 2009",
+    "Ley 169 de 1896",
+    "Ley 656 de 1994",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Gerardo Botero Zuluaga/Sentencias/SL1618-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:44:20.139792+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "radicado": "SL2099-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-06-24T17:35:21Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 140,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 1833 de 2016",
+    "Decreto 3800 de 2003",
+    "Decreto 3995 de 2008",
+    "Decreto 692 de 1994",
+    "Decreto 692 de 1995",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 446 de 1998",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL2099-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:53:26.260185+00:00"
+}

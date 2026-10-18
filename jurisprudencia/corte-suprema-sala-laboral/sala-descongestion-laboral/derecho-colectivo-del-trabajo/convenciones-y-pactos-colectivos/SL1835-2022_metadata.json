@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1835-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-06-06T13:29:02Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 2520 de 1993",
+    "Ley 2 de 1984",
+    "Ley 31 de 1992",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Jorge Prada Sanchez/Sentencias/SL1835-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:01:06.303366+00:00"
+}

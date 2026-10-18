@@ -1,0 +1,30 @@
+{
+  "radicado": "SL1625-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-05-24T16:30:12Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 10 de 1992",
+    "Decreto 1158 de 1994",
+    "Decreto 2196 de 2009",
+    "Decreto 274 de 2000",
+    "Decreto 4911 de 2013",
+    "Decreto 806 de 2020",
+    "Ley 10 de 1992",
+    "Ley 100 de 1993",
+    "Ley 274 de 2000",
+    "Ley 71 de 1988",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Gerardo Botero Zuluaga/Sentencias/SL1625-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:04:59.076142+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2112-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-06-28T14:33:00Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 50,
+  "leyes_o_articulos": [
+    "Decreto 2011 de 2012",
+    "Decreto 2519 de 2015",
+    "Ley 27 de 1976",
+    "Ley 270 de 1996",
+    "Ley 314 de 1938",
+    "Ley 424 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL2112-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:52:25.314735+00:00"
+}

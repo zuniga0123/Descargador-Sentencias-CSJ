@@ -1,0 +1,20 @@
+{
+  "radicado": "SL2168-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-06-30T20:37:55Z",
+  "magistrado_ponente": "Dr. Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 82,
+  "leyes_o_articulos": [
+    "Decreto 663 de 1993",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Martin Emilio Beltran Quintero/Sentencias/SL2168-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:51:20.813657+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "radicado": "SL1699-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-05-27T16:12:42Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 72,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 1474 de 1997",
+    "Decreto 1650 de 1977",
+    "Decreto 1748 de 1995",
+    "Decreto 2610 de 1989",
+    "Decreto 2665 de 1988",
+    "Decreto 3041 de 1966",
+    "Decreto 3063 de 1989",
+    "Decreto 3066 de 1989",
+    "Decreto 3366 de 2007",
+    "Decreto 433 de 1971",
+    "Ley 100 de 1993",
+    "Ley 1299 de 1994",
+    "Ley 153 de 1887",
+    "Ley 16 de 1972"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL1699-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:03:29.358167+00:00"
+}

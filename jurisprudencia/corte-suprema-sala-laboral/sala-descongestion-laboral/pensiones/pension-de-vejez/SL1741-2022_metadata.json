@@ -1,0 +1,31 @@
+{
+  "radicado": "SL1741-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-05-25T21:23:29Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 78,
+  "leyes_o_articulos": [
+    "Decreto 1262 de 1964",
+    "Decreto 1269 de 2009",
+    "Decreto 1282 de 1994",
+    "Decreto 1283 de 1994",
+    "Decreto 1284 de 1994",
+    "Decreto 1513 de 1998",
+    "Decreto 1748 de 1995",
+    "Decreto 2210 de 2004",
+    "Decreto 60 de 1973",
+    "Decreto 824 de 2001",
+    "Ley 100 de 1993",
+    "Ley 71 de 1988",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Donald Jose Dix Ponnefz/Sentencias/SL1741-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:04:07.577085+00:00"
+}

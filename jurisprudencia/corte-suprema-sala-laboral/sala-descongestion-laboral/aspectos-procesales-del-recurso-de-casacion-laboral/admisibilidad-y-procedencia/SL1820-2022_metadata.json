@@ -1,0 +1,30 @@
+{
+  "radicado": "SL1820-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-06-02T17:12:45Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1947",
+    "Decreto 1615 de 2003",
+    "Decreto 1835 de 1994",
+    "Decreto 2062 de 2003",
+    "Decreto 2123 de 1992",
+    "Decreto 2591 de 1991",
+    "Decreto 2661 de 1960",
+    "Ley 100 de 1993",
+    "Ley 1045 de 1978",
+    "Ley 153 de 1887",
+    "Ley 3135 de 1968",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL1820-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:59:59.958031+00:00"
+}

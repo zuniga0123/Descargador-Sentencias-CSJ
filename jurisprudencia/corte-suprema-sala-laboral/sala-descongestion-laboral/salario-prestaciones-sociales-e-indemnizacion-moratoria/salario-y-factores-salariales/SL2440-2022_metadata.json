@@ -1,0 +1,29 @@
+{
+  "radicado": "SL2440-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-07-18T16:23:57Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1209 de 1994",
+    "Decreto 1760 de 2003",
+    "Decreto 2282 de 1989",
+    "Decreto 2719 de 1993",
+    "Decreto 2760 de 1991",
+    "Ley 105 de 1993",
+    "Ley 141 de 1961",
+    "Ley 57 de 1987",
+    "Ley 57 de 1988",
+    "Ley 712 de 2001",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL2440-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:45:13.824800+00:00"
+}
