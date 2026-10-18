@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1906-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-07-29T09:45:00Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 115,
+  "leyes_o_articulos": [
+    "Decreto 204 de 1957",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL1906-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:39:50.858900+00:00"
+}

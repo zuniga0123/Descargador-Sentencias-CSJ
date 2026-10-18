@@ -1,0 +1,27 @@
+{
+  "radicado": "SL3281-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-22T15:06:14Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 1651 de 1977",
+    "Decreto 1653 de 1977",
+    "Decreto 1653 de 1997",
+    "Decreto 1754 de 1994",
+    "Decreto 3135 de 1968",
+    "Decreto 416 de 1997",
+    "Ley 100 de 1993",
+    "Ley 1651 de 1977"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL3281-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:21:03.699932+00:00"
+}

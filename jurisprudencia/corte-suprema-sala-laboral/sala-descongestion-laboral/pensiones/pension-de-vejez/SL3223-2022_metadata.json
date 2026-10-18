@@ -1,0 +1,28 @@
+{
+  "radicado": "SL3223-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-14T17:11:45Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 1615 de 2003",
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 2661 de 1960",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 314 de 1996",
+    "Ley 33 de 1985",
+    "Ley 651 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL3223-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:22:50.628288+00:00"
+}

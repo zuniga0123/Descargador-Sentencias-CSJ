@@ -1,0 +1,20 @@
+{
+  "radicado": "SL3167-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-09T19:21:25Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 0169 de 2006",
+    "Decreto 169 de 2006"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL3167-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:24:15.176317+00:00"
+}

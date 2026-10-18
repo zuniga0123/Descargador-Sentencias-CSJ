@@ -1,0 +1,20 @@
+{
+  "radicado": "SL3072-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-05T17:38:35Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Ley 142 de 1994",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL3072-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:25:37.281980+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2660-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-16T20:51:54Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Ley 1118 de 2006",
+    "Ley 1429 de 2010",
+    "Ley 16 de 1968",
+    "Ley 2351 de 1965",
+    "Ley 31 de 1992",
+    "Ley 734 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL2660-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:32:08.946169+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3291-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-23T14:54:11Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 34,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 1295 de 1994",
+    "Decreto 2351 de 1965",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 361 de 1997"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL3291-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:19:48.255578+00:00"
+}

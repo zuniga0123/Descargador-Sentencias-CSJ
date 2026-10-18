@@ -1,0 +1,30 @@
+{
+  "radicado": "SL3370-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-29T18:15:30Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1048 de 1978",
+    "Decreto 1388 de 1996",
+    "Decreto 1389 de 1996",
+    "Decreto 1848 de 1969",
+    "Decreto 2469 de 2000",
+    "Decreto 2808 de 1994",
+    "Decreto 2809 de 1994",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Decreto 820 de 1974",
+    "Ley 109 de 1994",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL3370-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:18:25.315772+00:00"
+}

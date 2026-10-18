@@ -1,0 +1,29 @@
+{
+  "radicado": "SL2899-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-17T22:14:00Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 71,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2651 de 1991",
+    "Decreto 797 de 1949",
+    "Ley 142 de 1994",
+    "Ley 222 de 1995",
+    "Ley 33 de 1985",
+    "Ley 50 de 1990",
+    "Ley 6 de 1945",
+    "Ley 640 de 2001",
+    "Ley 797 de 1949",
+    "Ley 906 de 2004"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Donald Jose Dix Ponnefz/Sentencias/SL2899-2022.doc",
+  "fecha_descarga": "2026-10-18T06:31:06.791225+00:00"
+}

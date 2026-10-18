@@ -1,0 +1,26 @@
+{
+  "radicado": "SL818-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-07T02:17:00Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 1373 de 1966",
+    "Decreto 1469 de 1978",
+    "Decreto 2351 de 1965",
+    "Decreto 2591 de 1991",
+    "Decreto 2651 de 1991",
+    "Decreto 528 de 1964",
+    "Ley 153 de 1887",
+    "Ley 16 de 1969"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar Angel Mejia Amador/Sentencias/SL818-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:35:14.700079+00:00"
+}

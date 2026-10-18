@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2991-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-25T16:25:06Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 37,
+  "leyes_o_articulos": [
+    "Decreto 01 de 1984",
+    "Decreto 1295 de 1994",
+    "Decreto 1295 de 1995",
+    "Decreto 1889 de 1994",
+    "Decreto 1989 de 1994",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL2991-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:28:02.818950+00:00"
+}

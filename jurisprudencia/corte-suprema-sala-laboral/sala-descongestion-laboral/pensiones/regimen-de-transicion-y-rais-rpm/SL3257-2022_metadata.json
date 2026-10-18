@@ -1,0 +1,31 @@
+{
+  "radicado": "SL3257-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-20T14:35:14Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 44,
+  "leyes_o_articulos": [
+    "Decreto 1858 de 1995",
+    "Decreto 2709 de 1994",
+    "Decreto 2771 de 2007",
+    "Decreto 3771 de 2007",
+    "Decreto 569 de 2004",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 33 de 1985",
+    "Ley 700 de 2001",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL3257-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:21:40.504266+00:00"
+}

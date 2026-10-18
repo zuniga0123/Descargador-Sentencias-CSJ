@@ -1,0 +1,26 @@
+{
+  "radicado": "SL3017-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-26T16:15:35Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Decreto 1748 de 1995",
+    "Decreto 1887 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1116 de 2006",
+    "Ley 171 de 1961",
+    "Ley 222 de 1995",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Jorge Prada Sanchez/Sentencias/SL3017-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:28:28.018972+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "radicado": "SL3060-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-08T15:23:59Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 46,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Decreto 1352 de 2013",
+    "Decreto 1507 de 2013",
+    "Decreto 1507 de 2014",
+    "Decreto 19 de 2012",
+    "Decreto 2463 de 2001",
+    "Ley 100 de 1993",
+    "Ley 1285 de 2009",
+    "Ley 1352 de 2013",
+    "Ley 19 de 2012"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL3060-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:24:55.340151+00:00"
+}

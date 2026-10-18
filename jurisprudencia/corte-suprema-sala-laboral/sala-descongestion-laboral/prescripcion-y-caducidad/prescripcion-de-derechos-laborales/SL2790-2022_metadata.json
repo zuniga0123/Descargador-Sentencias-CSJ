@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2790-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-16T20:37:05Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 61,
+  "leyes_o_articulos": [
+    "Decreto 4889 de 2007",
+    "Decreto 610 de 2005",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 717 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Donald Jose Dix Ponnefz/Sentencias/SL2790-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:32:15.919160+00:00"
+}

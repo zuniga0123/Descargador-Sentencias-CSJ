@@ -1,0 +1,28 @@
+{
+  "radicado": "SL2448-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-07-22T14:36:12Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 5012 de 2009",
+    "Ley 1098 de 2006",
+    "Ley 115 de 1994",
+    "Ley 1295 de 2009",
+    "Ley 30 de 1992",
+    "Ley 50 de 1990",
+    "Ley 60 de 1993",
+    "Ley 715 de 2001",
+    "Ley 715 de 2004",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL2448-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:41:56.960814+00:00"
+}

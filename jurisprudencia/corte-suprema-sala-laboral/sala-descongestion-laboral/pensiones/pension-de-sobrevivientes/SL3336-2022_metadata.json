@@ -1,0 +1,26 @@
+{
+  "radicado": "SL3336-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-26T20:39:07Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 035 de 1992",
+    "Ley 01 de 1991",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 1149 de 2007",
+    "Ley 1437 de 2011",
+    "Ley 793 de 2003",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL3336-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:18:02.220751+00:00"
+}

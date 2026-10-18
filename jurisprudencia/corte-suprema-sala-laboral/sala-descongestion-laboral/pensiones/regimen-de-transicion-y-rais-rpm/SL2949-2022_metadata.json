@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2949-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-22T16:31:16Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 43,
+  "leyes_o_articulos": [
+    "Decreto 1642 de 1995",
+    "Decreto 3798 de 2003",
+    "Decreto 832 de 1996",
+    "Ley 100 de 1993",
+    "Ley 1151 de 2007",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL2949-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:30:14.375932+00:00"
+}

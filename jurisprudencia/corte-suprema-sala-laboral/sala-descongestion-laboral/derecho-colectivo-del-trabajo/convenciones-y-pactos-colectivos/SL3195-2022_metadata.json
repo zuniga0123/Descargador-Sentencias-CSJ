@@ -1,0 +1,22 @@
+{
+  "radicado": "SL3195-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-19T19:57:03Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 0169 de 2006",
+    "Ley 100 de 1993",
+    "Ley 1395 de 2010",
+    "Ley 169 de 1896"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL3195-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:20:56.485149+00:00"
+}

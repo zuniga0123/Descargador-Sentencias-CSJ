@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3166-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-09T15:44:16Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 528 de 1964",
+    "Ley 15 de 1959",
+    "Ley 16 de 1968",
+    "Ley 23 de 1991",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL3166-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:24:13.472678+00:00"
+}

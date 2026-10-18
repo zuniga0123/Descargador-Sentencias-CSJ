@@ -1,0 +1,31 @@
+{
+  "radicado": "SL3324-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-28T15:22:15Z",
+  "magistrado_ponente": "Dr. Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 1833 de 2016",
+    "Decreto 2633 de 1994",
+    "Decreto 2665 de 1988",
+    "Decreto 656 de 1994",
+    "Decreto 692 de 1994",
+    "Decreto 758 de 1990",
+    "Decreto 780 de 2016",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 1393 de 2010",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Martin Emilio Beltran Quintero/Sentencias/SL3324-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:18:48.951579+00:00"
+}

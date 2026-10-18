@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3238-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-19T17:27:24Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Decreto 1068 de 1995",
+    "Decreto 351 de 1996",
+    "Ley 100 de 1993",
+    "Ley 270 de 1996",
+    "Ley 550 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL3238-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:21:51.306902+00:00"
+}

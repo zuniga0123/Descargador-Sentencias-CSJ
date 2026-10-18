@@ -1,0 +1,28 @@
+{
+  "radicado": "SL3140-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-08T16:02:14Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 61,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 2590 de 2003",
+    "Decreto 3287 de 1964",
+    "Decreto 4713 de 2009",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 4 de 1976",
+    "Ley 41 de 1968",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL3140-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:24:06.160693+00:00"
+}

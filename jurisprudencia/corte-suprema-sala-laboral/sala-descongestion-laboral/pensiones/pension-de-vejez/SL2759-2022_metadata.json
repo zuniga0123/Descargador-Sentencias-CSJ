@@ -1,0 +1,30 @@
+{
+  "radicado": "SL2759-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-11T19:38:49Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 56,
+  "leyes_o_articulos": [
+    "Decreto 1314 de 1994",
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966",
+    "Decreto 691 de 1994",
+    "Decreto 758 de 1990",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1650 de 1977",
+    "Ley 33 de 1985",
+    "Ley 62 de 1985",
+    "Ley 71 de 1988",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Olga Yineth Merchan Calderon/Sentencias/SL2759-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:33:23.593308+00:00"
+}

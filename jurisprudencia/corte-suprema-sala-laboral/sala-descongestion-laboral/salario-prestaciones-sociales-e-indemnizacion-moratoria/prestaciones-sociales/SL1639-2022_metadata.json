@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1639-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-16T17:43:29Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 88,
+  "leyes_o_articulos": [
+    "Decreto 4588 de 2006",
+    "Ley 1295 de 1994",
+    "Ley 1429 de 2010",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 789 de 2002",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Gerardo Botero Zuluaga/Sentencias/SL1639-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:32:29.082218+00:00"
+}

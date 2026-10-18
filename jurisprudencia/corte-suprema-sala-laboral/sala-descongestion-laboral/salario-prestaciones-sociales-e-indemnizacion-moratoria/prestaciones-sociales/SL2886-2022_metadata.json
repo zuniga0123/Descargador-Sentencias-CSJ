@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2886-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-17T15:16:04Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1205 de 1994",
+    "Decreto 1295 de 1994",
+    "Decreto 797 de 1949",
+    "Ley 1740 de 2014",
+    "Ley 50 de 1990",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar Angel Mejia Amador/Sentencias/SL2886-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:31:25.059696+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "radicado": "SL2901-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-17T19:21:13Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 2076 de 1967",
+    "Decreto 3135 de 1968",
+    "LEY 100 DE 1993",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 171 de 1961",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL2901-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:31:23.240895+00:00"
+}

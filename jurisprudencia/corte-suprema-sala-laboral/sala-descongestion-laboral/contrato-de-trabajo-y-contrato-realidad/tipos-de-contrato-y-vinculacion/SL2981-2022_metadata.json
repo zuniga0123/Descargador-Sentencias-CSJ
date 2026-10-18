@@ -1,0 +1,21 @@
+{
+  "radicado": "SL2981-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-23T21:23:11Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Tipos de contrato y vinculación",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Ley 1123 de 2007",
+    "Ley 1425 de 2010",
+    "Ley 472 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Donald Jose Dix Ponnefz/Sentencias/SL2981-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:29:44.755282+00:00"
+}

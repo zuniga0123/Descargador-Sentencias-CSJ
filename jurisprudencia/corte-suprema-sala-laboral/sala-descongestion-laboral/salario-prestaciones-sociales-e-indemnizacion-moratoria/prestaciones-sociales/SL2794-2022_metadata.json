@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2794-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-10T23:39:46Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 44,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1314 de 1994",
+    "Decreto 2121 de 1992",
+    "Ley 100 de 1993",
+    "Ley 16 de 1972",
+    "Ley 51 de 1990",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL2794-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:33:46.863457+00:00"
+}

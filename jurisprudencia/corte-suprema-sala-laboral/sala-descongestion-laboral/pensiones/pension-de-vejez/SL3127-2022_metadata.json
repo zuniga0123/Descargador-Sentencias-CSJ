@@ -1,0 +1,27 @@
+{
+  "radicado": "SL3127-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-08T14:35:39Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 75,
+  "leyes_o_articulos": [
+    "Decreto 1474 de 1997",
+    "Decreto 1513 de 1998",
+    "Decreto 1748 de 1995",
+    "Decreto 1833 de 2016",
+    "Decreto 656 de 1994",
+    "Decreto 657 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1437 de 2011",
+    "Ley 153 de 1887"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Fernando Castillo Cadena/Sentencias/SL3127-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:24:57.397236+00:00"
+}

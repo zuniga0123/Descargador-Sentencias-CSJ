@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2462-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-16T21:06:12Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 3222 de 2002",
+    "Ley 16 de 1969",
+    "Ley 361 de 1997",
+    "Ley 776 de 2002",
+    "Ley 9 de 1979"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL2462-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:32:03.575891+00:00"
+}

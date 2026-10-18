@@ -1,0 +1,29 @@
+{
+  "radicado": "SL3070-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-05T16:42:23Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1994",
+    "Decreto 1281 de 1994",
+    "Decreto 3041 de 1966",
+    "Decreto 692 de 1994",
+    "Decreto 758 de 1990",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1250 de 2008",
+    "Ley 171 de 1961",
+    "Ley 62 de 1985",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL3070-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:25:40.948996+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "radicado": "SL803-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-07T02:12:20Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1204 de 2008",
+    "Decreto 750 de 1990",
+    "Decreto 754 de 1990",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1204 de 2008",
+    "Ley 16 de 1969",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar Angel Mejia Amador/Sentencias/SL803-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:35:18.356139+00:00"
+}

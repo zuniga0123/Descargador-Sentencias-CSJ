@@ -1,0 +1,26 @@
+{
+  "radicado": "SL3200-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-13T20:31:30Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 38,
+  "leyes_o_articulos": [
+    "Decreto 1529 de 1990",
+    "Decreto 2351 de 1965",
+    "Decreto 290 de 1979",
+    "Decreto 3135 de 1968",
+    "Decreto 739 de 1991",
+    "Ley 10 de 1990",
+    "Ley 50 de 1990",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Olga Yineth Merchan Calderon/Sentencias/SL3200-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:23:21.995831+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2777-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-17T14:00:39Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 51,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 113 de 1985",
+    "Ley 25 de 1992",
+    "Ley 717 de 2001",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL2777-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:31:48.620571+00:00"
+}

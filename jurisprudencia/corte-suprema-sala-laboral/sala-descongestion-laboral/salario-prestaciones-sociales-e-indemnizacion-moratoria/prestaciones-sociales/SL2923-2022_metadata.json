@@ -1,0 +1,30 @@
+{
+  "radicado": "SL2923-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-18T20:38:07Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 45,
+  "leyes_o_articulos": [
+    "Decreto 2013 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 2714 de 2014",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1450 de 2011",
+    "Ley 254 de 2000",
+    "Ley 344 de 1996",
+    "Ley 4107 de 2011",
+    "Ley 6 de 1945",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL2923-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:30:05.329732+00:00"
+}

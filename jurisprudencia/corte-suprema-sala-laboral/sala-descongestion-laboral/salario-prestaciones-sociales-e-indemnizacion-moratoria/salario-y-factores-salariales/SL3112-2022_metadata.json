@@ -1,0 +1,22 @@
+{
+  "radicado": "SL3112-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-08T01:04:05Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 8,
+  "leyes_o_articulos": [
+    "Decreto 2560 de 1998",
+    "Decreto 2842 de 2013",
+    "Ley 171 de 1961",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Olga Yineth Merchan Calderon/Sentencias/SL3112-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:25:00.792900+00:00"
+}

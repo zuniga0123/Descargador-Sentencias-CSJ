@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2987-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-24T16:52:33Z",
+  "magistrado_ponente": "Dr. Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 2158 de 1948",
+    "Ley 100 de 1993",
+    "Ley 16 de 1968",
+    "Ley 4 de 1976",
+    "Ley 712 de 2001",
+    "Ley 75 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Martin Emilio Beltran Quintero/Sentencias/SL2987-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:29:18.967022+00:00"
+}

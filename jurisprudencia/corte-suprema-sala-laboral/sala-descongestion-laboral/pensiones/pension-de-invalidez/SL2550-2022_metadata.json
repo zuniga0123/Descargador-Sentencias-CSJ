@@ -1,0 +1,29 @@
+{
+  "radicado": "SL2550-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-07-27T18:59:16Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 60,
+  "leyes_o_articulos": [
+    "Decreto 1465 de 2005",
+    "Decreto 187 de 2005",
+    "Decreto 1931 de 2006",
+    "Decreto 3667 de 2004",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 1346 de 2009",
+    "Ley 1564 de 2012",
+    "Ley 16 de 1969",
+    "Ley 762 de 2002",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL2550-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:39:12.539913+00:00"
+}

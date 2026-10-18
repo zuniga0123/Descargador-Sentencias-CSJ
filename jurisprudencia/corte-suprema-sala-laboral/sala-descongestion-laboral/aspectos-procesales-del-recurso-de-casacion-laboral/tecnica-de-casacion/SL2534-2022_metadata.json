@@ -1,0 +1,28 @@
+{
+  "radicado": "SL2534-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-07-25T15:15:55Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Decreto 1174 de 1980",
+    "Decreto 2318 de 1988",
+    "Decreto 2465 de 1981",
+    "Decreto 287 de 1991",
+    "Ley 10 de 1990",
+    "Ley 100 de 1993",
+    "Ley 154 de 1959",
+    "Ley 2465 de 1981",
+    "Ley 287 de 1991",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL2534-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:41:08.777049+00:00"
+}

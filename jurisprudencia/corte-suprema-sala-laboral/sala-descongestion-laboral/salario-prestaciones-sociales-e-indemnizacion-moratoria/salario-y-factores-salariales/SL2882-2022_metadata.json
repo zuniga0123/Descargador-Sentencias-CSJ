@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2882-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-17T14:58:57Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 107,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 2939 de 1944",
+    "Ley 1429 de 2010",
+    "Ley 2351 de 1965",
+    "Ley 712 de 2001",
+    "Ley 789 de 2002",
+    "Ley 995 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL2882-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:31:39.731289+00:00"
+}

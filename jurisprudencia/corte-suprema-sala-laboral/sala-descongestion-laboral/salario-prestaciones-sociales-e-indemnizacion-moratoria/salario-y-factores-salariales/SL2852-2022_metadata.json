@@ -1,0 +1,28 @@
+{
+  "radicado": "SL2852-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-12T17:56:04Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1833 de 2016",
+    "Decreto 1848 de 1969",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 171 de 1971",
+    "Ley 1753 de 2005",
+    "Ley 33 de 1985",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar Angel Mejia Amador/Sentencias/SL2852-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:32:32.219721+00:00"
+}

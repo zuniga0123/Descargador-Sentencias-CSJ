@@ -1,0 +1,27 @@
+{
+  "radicado": "SL3305-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-27T14:44:13Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 66,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1393 de 2010",
+    "Ley 16 de 1968",
+    "Ley 1993 de 2010",
+    "Ley 344 de 1996",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 54 de 1962",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL3305-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:19:07.012374+00:00"
+}
