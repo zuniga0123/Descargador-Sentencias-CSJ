@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3254-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2023-05-19T21:13:04Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 64,
+  "leyes_o_articulos": [
+    "Decreto 1857 de 2017",
+    "Ley 1361 de 2009",
+    "Ley 1758 de 2017",
+    "Ley 59 de 1983",
+    "Ley 712 de 2001",
+    "Ley 986 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Gerardo Botero Zuluaga/Sentencias/SL3254-2022.pdf",
+  "fecha_descarga": "2026-10-18T05:17:25.194445+00:00"
+}

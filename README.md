@@ -73,10 +73,26 @@ python main.py --anio 2015-2024
 # se puede interrumpir (Ctrl+C) y volver a correr después: no vuelve a
 # descargar lo que ya esté en el índice.
 python main.py
+
+# Por tandas de 25 minutos (entornos que cortan procesos largos): se
+# detiene sola, guarda el avance y el mismo comando continúa donde quedó.
+python main.py --anio 2022 --tipo SENTENCIA --max-minutos 25
 ```
 
 El programa se corre **manualmente**, cuando tú lo necesites — no queda
 programado ni corre en segundo plano.
+
+### Reanudación
+
+- Cada providencia descargada queda registrada en el índice en el momento,
+  así que una corrida cortada a la mitad no pierde lo ya bajado.
+- La lista de providencias de cada año/tipo (que puede tardar más de 30
+  minutos en recorrerse) se guarda en `estado_enumeracion/` y se sube a
+  GitHub: una enumeración interrumpida continúa donde quedó, y una
+  completa no se repite. Para años recientes en los que la Corte sigue
+  publicando, `--reenumerar` vuelve a consultar la lista.
+- Al final de cada corrida el log dice `ESTADO: COMPLETO` o
+  `ESTADO: INCOMPLETO` (en ese caso, volver a correr el mismo comando).
 
 ## Decisiones tomadas en este proyecto
 

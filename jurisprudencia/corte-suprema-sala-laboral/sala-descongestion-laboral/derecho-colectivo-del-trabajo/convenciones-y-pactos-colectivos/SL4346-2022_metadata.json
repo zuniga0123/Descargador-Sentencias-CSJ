@@ -1,0 +1,25 @@
+{
+  "radicado": "SL4346-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2023-03-22T16:46:31Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Decreto 1876 de 1994",
+    "Decreto 2127 de 1945",
+    "Ley 100 de 1993",
+    "Ley 1298 de 1994",
+    "Ley 489 de 1998",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL4346-2022.pdf",
+  "fecha_descarga": "2026-10-18T05:17:53.897464+00:00"
+}

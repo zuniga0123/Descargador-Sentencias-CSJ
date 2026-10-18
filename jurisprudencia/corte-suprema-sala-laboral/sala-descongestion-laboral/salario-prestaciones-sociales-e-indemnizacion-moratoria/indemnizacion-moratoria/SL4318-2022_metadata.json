@@ -1,0 +1,21 @@
+{
+  "radicado": "SL4318-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2023-02-22T21:00:30Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 4,
+  "leyes_o_articulos": [
+    "Decreto 1083 de 2015",
+    "Decreto 2127 de 1945",
+    "Ley 64 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Fernando Castillo Cadena/Sentencias/SL4318-2022.pdf",
+  "fecha_descarga": "2026-10-18T05:19:12.145536+00:00"
+}

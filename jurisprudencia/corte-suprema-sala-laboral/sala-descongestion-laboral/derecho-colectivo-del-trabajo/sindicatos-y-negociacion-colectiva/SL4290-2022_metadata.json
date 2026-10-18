@@ -1,0 +1,21 @@
+{
+  "radicado": "SL4290-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2023-03-16T21:33:56Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 119,
+  "leyes_o_articulos": [
+    "Decreto 089 de 2014",
+    "Ley 1563 de 2012",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar Angel Mejia Amador/Sentencias/SL4290-2022.pdf",
+  "fecha_descarga": "2026-10-18T05:18:01.646542+00:00"
+}

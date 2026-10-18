@@ -1,0 +1,32 @@
+{
+  "radicado": "SL792-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2024-09-12T21:53:58Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 258 de 1964",
+    "Decreto 528 de 1964",
+    "Decreto 719 de 1989",
+    "Decreto 969 de 1946",
+    "Ley 100 de 1993",
+    "Ley 1204 de 2008",
+    "Ley 1395 de 2010",
+    "Ley 1564 de 2012",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 44 de 1980",
+    "Ley 712 de 2001",
+    "Ley 75 de 1945",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL792-2022.pdf",
+  "fecha_descarga": "2026-10-18T05:16:12.117524+00:00"
+}

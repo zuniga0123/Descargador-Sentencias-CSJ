@@ -1,0 +1,29 @@
+{
+  "radicado": "SL3229-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2023-01-16T21:22:47Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 1818 de 1998",
+    "Decreto 1919 de 2002",
+    "Decreto 2418 de 2015",
+    "Decreto 304 de 2020",
+    "Decreto 3135 de 1968",
+    "Decreto 710 de 1978",
+    "Ley 142 de 1994",
+    "Ley 1563 de 2012",
+    "Ley 3135 de 1968",
+    "Ley 584 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar Angel Mejia Amador/Sentencias/SL3229-2022.pdf",
+  "fecha_descarga": "2026-10-18T05:20:30.481054+00:00"
+}

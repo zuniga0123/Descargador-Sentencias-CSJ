@@ -1,0 +1,22 @@
+{
+  "radicado": "SL3948-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2023-01-16T20:37:06Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1889 de 1994",
+    "Ley 100 de 1993",
+    "Ley 54 de 1990",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar Angel Mejia Amador/Sentencias/SL3948-2022.pdf",
+  "fecha_descarga": "2026-10-18T05:20:45.165368+00:00"
+}

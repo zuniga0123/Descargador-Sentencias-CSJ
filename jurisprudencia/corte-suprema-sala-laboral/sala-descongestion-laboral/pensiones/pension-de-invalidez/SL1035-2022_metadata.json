@@ -1,0 +1,21 @@
+{
+  "radicado": "SL1035-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2023-02-22T20:49:25Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 2463 de 2001",
+    "Decreto 917 de 1999",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Fernando Castillo Cadena/Sentencias/SL1035-2022.pdf",
+  "fecha_descarga": "2026-10-18T05:19:17.130739+00:00"
+}

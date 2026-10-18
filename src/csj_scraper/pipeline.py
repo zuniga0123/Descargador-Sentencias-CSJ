@@ -7,7 +7,8 @@ from __future__ import annotations
 
 import json
 import logging
-from dataclasses import dataclass, field
+import time
+from dataclasses import asdict, dataclass, field
 from datetime import datetime, timezone
 
 from . import config, db
@@ -19,6 +20,19 @@ from .utils import extension_desde_titulo, radicado_desde_titulo, slugify
 logger = logging.getLogger(__name__)
 
 CORTE = "Corte Suprema de Justicia"
+
+
+class TiempoAgotado(Exception):
+    """Se alcanzó el límite de --max-minutos; el avance quedó guardado."""
+
+
+class Presupuesto:
+    def __init__(self, max_minutos: float | None = None) -> None:
+        self.limite = time.monotonic() + max_minutos * 60 if max_minutos else None
+
+    def verificar(self) -> None:
+        if self.limite is not None and time.monotonic() >= self.limite:
+            raise TiempoAgotado
 
 
 @dataclass
@@ -43,46 +57,93 @@ def _determinar_sub_sala(doc_id: str) -> str:
     return "DESCONOCIDA"
 
 
+def _ruta_estado_enumeracion(year: str, tipo_providencia: str, sala: str):
+    return config.ENUMERACION_DIR / f"{year}-{tipo_providencia}-{sala}.json"
+
+
+def _guardar_estado_enumeracion(ruta, completa, siguiente_start, total, encontrados) -> None:
+    ruta.parent.mkdir(parents=True, exist_ok=True)
+    estado = {
+        "completa": completa,
+        "siguiente_start": siguiente_start,
+        "total": total,
+        "documentos": {rad: asdict(doc) for rad, doc in encontrados.items()},
+    }
+    tmp = ruta.with_suffix(".tmp")
+    tmp.write_text(json.dumps(estado, ensure_ascii=False), encoding="utf-8")
+    tmp.replace(ruta)
+
+
 def enumerar_radicados(
-    client: CsjApiClient, year: str, tipo_providencia: str, sala: str = config.SALA
+    client: CsjApiClient,
+    year: str,
+    tipo_providencia: str,
+    sala: str = config.SALA,
+    presupuesto: Presupuesto | None = None,
+    reenumerar: bool = False,
 ) -> dict[str, DocumentoEnumerado]:
     """Recorre todas las páginas de resultados para (year, tipo_providencia)
     y devuelve un radicado -> DocumentoEnumerado (deduplicado, prefiere la
-    entrada en PDF cuando el mismo radicado aparece en varios formatos)."""
+    entrada en PDF cuando el mismo radicado aparece en varios formatos).
+
+    El avance se guarda en ENUMERACION_DIR: una enumeración interrumpida
+    continúa donde quedó, y una completa no se repite (salvo reenumerar)."""
+    presupuesto = presupuesto or Presupuesto()
+    ruta_estado = _ruta_estado_enumeracion(year, tipo_providencia, sala)
     encontrados: dict[str, DocumentoEnumerado] = {}
     start = 0
     total = None
-    pagina = 0
-    while total is None or start < total:
-        resultado = client.search(year=year, tipo_providencia=tipo_providencia, start=start, sala=sala)
-        total = resultado["numOfResults"]
-        resultados = resultado["searchResults"]
-        if not resultados:
-            break
-        for r in resultados:
-            radicado = radicado_desde_titulo(r["title"])
-            ext = extension_desde_titulo(r["title"])
-            existente = encontrados.get(radicado)
-            if existente is not None and existente.extension == "pdf":
-                continue
-            encontrados[radicado] = DocumentoEnumerado(
-                radicado=radicado,
-                doc_id=r["id"],
-                extension=ext,
-                ano=r.get("ano"),
-                fecha_creacion=r.get("fechaCreacion"),
-                doctor=r.get("doctor"),
-                tipo_providencia=r.get("autoSentencia"),
-                leyes_o_articulos=r.get("leyesOArticulos") or [],
-                sub_sala=_determinar_sub_sala(r["id"]),
-            )
-        pagina += 1
-        start += config.RESULTS_PER_PAGE
-        if pagina % 20 == 0:
+    if ruta_estado.exists() and not reenumerar:
+        estado = json.loads(ruta_estado.read_text(encoding="utf-8"))
+        encontrados = {rad: DocumentoEnumerado(**d) for rad, d in estado["documentos"].items()}
+        if estado["completa"]:
             logger.info(
-                "  ... %s %s %s: página %d, %d/%d resultados, %d radicados únicos",
-                year, tipo_providencia, sala, pagina, min(start, total), total, len(encontrados),
+                "Enumeración %s %s %s ya guardada: %d radicados únicos",
+                year, tipo_providencia, sala, len(encontrados),
             )
+            return encontrados
+        start = estado["siguiente_start"]
+        total = estado["total"]
+        logger.info("Retomando enumeración %s %s %s desde el resultado %d", year, tipo_providencia, sala, start)
+
+    pagina = start // config.RESULTS_PER_PAGE
+    try:
+        while total is None or start < total:
+            presupuesto.verificar()
+            resultado = client.search(year=year, tipo_providencia=tipo_providencia, start=start, sala=sala)
+            total = resultado["numOfResults"]
+            resultados = resultado["searchResults"]
+            if not resultados:
+                break
+            for r in resultados:
+                radicado = radicado_desde_titulo(r["title"])
+                ext = extension_desde_titulo(r["title"])
+                existente = encontrados.get(radicado)
+                if existente is not None and existente.extension == "pdf":
+                    continue
+                encontrados[radicado] = DocumentoEnumerado(
+                    radicado=radicado,
+                    doc_id=r["id"],
+                    extension=ext,
+                    ano=r.get("ano"),
+                    fecha_creacion=r.get("fechaCreacion"),
+                    doctor=r.get("doctor"),
+                    tipo_providencia=r.get("autoSentencia"),
+                    leyes_o_articulos=r.get("leyesOArticulos") or [],
+                    sub_sala=_determinar_sub_sala(r["id"]),
+                )
+            pagina += 1
+            start += config.RESULTS_PER_PAGE
+            if pagina % 20 == 0:
+                _guardar_estado_enumeracion(ruta_estado, False, start, total, encontrados)
+                logger.info(
+                    "  ... %s %s %s: página %d, %d/%d resultados, %d radicados únicos",
+                    year, tipo_providencia, sala, pagina, min(start, total), total, len(encontrados),
+                )
+    except TiempoAgotado:
+        _guardar_estado_enumeracion(ruta_estado, False, start, total, encontrados)
+        raise
+    _guardar_estado_enumeracion(ruta_estado, True, start, total, encontrados)
     logger.info(
         "Enumeración %s %s %s completa: %d radicados únicos (%d resultados crudos)",
         year, tipo_providencia, sala, len(encontrados), total or 0,
@@ -236,8 +297,13 @@ def ejecutar(
     limite: int | None = None,
     forzar: bool = False,
     descargar_original: bool = True,
-) -> None:
+    max_minutos: float | None = None,
+    reenumerar: bool = False,
+) -> bool:
+    """Devuelve True si terminó todo lo pedido; False si se detuvo antes por
+    --max-minutos o --limite (en ese caso basta con volver a correrlo)."""
     tipos = tipos or config.TIPOS_PROVIDENCIA
+    presupuesto = Presupuesto(max_minutos)
     # El índice no viaja en git: en un clon nuevo hay que regenerarlo para
     # que la corrida no vuelva a descargar lo que ya está en los archivos.
     if not config.DB_PATH.exists() and any(config.OUTPUT_ROOT.rglob("*_metadata.json")):
@@ -247,25 +313,38 @@ def ejecutar(
     client = CsjApiClient()
     procesados = 0
     saltados = 0
+    completo = True
     with db.conectar() as conn:
-        for year in anios:
-            for tipo in tipos:
-                logger.info("=== Enumerando %s / %s / %s ===", year, tipo, sala)
-                documentos = enumerar_radicados(client, year, tipo, sala=sala)
-                for radicado, doc in documentos.items():
-                    if limite is not None and procesados >= limite:
-                        logger.info("Límite de %d documentos alcanzado, deteniendo.", limite)
-                        return
-                    try:
-                        hizo_trabajo = procesar_documento(
-                            client, conn, doc, sala=sala, forzar=forzar, descargar_original=descargar_original
-                        )
-                    except Exception:
-                        logger.exception("Error procesando %s (%s)", radicado, doc.doc_id)
-                        continue
-                    if hizo_trabajo:
-                        procesados += 1
-                        logger.info("[%d] Descargado %s (%s / %s)", procesados, radicado, doc.sub_sala, tipo)
-                    else:
-                        saltados += 1
-    logger.info("Listo. Nuevos: %d, ya existentes (saltados): %d", procesados, saltados)
+        try:
+            for year in anios:
+                for tipo in tipos:
+                    logger.info("=== Enumerando %s / %s / %s ===", year, tipo, sala)
+                    documentos = enumerar_radicados(
+                        client, year, tipo, sala=sala, presupuesto=presupuesto, reenumerar=reenumerar
+                    )
+                    for radicado, doc in documentos.items():
+                        if limite is not None and procesados >= limite:
+                            logger.info("Límite de %d documentos alcanzado, deteniendo.", limite)
+                            raise TiempoAgotado
+                        presupuesto.verificar()
+                        try:
+                            hizo_trabajo = procesar_documento(
+                                client, conn, doc, sala=sala, forzar=forzar, descargar_original=descargar_original
+                            )
+                        except Exception:
+                            logger.exception("Error procesando %s (%s)", radicado, doc.doc_id)
+                            continue
+                        conn.commit()
+                        if hizo_trabajo:
+                            procesados += 1
+                            logger.info("[%d] Descargado %s (%s / %s)", procesados, radicado, doc.sub_sala, tipo)
+                        else:
+                            saltados += 1
+        except TiempoAgotado:
+            completo = False
+    logger.info("Nuevos: %d, ya existentes (saltados): %d", procesados, saltados)
+    if completo:
+        logger.info("ESTADO: COMPLETO")
+    else:
+        logger.info("ESTADO: INCOMPLETO. El avance quedó guardado; vuelve a correr el mismo comando para continuar.")
+    return completo

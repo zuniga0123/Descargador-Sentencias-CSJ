@@ -221,6 +221,7 @@ python main.py --anio 2015-2024               # rango
 python main.py --anio 2024 --tipo SENTENCIA   # solo sentencias (partir años grandes)
 python main.py --anio 2024 --limite 20        # prueba pequeña
 python main.py --reconstruir-indice           # regenerar el índice desde los archivos
+python main.py --anio 2022 --max-minutos 25   # tanda que se detiene sola y guarda el avance
 ```
 
 Scraping respetuoso, igual en ambas: user-agent identificable, ~1,5 s entre solicitudes, reintentos con backoff exponencial (2, 4, 8, 16 s) ante errores de red, 429 o 5xx.
@@ -230,7 +231,10 @@ Scraping respetuoso, igual en ambas: user-agent identificable, ~1,5 s entre soli
 ## 7. Forma de trabajo en cada sesión (DEBE)
 
 1. Al abrir la sesión: el repositorio ya trae los `.md` y `.json` de lotes anteriores; el índice se reconstruye solo.
-2. Lanzar el lote (un año, o una mitad) **en segundo plano**.
+2. Lanzar el lote (un año, o una mitad) **en segundo plano**. **El entorno de Claude Code corta las tareas en segundo plano a los 30 minutos**, así que cada corrida DEBE poder detenerse sola antes (`--max-minutos 25`) y retomarse sin perder nada:
+   - registrar cada providencia en el índice (`commit` de SQLite) apenas se descarga, no al final de la corrida;
+   - guardar el avance de la enumeración/paginación de resultados en un archivo (en la CSJ, `estado_enumeracion/<año>-<tipo>-<sala>.json`, que sí se sube a git) para retomarla y no repetirla;
+   - terminar el log con `ESTADO: COMPLETO` o `ESTADO: INCOMPLETO` para saber si hay que relanzar.
 3. Al terminar: revisar errores en el log y el porcentaje de "Otros - Sin clasificar"; verificar que no se cuele ningún PDF/HTML ni ningún archivo de más de 100MB (`git status`).
 4. `git add jurisprudencia/` → commit → `git push` **antes** de lanzar el siguiente lote.
 

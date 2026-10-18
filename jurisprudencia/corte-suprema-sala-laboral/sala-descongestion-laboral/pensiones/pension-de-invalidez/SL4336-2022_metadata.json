@@ -1,0 +1,22 @@
+{
+  "radicado": "SL4336-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2023-01-19T20:10:20Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 19 de 2012",
+    "Ley 100 de 1993",
+    "Ley 860 de 2003",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL4336-2022.pdf",
+  "fecha_descarga": "2026-10-18T05:19:38.548086+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "radicado": "SL4286-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2023-03-16T21:12:41Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 51,
+  "leyes_o_articulos": [
+    "Decreto 2551 de 1991",
+    "Decreto 2591 de 1991",
+    "Ley 153 de 1887",
+    "Ley 2591 de 1991",
+    "Ley 53 de 1887",
+    "Ley 791 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar Angel Mejia Amador/Sentencias/SL4286-2022.pdf",
+  "fecha_descarga": "2026-10-18T05:18:05.245363+00:00"
+}

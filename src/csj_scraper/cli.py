@@ -59,6 +59,19 @@ def main() -> None:
         "(duplica tiempo y espacio en disco). Por defecto solo se guarda Markdown + metadata.",
     )
     parser.add_argument(
+        "--max-minutos",
+        type=float,
+        default=None,
+        help="Detenerse ordenadamente tras N minutos, guardando el avance (para entornos "
+        "que cortan los procesos largos). Volver a correr el mismo comando continúa.",
+    )
+    parser.add_argument(
+        "--reenumerar",
+        action="store_true",
+        help="Ignorar la enumeración guardada y volver a consultar la lista de providencias "
+        "(útil para años recientes en los que la Corte sigue publicando).",
+    )
+    parser.add_argument(
         "--reconstruir-indice",
         action="store_true",
         help="No descarga nada: regenera jurisprudencia/indice.sqlite a partir de los "
@@ -88,6 +101,8 @@ def main() -> None:
         limite=args.limite,
         forzar=args.forzar,
         descargar_original=args.con_original,
+        max_minutos=args.max_minutos,
+        reenumerar=args.reenumerar,
     )
 
 

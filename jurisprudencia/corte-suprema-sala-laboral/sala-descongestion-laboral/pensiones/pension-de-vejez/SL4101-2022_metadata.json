@@ -1,0 +1,22 @@
+{
+  "radicado": "SL4101-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2023-01-19T16:54:34Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 67,
+  "leyes_o_articulos": [
+    "Decreto 1730 de 2001",
+    "Decreto 4640 de 2005",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL4101-2022.pdf",
+  "fecha_descarga": "2026-10-18T05:20:15.874881+00:00"
+}

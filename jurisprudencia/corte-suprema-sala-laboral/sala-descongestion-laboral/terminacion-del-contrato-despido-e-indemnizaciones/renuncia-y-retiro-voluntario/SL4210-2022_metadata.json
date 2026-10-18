@@ -1,0 +1,28 @@
+{
+  "radicado": "SL4210-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2023-02-08T21:36:26Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Renuncia y retiro voluntario",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 1227 de 2005",
+    "Decreto 2127 de 1945",
+    "Decreto 2400 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 1429 de 2010",
+    "Ley 153 de 1887",
+    "Ley 52 de 1975",
+    "Ley 6 de 1945",
+    "Ley 909 de 2004"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL4210-2022.pdf",
+  "fecha_descarga": "2026-10-18T05:19:24.233053+00:00"
+}

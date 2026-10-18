@@ -1,0 +1,26 @@
+{
+  "radicado": "SL3913-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2023-01-16T21:03:07Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 87,
+  "leyes_o_articulos": [
+    "Decreto 806 de 1998",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1963",
+    "Ley 100 de 1993",
+    "Ley 22 de 1967",
+    "Ley 762 de 2002",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar Angel Mejia Amador/Sentencias/SL3913-2022.pdf",
+  "fecha_descarga": "2026-10-18T05:20:36.030208+00:00"
+}

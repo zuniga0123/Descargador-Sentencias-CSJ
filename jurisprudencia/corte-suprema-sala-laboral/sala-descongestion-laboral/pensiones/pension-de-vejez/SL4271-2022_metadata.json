@@ -1,0 +1,29 @@
+{
+  "radicado": "SL4271-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2023-03-16T20:45:12Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 86,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 2831 de 2005",
+    "Decreto 3752 de 2003",
+    "Decreto 3995 de 2008",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1214 de 1990",
+    "Ley 715 de 2001",
+    "Ley 797 de 2003",
+    "Ley 812 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar Angel Mejia Amador/Sentencias/SL4271-2022.pdf",
+  "fecha_descarga": "2026-10-18T05:18:12.409384+00:00"
+}

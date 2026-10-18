@@ -1,0 +1,22 @@
+{
+  "radicado": "SL2876-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2023-01-16T20:28:13Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 692 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 10 de 1972",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar Angel Mejia Amador/Sentencias/SL2876-2022.pdf",
+  "fecha_descarga": "2026-10-18T05:20:47.006022+00:00"
+}

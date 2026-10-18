@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1047-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2023-02-22T20:44:47Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 4937 de 2009",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Fernando Castillo Cadena/Sentencias/SL1047-2022.pdf",
+  "fecha_descarga": "2026-10-18T05:19:18.743204+00:00"
+}

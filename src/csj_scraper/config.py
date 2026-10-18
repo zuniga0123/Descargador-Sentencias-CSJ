@@ -52,3 +52,6 @@ PROJECT_ROOT = Path(__file__).resolve().parents[2]
 OUTPUT_ROOT = PROJECT_ROOT / "jurisprudencia"
 CORTE_DIR_NAME = "corte-suprema-sala-laboral"
 DB_PATH = PROJECT_ROOT / "jurisprudencia" / "indice.sqlite"
+# Avance de la enumeración por (año, tipo): permite retomarla y no repetirla.
+# Se sube a git junto con los datos para sobrevivir al reciclaje del contenedor.
+ENUMERACION_DIR = PROJECT_ROOT / "estado_enumeracion"

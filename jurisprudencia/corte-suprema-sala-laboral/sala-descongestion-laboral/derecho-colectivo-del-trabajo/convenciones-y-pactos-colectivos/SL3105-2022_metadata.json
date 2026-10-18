@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3105-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2023-02-22T20:41:39Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 016 de 1995",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 16 de 1969"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL3105-2022.pdf",
+  "fecha_descarga": "2026-10-18T05:19:20.624345+00:00"
+}
