@@ -1,0 +1,21 @@
+{
+  "radicado": "SL3897-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-12-14T20:28:18Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 616 de 1954",
+    "Ley 153 de 1887"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL3897-2022.pdf",
+  "fecha_descarga": "2026-10-18T05:52:19.803452+00:00"
+}
