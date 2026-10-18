@@ -1,0 +1,20 @@
+{
+  "radicado": "AL5419-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2022,
+  "fecha_creacion": "2022-12-06T23:49:42Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 806 de 2000",
+    "Decreto 806 de 2020"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Fernando Castillo Cadena/Autos/AL5419-2022.pdf",
+  "fecha_descarga": "2026-10-18T08:16:47.365248+00:00"
+}

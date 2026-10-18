@@ -1,0 +1,20 @@
+{
+  "radicado": "AL5085-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2022,
+  "fecha_creacion": "2022-11-16T16:47:20Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 3,
+  "leyes_o_articulos": [
+    "Decreto 2265 de 2017",
+    "Ley 1437 de 2011"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Jorge Prada Sanchez/Autos/AL5085-2022.pdf",
+  "fecha_descarga": "2026-10-18T08:21:22.226855+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "radicado": "AL5616-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2022,
+  "fecha_creacion": "2023-02-08T21:00:21Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 806 de 2020",
+    "Ley 1285 de 2009",
+    "Ley 2213 de 2022"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Fernando Castillo Cadena/Autos/AL5616-2022.pdf",
+  "fecha_descarga": "2026-10-18T08:10:05.866560+00:00"
+}

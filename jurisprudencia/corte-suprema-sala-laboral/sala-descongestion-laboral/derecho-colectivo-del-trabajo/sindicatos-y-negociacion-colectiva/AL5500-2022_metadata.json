@@ -1,0 +1,22 @@
+{
+  "radicado": "AL5500-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2022,
+  "fecha_creacion": "2022-12-13T02:01:22Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Ley 1285 de 2009",
+    "Ley 270 de 1996",
+    "Ley 50 de 1990",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Gerardo Botero Zuluaga/Autos/AL5500-2022.pdf",
+  "fecha_descarga": "2026-10-18T08:14:29.071709+00:00"
+}
