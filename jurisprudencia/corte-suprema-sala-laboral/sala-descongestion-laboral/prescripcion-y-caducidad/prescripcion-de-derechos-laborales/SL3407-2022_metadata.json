@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3407-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-10-03T17:16:57Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 62 de 1985",
+    "Ley 712 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Jorge Prada Sanchez/Sentencias/SL3407-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:17:38.538907+00:00"
+}
