@@ -1,0 +1,26 @@
+{
+  "radicado": "SL3659-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-10-25T15:00:44Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 38,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1947",
+    "Decreto 1214 de 1990",
+    "Decreto 1792 de 2000",
+    "Decreto 797 de 1949",
+    "Ley 1214 de 1990",
+    "Ley 50 de 1990",
+    "Ley 65 de 1946",
+    "Ley 797 de 1949"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Ana Maria Muñoz Segura/Sentencias/SL3659-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:11:04.072490+00:00"
+}

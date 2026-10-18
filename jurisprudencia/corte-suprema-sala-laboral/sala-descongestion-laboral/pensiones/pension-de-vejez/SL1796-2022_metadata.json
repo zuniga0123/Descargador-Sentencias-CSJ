@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1796-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-06-02T15:58:41Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 49,
+  "leyes_o_articulos": [
+    "Decreto 2820 de 1974",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 717 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Ana Maria Muñoz Segura/Sentencias/SL1796-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:13:21.124727+00:00"
+}

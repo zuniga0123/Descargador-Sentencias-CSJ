@@ -1,0 +1,23 @@
+{
+  "radicado": "SL4020-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-11-28T19:42:36Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 675 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL4020-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:00:20.247366+00:00"
+}

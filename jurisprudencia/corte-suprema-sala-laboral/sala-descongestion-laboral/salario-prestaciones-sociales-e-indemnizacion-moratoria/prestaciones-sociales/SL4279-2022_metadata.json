@@ -1,0 +1,23 @@
+{
+  "radicado": "SL4279-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-12-12T14:30:42Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 3571 de 2011",
+    "Ley 1116 de 2006",
+    "Ley 134 de 1994",
+    "Ley 136 de 1994",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Gerardo Botero Zuluaga/Sentencias/SL4279-2022.pdf",
+  "fecha_descarga": "2026-10-18T05:54:00.821536+00:00"
+}

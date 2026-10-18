@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3531-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-10-12T16:49:49Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 68,
+  "leyes_o_articulos": [
+    "DECRETO 758 DE 1990",
+    "Decreto 758 de 1990",
+    "LEY 100 DE 1993",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 71 de 1988",
+    "Ley 71 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Ana Maria Muñoz Segura/Sentencias/SL3531-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:14:25.850657+00:00"
+}

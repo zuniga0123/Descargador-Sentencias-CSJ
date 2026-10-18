@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3657-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-10-25T15:02:14Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Huelga",
+  "puntaje_clasificacion": 66,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1564 de 2012",
+    "Ley 2351 de 1965",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL3657-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:10:49.595800+00:00"
+}

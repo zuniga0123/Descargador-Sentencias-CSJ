@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3957-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-12-14T20:18:07Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 142,
+  "leyes_o_articulos": [
+    "Decreto 089 de 2014",
+    "Decreto 1469 de 1978",
+    "Decreto 2351 de 1965",
+    "Decreto 2365 de 1965",
+    "Decreto 4108 de 2011",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Donald Jose Dix Ponnefz/Sentencias/SL3957-2022.pdf",
+  "fecha_descarga": "2026-10-18T05:52:27.239531+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL4091-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-12-01T14:53:46Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 77,
+  "leyes_o_articulos": [
+    "Ley 1285 de 2009",
+    "Ley 1496 de 2011",
+    "Ley 16 de 1969",
+    "Ley 270 de 1996",
+    "Ley 527 de 1999",
+    "Ley 712 de 2001",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL4091-2022.pdf",
+  "fecha_descarga": "2026-10-18T05:59:26.782100+00:00"
+}

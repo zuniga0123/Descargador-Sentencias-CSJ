@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3674-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-10-27T20:03:26Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1898",
+    "Decreto 1160 de 1989",
+    "Ley 100 de 1993",
+    "Ley 1204 de 2008",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL3674-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:09:24.792131+00:00"
+}

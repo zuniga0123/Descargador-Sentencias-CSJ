@@ -1,0 +1,28 @@
+{
+  "radicado": "SL3480-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-10-10T16:41:27Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 47,
+  "leyes_o_articulos": [
+    "Decreto 1352 de 2013",
+    "Decreto 1833 de 2016",
+    "Decreto 19 de 2012",
+    "Decreto 232 de 1984",
+    "Decreto 528 de 1964",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL3480-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:15:20.234485+00:00"
+}

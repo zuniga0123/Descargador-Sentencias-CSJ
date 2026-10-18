@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3768-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-11-03T15:10:40Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 19 de 2012",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 1392 de 2010",
+    "Ley 153 de 1887",
+    "Ley 860 de 2003",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL3768-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:08:20.951851+00:00"
+}

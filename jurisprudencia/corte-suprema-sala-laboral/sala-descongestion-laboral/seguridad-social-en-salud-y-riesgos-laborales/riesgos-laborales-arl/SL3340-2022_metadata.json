@@ -1,0 +1,22 @@
+{
+  "radicado": "SL3340-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-10-12T19:15:28Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 48,
+  "leyes_o_articulos": [
+    "Decreto 1771 de 1994",
+    "Decreto 2651 de 1991",
+    "Ley 1295 de 1994",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL3340-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:14:07.567905+00:00"
+}

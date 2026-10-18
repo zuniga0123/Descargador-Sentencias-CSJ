@@ -1,0 +1,21 @@
+{
+  "radicado": "SL4021-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-11-28T19:57:04Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Ley 1496 de 2011",
+    "Ley 22 de 1967"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL4021-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:00:21.967396+00:00"
+}

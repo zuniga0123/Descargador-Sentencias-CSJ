@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3530-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-10-12T19:17:55Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 95,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1335 de 1987",
+    "Ley 100 de 1993",
+    "Ley 1562 de 2012",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL3530-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:13:31.269052+00:00"
+}

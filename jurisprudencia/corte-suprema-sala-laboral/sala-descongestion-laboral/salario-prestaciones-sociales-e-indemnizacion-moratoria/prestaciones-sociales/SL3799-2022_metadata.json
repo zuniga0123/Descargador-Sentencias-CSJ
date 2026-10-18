@@ -1,0 +1,33 @@
+{
+  "radicado": "SL3799-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-11-09T16:40:08Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 85,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1947",
+    "Decreto 1252 de 2000",
+    "Decreto 1252 de 2002",
+    "Decreto 1750 de 2003",
+    "Decreto 2013 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 552 de 2015",
+    "Decreto 553 de 2015",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 34 de 1966",
+    "Ley 344 de 1996",
+    "Ley 432 de 1998",
+    "Ley 6 de 1945",
+    "Ley 797 de 1949"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL3799-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:06:49.143560+00:00"
+}

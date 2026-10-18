@@ -1,0 +1,29 @@
+{
+  "radicado": "SL3968-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-11-22T20:29:14Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 1174 de 1984",
+    "Decreto 1650 de 1976",
+    "Decreto 1848 de 1969",
+    "Decreto 3041 de 1966",
+    "Decreto 3135 de 1968",
+    "Decreto 434 de 1971",
+    "Ley 100 de 1993",
+    "Ley 12 de 1975",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1973",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL3968-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:01:41.355883+00:00"
+}

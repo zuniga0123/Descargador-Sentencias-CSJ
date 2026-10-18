@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2329-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-11-16T21:25:31Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 2463 de 2001",
+    "Decreto 2651 de 1991",
+    "Decreto 2943 de 2013",
+    "Decreto 4023 de 2011",
+    "Decreto 780 de 2016",
+    "Ley 100 de 1993",
+    "Ley 1281 de 2002",
+    "Ley 1438 de 2011"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL2329-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:04:59.479670+00:00"
+}

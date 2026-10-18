@@ -1,0 +1,25 @@
+{
+  "radicado": "SL4178-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-12-07T17:16:11Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 41,
+  "leyes_o_articulos": [
+    "Decreto 1651 de 1991",
+    "Decreto 2282 de 1984",
+    "Decreto 895 de 1991",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 56 de 1985",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL4178-2022.pdf",
+  "fecha_descarga": "2026-10-18T05:55:09.981993+00:00"
+}

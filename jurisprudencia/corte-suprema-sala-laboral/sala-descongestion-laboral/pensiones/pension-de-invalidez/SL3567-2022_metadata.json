@@ -1,0 +1,31 @@
+{
+  "radicado": "SL3567-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-10-13T21:07:36Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 72,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 1352 de 2013",
+    "Decreto 1730 de 2001",
+    "Decreto 2463 de 2001",
+    "Decreto 656 de 1994",
+    "Decreto 692 de 1995",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 153 de 1987",
+    "Ley 16 de 1969",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL3567-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:12:11.904673+00:00"
+}

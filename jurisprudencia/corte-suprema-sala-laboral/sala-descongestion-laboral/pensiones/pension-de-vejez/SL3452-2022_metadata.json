@@ -1,0 +1,28 @@
+{
+  "radicado": "SL3452-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-10-28T18:03:28Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 169 de 2008",
+    "Decreto 3041 de 1966",
+    "Decreto 575 de 2013",
+    "Ley 100 de 1993",
+    "Ley 1151 de 2007",
+    "Ley 171 de 1961",
+    "Ley 2213 de 2022",
+    "Ley 50 de 1990",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Fernando Castillo Cadena/Sentencias/SL3452-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:09:44.704573+00:00"
+}

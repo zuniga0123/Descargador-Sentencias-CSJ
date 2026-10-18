@@ -1,0 +1,30 @@
+{
+  "radicado": "SL3996-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-11-24T21:27:51Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 34,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 1352 de 2013",
+    "Decreto 1507 de 2013",
+    "Decreto 1507 de 2014",
+    "Decreto 1508 de 2014",
+    "Decreto 2463 de 2001",
+    "Decreto 2463 de 2003",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 1262 de 2012",
+    "Ley 16 de 1969",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Jorge Prada Sanchez/Sentencias/SL3996-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:01:57.566089+00:00"
+}

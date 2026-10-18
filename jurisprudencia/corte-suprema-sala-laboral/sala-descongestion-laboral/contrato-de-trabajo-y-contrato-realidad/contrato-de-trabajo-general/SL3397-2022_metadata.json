@@ -1,0 +1,26 @@
+{
+  "radicado": "SL3397-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-10-03T20:30:14Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 45,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 528 de 1964",
+    "Ley 1429 de 2010",
+    "Ley 1429 de 2020",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990",
+    "Ley 789 de 2002",
+    "Ley 90 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL3397-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:16:44.894280+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "radicado": "SL3605-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-10-19T16:03:39Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1650 de 1977",
+    "Decreto 1887 de 1994",
+    "Decreto 2665 de 1988",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 1116 de 2006",
+    "Ley 16 de 1968",
+    "Ley 222 de 1995",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL3605-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:11:41.090497+00:00"
+}

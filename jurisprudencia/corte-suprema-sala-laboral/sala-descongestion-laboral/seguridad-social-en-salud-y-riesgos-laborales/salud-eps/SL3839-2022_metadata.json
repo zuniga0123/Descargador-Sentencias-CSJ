@@ -1,0 +1,27 @@
+{
+  "radicado": "SL3839-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-11-11T16:31:32Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1507 de 2014",
+    "Decreto 2463 de 2001",
+    "Ley 100 de 1993",
+    "Ley 1287 de 2009",
+    "Ley 1346 de 2009",
+    "Ley 1618 de 2013",
+    "Ley 361 de 1997",
+    "Ley 762 de 2002",
+    "Ley 82 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL3839-2022.pdf",
+  "fecha_descarga": "2026-10-18T06:06:03.604946+00:00"
+}

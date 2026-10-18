@@ -1,0 +1,22 @@
+{
+  "radicado": "SL4094-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-12-01T15:40:57Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 44,
+  "leyes_o_articulos": [
+    "Decreto 260 de 2004",
+    "Ley 16 de 1969",
+    "Ley 85 de 1890",
+    "Ley 95 de 1890"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL4094-2022.pdf",
+  "fecha_descarga": "2026-10-18T05:59:24.555161+00:00"
+}
