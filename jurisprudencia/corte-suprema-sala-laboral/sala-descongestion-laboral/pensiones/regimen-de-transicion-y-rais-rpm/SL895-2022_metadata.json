@@ -1,0 +1,29 @@
+{
+  "radicado": "SL895-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-25T12:32:52Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 44,
+  "leyes_o_articulos": [
+    "Decreto 2071 de 2015",
+    "Decreto 2241 de 2010",
+    "Decreto 656 de 1994",
+    "Decreto 663 de 1993",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1328 de 2009",
+    "Ley 153 de 1887",
+    "Ley 1748 de 2014",
+    "Ley 795 de 2003",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL895-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:25:31.613597+00:00"
+}

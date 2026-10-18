@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1089-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-05-04T11:16:50Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2400 de 1968",
+    "Decreto 2651 de 1991",
+    "Ley 142 de 1994",
+    "Ley 1429 de 2010",
+    "Ley 153 de 1887",
+    "Ley 16 de 1969",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar Angel Mejia Amador/Sentencias/SL1089-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:13:12.617558+00:00"
+}

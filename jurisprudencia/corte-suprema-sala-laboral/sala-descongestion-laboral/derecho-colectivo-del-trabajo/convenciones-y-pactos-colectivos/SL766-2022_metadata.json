@@ -1,0 +1,22 @@
+{
+  "radicado": "SL766-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-18T17:03:45Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 2605 de 2008",
+    "Ley 1005 de 2006",
+    "Ley 254 de 2000",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL766-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:27:29.867663+00:00"
+}

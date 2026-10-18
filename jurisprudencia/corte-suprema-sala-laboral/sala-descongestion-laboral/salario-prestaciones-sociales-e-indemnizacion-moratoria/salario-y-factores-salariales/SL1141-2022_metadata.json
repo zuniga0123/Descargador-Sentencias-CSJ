@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1141-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-18T18:52:49Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 01 de 1984",
+    "Decreto 2351 de 1965",
+    "Ley 171 de 1961",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL1141-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:18:15.670828+00:00"
+}

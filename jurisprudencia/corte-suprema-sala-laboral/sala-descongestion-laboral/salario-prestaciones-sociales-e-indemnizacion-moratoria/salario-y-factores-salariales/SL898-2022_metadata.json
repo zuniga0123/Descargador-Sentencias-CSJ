@@ -1,0 +1,23 @@
+{
+  "radicado": "SL898-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-24T16:58:42Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 68,
+  "leyes_o_articulos": [
+    "Decreto 314 de 1994",
+    "Decreto 546 de 1971",
+    "Ley 100 de 1993",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL898-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:25:40.920208+00:00"
+}

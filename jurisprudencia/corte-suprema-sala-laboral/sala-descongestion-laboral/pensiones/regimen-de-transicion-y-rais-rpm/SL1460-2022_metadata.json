@@ -1,0 +1,21 @@
+{
+  "radicado": "SL1460-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-05-06T15:31:59Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 39,
+  "leyes_o_articulos": [
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1748 de 2014"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Jorge Prada Sanchez/Sentencias/SL1460-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:11:59.612533+00:00"
+}

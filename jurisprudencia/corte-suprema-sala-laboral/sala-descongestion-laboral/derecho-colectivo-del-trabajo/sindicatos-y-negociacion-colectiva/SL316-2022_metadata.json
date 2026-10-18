@@ -1,0 +1,21 @@
+{
+  "radicado": "SL316-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-10T17:17:00Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 111,
+  "leyes_o_articulos": [
+    "Decreto 616 de 1954",
+    "Ley 1563 de 2012",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL316-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:18:52.822598+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "radicado": "SL873-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-02T21:17:02Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 100,
+  "leyes_o_articulos": [
+    "Decreto 2800 de 2003",
+    "Decreto 663 de 1993",
+    "Decreto 720 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 1564 de 2012",
+    "Ley 16 de 1969",
+    "Ley 795 de 2003",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar Angel Mejia Amador/Sentencias/SL873-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:21:38.568161+00:00"
+}

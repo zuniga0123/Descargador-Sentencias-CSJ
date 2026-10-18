@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1027-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-05T16:02:56Z",
+  "magistrado_ponente": "Dr. Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 01 de 1984",
+    "Decreto 1 de 1984",
+    "Decreto 2013 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 797 de 1949",
+    "LEY 1564 DE 2012",
+    "LEY 962 DE 2005",
+    "Ley 6 de 1945",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Martin Emilio Beltran Quintero/Sentencias/SL1027-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:20:38.668198+00:00"
+}

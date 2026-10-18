@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1002-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-04T15:01:55Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 3041 de 1966",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL1002-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:21:14.500226+00:00"
+}

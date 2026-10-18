@@ -1,0 +1,31 @@
+{
+  "radicado": "SL731-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-15T21:14:41Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 83,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1946",
+    "Decreto 1160 de 1947",
+    "Decreto 1252 de 2000",
+    "Decreto 2013 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 2714 de 2014",
+    "Decreto 3118 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 2351 de 1965",
+    "Ley 344 de 1996",
+    "Ley 6 de 1945",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Donald Jose Dix Ponnefz/Sentencias/SL731-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:29:08.754364+00:00"
+}

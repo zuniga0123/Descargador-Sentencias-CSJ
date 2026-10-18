@@ -1,0 +1,21 @@
+{
+  "radicado": "SL837-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-24T16:18:35Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 60,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 11 de 1984",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Olga Yineth Merchan Calderon/Sentencias/SL837-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:25:48.027425+00:00"
+}

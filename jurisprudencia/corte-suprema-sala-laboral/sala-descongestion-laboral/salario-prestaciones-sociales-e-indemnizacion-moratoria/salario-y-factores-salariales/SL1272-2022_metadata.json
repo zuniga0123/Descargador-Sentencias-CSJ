@@ -1,0 +1,21 @@
+{
+  "radicado": "SL1272-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-21T20:21:06Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Ley 50 de 1990",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL1272-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:15:10.988454+00:00"
+}

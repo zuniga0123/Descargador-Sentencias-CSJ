@@ -1,0 +1,31 @@
+{
+  "radicado": "SL944-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-28T23:46:00Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 1638 de 1995",
+    "Decreto 169 de 2008",
+    "Decreto 1814 de 1994",
+    "Decreto 575 de 2013",
+    "Decreto 692 de 1994",
+    "Decreto 694 de 1994",
+    "Decreto 695 de 1994",
+    "Decreto 806 de 2020",
+    "Ley 100 de 1993",
+    "Ley 1151 de 2007",
+    "Ley 1437 de 2011",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Fernando Castillo Cadena/Sentencias/SL944-2022.doc",
+  "fecha_descarga": "2026-10-18T07:24:10.022064+00:00"
+}

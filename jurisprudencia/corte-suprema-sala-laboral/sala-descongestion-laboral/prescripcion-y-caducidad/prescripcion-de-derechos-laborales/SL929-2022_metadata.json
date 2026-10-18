@@ -1,0 +1,20 @@
+{
+  "radicado": "SL929-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-25T17:04:15Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 16 de 1969"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL929-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:23:11.885962+00:00"
+}

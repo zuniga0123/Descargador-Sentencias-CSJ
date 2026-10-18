@@ -1,0 +1,26 @@
+{
+  "radicado": "SL603-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-08T21:18:44Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 1279 de 2002",
+    "Decreto 2127 de 1945",
+    "Ley 1161 de 2007",
+    "Ley 1167 de 2007",
+    "Ley 30 de 1992",
+    "Ley 4 de 1992",
+    "Ley 50 de 1990",
+    "Ley 734 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Olga Yineth Merchan Calderon/Sentencias/SL603-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:32:05.128325+00:00"
+}

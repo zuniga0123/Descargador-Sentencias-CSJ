@@ -1,0 +1,21 @@
+{
+  "radicado": "SL1435-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-05-06T19:59:14Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 37,
+  "leyes_o_articulos": [
+    "Decreto 1507 de 2014",
+    "Ley 100 de 1993",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL1435-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:11:32.372221+00:00"
+}

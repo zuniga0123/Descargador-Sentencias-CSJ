@@ -1,0 +1,30 @@
+{
+  "radicado": "SL1351-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-28T16:26:54Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 016 de 1954",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 2383 de 1947",
+    "Decreto 4713 de 2009",
+    "Decreto 539 de 2000",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 4 de 1976",
+    "Ley 41 de 1968",
+    "Ley 446 de 1998",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL1351-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:13:56.578325+00:00"
+}

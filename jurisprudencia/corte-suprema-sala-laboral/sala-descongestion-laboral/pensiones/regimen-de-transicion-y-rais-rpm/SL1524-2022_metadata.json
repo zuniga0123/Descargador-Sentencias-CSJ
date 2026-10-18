@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1524-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-05-13T19:45:59Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1994",
+    "Decreto 1745 de 1995",
+    "Decreto 1748 de 1995",
+    "Decreto 2879 de 1985",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL1524-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:09:00.095180+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1032-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-07T19:51:43Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 1477 de 2014",
+    "Decreto 2463 de 2001",
+    "Ley 1346 de 2009",
+    "Ley 361 de 1996",
+    "Ley 361 de 1997"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Donald Jose Dix Ponnefz/Sentencias/SL1032-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:19:50.892740+00:00"
+}

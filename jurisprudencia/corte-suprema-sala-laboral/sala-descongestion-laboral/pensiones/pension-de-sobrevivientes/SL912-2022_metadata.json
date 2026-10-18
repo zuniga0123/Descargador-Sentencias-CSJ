@@ -1,0 +1,22 @@
+{
+  "radicado": "SL912-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-25T19:43:51Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "LEY 100 DE 1993",
+    "LEY 797 DE 2003",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Donald Jose Dix Ponnefz/Sentencias/SL912-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:24:44.470431+00:00"
+}

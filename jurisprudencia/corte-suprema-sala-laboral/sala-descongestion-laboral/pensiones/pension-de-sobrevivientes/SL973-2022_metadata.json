@@ -1,0 +1,25 @@
+{
+  "radicado": "SL973-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-31T21:26:06Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 48,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1889 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1753 de 2015",
+    "Ley 270 de 1996",
+    "Ley 776 de 2002",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL973-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:22:32.118519+00:00"
+}

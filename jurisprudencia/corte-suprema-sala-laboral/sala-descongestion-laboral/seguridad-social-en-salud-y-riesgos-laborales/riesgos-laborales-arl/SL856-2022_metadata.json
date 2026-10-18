@@ -1,0 +1,28 @@
+{
+  "radicado": "SL856-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-23T14:55:09Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 54,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1507 de 2014",
+    "Decreto 2463 de 2001",
+    "Decreto 917 de 1999",
+    "Ley 1618 de 2013",
+    "Ley 360 de 1997",
+    "Ley 361 de 1996",
+    "Ley 361 de 1997",
+    "Ley 762 de 2002",
+    "Ley 82 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL856-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:26:01.039902+00:00"
+}

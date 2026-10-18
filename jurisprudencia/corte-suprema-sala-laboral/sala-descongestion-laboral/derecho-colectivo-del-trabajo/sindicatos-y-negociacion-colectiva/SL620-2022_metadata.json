@@ -1,0 +1,26 @@
+{
+  "radicado": "SL620-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-10T17:10:44Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 77,
+  "leyes_o_articulos": [
+    "Decreto 1818 de 1998",
+    "Decreto 7878 de 7998",
+    "Ley 11 de 1984",
+    "Ley 1496 de 2011",
+    "Ley 1563 de 2012",
+    "Ley 446 de 7998",
+    "Ley 50 de 1990",
+    "Ley 80 de 7993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Gerardo Botero Zuluaga/Sentencias/SL620-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:18:54.832896+00:00"
+}

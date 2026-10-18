@@ -1,0 +1,29 @@
+{
+  "radicado": "SL1204-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-18T16:26:32Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 65,
+  "leyes_o_articulos": [
+    "Decreto 1406 de 1999",
+    "Decreto 1748 de 1995",
+    "Decreto 1887 de 1994",
+    "Decreto 3041 de 1966",
+    "Decreto 3798 de 2003",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946",
+    "Ley 90 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL1204-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:16:51.786253+00:00"
+}

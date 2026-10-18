@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1559-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-05-13T19:47:14Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 1615 de 2003",
+    "Decreto 2282 de 1989",
+    "Decreto 2591 de 1991",
+    "Ley 1045 de 1978",
+    "Ley 153 de 1887",
+    "Ley 3135 de 1968",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1559-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:08:58.268708+00:00"
+}

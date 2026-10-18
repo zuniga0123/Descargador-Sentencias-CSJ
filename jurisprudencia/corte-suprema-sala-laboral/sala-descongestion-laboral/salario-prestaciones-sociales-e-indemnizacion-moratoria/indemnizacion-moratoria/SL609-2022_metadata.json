@@ -1,0 +1,30 @@
+{
+  "radicado": "SL609-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-08T15:52:12Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 37,
+  "leyes_o_articulos": [
+    "Decreto 01 de 1984",
+    "Decreto 2013 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Decreto 337 de 1995",
+    "Decreto 416 de 1997",
+    "Decreto 528 de 1964",
+    "Decreto 797 de 1949",
+    "Ley 3135 de 1968",
+    "Ley 446 de 1998",
+    "Ley 80 de 1990",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar Angel Mejia Amador/Sentencias/SL609-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:32:12.431779+00:00"
+}

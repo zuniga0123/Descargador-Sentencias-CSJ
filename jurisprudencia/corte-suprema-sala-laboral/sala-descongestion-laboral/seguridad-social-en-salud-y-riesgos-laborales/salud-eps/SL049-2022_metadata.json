@@ -1,0 +1,28 @@
+{
+  "radicado": "SL049-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-06T22:32:51Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 79,
+  "leyes_o_articulos": [
+    "Decreto 1485 de 1994",
+    "Decreto 2025 de 2011",
+    "Decreto 4588 de 2006",
+    "Ley 1233 de 2008",
+    "Ley 1393 de 2010",
+    "Ley 1429 de 2010",
+    "Ley 1610 de 2013",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL049-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:32:56.589013+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "radicado": "SL808-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-18T21:45:00Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Jorge Prada Sanchez/Sentencias/SL808-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:27:20.780693+00:00"
+}

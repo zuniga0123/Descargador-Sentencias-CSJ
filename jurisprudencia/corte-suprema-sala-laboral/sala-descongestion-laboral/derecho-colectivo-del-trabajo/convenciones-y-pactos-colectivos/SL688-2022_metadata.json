@@ -1,0 +1,23 @@
+{
+  "radicado": "SL688-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-14T14:18:14Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 1653 de 1977",
+    "Ley 26 de 1976",
+    "Ley 27 de 1976",
+    "Ley 32 de 1985",
+    "Ley 524 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL688-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:28:23.906977+00:00"
+}

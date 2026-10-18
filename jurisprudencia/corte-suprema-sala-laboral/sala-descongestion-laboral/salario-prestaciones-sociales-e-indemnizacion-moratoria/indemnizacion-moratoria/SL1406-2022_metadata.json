@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1406-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-05-04T15:35:55Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 54,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 1045 de 1978",
+    "Decreto 178 de 2002",
+    "Decreto 2127 de 1945",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 6 de 1945",
+    "Ley 80 de 1993",
+    "Ley 9 de 1989"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL1406-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:12:53.622827+00:00"
+}

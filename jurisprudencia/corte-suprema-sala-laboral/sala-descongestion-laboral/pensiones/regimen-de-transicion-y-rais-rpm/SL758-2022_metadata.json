@@ -1,0 +1,25 @@
+{
+  "radicado": "SL758-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-18T16:36:01Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 758 de 1990",
+    "LEY 2158 DE 1948",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 2158 de 1948",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL758-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:27:44.220335+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "radicado": "SL953-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-29T19:28:19Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Renuncia y retiro voluntario",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1341 de 2009",
+    "Ley 142 de 1994",
+    "Ley 1437 de 2011",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 244 de 1995",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL953-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:23:59.527771+00:00"
+}

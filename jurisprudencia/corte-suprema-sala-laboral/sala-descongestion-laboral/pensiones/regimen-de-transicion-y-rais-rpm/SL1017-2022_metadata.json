@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1017-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-10T15:27:56Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 89,
+  "leyes_o_articulos": [
+    "Decreto 1328 de 2009",
+    "Decreto 3800 de 2003",
+    "Decreto 656 de 1994",
+    "Decreto 720 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1748 de 2014",
+    "Ley 57 de 1887",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Gerardo Botero Zuluaga/Sentencias/SL1017-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:19:09.090483+00:00"
+}

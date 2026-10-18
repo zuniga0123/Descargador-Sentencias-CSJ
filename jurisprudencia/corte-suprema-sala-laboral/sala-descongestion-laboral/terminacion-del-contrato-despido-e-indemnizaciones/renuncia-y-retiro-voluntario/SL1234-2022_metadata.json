@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1234-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-22T14:14:22Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Renuncia y retiro voluntario",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 1672 de 1973",
+    "Decreto 3041 de 1966",
+    "Ley 10 de 1972",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Jorge Prada Sanchez/Sentencias/SL1234-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:16:29.956266+00:00"
+}

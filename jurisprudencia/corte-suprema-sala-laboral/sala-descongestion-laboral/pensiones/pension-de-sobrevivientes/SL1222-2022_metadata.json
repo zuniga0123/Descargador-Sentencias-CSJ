@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1222-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-20T15:27:03Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 38,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1361 de 2009",
+    "Ley 153 de 1887",
+    "Ley 1564 de 2012",
+    "Ley 16 de 1969",
+    "Ley 16 de 1989",
+    "Ley 294 de 1996",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Olga Yineth Merchan Calderon/Sentencias/SL1222-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:17:24.347116+00:00"
+}

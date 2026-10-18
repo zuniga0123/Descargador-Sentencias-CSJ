@@ -1,0 +1,28 @@
+{
+  "radicado": "SL1218-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-20T12:36:23Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 84,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 656 de 1994",
+    "Decreto 691 de 1994",
+    "Decreto 692 de 1994",
+    "Decreto 694 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1151 de 2007",
+    "Ley 1382 de 2009",
+    "Ley 1395 de 2010",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Olga Yineth Merchan Calderon/Sentencias/SL1218-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:17:33.902628+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "radicado": "SL687-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-14T14:16:37Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 81,
+  "leyes_o_articulos": [
+    "Decreto 235 de 1965",
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL687-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:28:25.987272+00:00"
+}

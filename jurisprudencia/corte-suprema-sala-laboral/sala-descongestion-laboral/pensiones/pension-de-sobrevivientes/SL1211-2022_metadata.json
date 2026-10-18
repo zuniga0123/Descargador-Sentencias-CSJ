@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1211-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-18T16:42:32Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 1889 de 1994",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Jorge Prada Sanchez/Sentencias/SL1211-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:18:24.791224+00:00"
+}

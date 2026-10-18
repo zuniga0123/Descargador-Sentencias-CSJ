@@ -1,0 +1,29 @@
+{
+  "radicado": "SL827-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-18T16:56:30Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 52,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1992",
+    "Decreto 1161 de 1997",
+    "Decreto 1406 de 1998",
+    "Decreto 1406 de 1999",
+    "Decreto 1818 de 1996",
+    "Decreto 326 de 1996",
+    "Decreto 692 de 1994",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Ana Maria Muñoz Segura/Sentencias/SL827-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:27:33.374286+00:00"
+}

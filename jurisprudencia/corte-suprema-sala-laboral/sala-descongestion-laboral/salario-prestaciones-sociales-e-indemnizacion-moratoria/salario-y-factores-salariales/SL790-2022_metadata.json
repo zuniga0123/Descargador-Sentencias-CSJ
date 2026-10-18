@@ -1,0 +1,23 @@
+{
+  "radicado": "SL790-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-29T17:08:28Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 122,
+  "leyes_o_articulos": [
+    "Decreto 1469 de 1978",
+    "Decreto 1469 de 2008",
+    "Decreto 2351 de 1965",
+    "Ley 50 de 1990",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL790-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:13:52.813467+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1223-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-20T15:50:35Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 4,
+  "leyes_o_articulos": [
+    "Decreto 732 de 1946",
+    "Ley 100 de 1993",
+    "Ley 238 de 1995",
+    "Ley 4 de 1976",
+    "Ley 6 de 1992",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Olga Yineth Merchan Calderon/Sentencias/SL1223-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:17:22.461481+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1039-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-31T23:10:00Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Tipos de contrato y vinculación",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 797 de 2003",
+    "Ley 995 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Jorge Prada Sanchez/Sentencias/SL1039-2022.doc",
+  "fecha_descarga": "2026-10-18T07:22:44.608334+00:00"
+}

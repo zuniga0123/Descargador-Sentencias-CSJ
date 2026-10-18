@@ -1,0 +1,23 @@
+{
+  "radicado": "SL695-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-14T14:27:58Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 44,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1112 de 2006",
+    "Ley 112 de 2006",
+    "Ley 319 de 1996",
+    "Ley 516 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL695-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:29:45.506486+00:00"
+}

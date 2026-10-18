@@ -1,0 +1,32 @@
+{
+  "radicado": "SL881-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-23T20:48:15Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "DECRETO 1050 DE 1968",
+    "DECRETO 1050 de 1968",
+    "DECRETO 3130 DE 1968",
+    "Decreto 01 de 1984",
+    "Decreto 1050 de 1968",
+    "Decreto 2108 de 1992",
+    "LEY 6 DE 1992",
+    "Ley 100 de 1993",
+    "Ley 1050 de 1968",
+    "Ley 142 de 1994",
+    "Ley 16 de 1969",
+    "Ley 489 de 1998",
+    "Ley 6 de 1992",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL881-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:24:57.335889+00:00"
+}

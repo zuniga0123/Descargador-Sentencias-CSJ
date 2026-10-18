@@ -1,0 +1,21 @@
+{
+  "radicado": "SL1422-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-05-05T21:14:27Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 2789 de 1985",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL1422-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:12:13.935860+00:00"
+}

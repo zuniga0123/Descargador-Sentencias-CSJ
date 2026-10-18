@@ -1,0 +1,29 @@
+{
+  "radicado": "SL935-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-05-10T18:45:55Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1659 de 1977",
+    "Decreto 1887 de 1994",
+    "Decreto 1887 de 1995",
+    "Decreto 2651 de 1991",
+    "Decreto 2665 de 1988",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 2 de 1984",
+    "Ley 222 de 1995",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Ana Maria Muñoz Segura/Sentencias/SL935-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:10:33.063596+00:00"
+}

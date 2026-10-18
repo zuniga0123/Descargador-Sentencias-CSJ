@@ -1,0 +1,28 @@
+{
+  "radicado": "SL675-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-15T17:57:41Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 85,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 1748 de 1994",
+    "Decreto 3995 de 2008",
+    "Decreto 510 de 2003",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1299 de 1994",
+    "Ley 812 de 2003",
+    "Ley 90 de 1946",
+    "Ley 91 de 1989"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Donald Jose Dix Ponnefz/Sentencias/SL675-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:29:30.297262+00:00"
+}

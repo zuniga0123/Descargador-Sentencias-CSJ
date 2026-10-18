@@ -1,0 +1,30 @@
+{
+  "radicado": "SL1383-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-05-05T17:34:13Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 62,
+  "leyes_o_articulos": [
+    "Decreto 1469 de 1978",
+    "Decreto 2351 de 1965",
+    "Decreto 753 de 1956",
+    "Ley 1149 de 2007",
+    "Ley 1285 de 2009",
+    "Ley 1610 de 2013",
+    "Ley 2351 de 1965",
+    "Ley 26 de 1976",
+    "Ley 27 de 1976",
+    "Ley 270 de 1996",
+    "Ley 50 de 1990",
+    "Ley 584 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL1383-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:12:30.231013+00:00"
+}

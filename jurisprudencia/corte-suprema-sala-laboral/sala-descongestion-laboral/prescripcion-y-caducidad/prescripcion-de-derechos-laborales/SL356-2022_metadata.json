@@ -1,0 +1,23 @@
+{
+  "radicado": "SL356-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-06T22:22:26Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989",
+    "Decreto 2591 de 1991",
+    "Ley 153 de 1887",
+    "Ley 791 de 2002",
+    "Ley 797 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Jorge Prada Sanchez/Sentencias/SL356-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:33:00.329021+00:00"
+}

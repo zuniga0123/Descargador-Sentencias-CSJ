@@ -1,0 +1,21 @@
+{
+  "radicado": "SL990-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-30T21:00:56Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL990-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:23:15.400646+00:00"
+}

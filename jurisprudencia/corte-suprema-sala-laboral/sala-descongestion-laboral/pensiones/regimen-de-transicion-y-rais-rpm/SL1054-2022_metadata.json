@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1054-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-01T14:59:32Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1281 de 1994",
+    "Decreto 2090 de 2003",
+    "Decreto 265 de 1998",
+    "Decreto 656 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 169 de 1896",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1054-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:22:19.515149+00:00"
+}

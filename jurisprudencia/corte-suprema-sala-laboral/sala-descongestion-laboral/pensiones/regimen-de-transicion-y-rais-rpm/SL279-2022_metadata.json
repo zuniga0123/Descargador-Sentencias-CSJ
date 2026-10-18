@@ -1,0 +1,26 @@
+{
+  "radicado": "SL279-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-15T03:46:12Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 41,
+  "leyes_o_articulos": [
+    "Decreto 656 de 1994",
+    "Decreto 663 de 1993",
+    "Decreto 692 de 1994",
+    "Decreto 720 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1781 de 2016",
+    "Ley 270 de 1996",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL279-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:30:09.109306+00:00"
+}
