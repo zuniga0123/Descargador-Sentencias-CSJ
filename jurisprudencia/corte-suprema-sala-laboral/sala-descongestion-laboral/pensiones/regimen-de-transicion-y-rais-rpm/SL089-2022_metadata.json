@@ -1,0 +1,31 @@
+{
+  "radicado": "SL089-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-01-28T17:25:56Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 1068 de 1995",
+    "Decreto 1158 de 1994",
+    "Decreto 1160 de 1947",
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 4 de 1966",
+    "Ley 4 de 1992",
+    "Ley 446 de 1998",
+    "Ley 6 de 1945",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL089-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:43:47.807456+00:00"
+}

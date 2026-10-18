@@ -1,0 +1,26 @@
+{
+  "radicado": "SL073-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-01-27T22:04:07Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 49,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1993",
+    "Ley 1010 de 2006",
+    "Ley 1122 de 2007",
+    "Ley 222 de 1995",
+    "Ley 712 de 2001",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Olga Yineth Merchan Calderon/Sentencias/SL073-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:45:03.895752+00:00"
+}

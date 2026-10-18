@@ -1,0 +1,23 @@
+{
+  "radicado": "SL104-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-01-31T15:13:53Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 2436 de 2001",
+    "LEY 361 DE 1997",
+    "Ley 1346 de 2009",
+    "Ley 361 de 1997",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Ana Maria Muñoz Segura/Sentencias/SL104-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:44:31.193252+00:00"
+}

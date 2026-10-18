@@ -1,0 +1,23 @@
+{
+  "radicado": "SL020-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-01-21T14:25:20Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1116 de 2006",
+    "Ley 21 de 1982",
+    "Ley 222 de 1995",
+    "Ley 52 de 1962"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Jorge Prada Sanchez/Sentencias/SL020-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:46:13.660482+00:00"
+}

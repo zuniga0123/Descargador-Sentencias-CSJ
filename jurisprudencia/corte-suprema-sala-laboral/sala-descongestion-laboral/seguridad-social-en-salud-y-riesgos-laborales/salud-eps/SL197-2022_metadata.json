@@ -1,0 +1,27 @@
+{
+  "radicado": "SL197-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-02-09T21:45:14Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 41,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 917 de 1999",
+    "Ley 019 de 2012",
+    "Ley 100 de 1993",
+    "Ley 1395 de 2010",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 860 de 2003",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL197-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:42:02.407781+00:00"
+}

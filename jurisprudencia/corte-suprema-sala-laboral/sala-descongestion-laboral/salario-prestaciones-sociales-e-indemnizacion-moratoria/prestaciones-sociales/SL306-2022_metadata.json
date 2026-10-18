@@ -1,0 +1,24 @@
+{
+  "radicado": "SL306-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-02-17T15:18:11Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 47,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 1 de 1963",
+    "Ley 15 de 1959",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL306-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:38:41.791917+00:00"
+}

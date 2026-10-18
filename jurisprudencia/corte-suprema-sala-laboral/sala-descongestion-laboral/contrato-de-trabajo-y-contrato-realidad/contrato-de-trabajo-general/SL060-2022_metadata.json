@@ -1,0 +1,27 @@
+{
+  "radicado": "SL060-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-02-01T13:34:21Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1675 de 1997",
+    "Decreto 1848 de 1969",
+    "Decreto 2001 de 1993",
+    "Decreto 2127 de 1945",
+    "Decreto 2127 de 1975",
+    "Decreto 2136 de 1992",
+    "Decreto 2351 de 1965",
+    "Decreto 516 de 1990",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL060-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:43:31.349839+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "radicado": "SL520-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-02T14:27:34Z",
+  "magistrado_ponente": "Dr. Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Ley 153 de 1887",
+    "Ley 27 de 1976"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Martin Emilio Beltran Quintero/Sentencias/SL520-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:34:58.480456+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "radicado": "SL212-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-02-28T14:50:14Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 67,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1395 de 2010",
+    "Ley 142 de 1994",
+    "Ley 153 de 1887",
+    "Ley 169 de 1896",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL212-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:35:31.087128+00:00"
+}

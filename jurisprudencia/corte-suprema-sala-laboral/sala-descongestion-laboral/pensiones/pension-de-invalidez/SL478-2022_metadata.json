@@ -1,0 +1,25 @@
+{
+  "radicado": "SL478-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-02-25T16:48:31Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 59,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 3170 de 1996",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 776 de 2002",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Donald Jose Dix Ponnefz/Sentencias/SL478-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:36:01.913272+00:00"
+}

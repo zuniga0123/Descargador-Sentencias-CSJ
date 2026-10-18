@@ -1,0 +1,28 @@
+{
+  "radicado": "SL001-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-01-21T16:32:06Z",
+  "magistrado_ponente": null,
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1158 de 1994",
+    "Decreto 1295 de 1994",
+    "Decreto 1771 de 1994",
+    "Decreto 1772 de 1994",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 4 de 1992",
+    "Ley 776 de 2002",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Conjueces/Sentencias/SL001-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:46:00.232541+00:00"
+}

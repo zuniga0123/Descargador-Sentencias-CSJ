@@ -1,0 +1,28 @@
+{
+  "radicado": "SL072-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-01-28T14:44:58Z",
+  "magistrado_ponente": "Dr. Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "DECRETO 1750 DE 2003",
+    "Decreto 1750 de 2003",
+    "Decreto 2351 de 1965",
+    "Decreto 2591 de 1991",
+    "Decreto 2605 de 2008",
+    "Ley 100 de 1993",
+    "Ley 1005 de 2006",
+    "Ley 1781 de 2016",
+    "Ley 254 de 2000",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Martin Emilio Beltran Quintero/Sentencias/SL072-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:44:51.146754+00:00"
+}

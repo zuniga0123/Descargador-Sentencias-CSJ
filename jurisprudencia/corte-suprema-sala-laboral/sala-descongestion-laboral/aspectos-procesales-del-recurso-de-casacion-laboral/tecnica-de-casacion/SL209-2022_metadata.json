@@ -1,0 +1,21 @@
+{
+  "radicado": "SL209-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-02-10T14:28:00Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 4781 de 2005",
+    "Ley 1437 de 2001",
+    "Ley 1437 de 2011"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Fernando Castillo Cadena/Sentencias/SL209-2022.doc",
+  "fecha_descarga": "2026-10-18T07:41:36.849780+00:00"
+}

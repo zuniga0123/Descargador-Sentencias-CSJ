@@ -1,0 +1,27 @@
+{
+  "radicado": "SL157-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-02-07T20:54:12Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 3041 de 1966",
+    "Decreto 3798 de 2003",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 153 de 1889",
+    "Ley 6 de 1945",
+    "Ley 797 de 2003",
+    "Ley 90 de 1945",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Donald Jose Dix Ponnefz/Sentencias/SL157-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:42:24.154073+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL035-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-01-24T15:35:03Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 56,
+  "leyes_o_articulos": [
+    "Decreto 2025 de 2011",
+    "Ley 100 de 1993",
+    "Ley 115 de 1994",
+    "Ley 1429 de 2010",
+    "Ley 30 de 1992",
+    "Ley 50 de 1990",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Olga Yineth Merchan Calderon/Sentencias/SL035-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:45:55.008146+00:00"
+}

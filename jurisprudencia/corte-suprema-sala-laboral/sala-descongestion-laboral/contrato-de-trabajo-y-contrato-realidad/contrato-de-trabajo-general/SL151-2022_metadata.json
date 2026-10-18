@@ -1,0 +1,23 @@
+{
+  "radicado": "SL151-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-02-04T16:44:11Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 616 de 1954",
+    "Ley 270 de 1996",
+    "Ley 446 de 1998",
+    "Ley 640 de 2001",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Jorge Prada Sanchez/Sentencias/SL151-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:42:33.260219+00:00"
+}

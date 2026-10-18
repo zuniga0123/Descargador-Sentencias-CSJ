@@ -1,0 +1,26 @@
+{
+  "radicado": "SL169-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-02-11T20:46:41Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1285 de 2009",
+    "Ley 270 de 1996",
+    "Ley 50 de 1990",
+    "Ley 787 de 2003",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL169-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:40:54.104686+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "radicado": "SL325-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2022,
+  "fecha_creacion": "2022-02-22T13:54:54Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 57,
+  "leyes_o_articulos": [
+    "Decreto 1373 de 1966",
+    "Decreto 2013 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 2127 de 1947",
+    "Decreto 2714 de 2014",
+    "Decreto 3135 de 1968",
+    "Decreto 553 de 2015",
+    "Decreto 652 de 2014",
+    "Decreto 797 de 1949",
+    "Ley 148 de 1969",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990",
+    "Ley 6 de 1945",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL325-2022.pdf",
+  "fecha_descarga": "2026-10-18T07:36:45.018612+00:00"
+}
