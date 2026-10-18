@@ -1,0 +1,20 @@
+{
+  "radicado": "AL1395-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-06T21:25:57Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Ley 1285 de 2009",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Ivan Mauricio Lenis Gomez/Autos/AL1395-2022.pdf",
+  "fecha_descarga": "2026-10-18T08:59:56.075508+00:00"
+}

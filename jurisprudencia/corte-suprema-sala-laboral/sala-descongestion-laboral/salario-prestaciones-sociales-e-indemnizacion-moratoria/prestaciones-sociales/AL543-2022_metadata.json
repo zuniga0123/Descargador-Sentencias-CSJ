@@ -1,0 +1,25 @@
+{
+  "radicado": "AL543-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2022,
+  "fecha_creacion": "2022-02-22T20:51:25Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1047 de 2014",
+    "Decreto 1079 de 2015",
+    "Ley 105 de 1993",
+    "Ley 15 de 1959",
+    "Ley 16 de 1969",
+    "Ley 336 de 1996",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Gerardo Botero Zuluaga/Autos/AL543-2022.pdf",
+  "fecha_descarga": "2026-10-18T09:07:54.272837+00:00"
+}

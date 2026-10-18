@@ -1,0 +1,23 @@
+{
+  "radicado": "AL656-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2022,
+  "fecha_creacion": "2022-02-25T15:34:26Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1151 de 2007",
+    "Ley 171 de 1961",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Luis Benedicto Herrera Diaz/Autos/AL656-2022.pdf",
+  "fecha_descarga": "2026-10-18T09:07:19.439200+00:00"
+}

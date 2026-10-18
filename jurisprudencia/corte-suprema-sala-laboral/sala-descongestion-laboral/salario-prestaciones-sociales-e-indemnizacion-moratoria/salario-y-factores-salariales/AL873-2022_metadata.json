@@ -1,0 +1,20 @@
+{
+  "radicado": "AL873-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2022,
+  "fecha_creacion": "2022-03-11T02:15:49Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 4,
+  "leyes_o_articulos": [
+    "Decreto 806 de 2020",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Dolly Amparo Caguasango Villota/Autos/AL873-2022.pdf",
+  "fecha_descarga": "2026-10-18T09:05:46.486492+00:00"
+}

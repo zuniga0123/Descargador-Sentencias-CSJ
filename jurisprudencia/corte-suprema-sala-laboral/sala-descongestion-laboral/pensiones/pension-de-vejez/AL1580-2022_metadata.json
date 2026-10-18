@@ -1,0 +1,21 @@
+{
+  "radicado": "AL1580-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2022,
+  "fecha_creacion": "2022-04-27T01:41:46Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1781 de 2016",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Donald Jose Dix Ponnefz/Autos/AL1580-2022.pdf",
+  "fecha_descarga": "2026-10-18T08:59:10.063403+00:00"
+}
