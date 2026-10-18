@@ -1,0 +1,22 @@
+{
+  "radicado": "AL3721-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-23T10:45:24Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Ley 100 de 1993",
+    "Ley 319 de 1996",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Donald Jose Dix Ponnefz/Autos/AL3721-2022.pdf",
+  "fecha_descarga": "2026-10-18T08:37:39.306956+00:00"
+}

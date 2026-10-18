@@ -1,0 +1,19 @@
+{
+  "radicado": "AL4401-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-30T00:05:26Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Fernando Castillo Cadena/Autos/AL4401-2022.pdf",
+  "fecha_descarga": "2026-10-18T08:30:16.776031+00:00"
+}

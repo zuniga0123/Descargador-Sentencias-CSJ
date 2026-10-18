@@ -1,0 +1,20 @@
+{
+  "radicado": "AL4470-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2022,
+  "fecha_creacion": "2022-10-04T20:39:39Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 1352 de 2013",
+    "Decreto 1557 de 1995"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Carlos Arturo Guarin Jurado/Autos/AL4470-2022.pdf",
+  "fecha_descarga": "2026-10-18T08:29:33.645327+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "radicado": "AL2705-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2022,
+  "fecha_creacion": "2022-06-27T04:03:15Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Decreto 528 de 1964",
+    "Ley 1285 de 2009",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Fernando Castillo Cadena/Autos/AL2705-2022.pdf",
+  "fecha_descarga": "2026-10-18T08:47:48.381540+00:00"
+}

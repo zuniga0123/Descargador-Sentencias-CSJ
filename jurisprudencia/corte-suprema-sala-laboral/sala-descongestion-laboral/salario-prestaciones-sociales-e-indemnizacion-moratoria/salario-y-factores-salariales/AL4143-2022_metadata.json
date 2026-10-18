@@ -1,0 +1,20 @@
+{
+  "radicado": "AL4143-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-13T20:49:39Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Decreto 528 de 1964",
+    "Ley 16 de 1969"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Ivan Mauricio Lenis Gomez/Autos/AL4143-2022.pdf",
+  "fecha_descarga": "2026-10-18T08:33:30.099565+00:00"
+}

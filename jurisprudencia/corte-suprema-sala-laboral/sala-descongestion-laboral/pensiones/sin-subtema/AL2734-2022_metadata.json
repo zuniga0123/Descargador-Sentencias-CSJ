@@ -1,0 +1,21 @@
+{
+  "radicado": "AL2734-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-07T02:41:44Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": 3,
+  "leyes_o_articulos": [
+    "Ley 712 de 2001",
+    "Ley 712 de 2012",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar Angel Mejia Amador/Autos/AL2734-2022.pdf",
+  "fecha_descarga": "2026-10-18T08:40:05.062414+00:00"
+}

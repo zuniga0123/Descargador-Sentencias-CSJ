@@ -1,0 +1,20 @@
+{
+  "radicado": "AL2592-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2022,
+  "fecha_creacion": "2022-06-25T01:21:56Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 797 de 1949",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dra. Olga Yineth Merchan Calderon/Autos/AL2592-2022.pdf",
+  "fecha_descarga": "2026-10-18T08:47:55.198751+00:00"
+}

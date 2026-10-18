@@ -1,0 +1,20 @@
+{
+  "radicado": "AL2440-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2022,
+  "fecha_creacion": "2022-07-07T22:56:13Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Gerardo Botero Zuluaga/Autos/AL2440-2022.pdf",
+  "fecha_descarga": "2026-10-18T08:44:13.114545+00:00"
+}

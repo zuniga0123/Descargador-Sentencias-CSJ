@@ -1,0 +1,20 @@
+{
+  "radicado": "AL3277-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2022,
+  "fecha_creacion": "2022-08-02T14:21:55Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 2,
+  "leyes_o_articulos": [
+    "Ley 1395 de 2010",
+    "Ley 806 de 2020"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Carlos Arturo Guarin Jurado/Autos/AL3277-2022.pdf",
+  "fecha_descarga": "2026-10-18T08:41:03.539337+00:00"
+}

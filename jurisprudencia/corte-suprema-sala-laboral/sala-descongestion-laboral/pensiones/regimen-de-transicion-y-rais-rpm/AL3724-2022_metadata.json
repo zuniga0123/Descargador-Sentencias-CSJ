@@ -1,0 +1,23 @@
+{
+  "radicado": "AL3724-2022",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2022,
+  "fecha_creacion": "2022-09-01T13:20:41Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 3,
+  "leyes_o_articulos": [
+    "Ley 1285 de 2009",
+    "Ley 1395 de 2010",
+    "Ley 2080 de 2021",
+    "Ley 270 de 1996",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2022/Dr. Omar Angel Mejia Amador/Autos/AL3724-2022.pdf",
+  "fecha_descarga": "2026-10-18T08:35:21.096797+00:00"
+}
