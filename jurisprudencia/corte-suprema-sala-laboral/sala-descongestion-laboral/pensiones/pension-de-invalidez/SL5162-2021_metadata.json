@@ -1,0 +1,22 @@
+{
+  "radicado": "SL5162-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2022-01-24T23:21:26Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL5162-2021.pdf",
+  "fecha_descarga": "2026-10-20T19:53:33.697060+00:00"
+}

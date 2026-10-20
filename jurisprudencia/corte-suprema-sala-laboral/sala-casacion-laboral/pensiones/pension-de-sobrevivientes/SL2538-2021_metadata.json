@@ -1,0 +1,26 @@
+{
+  "radicado": "SL2538-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2022-04-02T21:50:20Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Aleman",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 91,
+  "leyes_o_articulos": [
+    "Ley 056 de 2002",
+    "Ley 100 de 1993",
+    "Ley 140 de 2003",
+    "Ley 153 de 1887",
+    "Ley 153 de 1987",
+    "Ley 74 de 1968",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2021/Dr.Jorge Luis Quiroz Aleman/Sentencias/SL2538-2021.pdf",
+  "fecha_descarga": "2026-10-20T19:50:58.173441+00:00"
+}

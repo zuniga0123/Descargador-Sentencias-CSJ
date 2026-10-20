@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3671-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2022-11-22T20:14:34Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 37,
+  "leyes_o_articulos": [
+    "Decreto 1748 de 1991",
+    "Decreto 2314 de 1953",
+    "Decreto 610 de 2005",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 510 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL3671-2021.pdf",
+  "fecha_descarga": "2026-10-20T19:50:14.113776+00:00"
+}

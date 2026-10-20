@@ -1,0 +1,21 @@
+{
+  "radicado": "SL583-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2022-01-27T19:56:07Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 87,
+  "leyes_o_articulos": [
+    "Decreto 089 de 2014",
+    "Decreto 616 de 1954",
+    "Decreto 806 de 2020"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL583-2021.pdf",
+  "fecha_descarga": "2026-10-20T19:53:11.646707+00:00"
+}
