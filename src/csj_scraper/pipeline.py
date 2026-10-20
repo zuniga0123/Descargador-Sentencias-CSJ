@@ -7,6 +7,7 @@ from __future__ import annotations
 
 import json
 import logging
+import re
 import time
 from dataclasses import asdict, dataclass, field
 from datetime import datetime, timezone
@@ -288,6 +289,80 @@ def reconstruir_indice() -> int:
             total += 1
     logger.info("Índice reconstruido con %d providencias.", total)
     return total
+
+
+def reclasificar() -> int:
+    """Vuelve a aplicar las reglas de clasificación a todo lo descargado, sin
+    consultar la fuente: mueve los archivos a su nueva carpeta y actualiza el
+    JSON, el encabezado del Markdown y el índice. Devuelve cuántas cambiaron."""
+    raiz = config.OUTPUT_ROOT / config.CORTE_DIR_NAME
+    db.inicializar()
+    cambiadas = 0
+    with db.conectar() as conn:
+        for ruta_metadata in sorted(raiz.rglob("*_metadata.json")):
+            meta = json.loads(ruta_metadata.read_text(encoding="utf-8"))
+            ruta_md = ruta_metadata.with_name(f"{meta['radicado']}.md")
+            if not ruta_md.exists():
+                continue
+            encabezado, sep, cuerpo = ruta_md.read_text(encoding="utf-8").partition("\n---\n\n")
+            clasificacion = clasificar(cuerpo, meta.get("leyes_o_articulos"))
+            if (clasificacion.tema, clasificacion.subtema) == (meta["tema"], meta["subtema"]):
+                continue
+
+            carpeta = _carpeta_destino(meta["sub_sala"], clasificacion.tema, clasificacion.subtema)
+            carpeta.mkdir(parents=True, exist_ok=True)
+            encabezado = re.sub(r"^- \*\*Tema:\*\* .*$", f"- **Tema:** {clasificacion.tema}", encabezado, count=1, flags=re.M)
+            encabezado = re.sub(r"^- \*\*Subtema:\*\* .*$", f"- **Subtema:** {clasificacion.subtema}", encabezado, count=1, flags=re.M)
+            nueva_md = carpeta / ruta_md.name
+            nueva_md.write_text(encabezado + sep + cuerpo, encoding="utf-8")
+            if nueva_md != ruta_md:
+                ruta_md.unlink()
+
+            ruta_original = None
+            for original in ruta_metadata.parent.glob(f"{meta['radicado']}.*"):
+                if original.suffix in (".pdf", ".doc", ".docx"):
+                    ruta_original = original.rename(carpeta / original.name)
+
+            meta.update(
+                tema=clasificacion.tema,
+                subtema=clasificacion.subtema,
+                puntaje_clasificacion=clasificacion.puntaje,
+            )
+            nueva_metadata = carpeta / ruta_metadata.name
+            nueva_metadata.write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
+            if nueva_metadata != ruta_metadata:
+                ruta_metadata.unlink()
+
+            db.registrar_providencia(
+                conn,
+                corte=meta["corte"],
+                sala=meta["sala"],
+                sub_sala=meta["sub_sala"],
+                tipo_providencia=meta.get("tipo_providencia"),
+                radicado=meta["radicado"],
+                ano=meta.get("ano"),
+                fecha_creacion=meta.get("fecha_creacion"),
+                magistrado_ponente=meta.get("magistrado_ponente"),
+                area=meta["area"],
+                tema=meta["tema"],
+                subtema=meta["subtema"],
+                puntaje_clasificacion=meta["puntaje_clasificacion"],
+                leyes_o_articulos=meta.get("leyes_o_articulos", []),
+                doc_id_origen=meta["doc_id_origen"],
+                ruta_markdown=str(nueva_md.relative_to(config.PROJECT_ROOT)),
+                ruta_original=str(ruta_original.relative_to(config.PROJECT_ROOT)) if ruta_original else None,
+                ruta_metadata=str(nueva_metadata.relative_to(config.PROJECT_ROOT)),
+                fecha_descarga=meta["fecha_descarga"],
+                texto_completo=cuerpo,
+            )
+            conn.commit()
+            cambiadas += 1
+
+    for carpeta in sorted((d for d in raiz.rglob("*") if d.is_dir()), key=lambda d: len(d.parts), reverse=True):
+        if not any(carpeta.iterdir()):
+            carpeta.rmdir()
+    logger.info("Reclasificación terminada: %d providencias cambiaron de tema/subtema.", cambiadas)
+    return cambiadas
 
 
 def ejecutar(

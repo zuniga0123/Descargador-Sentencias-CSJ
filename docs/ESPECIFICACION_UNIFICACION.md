@@ -258,5 +258,5 @@ Scraping respetuoso, igual en ambas: user-agent identificable, ~1,5 s entre soli
 
 - **¿Un repositorio o dos?** Mientras tanto, cada descargador sigue en su propio repositorio con la misma estructura. Como las carpetas de primer nivel no chocan (`corte-suprema-sala-laboral/` y `corte-constitucional/`), luego se pueden juntar en un solo repositorio de datos, o la app puede leer ambos.
 - **Fecha real de la providencia en la CSJ:** hoy `fecha_creacion` es la fecha del archivo en el servidor. Falta extraer la fecha del fallo del texto ("Bogotá D. C., once (11) de febrero de dos mil veintiséis").
-- **Clasificación de la CSJ:** es por reglas de palabras clave. Cerca del 5% queda sin clasificar, y los casos mixtos se asignan al tema con más coincidencias.
+- **Clasificación de la CSJ:** es por reglas de palabras clave, con un tema "Trámite procesal" para los autos de trámite; los casos mixtos se asignan al tema con más coincidencias. Algunos autos solo tienen en la fuente la constancia de notificación (subtema "Texto incompleto en la fuente").
 - **App local (localhost:8000):** base centralizada, extracción de hechos, normas y *ratio*, búsqueda semántica y gestión de casos con historial. Leerá únicamente los `.md` y `_metadata.json` descritos aquí.

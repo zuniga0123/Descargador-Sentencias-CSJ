@@ -103,9 +103,18 @@ programado ni corre en segundo plano.
   Constitucional) no publica un tema/subtema oficial como metadato. Por
   decisión del usuario (sin presupuesto para API de pago), la
   clasificación se hace solo con reglas de palabras clave
-  (`src/csj_scraper/taxonomy.py`). Las providencias que no calzan en
-  ninguna categoría quedan en "Otros - Sin clasificar" para revisión
-  manual.
+  (`src/csj_scraper/taxonomy.py`). Si ningún tema de fondo coincide, se
+  prueba con "Trámite procesal" (deserción del recurso, desistimiento,
+  conflictos de competencia, nulidades, costas, etc.), pensado para los
+  autos de trámite. Lo que tampoco calza queda en "Otros - Sin
+  clasificar"; dentro de eso, "Texto incompleto en la fuente" agrupa los
+  documentos de los que la Corte solo publica la constancia de
+  notificación/ejecutoria, sin el texto de la providencia (no se puede
+  recuperar por esta vía).
+- **Ajustar las reglas**: después de editar `taxonomy.py`,
+  `python main.py --reclasificar` vuelve a clasificar todo lo descargado
+  sin consultar la fuente (mueve los archivos y actualiza JSON, Markdown
+  e índice).
 - **Formato de guardado**: Markdown (para que un agente de IA lo indexe
   fácilmente) + JSON de metadatos. El PDF/Word original solo se descarga
   con `--con-original` (duplica tiempo y espacio; ~89,000 providencias en

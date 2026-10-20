@@ -57,7 +57,7 @@ CREATE VIRTUAL TABLE IF NOT EXISTS providencias_fts USING fts5(
 def conectar(db_path: Path | None = None):
     db_path = db_path or config.DB_PATH
     db_path.parent.mkdir(parents=True, exist_ok=True)
-    conn = sqlite3.connect(db_path)
+    conn = sqlite3.connect(db_path, timeout=60)
     conn.execute("PRAGMA journal_mode=WAL;")
     try:
         yield conn

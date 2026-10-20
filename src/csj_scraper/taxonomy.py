@@ -9,17 +9,43 @@ reglas de palabras clave sobre el texto completo de la providencia y las
 normas citadas (leyesOArticulos). No hay paso de clasificación por IA en
 esta fase por decisión explícita (sin presupuesto de API).
 
-Los casos sin ningún término coincidente quedan en "Otros / Sin
-clasificar" para revisión manual, tal como propone el brief.
+Si ningún tema de fondo coincide, se prueba con los temas de "Trámite
+procesal" (autos de deserción, desistimiento, costas, etc.). Lo que tampoco
+coincide queda en "Otros - Sin clasificar" para revisión manual; dentro de
+eso se separan los documentos de los que la fuente solo publica la
+constancia de notificación/ejecutoria, sin el texto de la providencia.
 """
 
 from __future__ import annotations
 
-import re
 from dataclasses import dataclass
 
 OTROS_TEMA = "Otros - Sin clasificar"
 OTROS_SUBTEMA = "Sin subtema"
+TEXTO_INCOMPLETO_SUBTEMA = "Texto incompleto en la fuente"
+TRAMITE_TEMA = "Trámite procesal"
+
+# Solo se aplica cuando ningún tema de fondo coincide. En empate gana el
+# subtema que aparece primero (los más específicos van arriba).
+TRAMITE_SUBTEMAS: dict[str, list[str]] = {
+    "Deserción del recurso de casación": ["desierto", "desierta"],
+    "Desistimiento": ["desist"],
+    "Conflictos de competencia": ["conflicto de competencia", "conflicto negativo de competencia"],
+    "Admisión, inadmisión y rechazo": [
+        "inadmit", "rechaza", "no se admite", "admite el recurso", "admitir el recurso", "admite la demanda",
+    ],
+    "Interés económico para recurrir": ["interes economico para recurrir", "interes para recurrir", "cuantia"],
+    "Sucesión procesal y personería": ["sucesor procesal", "sucesion procesal", "personeria"],
+    "Aclaración, adición y corrección": ["aclaracion", "adicion de la", "correccion"],
+    "Recursos contra autos (reposición, queja, súplica)": ["recurso de reposicion", "recurso de queja", "suplica"],
+    "Nulidades": ["nulidad"],
+    "Impedimentos y recusaciones": ["impedimento", "recusacion"],
+    "Transacción y conciliación": ["transaccion", "conciliacion"],
+    "Acumulación y suspensión del proceso": ["acumulacion", "suspension del proceso"],
+    "Recurso extraordinario de revisión": ["recurso extraordinario de revision", "accion de revision", "demanda de revision"],
+    "Medidas cautelares": ["medida cautelar", "medidas cautelares"],
+    "Costas y agencias en derecho": ["agencias en derecho", "liquidacion de costas"],
+}
 
 # tema -> {subtema -> [palabras/frases clave]}
 TAXONOMIA: dict[str, dict[str, list[str]]] = {
@@ -139,6 +165,11 @@ TAXONOMIA: dict[str, dict[str, list[str]]] = {
         ],
     },
     "Derecho Colectivo del Trabajo": {
+        "Laudos arbitrales y recurso de anulación": [
+            "laudo arbitral",
+            "recurso de anulacion",
+            "tribunal de arbitramento",
+        ],
         "Convenciones y pactos colectivos": [
             "convencion colectiva",
             "pacto colectivo",
@@ -221,7 +252,7 @@ def clasificar(texto_markdown: str, leyes_o_articulos: list[str] | None = None) 
             puntaje_subtema = 0
             for kw in keywords:
                 kw_norm = _normalizar(kw)
-                puntaje_subtema += len(re.findall(re.escape(kw_norm), texto_norm))
+                puntaje_subtema += texto_norm.count(kw_norm)
             total_tema += puntaje_subtema
             if puntaje_subtema > mejor_subtema[1]:
                 mejor_subtema = (subtema, puntaje_subtema)
@@ -233,7 +264,7 @@ def clasificar(texto_markdown: str, leyes_o_articulos: list[str] | None = None) 
             puntajes_tema[tema] = puntajes_tema.get(tema, 0) + 3
 
     if not puntajes_tema or max(puntajes_tema.values()) == 0:
-        return Clasificacion()
+        return _clasificar_tramite(texto_norm)
 
     mejor_tema = max(puntajes_tema, key=puntajes_tema.get)
     subtema, _ = mejor_subtema_por_tema.get(mejor_tema, (OTROS_SUBTEMA, 0))
@@ -242,3 +273,16 @@ def clasificar(texto_markdown: str, leyes_o_articulos: list[str] | None = None) 
         subtema=subtema if subtema != OTROS_SUBTEMA else OTROS_SUBTEMA,
         puntaje=puntajes_tema[mejor_tema],
     )
+
+
+def _clasificar_tramite(texto_norm: str) -> Clasificacion:
+    mejor_subtema, mejor_puntaje = None, 0
+    for subtema, keywords in TRAMITE_SUBTEMAS.items():
+        puntaje = sum(texto_norm.count(_normalizar(kw)) for kw in keywords)
+        if puntaje > mejor_puntaje:
+            mejor_subtema, mejor_puntaje = subtema, puntaje
+    if mejor_subtema is not None:
+        return Clasificacion(tema=TRAMITE_TEMA, subtema=mejor_subtema, puntaje=mejor_puntaje)
+    if "constancia de notificacion" in texto_norm and len(texto_norm) < 1500:
+        return Clasificacion(subtema=TEXTO_INCOMPLETO_SUBTEMA)
+    return Clasificacion()

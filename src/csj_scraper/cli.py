@@ -14,7 +14,7 @@ import logging
 from datetime import datetime
 
 from . import config
-from .pipeline import ejecutar, reconstruir_indice
+from .pipeline import ejecutar, reclasificar, reconstruir_indice
 
 
 def _parsear_anios(valor: str) -> list[str]:
@@ -72,6 +72,12 @@ def main() -> None:
         "(útil para años recientes en los que la Corte sigue publicando).",
     )
     parser.add_argument(
+        "--reclasificar",
+        action="store_true",
+        help="No descarga nada: vuelve a aplicar las reglas de clasificación a todo lo "
+        "descargado (tras cambiar src/csj_scraper/taxonomy.py) y mueve los archivos.",
+    )
+    parser.add_argument(
         "--reconstruir-indice",
         action="store_true",
         help="No descarga nada: regenera jurisprudencia/indice.sqlite a partir de los "
@@ -92,6 +98,9 @@ def main() -> None:
 
     if args.reconstruir_indice:
         reconstruir_indice()
+        return
+    if args.reclasificar:
+        reclasificar()
         return
 
     anios = _parsear_anios(args.anio)
