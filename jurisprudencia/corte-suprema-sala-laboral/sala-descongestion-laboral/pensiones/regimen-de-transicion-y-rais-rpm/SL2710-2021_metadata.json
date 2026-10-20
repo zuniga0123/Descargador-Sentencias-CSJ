@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2710-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-07-22T02:19:00Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 57,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1158 de 1994",
+    "Decreto 691 de 1994",
+    "Decreto 720 de 1978",
+    "Decreto 806 de 2020",
+    "Decreto 929 de 1976",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 91 de 1989"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL2710-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:15:58.150462+00:00"
+}

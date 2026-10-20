@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2923-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-07-21T16:38:54Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 50,
+  "leyes_o_articulos": [
+    "Decreto 1227 de 2005",
+    "Decreto 1373 de 1966",
+    "Decreto 2531 de 1965",
+    "Ley 019 de 2012",
+    "Ley 2351 de 1965",
+    "Ley 909 de 2004"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL2923-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:15:47.054349+00:00"
+}

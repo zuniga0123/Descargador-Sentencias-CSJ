@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3042-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-07-22T17:29:34Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 56,
+  "leyes_o_articulos": [
+    "Decreto 2663 de 1950",
+    "Ley 1395 de 2010",
+    "Ley 16 de 1969",
+    "Ley 26 de 1976",
+    "Ley 27 de 1976",
+    "Ley 50 de 1990",
+    "Ley 584 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL3042-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:15:23.496015+00:00"
+}
