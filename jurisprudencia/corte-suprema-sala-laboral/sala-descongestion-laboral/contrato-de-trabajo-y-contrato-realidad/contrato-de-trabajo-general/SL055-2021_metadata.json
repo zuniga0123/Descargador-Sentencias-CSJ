@@ -1,0 +1,24 @@
+{
+  "radicado": "SL055-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-01-29T17:53:35Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 1137 de 1999",
+    "Decreto 1340 de 1995",
+    "Decreto 3135 de 1968",
+    "Ley 16 de 1969",
+    "Ley 1607 de 2012",
+    "Ley 89 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL055-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:39:14.001266+00:00"
+}

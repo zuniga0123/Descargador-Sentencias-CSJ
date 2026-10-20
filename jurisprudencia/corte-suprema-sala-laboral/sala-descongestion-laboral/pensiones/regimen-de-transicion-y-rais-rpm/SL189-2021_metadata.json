@@ -1,0 +1,22 @@
+{
+  "radicado": "SL189-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-05T21:11:45Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 17 de 1972",
+    "Ley 319 de 1996",
+    "Ley 32 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL189-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:35:50.354496+00:00"
+}

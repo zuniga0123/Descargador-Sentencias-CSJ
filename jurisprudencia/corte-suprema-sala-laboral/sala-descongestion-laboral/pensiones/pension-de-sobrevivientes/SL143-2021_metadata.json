@@ -1,0 +1,24 @@
+{
+  "radicado": "SL143-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-04T18:49:43Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 1574 de 2012",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL143-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:36:27.417537+00:00"
+}

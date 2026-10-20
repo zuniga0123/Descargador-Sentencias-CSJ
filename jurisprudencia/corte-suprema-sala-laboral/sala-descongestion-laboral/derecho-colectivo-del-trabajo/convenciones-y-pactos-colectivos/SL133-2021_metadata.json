@@ -1,0 +1,21 @@
+{
+  "radicado": "SL133-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-02T14:29:22Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 1014 de 1978",
+    "Decreto 415 de 1978",
+    "Decreto 415 de 1979"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL133-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:38:13.044823+00:00"
+}
