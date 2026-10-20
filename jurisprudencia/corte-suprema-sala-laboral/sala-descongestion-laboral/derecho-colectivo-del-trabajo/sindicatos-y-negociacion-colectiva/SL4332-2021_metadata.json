@@ -1,0 +1,31 @@
+{
+  "radicado": "SL4332-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-05T14:34:58Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 42,
+  "leyes_o_articulos": [
+    "Decreto 1298 de 1994",
+    "Decreto 1429 de 2010",
+    "Decreto 1846 de 1994",
+    "Decreto 1876 de 1994",
+    "Decreto 2127 de 1945",
+    "Decreto 2400 de 1968",
+    "Decreto 583 de 2016",
+    "Decreto 747 de 1949",
+    "Ley 10 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1429 de 2010",
+    "Ley 1438 de 2011",
+    "Ley 790 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL4332-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:24:40.996858+00:00"
+}

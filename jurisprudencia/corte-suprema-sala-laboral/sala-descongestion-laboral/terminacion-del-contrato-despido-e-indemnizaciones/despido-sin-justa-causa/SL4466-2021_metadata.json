@@ -1,0 +1,25 @@
+{
+  "radicado": "SL4466-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-10-06T21:54:41Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Despido sin justa causa",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 2591 de 1991",
+    "Decreto 2651 de 1991",
+    "Decreto 528 de 1964",
+    "Ley 1564 de 2012",
+    "Ley 16 de 1969",
+    "Ley 2 de 1984"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL4466-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:37:31.625250+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "radicado": "SL4226-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-09-23T14:02:03Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 1222 de 1986",
+    "Decreto 2083 de 1994",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 11 de 1986",
+    "Ley 1437 de 2011",
+    "Ley 19 de 1958",
+    "Ley 4 de 1992",
+    "Ley 549 de 1999",
+    "Ley 6 de 1945",
+    "Ley 640 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL4226-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:44:00.512267+00:00"
+}

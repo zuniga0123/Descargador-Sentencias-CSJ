@@ -1,0 +1,26 @@
+{
+  "radicado": "SL4885-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-04T15:17:21Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2661 de 1960",
+    "Ley 100 de 1993",
+    "Ley 22 de 1945",
+    "Ley 28 de 1943",
+    "Ley 33 de 1985",
+    "Ley 6 de 1945",
+    "Ley 790 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Olga Yineth Merchan Calderon/Sentencias/SL4885-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:24:56.879106+00:00"
+}

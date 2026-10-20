@@ -1,0 +1,26 @@
+{
+  "radicado": "SL4401-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-10-05T19:33:44Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1876 de 1994",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Decreto 747 de 1949",
+    "Decreto 797 de 1949",
+    "Ley 6 de 1945",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Jorge Prada Sanchez/Sentencias/SL4401-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:39:44.113880+00:00"
+}

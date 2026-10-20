@@ -1,0 +1,31 @@
+{
+  "radicado": "SL4823-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-03T15:55:43Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchán Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 0169 de 2006",
+    "Decreto 0182 de 2005",
+    "Decreto 0254 de 2004",
+    "Decreto 083 de 1976",
+    "Decreto 169 de 2006",
+    "Decreto 2108 de 1992",
+    "Decreto 2127 de 1945",
+    "Decreto 254 de 2004",
+    "Decreto 2838 de 1960",
+    "Decreto 2879 de 1985",
+    "Decreto 3123 de 1968",
+    "Ley 100 de 1993",
+    "Ley 188 de 1959"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Olga Yineth Merchán Calderón/Sentencias/SL4823-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:26:09.441064+00:00"
+}

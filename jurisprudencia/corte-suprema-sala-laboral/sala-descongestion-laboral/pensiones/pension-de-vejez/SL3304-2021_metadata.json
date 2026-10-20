@@ -1,0 +1,27 @@
+{
+  "radicado": "SL3304-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-10-28T19:11:54Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 57,
+  "leyes_o_articulos": [
+    "Decreto 1642 de 1995",
+    "Decreto 2021 de 1948",
+    "Decreto 2883 de 2001",
+    "Decreto 539 de 2000",
+    "Decreto 832 de 1996",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL3304-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:28:28.821235+00:00"
+}

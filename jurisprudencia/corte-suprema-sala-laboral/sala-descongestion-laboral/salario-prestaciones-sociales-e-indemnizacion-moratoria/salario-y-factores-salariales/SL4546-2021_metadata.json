@@ -1,0 +1,30 @@
+{
+  "radicado": "SL4546-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-10-20T21:28:42Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1848 de 1968",
+    "Decreto 1857 de 1994",
+    "Decreto 3135 de 1968",
+    "Ley 115 de 1994",
+    "Ley 270 de 1996",
+    "Ley 50 de 1990",
+    "Ley 6 de 1945",
+    "Ley 60 de 1993",
+    "Ley 65 de 1946",
+    "Ley 715 de 2001",
+    "Ley 74 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Olga Yineth Merchan Calderon/Sentencias/SL4546-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:32:29.568232+00:00"
+}

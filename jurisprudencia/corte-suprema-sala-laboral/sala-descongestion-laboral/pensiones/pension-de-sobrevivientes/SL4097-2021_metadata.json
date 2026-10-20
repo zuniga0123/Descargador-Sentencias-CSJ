@@ -1,0 +1,23 @@
+{
+  "radicado": "SL4097-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-09-16T14:23:00Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Fernando Castillo Cadena/Sentencias/SL4097-2021.doc",
+  "fecha_descarga": "2026-10-20T20:48:10.175718+00:00"
+}

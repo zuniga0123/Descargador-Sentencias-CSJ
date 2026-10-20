@@ -1,0 +1,27 @@
+{
+  "radicado": "SL3696-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-09-17T23:57:56Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 95,
+  "leyes_o_articulos": [
+    "Decreto 1833 de 2016",
+    "Decreto 1889 de 1994",
+    "Decreto 656 de 1994",
+    "Decreto 758 de 1990",
+    "Decreto 832 de 1996",
+    "Ley 100 de 1993",
+    "Ley 361 de 1997",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL3696-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:46:30.197422+00:00"
+}

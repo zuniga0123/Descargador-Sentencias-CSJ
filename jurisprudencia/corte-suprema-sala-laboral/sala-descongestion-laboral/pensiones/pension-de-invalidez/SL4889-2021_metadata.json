@@ -1,0 +1,29 @@
+{
+  "radicado": "SL4889-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-03T17:43:26Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 2665 de 1988",
+    "Decreto 2665 de 1998",
+    "Decreto 692 de 1994",
+    "Decreto 806 de 1998",
+    "Decreto 832 de 1996",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL4889-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:25:16.966195+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL4497-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-10-20T21:40:17Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 1281 de 2002",
+    "Decreto 1281 de 2012",
+    "Ley 100 de 1993",
+    "Ley 1281 de 2002",
+    "Ley 1753 de 2015",
+    "Ley 715 de 2001",
+    "Ley 716 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL4497-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:32:25.917048+00:00"
+}

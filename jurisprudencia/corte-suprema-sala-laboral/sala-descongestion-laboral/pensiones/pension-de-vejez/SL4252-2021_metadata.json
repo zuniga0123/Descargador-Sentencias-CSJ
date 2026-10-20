@@ -1,0 +1,25 @@
+{
+  "radicado": "SL4252-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-09-23T16:25:00Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 37,
+  "leyes_o_articulos": [
+    "Decreto 142 de 2006",
+    "Decreto 4712 de 2008",
+    "Decreto 832 de 1996",
+    "Decreto 833 de 1996",
+    "Ley 100 de 1993",
+    "Ley 1955 de 2019",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Fernando Castillo Cadena/Sentencias/SL4252-2021.doc",
+  "fecha_descarga": "2026-10-20T20:44:41.176565+00:00"
+}

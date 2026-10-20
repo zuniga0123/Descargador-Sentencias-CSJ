@@ -1,0 +1,24 @@
+{
+  "radicado": "SL4101-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-09-21T20:11:00Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 2025 de 2011",
+    "Ley 100 de 1993",
+    "Ley 1429 de 2010",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL4101-2021.doc",
+  "fecha_descarga": "2026-10-20T20:46:11.652495+00:00"
+}

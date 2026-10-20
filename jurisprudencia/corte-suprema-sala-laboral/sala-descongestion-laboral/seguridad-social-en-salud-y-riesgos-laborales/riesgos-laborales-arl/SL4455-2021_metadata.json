@@ -1,0 +1,26 @@
+{
+  "radicado": "SL4455-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-10-07T22:37:01Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 1670 de 2007",
+    "Decreto 1772 de 1994",
+    "Decreto 1818 de 1996",
+    "Ley 100 de 1993",
+    "Ley 776 de 2002",
+    "Ley 7776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Olga Yineth Merchan Calderon/Sentencias/SL4455-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:37:40.539826+00:00"
+}

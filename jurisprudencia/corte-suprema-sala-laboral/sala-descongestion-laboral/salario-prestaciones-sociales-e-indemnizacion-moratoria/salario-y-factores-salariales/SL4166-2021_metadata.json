@@ -1,0 +1,24 @@
+{
+  "radicado": "SL4166-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-09-30T10:04:17Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 314 de 1994",
+    "Decreto 807 de 1994",
+    "Ley 100 de 1993",
+    "Ley 4 de 1992",
+    "Ley 446 de 1998",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL4166-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:41:41.745952+00:00"
+}

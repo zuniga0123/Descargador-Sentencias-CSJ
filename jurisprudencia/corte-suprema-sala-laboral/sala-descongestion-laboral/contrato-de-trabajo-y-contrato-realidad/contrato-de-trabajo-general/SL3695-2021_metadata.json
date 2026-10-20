@@ -1,0 +1,21 @@
+{
+  "radicado": "SL3695-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-10-05T10:28:20Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 1350 de 2003",
+    "Ley 50 de 1990",
+    "Ley 643 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL3695-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:40:06.117682+00:00"
+}

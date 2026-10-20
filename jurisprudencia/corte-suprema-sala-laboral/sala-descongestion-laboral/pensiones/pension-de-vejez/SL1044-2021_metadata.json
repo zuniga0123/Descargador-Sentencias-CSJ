@@ -1,0 +1,28 @@
+{
+  "radicado": "SL1044-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-02T22:54:15Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 2027 de 1951",
+    "Decreto 2527 de 2000",
+    "Decreto 807 de 1994",
+    "Ley 100 de 1993",
+    "Ley 100 de 1996",
+    "Ley 1118 de 2006",
+    "Ley 19 de 1921",
+    "Ley 23 de 1991",
+    "Ley 74 de 1968",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Ana Maria Muñoz Segura/Sentencias/SL1044-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:26:47.884451+00:00"
+}

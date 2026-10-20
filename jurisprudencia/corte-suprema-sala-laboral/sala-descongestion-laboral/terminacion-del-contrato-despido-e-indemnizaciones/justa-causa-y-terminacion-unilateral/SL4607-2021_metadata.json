@@ -1,0 +1,21 @@
+{
+  "radicado": "SL4607-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-10-25T22:56:53Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 528 de 1964",
+    "Decreto 806 de 2020"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL4607-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:30:17.372914+00:00"
+}

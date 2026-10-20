@@ -1,0 +1,23 @@
+{
+  "radicado": "SL4069-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-10-28T17:10:23Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 60,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1781 de 2016",
+    "Ley 797 de 1993",
+    "Ley 797 de 2003",
+    "Ley 797 de 2100"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Ana Maria Muñoz Segura/Sentencias/SL4069-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:29:05.123488+00:00"
+}
