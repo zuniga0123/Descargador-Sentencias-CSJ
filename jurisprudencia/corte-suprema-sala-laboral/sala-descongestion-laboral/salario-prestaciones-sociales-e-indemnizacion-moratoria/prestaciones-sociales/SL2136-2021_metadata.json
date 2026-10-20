@@ -1,0 +1,30 @@
+{
+  "radicado": "SL2136-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-02T19:46:25Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 74,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 2127 de 1945",
+    "Decreto 4588 de 2006",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 1160 de 1943",
+    "Ley 314 de 1996",
+    "Ley 344 de 1996",
+    "Ley 4 de 1992",
+    "Ley 50 de 1990",
+    "Ley 6 de 1945",
+    "Ley 797 de 1949"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Gerardo Botero Zuluaga/Sentencias/SL2136-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:42:47.440863+00:00"
+}

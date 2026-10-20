@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2099-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-31T20:15:17Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 2351 de 1965",
+    "Decreto 255 de 2000",
+    "Decreto 2721 de 2008",
+    "Ley 171 de 1961",
+    "Ley 48 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Ana Maria Muñoz Segura/Sentencias/SL2099-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:44:44.369361+00:00"
+}
