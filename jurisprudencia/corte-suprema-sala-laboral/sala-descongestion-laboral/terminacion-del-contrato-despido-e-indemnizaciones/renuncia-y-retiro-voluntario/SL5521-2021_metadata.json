@@ -1,0 +1,26 @@
+{
+  "radicado": "SL5521-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-13T15:19:39Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Renuncia y retiro voluntario",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966",
+    "Decreto 758 de 1990",
+    "Ley 10 de 1972",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 50 de 1990",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL5521-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:06:31.157318+00:00"
+}

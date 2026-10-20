@@ -1,0 +1,22 @@
+{
+  "radicado": "SL4750-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-30T20:49:41Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 65,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 25 de 1992",
+    "Ley 270 de 1996",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL4750-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:14:38.758658+00:00"
+}

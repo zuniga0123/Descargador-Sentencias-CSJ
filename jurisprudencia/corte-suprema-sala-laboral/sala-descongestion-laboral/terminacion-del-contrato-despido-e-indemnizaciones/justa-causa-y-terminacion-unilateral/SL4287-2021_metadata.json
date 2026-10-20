@@ -1,0 +1,25 @@
+{
+  "radicado": "SL4287-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2022-01-17T15:50:39Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 0935 de 2012",
+    "Decreto 1227 de 2005",
+    "Decreto 2127 de 1945",
+    "Decreto 2400 de 1968",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 909 de 2004"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL4287-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:02:31.077833+00:00"
+}

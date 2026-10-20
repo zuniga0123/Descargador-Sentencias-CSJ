@@ -1,0 +1,30 @@
+{
+  "radicado": "SL5267-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-29T15:31:00Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 092 de 2000",
+    "Decreto 130 de 1976",
+    "Decreto 2314 de 1953",
+    "Decreto 2331 de 1998",
+    "Decreto 3130 de 1968",
+    "Decreto 3135 de 1968",
+    "Decreto 4937 de 2009",
+    "Decreto 663 de 1993",
+    "Ley 100 de 1993",
+    "Ley 130 de 1976",
+    "Ley 33 de 1985",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Fernando Castillo Cadena/Sentencias/SL5267-2021.doc",
+  "fecha_descarga": "2026-10-20T20:15:23.451611+00:00"
+}

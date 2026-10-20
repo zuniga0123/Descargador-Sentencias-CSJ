@@ -1,0 +1,31 @@
+{
+  "radicado": "SL5489-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-07T22:12:09Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 56,
+  "leyes_o_articulos": [
+    "Decreto 1864 de 1965",
+    "Decreto 1887 de 1994",
+    "Decreto 528 de 1964",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1116 de 2006",
+    "Ley 153 de 1887",
+    "Ley 16 de 1968",
+    "Ley 222 de 1995",
+    "Ley 71 de 1988",
+    "Ley 74 de 1968",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Olga Yineth Merchan Calderon/Sentencias/SL5489-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:10:40.450251+00:00"
+}

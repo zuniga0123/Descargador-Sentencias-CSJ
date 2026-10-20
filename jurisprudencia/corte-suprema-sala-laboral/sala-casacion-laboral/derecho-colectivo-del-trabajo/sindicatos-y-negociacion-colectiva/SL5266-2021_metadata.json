@@ -1,0 +1,28 @@
+{
+  "radicado": "SL5266-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-29T15:25:45Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Aleman",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Decreto 1083 de 2015",
+    "Decreto 1222 de 1986",
+    "Decreto 22 de 1993",
+    "Decreto 3135 de 1968",
+    "Decreto 3135 de 1988",
+    "Decreto 80 de 1980",
+    "Ley 222 de 1983",
+    "Ley 222 de 1984",
+    "Ley 30 de 1992",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2021/Dr.Jorge Luis Quiroz Aleman/Sentencias/SL5266-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:15:25.179800+00:00"
+}

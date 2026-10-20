@@ -1,0 +1,22 @@
+{
+  "radicado": "SL5454-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-07T20:20:20Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 1340 de 1995",
+    "Decreto 2019 de 1988",
+    "Ley 16 de 1969",
+    "Ley 89 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL5454-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:10:02.757168+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "radicado": "SL5608-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2022-01-20T22:08:32Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 656 de 1994",
+    "Decreto 832 de 1996",
+    "Decreto 876 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1395 de 2010",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL5608-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:00:56.272175+00:00"
+}

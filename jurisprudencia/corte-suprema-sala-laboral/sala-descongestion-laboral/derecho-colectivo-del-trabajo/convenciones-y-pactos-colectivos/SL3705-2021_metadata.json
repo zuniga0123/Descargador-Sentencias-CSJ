@@ -1,0 +1,26 @@
+{
+  "radicado": "SL3705-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2022-01-13T22:11:35Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 2351 de 1965",
+    "Decreto 520 de 2003",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 33 de 1985",
+    "Ley 48 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL3705-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:03:07.275468+00:00"
+}

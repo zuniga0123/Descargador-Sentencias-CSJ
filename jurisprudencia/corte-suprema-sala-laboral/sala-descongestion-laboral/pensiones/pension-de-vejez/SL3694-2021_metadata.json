@@ -1,0 +1,26 @@
+{
+  "radicado": "SL3694-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2022-01-13T22:14:13Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1730 de 2001",
+    "Decreto 1930 de 2001",
+    "Decreto 3041 de 1966",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 107 de 1961",
+    "Ley 153 de 1887",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL3694-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:03:05.411707+00:00"
+}

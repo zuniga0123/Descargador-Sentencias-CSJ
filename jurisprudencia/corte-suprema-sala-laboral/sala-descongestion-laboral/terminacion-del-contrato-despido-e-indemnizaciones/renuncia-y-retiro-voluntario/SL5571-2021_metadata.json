@@ -1,0 +1,23 @@
+{
+  "radicado": "SL5571-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-10T14:58:59Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Renuncia y retiro voluntario",
+  "puntaje_clasificacion": 4,
+  "leyes_o_articulos": [
+    "Decreto 042 de 2020",
+    "Ley 100 de 1993",
+    "Ley 1955 de 2019",
+    "Ley 33 de 1985",
+    "Ley 4 de 1976"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Jorge Prada Sanchez/Sentencias/SL5571-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:08:35.763735+00:00"
+}

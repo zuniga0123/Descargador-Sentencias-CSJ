@@ -1,0 +1,28 @@
+{
+  "radicado": "SL5594-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-10T15:29:56Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 1474 de 1997",
+    "Decreto 1513 de 1998",
+    "Decreto 1748 de 1995",
+    "Decreto 3995 de 2008",
+    "Decreto 692 de 1994",
+    "Decreto 758 de 1990",
+    "Decreto 806 de 1998",
+    "Ley 100 de 1003",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL5594-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:08:12.786166+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL4770-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2022-01-13T20:13:04Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 190 de 2003",
+    "Ley 100 de 1993",
+    "Ley 1098 de 2006",
+    "Ley 1332 de 2008",
+    "Ley 762 de 2002",
+    "Ley 797 de 2003",
+    "Ley 82 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Gerardo Botero Zuluaga/Sentencias/SL4770-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:03:51.991584+00:00"
+}

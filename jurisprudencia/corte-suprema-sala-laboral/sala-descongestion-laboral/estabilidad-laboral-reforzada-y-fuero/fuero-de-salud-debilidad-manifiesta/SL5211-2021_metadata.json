@@ -1,0 +1,27 @@
+{
+  "radicado": "SL5211-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-24T16:33:02Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Estabilidad Laboral Reforzada y Fuero",
+  "subtema": "Fuero de salud / debilidad manifiesta",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1507 de 2014",
+    "Decreto 19 de 2012",
+    "Decreto 2436 de 2001",
+    "Decreto 2463 de 2001",
+    "Ley 1316 de 2009",
+    "Ley 1346 de 2009",
+    "Ley 1443 de 2014",
+    "Ley 1618 de 2013",
+    "Ley 361 de 1997"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL5211-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:17:19.587998+00:00"
+}

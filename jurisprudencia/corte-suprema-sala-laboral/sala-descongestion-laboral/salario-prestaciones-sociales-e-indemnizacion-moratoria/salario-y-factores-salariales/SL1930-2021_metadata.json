@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1930-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2022-01-13T21:30:34Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 63,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 2663 de 1950",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL1930-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:03:29.378396+00:00"
+}

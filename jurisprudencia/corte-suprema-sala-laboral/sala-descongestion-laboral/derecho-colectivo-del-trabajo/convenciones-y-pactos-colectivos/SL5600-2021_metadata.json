@@ -1,0 +1,26 @@
+{
+  "radicado": "SL5600-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-10T16:03:08Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 2677 de 1971",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 27 de 1976",
+    "Ley 50 de 1990",
+    "Ley 71 de 1988",
+    "Ley 74 de 1968",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL5600-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:07:56.623994+00:00"
+}

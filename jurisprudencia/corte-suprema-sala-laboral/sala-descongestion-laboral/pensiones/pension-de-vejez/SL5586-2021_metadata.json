@@ -1,0 +1,28 @@
+{
+  "radicado": "SL5586-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-10T15:29:02Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 2665 de 1980",
+    "Decreto 2665 de 1988",
+    "Decreto 2665 de 1998",
+    "Decreto 3041 de 1966",
+    "Decreto 3063 de 1989",
+    "Decreto 692 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 6 de 1945",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL5586-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:08:21.524251+00:00"
+}

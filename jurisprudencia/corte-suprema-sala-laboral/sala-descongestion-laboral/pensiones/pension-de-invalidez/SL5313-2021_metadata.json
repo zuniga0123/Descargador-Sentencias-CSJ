@@ -1,0 +1,24 @@
+{
+  "radicado": "SL5313-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-30T22:36:30Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 38,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 19 de 2012",
+    "Decreto 2463 de 2001",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL5313-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:14:00.317590+00:00"
+}

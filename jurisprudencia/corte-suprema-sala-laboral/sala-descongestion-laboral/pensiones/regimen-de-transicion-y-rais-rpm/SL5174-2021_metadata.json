@@ -1,0 +1,29 @@
+{
+  "radicado": "SL5174-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-23T16:22:27Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 121,
+  "leyes_o_articulos": [
+    "Decreto 2157 de 1945",
+    "Decreto 2241 de 2010",
+    "Decreto 3800 de 2003",
+    "Decreto 656 de 1994",
+    "Decreto 663 de 1993",
+    "Decreto 692 de 1994",
+    "Decreto 720 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1328 de 2009",
+    "Ley 1748 de 2014",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL5174-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:17:34.533399+00:00"
+}

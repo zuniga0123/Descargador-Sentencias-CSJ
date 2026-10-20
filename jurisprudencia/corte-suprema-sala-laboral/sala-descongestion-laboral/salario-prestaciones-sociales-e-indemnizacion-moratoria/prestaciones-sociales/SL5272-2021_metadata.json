@@ -1,0 +1,25 @@
+{
+  "radicado": "SL5272-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-29T20:03:55Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 66,
+  "leyes_o_articulos": [
+    "Decreto 1582 de 1998",
+    "Decreto 257 de 2004",
+    "Decreto 2649 de 1993",
+    "Ley 16 de 1969",
+    "Ley 344 de 1996",
+    "Ley 489 de 1998",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL5272-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:13:13.112298+00:00"
+}

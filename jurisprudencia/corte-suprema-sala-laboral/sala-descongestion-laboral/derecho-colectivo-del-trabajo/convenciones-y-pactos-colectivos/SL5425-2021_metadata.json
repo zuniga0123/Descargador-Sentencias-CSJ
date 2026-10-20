@@ -1,0 +1,29 @@
+{
+  "radicado": "SL5425-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-03T17:43:04Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 254 de 2000",
+    "Decreto 2651 de 1991",
+    "Decreto 2677 de 1971",
+    "Ley 100 de 1993",
+    "Ley 188 de 1959",
+    "Ley 50 de 1990",
+    "Ley 71 de 1988",
+    "Ley 712 de 2001",
+    "Ley 74 de 1968",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Ana Maria Muñoz Segura/Sentencias/SL5425-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:12:02.756955+00:00"
+}

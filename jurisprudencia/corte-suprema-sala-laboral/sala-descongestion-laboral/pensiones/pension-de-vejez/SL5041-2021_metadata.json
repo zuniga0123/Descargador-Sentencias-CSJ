@@ -1,0 +1,22 @@
+{
+  "radicado": "SL5041-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2022-01-13T21:46:08Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 39,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL5041-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:03:20.029313+00:00"
+}

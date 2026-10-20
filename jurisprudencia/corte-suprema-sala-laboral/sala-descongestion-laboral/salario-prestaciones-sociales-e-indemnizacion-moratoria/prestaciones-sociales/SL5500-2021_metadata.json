@@ -1,0 +1,20 @@
+{
+  "radicado": "SL5500-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-14T15:08:17Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Ley 1149 de 2207",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL5500-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:05:56.806554+00:00"
+}

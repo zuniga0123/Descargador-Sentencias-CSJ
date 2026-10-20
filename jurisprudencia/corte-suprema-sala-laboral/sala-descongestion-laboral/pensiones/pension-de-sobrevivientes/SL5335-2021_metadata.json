@@ -1,0 +1,30 @@
+{
+  "radicado": "SL5335-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-02T16:52:26Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Decreto 3170 de 1964",
+    "Ley 100 de 1993",
+    "Ley 113 de 1985",
+    "Ley 12 de 1975",
+    "Ley 153 de 1887",
+    "Ley 33 de 1973",
+    "Ley 44 de 1980",
+    "Ley 446 de 1998",
+    "Ley 71 de 1988",
+    "Ley 717 de 2001",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL5335-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:13:20.252955+00:00"
+}

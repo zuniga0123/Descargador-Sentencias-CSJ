@@ -1,0 +1,20 @@
+{
+  "radicado": "SL2035-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-15T11:23:46Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Ley 361 de 1997",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Ana Maria Muñoz Segura/Sentencias/SL2035-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:05:04.141370+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "radicado": "SL4906-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-12T20:14:27Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 1409 de 1999",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL4906-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:20:49.152510+00:00"
+}

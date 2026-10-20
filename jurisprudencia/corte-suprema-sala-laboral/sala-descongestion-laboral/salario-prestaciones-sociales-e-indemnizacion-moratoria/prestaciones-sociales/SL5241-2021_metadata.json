@@ -1,0 +1,24 @@
+{
+  "radicado": "SL5241-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-25T18:52:12Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 16 de 1972",
+    "Ley 319 de 1996",
+    "Ley 32 de 1985",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Jorge Prada Sanchez/Sentencias/SL5241-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:16:47.337828+00:00"
+}

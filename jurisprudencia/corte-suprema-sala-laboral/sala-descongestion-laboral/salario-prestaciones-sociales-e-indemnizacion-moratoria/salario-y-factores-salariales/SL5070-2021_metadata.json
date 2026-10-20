@@ -1,0 +1,23 @@
+{
+  "radicado": "SL5070-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-17T18:12:50Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 01 de 1994",
+    "Decreto 1158 de 1994",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL5070-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:20:00.088342+00:00"
+}

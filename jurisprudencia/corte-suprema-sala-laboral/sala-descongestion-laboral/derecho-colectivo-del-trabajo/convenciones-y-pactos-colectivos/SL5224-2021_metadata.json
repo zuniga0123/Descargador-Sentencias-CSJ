@@ -1,0 +1,26 @@
+{
+  "radicado": "SL5224-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-24T20:14:32Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 1653 de 1977",
+    "Decreto 1750 de 2003",
+    "Decreto 1750 de 2004",
+    "Decreto 2127 de 1945",
+    "Decreto 2605 de 2008",
+    "Decreto 405 de 2007",
+    "Ley 100 de 1993",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL5224-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:17:14.165985+00:00"
+}

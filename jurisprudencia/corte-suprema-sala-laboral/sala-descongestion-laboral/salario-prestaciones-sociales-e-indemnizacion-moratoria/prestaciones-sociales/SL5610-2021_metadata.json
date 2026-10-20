@@ -1,0 +1,29 @@
+{
+  "radicado": "SL5610-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-10T17:19:02Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 38,
+  "leyes_o_articulos": [
+    "Decreto 01 de 1984",
+    "Decreto 1582 de 1998",
+    "Decreto 1651 de 1977",
+    "Decreto 2013 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 797 de 1949",
+    "Ley 344 de 1996",
+    "Ley 432 de 1998",
+    "Ley 50 de 1990",
+    "Ley 6 de 1945",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL5610-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:07:38.741810+00:00"
+}

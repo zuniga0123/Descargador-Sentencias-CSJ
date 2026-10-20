@@ -1,0 +1,22 @@
+{
+  "radicado": "SL5405-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-03T15:50:24Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Decreto 1281 de 1994",
+    "Decreto 2150 de 1995",
+    "Ley 1831 de 1994",
+    "Ley 2150 de 1995"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL5405-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:12:29.131692+00:00"
+}

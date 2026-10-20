@@ -1,0 +1,28 @@
+{
+  "radicado": "SL4774-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-30T20:28:32Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 2590 de 2003",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 33 de 1985",
+    "Ley 4 de 1976",
+    "Ley 446 de 1998",
+    "Ley 6 de 1945",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL4774-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:14:51.426354+00:00"
+}

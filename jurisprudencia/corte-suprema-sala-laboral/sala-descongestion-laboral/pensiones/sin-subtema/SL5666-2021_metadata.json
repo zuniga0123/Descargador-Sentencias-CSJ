@@ -1,0 +1,20 @@
+{
+  "radicado": "SL5666-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2022-01-12T03:17:40Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Sin subtema",
+  "puntaje_clasificacion": 3,
+  "leyes_o_articulos": [
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Fernando Castillo Cadena/Sentencias/SL5666-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:04:28.060781+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "radicado": "SL5383-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-07T16:58:58Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Ley 10 de 1991",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL5383-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:10:16.827369+00:00"
+}

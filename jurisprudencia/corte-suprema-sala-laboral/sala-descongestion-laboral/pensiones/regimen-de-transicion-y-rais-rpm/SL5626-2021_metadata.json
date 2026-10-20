@@ -1,0 +1,28 @@
+{
+  "radicado": "SL5626-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-10T22:45:13Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 224 de 1966",
+    "Decreto 232 de 1984",
+    "Decreto 3041 de 1966",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 12 de 1975",
+    "Ley 33 de 1985",
+    "Ley 433 de 1971",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL5626-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:06:53.453423+00:00"
+}

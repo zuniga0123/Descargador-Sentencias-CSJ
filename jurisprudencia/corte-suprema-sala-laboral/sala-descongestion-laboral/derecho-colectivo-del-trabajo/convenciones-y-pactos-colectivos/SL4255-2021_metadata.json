@@ -1,0 +1,28 @@
+{
+  "radicado": "SL4255-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2022-01-17T17:25:56Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 2590 de 2003",
+    "Decreto 4713 de 2009",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 4 de 1976",
+    "Ley 446 de 1998",
+    "Ley 6 de 1945",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL4255-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:02:07.745171+00:00"
+}

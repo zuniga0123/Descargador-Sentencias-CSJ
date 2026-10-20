@@ -1,0 +1,25 @@
+{
+  "radicado": "SL739-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2022-01-13T19:46:30Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1098 de 2006",
+    "Ley 1332 de 2008",
+    "Ley 1395 de 2010",
+    "Ley 762 de 2002",
+    "Ley 797 de 2003",
+    "Ley 82 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Gerardo Botero Zuluaga/Sentencias/SL739-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:04:01.077510+00:00"
+}

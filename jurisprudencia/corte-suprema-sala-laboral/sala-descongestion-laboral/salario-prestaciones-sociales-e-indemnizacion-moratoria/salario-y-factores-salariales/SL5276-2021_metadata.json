@@ -1,0 +1,32 @@
+{
+  "radicado": "SL5276-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-29T20:35:52Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 1045 de 1978",
+    "Decreto 1158 de 1994",
+    "Decreto 2701 de 1988",
+    "Decreto 2701 de 1998",
+    "Decreto 3130 de 1968",
+    "Decreto 691 de 1994",
+    "Decreto 710 de 1978",
+    "Ley 100 de 1993",
+    "Ley 1042 de 1978",
+    "Ley 1427 de 2010",
+    "Ley 3130 de 1988",
+    "Ley 33 de 1985",
+    "Ley 710 de 1978"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL5276-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:13:02.045528+00:00"
+}

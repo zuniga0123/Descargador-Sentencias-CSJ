@@ -1,0 +1,20 @@
+{
+  "radicado": "SL5042-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-16T20:08:52Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Laudos arbitrales y recurso de anulación",
+  "puntaje_clasificacion": 43,
+  "leyes_o_articulos": [
+    "Decreto 1469 de 1978",
+    "Decreto 2351 de 1965"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL5042-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:20:25.515372+00:00"
+}

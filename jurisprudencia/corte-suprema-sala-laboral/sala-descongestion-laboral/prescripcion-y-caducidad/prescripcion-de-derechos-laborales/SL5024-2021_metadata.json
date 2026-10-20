@@ -1,0 +1,22 @@
+{
+  "radicado": "SL5024-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-11T17:16:00Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 71 de 1988",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Fernando Castillo Cadena/Sentencias/SL5024-2021.doc",
+  "fecha_descarga": "2026-10-20T20:21:28.940213+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "radicado": "SL5093-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-17T17:41:30Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1437 de 2015",
+    "Decreto 600 de 2008",
+    "Ley 1753 de 2015"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL5093-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:17:53.678254+00:00"
+}

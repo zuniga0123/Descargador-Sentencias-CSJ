@@ -1,0 +1,25 @@
+{
+  "radicado": "SL5413-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-03T20:32:01Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 54,
+  "leyes_o_articulos": [
+    "Decreto 656 de 1994",
+    "Decreto 663 de 1993",
+    "Decreto 692 de 1994",
+    "Decreto 720 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1328 de 2009",
+    "Ley 169 de 1896"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Jorge Prada Sanchez/Sentencias/SL5413-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:11:55.738035+00:00"
+}

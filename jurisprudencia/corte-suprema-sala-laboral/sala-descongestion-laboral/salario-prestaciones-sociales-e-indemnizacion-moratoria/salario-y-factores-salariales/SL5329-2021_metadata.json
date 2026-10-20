@@ -1,0 +1,28 @@
+{
+  "radicado": "SL5329-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-09T12:12:42Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 692 de 1994",
+    "Decreto 807 de 1994",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 238 de 1995",
+    "Ley 4 de 1976",
+    "Ley 71 de 1988",
+    "Ley 78 de 1988",
+    "Ley 797 de 2003",
+    "Ley 997 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar Angel Mejia Amador/Sentencias/SL5329-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:10:34.795518+00:00"
+}

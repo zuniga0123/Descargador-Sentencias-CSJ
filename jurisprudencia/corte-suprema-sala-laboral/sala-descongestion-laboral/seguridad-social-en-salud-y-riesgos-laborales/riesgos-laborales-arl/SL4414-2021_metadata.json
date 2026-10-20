@@ -1,0 +1,30 @@
+{
+  "radicado": "SL4414-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-11T12:15:59Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1050 de 1968",
+    "Decreto 1750 de 2003",
+    "Decreto 1848 de 1969",
+    "Decreto 1950 de 1973",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 10 de 1990",
+    "Ley 100 de 1993",
+    "Ley 6 de 1945",
+    "Ley 712 de 2001",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL4414-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:21:54.987989+00:00"
+}

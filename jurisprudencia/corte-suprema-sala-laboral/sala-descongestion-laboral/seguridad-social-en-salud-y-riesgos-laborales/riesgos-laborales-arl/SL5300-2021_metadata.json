@@ -1,0 +1,19 @@
+{
+  "radicado": "SL5300-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-09T12:12:17Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Ley 16 de 1969"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar Angel Mejia Amador/Sentencias/SL5300-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:10:38.623469+00:00"
+}

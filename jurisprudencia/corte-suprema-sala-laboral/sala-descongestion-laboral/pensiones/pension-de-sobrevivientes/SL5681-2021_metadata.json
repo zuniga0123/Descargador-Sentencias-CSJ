@@ -1,0 +1,22 @@
+{
+  "radicado": "SL5681-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2022-01-20T21:06:24Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 717 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar Angel Mejia Amador/Sentencias/SL5681-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:00:59.906899+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "radicado": "SL2015-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2022-01-13T21:09:15Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Aleman",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 49,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1257 de 2008",
+    "Ley 294 de 1996",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2021/Dr.Jorge Luis Quiroz Aleman/Sentencias/SL2015-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:03:35.054043+00:00"
+}

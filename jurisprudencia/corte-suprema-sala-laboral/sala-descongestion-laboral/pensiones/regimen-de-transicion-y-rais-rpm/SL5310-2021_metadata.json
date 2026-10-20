@@ -1,0 +1,21 @@
+{
+  "radicado": "SL5310-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2022-01-13T22:16:46Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar Angel Mejia Amador/Sentencias/SL5310-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:03:03.560152+00:00"
+}

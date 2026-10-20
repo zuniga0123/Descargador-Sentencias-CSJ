@@ -1,0 +1,24 @@
+{
+  "radicado": "SL5019-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2022-01-12T03:54:31Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 96,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1848 de 1969",
+    "Decreto 3118 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 10 de 1990",
+    "Ley 41 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Gerardo Botero Zuluaga/Sentencias/SL5019-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:04:14.055740+00:00"
+}

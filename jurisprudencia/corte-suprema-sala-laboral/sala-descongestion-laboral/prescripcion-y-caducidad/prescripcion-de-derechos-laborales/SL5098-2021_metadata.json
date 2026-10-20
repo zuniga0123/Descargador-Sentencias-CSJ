@@ -1,0 +1,20 @@
+{
+  "radicado": "SL5098-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-17T18:00:19Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "LEY 4 DE 1976",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL5098-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:17:46.551306+00:00"
+}

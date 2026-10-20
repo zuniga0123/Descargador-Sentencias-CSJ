@@ -1,0 +1,21 @@
+{
+  "radicado": "SL4066-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2022-01-12T03:47:21Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Decreto 2511 de 1998",
+    "Ley 640 de 2001",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Fernando Castillo Cadena/Sentencias/SL4066-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:04:17.314091+00:00"
+}

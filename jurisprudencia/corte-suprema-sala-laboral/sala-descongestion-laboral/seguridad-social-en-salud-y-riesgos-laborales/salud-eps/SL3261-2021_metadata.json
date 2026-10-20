@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3261-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2022-01-17T15:54:02Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 1507 de 2014",
+    "Decreto 2351 de 1965",
+    "Decreto 2463 de 2001",
+    "Ley 1618 de 2013",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL3261-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:02:29.102367+00:00"
+}

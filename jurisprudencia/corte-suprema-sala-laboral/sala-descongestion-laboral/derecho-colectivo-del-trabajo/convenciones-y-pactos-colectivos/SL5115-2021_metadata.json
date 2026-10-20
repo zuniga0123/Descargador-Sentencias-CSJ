@@ -1,0 +1,21 @@
+{
+  "radicado": "SL5115-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-18T17:07:31Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Ana Maria Muñoz Segura/Sentencias/SL5115-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:19:01.271835+00:00"
+}
