@@ -1,0 +1,31 @@
+{
+  "radicado": "SL2730-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-07-03T00:06:36Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 48,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1946",
+    "Decreto 1160 de 1947",
+    "Decreto 1252 de 2000",
+    "Decreto 1750 de 2003",
+    "Decreto 1919 de 2002",
+    "Decreto 2605 de 2008",
+    "Decreto 3118 de 1968",
+    "Decreto 405 de 2007",
+    "Ley 1105 de 2006",
+    "Ley 344 de 1996",
+    "Ley 489 de 1998",
+    "Ley 6 de 1945",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL2730-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:22:51.103123+00:00"
+}

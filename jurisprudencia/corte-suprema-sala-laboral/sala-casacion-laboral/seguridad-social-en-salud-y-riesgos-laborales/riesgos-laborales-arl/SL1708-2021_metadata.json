@@ -1,0 +1,33 @@
+{
+  "radicado": "SL1708-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-10T21:04:10Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Aleman",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 39,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Decreto 1477 de 2014",
+    "Decreto 1507 de 2014",
+    "Decreto 2436 de 2001",
+    "Decreto 2463 de 2001",
+    "Decreto 2566 de 2009",
+    "Decreto 917 de 1999",
+    "Ley 019 de 2012",
+    "Ley 100 de 1993",
+    "Ley 1295 de 1994",
+    "Ley 1346 de 2009",
+    "Ley 1562 de 2012",
+    "Ley 1618 de 2013",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2021/Dr.Jorge Luis Quiroz Aleman/Sentencias/SL1708-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:38:32.708368+00:00"
+}

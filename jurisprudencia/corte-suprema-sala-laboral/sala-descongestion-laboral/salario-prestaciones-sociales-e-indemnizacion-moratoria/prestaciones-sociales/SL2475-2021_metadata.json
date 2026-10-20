@@ -1,0 +1,31 @@
+{
+  "radicado": "SL2475-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-23T16:05:49Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 178 de 2002",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Decreto 758 de 2002",
+    "Decreto 791 de 1949",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 1285 de 2009",
+    "Ley 270 de 1996",
+    "Ley 50 de 1990",
+    "Ley 617 de 2001",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL2475-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:31:09.337896+00:00"
+}

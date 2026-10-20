@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1954-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-07-13T00:39:07Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2282 de 1989",
+    "Ley 1295 de 1994",
+    "Ley 141 de 1961",
+    "Ley 153 de 1887",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Gerardo Botero Zuluaga/Sentencias/SL1954-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:20:54.522892+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "radicado": "SL2950-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-07-14T15:34:31Z",
+  "magistrado_ponente": "Dra. Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Decreto 1675 de 1997",
+    "Ley 100 de 1993",
+    "Ley 2351 de 1965"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Clara Cecilia Dueñas Quevedo/Sentencias/SL2950-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:19:55.791904+00:00"
+}

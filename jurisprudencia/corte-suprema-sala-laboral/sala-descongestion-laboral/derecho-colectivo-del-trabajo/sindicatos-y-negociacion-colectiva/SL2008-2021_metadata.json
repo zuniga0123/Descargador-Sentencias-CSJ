@@ -1,0 +1,21 @@
+{
+  "radicado": "SL2008-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-07-14T03:24:33Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 247,
+  "leyes_o_articulos": [
+    "Ley 1429 de 2010",
+    "Ley 1437 de 2011",
+    "Ley 1563 de 2012"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL2008-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:20:07.474380+00:00"
+}

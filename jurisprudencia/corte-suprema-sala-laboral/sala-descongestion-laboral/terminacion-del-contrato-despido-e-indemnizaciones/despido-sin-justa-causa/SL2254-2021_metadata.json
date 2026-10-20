@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2254-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-10T16:01:05Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Despido sin justa causa",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 4588 de 2006",
+    "Decreto 468 de 1990",
+    "Ley 21 de 1982",
+    "Ley 361 de 1997",
+    "Ley 78 de 1988",
+    "Ley 79 de 1988",
+    "Ley 79 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL2254-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:36:18.513810+00:00"
+}

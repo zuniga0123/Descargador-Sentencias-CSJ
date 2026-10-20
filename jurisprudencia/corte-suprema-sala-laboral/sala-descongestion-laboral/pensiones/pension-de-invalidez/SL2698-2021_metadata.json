@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2698-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-07-07T14:48:52Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1346 de 1994",
+    "Decreto 1352 de 2013",
+    "Decreto 19 de 2012",
+    "Decreto 2463 de 2001",
+    "Decreto 917 de 1999",
+    "Decreto 962 de 1995",
+    "Ley 100 de 1993",
+    "Ley 860 de 2003",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL2698-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:23:18.271434+00:00"
+}

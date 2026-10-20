@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1404-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-10T22:40:37Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 1507 de 2014",
+    "Decreto 2463 de 2001",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 1346 de 2009",
+    "Ley 319 de 1996",
+    "Ley 361 de 1997",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL1404-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:38:16.929342+00:00"
+}

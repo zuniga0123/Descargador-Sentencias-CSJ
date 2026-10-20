@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2059-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-10T21:08:39Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Aleman",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 1887 de 1994",
+    "Decreto 3041 de 1966",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946",
+    "Ley 90 de 1947"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2021/Dr.Jorge Luis Quiroz Aleman/Sentencias/SL2059-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:38:30.290443+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "radicado": "SL2608-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-28T20:39:00Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 2879 de 1985",
+    "Decreto 2879 de 1995",
+    "Decreto 3041 de 1966"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Fernando Castillo Cadena/Sentencias/SL2608-2021.doc",
+  "fecha_descarga": "2026-10-20T21:28:11.623023+00:00"
+}

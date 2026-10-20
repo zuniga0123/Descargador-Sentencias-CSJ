@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2666-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-07-13T00:44:27Z",
+  "magistrado_ponente": "Dra. Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 59,
+  "leyes_o_articulos": [
+    "Decreto 656 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1112 de 2006",
+    "Ley 656 de 1994",
+    "Ley 700 de 2001",
+    "Ley 717 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Clara Cecilia Dueñas Quevedo/Sentencias/SL2666-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:20:52.878573+00:00"
+}

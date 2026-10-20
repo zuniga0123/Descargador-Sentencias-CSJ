@@ -1,0 +1,28 @@
+{
+  "radicado": "SL1054-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-29T18:57:47Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2463 de 2001",
+    "Ley 100 de 1993",
+    "Ley 1145 de 2007",
+    "Ley 1346 de 2009",
+    "Ley 1618 de 2013",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 776 de 2002",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Fernando Castillo Cadena/Sentencias/SL1054-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:27:34.322919+00:00"
+}

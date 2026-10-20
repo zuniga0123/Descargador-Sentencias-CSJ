@@ -1,0 +1,22 @@
+{
+  "radicado": "SL2370-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-17T16:24:00Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 2388 de 1979",
+    "Ley 16 de 1969",
+    "Ley 7 de 1979",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Jorge Prada Sanchez/Sentencias/SL2370-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:34:41.993337+00:00"
+}

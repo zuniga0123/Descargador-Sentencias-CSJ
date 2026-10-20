@@ -1,0 +1,29 @@
+{
+  "radicado": "SL2247-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-15T20:40:15Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 133 de 1976",
+    "Decreto 758 de 1990",
+    "LEY 3135 DE 1968",
+    "LEY 6 DE 1945",
+    "Ley 100 de 1993",
+    "Ley 153 de 1987",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1985",
+    "Ley 57 de 1931",
+    "Ley 6 de 1945",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL2247-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:36:33.341810+00:00"
+}

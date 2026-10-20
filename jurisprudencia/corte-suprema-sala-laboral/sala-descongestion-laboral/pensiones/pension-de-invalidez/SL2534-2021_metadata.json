@@ -1,0 +1,26 @@
+{
+  "radicado": "SL2534-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-25T16:56:28Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 19 de 2012",
+    "Decreto 2463 de 2001",
+    "Decreto 806 de 1998",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 860 de 2003",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL2534-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:28:51.317412+00:00"
+}

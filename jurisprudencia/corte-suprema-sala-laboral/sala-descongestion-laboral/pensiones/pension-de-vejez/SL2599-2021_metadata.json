@@ -1,0 +1,32 @@
+{
+  "radicado": "SL2599-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-30T18:22:00Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 1474 de 1997",
+    "Decreto 1513 de 1998",
+    "Decreto 166 de 1983",
+    "Decreto 1713 de 1960",
+    "Decreto 2337 de 1996",
+    "Ley 100 de 1993",
+    "Ley 269 de 1996",
+    "Ley 30 de 1992",
+    "Ley 33 de 1985",
+    "Ley 344 de 1996",
+    "Ley 4 de 1992",
+    "Ley 549 de 1999",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Fernando Castillo Cadena/Sentencias/SL2599-2021.doc",
+  "fecha_descarga": "2026-10-20T21:26:21.057153+00:00"
+}

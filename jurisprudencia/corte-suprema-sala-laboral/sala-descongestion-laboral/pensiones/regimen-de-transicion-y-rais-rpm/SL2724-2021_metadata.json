@@ -1,0 +1,33 @@
+{
+  "radicado": "SL2724-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-07-02T22:55:27Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 1748 de 1995",
+    "Decreto 1848 de 1969",
+    "Decreto 3041 de 1966",
+    "Decreto 3125 de 1968",
+    "Decreto 3135 de 1968",
+    "Decreto 433 de 1971",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 33 de 1985",
+    "Ley 33 de 1995",
+    "Ley 433 de 1971",
+    "Ley 62 de 1985",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL2724-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:24:38.921730+00:00"
+}

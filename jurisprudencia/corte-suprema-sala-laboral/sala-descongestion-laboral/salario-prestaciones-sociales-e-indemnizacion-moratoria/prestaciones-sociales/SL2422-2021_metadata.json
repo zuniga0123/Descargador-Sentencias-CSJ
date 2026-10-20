@@ -1,0 +1,22 @@
+{
+  "radicado": "SL2422-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-21T15:38:56Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 63,
+  "leyes_o_articulos": [
+    "Decreto 2025 de 2011",
+    "Ley 100 de 1993",
+    "Ley 50 de 1990",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL2422-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:31:22.743620+00:00"
+}

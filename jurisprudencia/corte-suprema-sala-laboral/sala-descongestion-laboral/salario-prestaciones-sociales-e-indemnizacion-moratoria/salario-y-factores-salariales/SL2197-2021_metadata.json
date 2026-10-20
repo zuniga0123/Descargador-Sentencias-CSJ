@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2197-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-25T00:50:04Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 2842 de 2013",
+    "Ley 100 de 1993",
+    "Ley 1151 de 2008",
+    "Ley 171 de 1961",
+    "Ley 1748 de 1995",
+    "Ley 71 de 1988",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL2197-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:29:04.142396+00:00"
+}

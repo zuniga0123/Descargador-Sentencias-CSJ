@@ -1,0 +1,22 @@
+{
+  "radicado": "SL2611-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-28T21:17:00Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Laudos arbitrales y recurso de anulación",
+  "puntaje_clasificacion": 54,
+  "leyes_o_articulos": [
+    "Decreto 614 de 1986",
+    "Ley 1010 de 2006",
+    "Ley 1295 de 1994",
+    "Ley 1562 de 2012"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Fernando Castillo Cadena/Sentencias/SL2611-2021.doc",
+  "fecha_descarga": "2026-10-20T21:28:09.875504+00:00"
+}

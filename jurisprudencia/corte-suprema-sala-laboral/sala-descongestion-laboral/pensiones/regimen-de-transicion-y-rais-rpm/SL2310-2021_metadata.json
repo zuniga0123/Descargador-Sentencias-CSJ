@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2310-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-15T14:44:12Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1285 de 2009",
+    "Ley 270 de 1996",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL2310-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:37:20.919604+00:00"
+}

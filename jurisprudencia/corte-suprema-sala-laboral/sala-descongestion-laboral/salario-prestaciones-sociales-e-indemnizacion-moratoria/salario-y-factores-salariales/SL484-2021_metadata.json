@@ -1,0 +1,28 @@
+{
+  "radicado": "SL484-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-29T19:04:29Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 107,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 1748 de 1995",
+    "Decreto 2591 de 1991",
+    "Decreto 3063 de 1989",
+    "Decreto 3366 de 2007",
+    "Ley 100 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1299 de 1994",
+    "Ley 50 de 1990",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar Angel Mejia Amador/Sentencias/SL484-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:27:30.412462+00:00"
+}

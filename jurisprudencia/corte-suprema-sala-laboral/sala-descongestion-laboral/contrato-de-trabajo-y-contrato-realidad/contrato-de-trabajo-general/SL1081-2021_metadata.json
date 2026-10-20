@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1081-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-17T22:53:47Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 2013 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 2127 de 1947",
+    "Ley 16 de 1969",
+    "Ley 6 de 1945",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar Angel Mejia Amador/Sentencias/SL1081-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:33:09.499683+00:00"
+}

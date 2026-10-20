@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2861-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-07-13T21:59:00Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 60 de 1970",
+    "Ley 16 de 1969",
+    "Ley 2158 de 1948",
+    "Ley 527 de 1999",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Jorge Prada Sanchez/Sentencias/SL2861-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:20:25.385665+00:00"
+}

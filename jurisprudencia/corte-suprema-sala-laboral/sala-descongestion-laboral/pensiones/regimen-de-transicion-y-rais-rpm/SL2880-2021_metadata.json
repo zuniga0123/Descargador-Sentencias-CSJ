@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2880-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-07-13T21:53:03Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1406 de 1999",
+    "Decreto 1887 de 1994",
+    "Decreto 3085 de 2007",
+    "Decreto 692 de 1996",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Olga Yineth Merchan Calderon/Sentencias/SL2880-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:20:27.209087+00:00"
+}

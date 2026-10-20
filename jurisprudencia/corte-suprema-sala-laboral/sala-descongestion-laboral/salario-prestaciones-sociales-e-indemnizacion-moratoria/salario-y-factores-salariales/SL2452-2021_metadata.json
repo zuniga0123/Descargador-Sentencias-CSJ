@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2452-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-24T17:17:24Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1221 de 1975",
+    "Decreto 2027 de 1951",
+    "Ley 100 de 1993",
+    "Ley 1118 de 2006",
+    "Ley 171 de 1961",
+    "Ley 77 de 1959",
+    "Ley 77 de 1979",
+    "Ley 797 de 2003",
+    "Ley 81 de 1961"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL2452-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:28:24.261906+00:00"
+}

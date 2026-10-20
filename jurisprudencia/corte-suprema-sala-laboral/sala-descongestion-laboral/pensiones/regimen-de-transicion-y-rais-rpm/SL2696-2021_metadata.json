@@ -1,0 +1,28 @@
+{
+  "radicado": "SL2696-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-07-12T16:34:11Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1748 de 1995",
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 153 de 1889",
+    "Ley 270 de 1996",
+    "Ley 33 de 1985",
+    "Ley 6 de 1945",
+    "Ley 700 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL2696-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:21:15.130765+00:00"
+}
