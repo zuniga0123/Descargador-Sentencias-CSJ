@@ -1,0 +1,21 @@
+{
+  "radicado": "AL5734-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-07T21:33:55Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 270 de 1996",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar Angel Mejia Amador/Autos/AL5734-2021.pdf",
+  "fecha_descarga": "2026-10-20T23:10:57.720386+00:00"
+}

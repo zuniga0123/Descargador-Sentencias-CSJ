@@ -1,0 +1,20 @@
+{
+  "radicado": "AL5372-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-25T22:08:28Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1889 de 1994",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Ivan Mauricio Lenis Gomez/Autos/AL5372-2021.pdf",
+  "fecha_descarga": "2026-10-20T23:13:09.763643+00:00"
+}

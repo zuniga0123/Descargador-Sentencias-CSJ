@@ -1,0 +1,21 @@
+{
+  "radicado": "AL5708-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-01T12:38:38Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Aleman",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2021/Dr.Jorge Luis Quiroz Aleman/Autos/AL5708-2021.pdf",
+  "fecha_descarga": "2026-10-20T23:12:24.169576+00:00"
+}

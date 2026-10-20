@@ -1,0 +1,26 @@
+{
+  "radicado": "AL6022-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2021,
+  "fecha_creacion": "2021-12-14T15:05:00Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "DECRETO 2108 DE 1992",
+    "Decreto 0030 de 1951",
+    "Decreto 2108 de 1992",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 1118 de 2006",
+    "Ley 165 de 1948",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Fernando Castillo Cadena/Autos/AL6022-2021.doc",
+  "fecha_descarga": "2026-10-20T23:08:42.206878+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "radicado": "AL4302-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-25T22:31:24Z",
+  "magistrado_ponente": "Dra. Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1283 de 1996",
+    "Decreto 347 de 2013",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 1437 de 2011",
+    "Ley 1438 de 2011",
+    "Ley 1564 de 2012",
+    "Ley 1608 de 2013",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Clara Cecilia Dueñas Quevedo/Autos/AL4302-2021.pdf",
+  "fecha_descarga": "2026-10-20T23:13:08.152904+00:00"
+}

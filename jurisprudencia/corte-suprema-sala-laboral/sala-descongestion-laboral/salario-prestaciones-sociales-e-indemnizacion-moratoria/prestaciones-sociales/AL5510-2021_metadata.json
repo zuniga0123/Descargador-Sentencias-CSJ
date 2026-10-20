@@ -1,0 +1,21 @@
+{
+  "radicado": "AL5510-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-23T20:58:59Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Ley 1285 de 2009",
+    "Ley 270 de 1996",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Luis Benedicto Herrera Diaz/Autos/AL5510-2021.pdf",
+  "fecha_descarga": "2026-10-20T23:13:35.827969+00:00"
+}

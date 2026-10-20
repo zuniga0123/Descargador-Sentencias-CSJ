@@ -1,0 +1,20 @@
+{
+  "radicado": "AL5531-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-29T21:17:48Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Decreto 255 de 2000",
+    "Decreto 2721 de 2008"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Carlos Arturo Guarin Jurado/Autos/AL5531-2021.pdf",
+  "fecha_descarga": "2026-10-20T23:12:59.508243+00:00"
+}

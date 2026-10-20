@@ -1,0 +1,21 @@
+{
+  "radicado": "AL1685-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2021,
+  "fecha_creacion": "2022-02-03T22:29:47Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Aleman",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Trámite procesal",
+  "subtema": "Conflictos de competencia",
+  "puntaje_clasificacion": 2,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Ley 1607 de 2012",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2021/Dr.Jorge Luis Quiroz Aleman/Autos/AL1685-2021.pdf",
+  "fecha_descarga": "2026-10-20T23:06:40.743248+00:00"
+}
