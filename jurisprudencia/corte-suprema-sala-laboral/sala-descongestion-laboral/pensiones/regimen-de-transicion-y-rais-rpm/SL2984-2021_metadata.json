@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2984-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-07-27T12:14:57Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 56,
+  "leyes_o_articulos": [
+    "Decreto 3800 de 2013",
+    "Decreto 656 de 1994",
+    "Decreto 663 de 1993",
+    "Decreto 720 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1748 de 2015",
+    "Ley 795 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL2984-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:12:39.504895+00:00"
+}

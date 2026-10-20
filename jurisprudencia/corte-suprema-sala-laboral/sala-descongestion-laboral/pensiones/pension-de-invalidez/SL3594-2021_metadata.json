@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3594-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-25T13:50:40Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1285 de 2009",
+    "Ley 270 de 1993",
+    "Ley 270 de 1996",
+    "Ley 361 de 1991",
+    "Ley 860 de 1993",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL3594-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:00:30.820209+00:00"
+}

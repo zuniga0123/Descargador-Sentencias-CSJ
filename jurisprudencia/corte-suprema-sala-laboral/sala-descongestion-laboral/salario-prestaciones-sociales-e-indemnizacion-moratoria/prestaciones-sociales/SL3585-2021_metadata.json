@@ -1,0 +1,31 @@
+{
+  "radicado": "SL3585-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-19T21:56:43Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 01 de 1984",
+    "Decreto 165 de 1997",
+    "Decreto 1651 de 1977",
+    "Decreto 2013 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 3118 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 2351 de 1965",
+    "Ley 344 de 1966",
+    "Ley 52 de 1975",
+    "Ley 6 de 1945",
+    "Ley 797 de 1949",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Jorge Prada Sanchez/Sentencias/SL3585-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:02:15.453526+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "radicado": "SL2200-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-12T00:12:19Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1507 de 2014",
+    "Decreto 2363 de 2001",
+    "Decreto 2463 de 2001",
+    "Decreto 917 de 1999",
+    "Ley 1346 de 2009",
+    "Ley 1618 de 2013",
+    "Ley 169 de 1869",
+    "Ley 169 de 1896",
+    "Ley 361 de 1994",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL2200-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:05:26.777602+00:00"
+}

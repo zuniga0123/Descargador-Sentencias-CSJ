@@ -1,0 +1,30 @@
+{
+  "radicado": "SL3398-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-11T20:26:05Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 85,
+  "leyes_o_articulos": [
+    "Decreto 01 de 1984",
+    "Decreto 2013 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Decreto 749 de 1949",
+    "Decreto 797 de 1949",
+    "Ley 2351 de 1965",
+    "Ley 3135 de 1968",
+    "Ley 344 de 1996",
+    "Ley 6 de 1945",
+    "Ley 80 de 1993",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL3398-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:05:50.580374+00:00"
+}

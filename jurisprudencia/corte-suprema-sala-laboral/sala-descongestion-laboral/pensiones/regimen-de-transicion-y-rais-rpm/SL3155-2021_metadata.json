@@ -1,0 +1,21 @@
+{
+  "radicado": "SL3155-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-07-27T20:08:55Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 1650 de 1977",
+    "Decreto 2665 de 1988",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Jorge Prada Sanchez/Sentencias/SL3155-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:12:08.780404+00:00"
+}

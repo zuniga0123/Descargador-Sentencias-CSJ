@@ -1,0 +1,27 @@
+{
+  "radicado": "SL3692-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-09-02T14:27:37Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1653 de 1977",
+    "Decreto 2090 de 2003",
+    "Decreto 546 de 1971",
+    "LEY 100 DE 1993",
+    "Ley 100 de 1993",
+    "Ley 1214 de 1990",
+    "Ley 153 de 1887",
+    "Ley 1580 de 2012",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL3692-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:56:28.951179+00:00"
+}

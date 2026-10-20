@@ -1,0 +1,29 @@
+{
+  "radicado": "SL035-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-03T23:03:03Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1281 de 1994",
+    "Decreto 2090 de 2003",
+    "Decreto 2150 de 1995",
+    "Decreto 2282 de 1989",
+    "Decreto 2651 de 1991",
+    "Decreto 758 de 1990",
+    "Decreto 960 de 1970",
+    "LEY 100 DE 1993",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Gerardo Botero Zuluaga/Sentencias/SL035-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:09:26.339677+00:00"
+}

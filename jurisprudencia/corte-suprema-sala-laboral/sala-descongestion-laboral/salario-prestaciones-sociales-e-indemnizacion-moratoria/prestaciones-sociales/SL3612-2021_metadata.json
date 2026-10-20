@@ -1,0 +1,28 @@
+{
+  "radicado": "SL3612-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-26T10:54:40Z",
+  "magistrado_ponente": "Dra. Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1335 de 1990",
+    "Decreto 1570 de 1998",
+    "Decreto 1571 de 1998",
+    "Decreto 1572 de 1998",
+    "Decreto 785 de 2005",
+    "Ley 10 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1567 de 1998",
+    "Ley 443 de 1998",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Clara Cecilia Dueñas Quevedo/Sentencias/SL3612-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:59:34.209860+00:00"
+}

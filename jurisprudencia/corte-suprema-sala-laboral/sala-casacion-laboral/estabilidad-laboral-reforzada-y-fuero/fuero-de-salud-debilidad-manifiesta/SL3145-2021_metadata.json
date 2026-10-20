@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3145-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-18T02:44:10Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Aleman",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Estabilidad Laboral Reforzada y Fuero",
+  "subtema": "Fuero de salud / debilidad manifiesta",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1352 de 2013",
+    "Decreto 2177 de 1989",
+    "Decreto 2463 de 2001",
+    "Ley 361 de 1997",
+    "Ley 762 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2021/Dr.Jorge Luis Quiroz Aleman/Sentencias/SL3145-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:03:15.612762+00:00"
+}

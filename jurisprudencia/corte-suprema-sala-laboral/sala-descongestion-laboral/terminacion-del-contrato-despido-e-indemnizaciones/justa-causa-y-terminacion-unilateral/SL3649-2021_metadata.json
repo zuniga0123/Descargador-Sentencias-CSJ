@@ -1,0 +1,28 @@
+{
+  "radicado": "SL3649-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-27T17:27:14Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1947",
+    "Decreto 1586 de 1969",
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Ley 171 de 1961",
+    "Ley 171 de 1991",
+    "Ley 171 de 1998",
+    "Ley 65 de 1946",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar Angel Mejia Amador/Sentencias/SL3649-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:58:18.173670+00:00"
+}

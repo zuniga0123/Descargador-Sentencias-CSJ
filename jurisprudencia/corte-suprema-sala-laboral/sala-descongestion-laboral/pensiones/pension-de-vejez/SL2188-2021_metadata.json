@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2188-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-03T22:40:21Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 91,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 1474 de 1998",
+    "Decreto 1513 de 1998",
+    "Decreto 1748 de 1995",
+    "Decreto 1889 de 1994",
+    "Decreto 656 de 1994",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL2188-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:09:35.552416+00:00"
+}

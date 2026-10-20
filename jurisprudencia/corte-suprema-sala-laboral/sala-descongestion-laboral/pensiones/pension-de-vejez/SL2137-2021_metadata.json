@@ -1,0 +1,26 @@
+{
+  "radicado": "SL2137-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-11T22:25:30Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 42,
+  "leyes_o_articulos": [
+    "Decreto 049 de 1990",
+    "Decreto 1160 de 1994",
+    "Decreto 1745 de 1995",
+    "Decreto 1748 de 1995",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Gerardo Botero Zuluaga/Sentencias/SL2137-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:05:39.383193+00:00"
+}

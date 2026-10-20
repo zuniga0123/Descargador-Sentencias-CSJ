@@ -1,0 +1,21 @@
+{
+  "radicado": "SL1231-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-07-26T16:51:03Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Ley 153 de 1887",
+    "Ley 319 de 1996",
+    "Ley 4 de 1913"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL1231-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:13:46.481765+00:00"
+}

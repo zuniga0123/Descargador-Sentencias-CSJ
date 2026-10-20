@@ -1,0 +1,26 @@
+{
+  "radicado": "SL3670-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-24T20:29:51Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 105,
+  "leyes_o_articulos": [
+    "Decreto 1731 de 2001",
+    "Decreto 1900 de 1983",
+    "Decreto 224 de 1966",
+    "Decreto 528 de 1964",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL3670-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:58:55.879507+00:00"
+}

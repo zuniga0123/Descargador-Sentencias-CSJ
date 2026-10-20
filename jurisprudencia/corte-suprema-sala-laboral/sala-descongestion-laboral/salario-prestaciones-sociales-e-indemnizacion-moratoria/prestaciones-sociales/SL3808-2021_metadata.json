@@ -1,0 +1,29 @@
+{
+  "radicado": "SL3808-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-09-01T19:42:41Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 2013 de 2012",
+    "Decreto 2013 de 2013",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 2351 de 1965",
+    "Ley 50 de 1990",
+    "Ley 6 de 1945",
+    "Ley 797 de 1949",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL3808-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:55:28.983069+00:00"
+}

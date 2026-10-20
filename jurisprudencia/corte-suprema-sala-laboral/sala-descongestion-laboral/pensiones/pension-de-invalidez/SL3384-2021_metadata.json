@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3384-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-11T00:04:35Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 8,
+  "leyes_o_articulos": [
+    "Decreto 1208 de 1992",
+    "Decreto 2108 de 1992",
+    "Ley 100 de 1993",
+    "Ley 4 de 1976",
+    "Ley 6 de 1992",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Olga Yineth Merchan Calderon/Sentencias/SL3384-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:06:43.723845+00:00"
+}

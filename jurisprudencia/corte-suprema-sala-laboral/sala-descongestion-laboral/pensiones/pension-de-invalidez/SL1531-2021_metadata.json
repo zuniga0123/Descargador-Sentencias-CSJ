@@ -1,0 +1,29 @@
+{
+  "radicado": "SL1531-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-09-08T10:40:24Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 67,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Decreto 1477 de 2014",
+    "Decreto 1507 de 2014",
+    "Decreto 2566 de 2009",
+    "Decreto 917 de 1999",
+    "Ley 019 de 2012",
+    "Ley 100 de 1993",
+    "Ley 1295 de 1994",
+    "Ley 1562 de 2012",
+    "Ley 16 de 1969",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Gerardo Botero Zuluaga/Sentencias/SL1531-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:54:31.986741+00:00"
+}

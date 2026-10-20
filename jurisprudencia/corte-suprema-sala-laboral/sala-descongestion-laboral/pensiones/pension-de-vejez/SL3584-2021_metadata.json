@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3584-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-19T21:46:47Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 60,
+  "leyes_o_articulos": [
+    "Decreto 1474 de 1997",
+    "Decreto 1513 de 1998",
+    "Decreto 1748 de 1995",
+    "Decreto 1748 de 1998",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Jorge Prada Sanchez/Sentencias/SL3584-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:02:17.292737+00:00"
+}

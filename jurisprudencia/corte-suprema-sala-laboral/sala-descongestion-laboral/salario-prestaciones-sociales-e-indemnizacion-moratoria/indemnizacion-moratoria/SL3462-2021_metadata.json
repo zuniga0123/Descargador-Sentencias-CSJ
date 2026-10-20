@@ -1,0 +1,28 @@
+{
+  "radicado": "SL3462-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-20T18:58:21Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 53,
+  "leyes_o_articulos": [
+    "Decreto 01 de 1984",
+    "Decreto 140 de 2017",
+    "Decreto 2127 de 1945",
+    "Decreto 2519 de 2015",
+    "Decreto 4588 de 2006",
+    "Decreto 797 de 1949",
+    "Ley 16 de 1969",
+    "Ley 314 de 1994",
+    "Ley 79 de 1988",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL3462-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:00:49.113960+00:00"
+}

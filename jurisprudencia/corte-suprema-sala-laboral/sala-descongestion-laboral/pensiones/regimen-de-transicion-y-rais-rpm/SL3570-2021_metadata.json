@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3570-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-19T14:23:13Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 49,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1204 de 2008",
+    "Ley 16 de 1969",
+    "Ley 44 de 1980",
+    "Ley 446 de 1998",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL3570-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:02:39.134576+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3351-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-09-02T00:07:56Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 169 de 1896",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL3351-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:56:30.633202+00:00"
+}

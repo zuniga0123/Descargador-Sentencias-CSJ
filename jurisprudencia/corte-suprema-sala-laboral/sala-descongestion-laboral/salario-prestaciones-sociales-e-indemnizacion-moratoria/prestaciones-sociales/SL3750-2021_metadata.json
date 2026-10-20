@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3750-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-31T16:02:47Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 60,
+  "leyes_o_articulos": [
+    "Decreto 2463 de 2001",
+    "Decreto 4588 de 2006",
+    "Decreto 468 de 1990",
+    "Ley 16 de 1969",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL3750-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:57:03.825652+00:00"
+}

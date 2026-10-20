@@ -1,0 +1,31 @@
+{
+  "radicado": "SL1072-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-09-08T10:26:00Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 198,
+  "leyes_o_articulos": [
+    "Decreto 160 de 2014",
+    "Ley 129 de 1931",
+    "Ley 153 de 1887",
+    "Ley 22 de 1967",
+    "Ley 278 de 1996",
+    "Ley 31 de 1992",
+    "Ley 344 de 1996",
+    "Ley 362 de 1997",
+    "Ley 411 de 1997",
+    "Ley 46 de 1923",
+    "Ley 50 de 1990",
+    "Ley 56 de 1985",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar Angel Mejia Amador/Sentencias/SL1072-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:54:39.545512+00:00"
+}

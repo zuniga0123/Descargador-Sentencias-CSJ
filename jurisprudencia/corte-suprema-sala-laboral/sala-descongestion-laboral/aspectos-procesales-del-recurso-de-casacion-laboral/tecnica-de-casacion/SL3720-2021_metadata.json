@@ -1,0 +1,30 @@
+{
+  "radicado": "SL3720-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-31T13:12:43Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1260 de 1970",
+    "Decreto 1260 de 1979",
+    "Decreto 77 de 1987",
+    "Ley 100 de 1993",
+    "Ley 136 de 1994",
+    "Ley 54 de 1990",
+    "Ley 60 de 1993",
+    "Ley 715 de 2001",
+    "Ley 77 de 1987",
+    "Ley 797 de 2003",
+    "Ley 80 de 1993",
+    "Ley 979 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Gerardo Botero Zuluaga/Sentencias/SL3720-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:57:30.789893+00:00"
+}

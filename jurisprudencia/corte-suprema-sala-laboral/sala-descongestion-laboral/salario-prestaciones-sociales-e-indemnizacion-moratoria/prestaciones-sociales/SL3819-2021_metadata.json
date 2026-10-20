@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3819-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-09-08T16:48:43Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 68,
+  "leyes_o_articulos": [
+    "Decreto 1175 de 1991",
+    "Decreto 1176 de 1991",
+    "Decreto 2351 de 1965",
+    "Ley 16 de 1972",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 584 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Olga Yineth Merchan Calderon/Sentencias/SL3819-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:54:06.130431+00:00"
+}

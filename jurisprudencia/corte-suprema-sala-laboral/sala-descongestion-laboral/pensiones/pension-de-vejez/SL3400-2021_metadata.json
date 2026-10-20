@@ -1,0 +1,28 @@
+{
+  "radicado": "SL3400-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-26T20:30:18Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 56,
+  "leyes_o_articulos": [
+    "Decreto 13 de 2001",
+    "Decreto 142 de 2006",
+    "Decreto 1513 de 1998",
+    "Decreto 192 de 2015",
+    "Decreto 4712 de 2008",
+    "Decreto 656 de 1994",
+    "Decreto 692 de 1994",
+    "Decreto 832 de 1996",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL3400-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:58:30.788796+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "radicado": "SL3219-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-03T14:41:38Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 2759 de 1991",
+    "Decreto 3380 de 1981",
+    "Decreto 412 de 1992",
+    "Ley 100 de 1993",
+    "Ley 1098 de 2006",
+    "Ley 1149 de 2007",
+    "Ley 153 de 1887",
+    "Ley 1564 de 2012",
+    "Ley 23 de 1981",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Ana Maria Muñoz Segura/Sentencias/SL3219-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:10:01.509393+00:00"
+}

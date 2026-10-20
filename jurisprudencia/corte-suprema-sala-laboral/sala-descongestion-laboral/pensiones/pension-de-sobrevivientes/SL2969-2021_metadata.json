@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2969-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-18T01:58:43Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 80,
+  "leyes_o_articulos": [
+    "Ley 056 de 2002",
+    "Ley 100 de 1993",
+    "Ley 140 de 2003",
+    "Ley 153 de 1887",
+    "Ley 153 de 1987",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar Angel Mejia Amador/Sentencias/SL2969-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:03:26.413221+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3765-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-31T19:08:59Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 60,
+  "leyes_o_articulos": [
+    "Decreto 1278 de 2002",
+    "Decreto 2277 de 1979",
+    "Decreto 2277 de 1994",
+    "Ley 115 de 1994",
+    "Ley 1278 de 2002",
+    "Ley 2277 de 1979",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL3765-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:57:39.750569+00:00"
+}
