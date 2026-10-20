@@ -1,0 +1,24 @@
+{
+  "radicado": "SL919-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-04-09T01:19:27Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 177,
+  "leyes_o_articulos": [
+    "Decreto 1373 de 1966",
+    "Decreto 1468 de 1978",
+    "Decreto 1469 de 1978",
+    "Decreto 2351 de 1965",
+    "Ley 2351 de 1965",
+    "Ley 26 de 1976"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Fernando Castillo Cadena/Sentencias/SL919-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:09:25.242045+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1181-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-04-07T17:59:29Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 617 de 1954",
+    "Decreto 797 de 1949",
+    "Ley 16 de 1972",
+    "Ley 319 de 1996",
+    "Ley 50 de 1990",
+    "Ley 6 de 1945",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL1181-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:08:50.808317+00:00"
+}

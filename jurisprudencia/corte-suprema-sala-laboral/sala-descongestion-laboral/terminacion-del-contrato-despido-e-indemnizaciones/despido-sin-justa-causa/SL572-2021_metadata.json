@@ -1,0 +1,26 @@
+{
+  "radicado": "SL572-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-04-19T18:17:55Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Despido sin justa causa",
+  "puntaje_clasificacion": 54,
+  "leyes_o_articulos": [
+    "Decreto 1507 de 2014",
+    "Decreto 2463 de 2001",
+    "Decreto 2591 de 1991",
+    "Ley 100 de 1993",
+    "Ley 1145 de 2007",
+    "Ley 1618 de 2013",
+    "Ley 361 de 1997",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL572-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:05:56.408452+00:00"
+}

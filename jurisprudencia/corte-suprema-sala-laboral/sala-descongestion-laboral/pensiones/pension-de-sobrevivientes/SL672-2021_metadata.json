@@ -1,0 +1,28 @@
+{
+  "radicado": "SL672-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-04-09T18:26:02Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 37,
+  "leyes_o_articulos": [
+    "Decreto 3041 de 1966",
+    "Ley 113 de 1985",
+    "Ley 12 de 1975",
+    "Ley 1285 de 2009",
+    "Ley 1395 de 2010",
+    "Ley 270 de 1993",
+    "Ley 33 de 1973",
+    "Ley 33 de 1985",
+    "Ley 44 de 1980",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL672-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:09:13.895092+00:00"
+}

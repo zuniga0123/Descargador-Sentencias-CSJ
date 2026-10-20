@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1005-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-04-09T18:32:25Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Aleman",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 52,
+  "leyes_o_articulos": [
+    "Decreto 116 de 1976",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 52 de 1975",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2021/Dr.Jorge Luis Quiroz Aleman/Sentencias/SL1005-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:09:09.787800+00:00"
+}

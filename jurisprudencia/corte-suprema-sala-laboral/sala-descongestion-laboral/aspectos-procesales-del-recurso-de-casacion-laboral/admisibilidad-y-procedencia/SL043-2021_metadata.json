@@ -1,0 +1,24 @@
+{
+  "radicado": "SL043-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-04-09T19:25:07Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Decreto 732 de 1976",
+    "Ley 100 de 1993",
+    "Ley 4 de 1976",
+    "Ley 446 de 1998",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL043-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:09:00.548125+00:00"
+}

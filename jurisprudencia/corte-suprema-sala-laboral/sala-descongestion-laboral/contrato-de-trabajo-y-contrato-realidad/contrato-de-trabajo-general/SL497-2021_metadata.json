@@ -1,0 +1,30 @@
+{
+  "radicado": "SL497-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-04-08T23:18:52Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 2177 de 1989",
+    "Decreto 2351 de 1965",
+    "Decreto 2463 de 2001",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 1346 de 2009",
+    "Ley 1618 de 2013",
+    "Ley 21 de 1982",
+    "Ley 361 de 1997",
+    "Ley 418 de 1997",
+    "Ley 762 de 2002",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar Angel Mejia Amador/Sentencias/SL497-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:09:37.652143+00:00"
+}
