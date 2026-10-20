@@ -1,0 +1,20 @@
+{
+  "radicado": "AL2004-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2021,
+  "fecha_creacion": "2021-06-17T23:07:07Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 2350 de 1944",
+    "Ley 361 de 1997"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Luis Benedicto Herrera Diaz/Autos/AL2004-2021.pdf",
+  "fecha_descarga": "2026-10-20T23:41:07.818834+00:00"
+}

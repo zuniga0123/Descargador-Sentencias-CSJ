@@ -1,0 +1,24 @@
+{
+  "radicado": "AL3713-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2021,
+  "fecha_creacion": "2021-09-15T02:09:52Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 83,
+  "leyes_o_articulos": [
+    "Decreto 13 de 2001",
+    "Decreto 1748 de 1995",
+    "Decreto 1833 de 2016",
+    "Decreto 3798 de 2003",
+    "Ley 100 de 1993",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Luis Benedicto Herrera Diaz/Autos/AL3713-2021.pdf",
+  "fecha_descarga": "2026-10-20T23:26:08.434827+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "radicado": "AL2551-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2021,
+  "fecha_creacion": "2021-07-14T03:31:53Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Renuncia y retiro voluntario",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 2350 de 1944",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Fernando Castillo Cadena/Autos/AL2551-2021.pdf",
+  "fecha_descarga": "2026-10-20T23:37:05.518470+00:00"
+}

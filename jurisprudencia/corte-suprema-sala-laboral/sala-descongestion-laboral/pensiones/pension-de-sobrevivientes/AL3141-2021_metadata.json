@@ -1,0 +1,23 @@
+{
+  "radicado": "AL3141-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-03T02:49:32Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Ley 100 de 1993",
+    "Ley 16 de 1989",
+    "Ley 446 de 1998",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Gerardo Botero Zuluaga/Autos/AL3141-2021.pdf",
+  "fecha_descarga": "2026-10-20T23:34:23.070391+00:00"
+}

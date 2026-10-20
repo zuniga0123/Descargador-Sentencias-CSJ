@@ -1,0 +1,21 @@
+{
+  "radicado": "AL3638-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "AUTO",
+  "ano": 2021,
+  "fecha_creacion": "2021-08-24T02:18:31Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Aleman",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 4,
+  "leyes_o_articulos": [
+    "Decreto 806 de 2020",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2021/Dr.Jorge Luis Quiroz Aleman/Autos/AL3638-2021.pdf",
+  "fecha_descarga": "2026-10-20T23:30:14.289080+00:00"
+}
