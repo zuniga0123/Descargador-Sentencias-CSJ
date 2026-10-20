@@ -1,0 +1,22 @@
+{
+  "radicado": "AL1699-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-07T02:01:44Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Gerardo Botero Zuluaga/Autos/AL1699-2021.pdf",
+  "fecha_descarga": "2026-10-20T23:47:58.335220+00:00"
+}

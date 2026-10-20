@@ -1,0 +1,22 @@
+{
+  "radicado": "AL818-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2021,
+  "fecha_creacion": "2021-04-14T13:50:31Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 2350 de 1944",
+    "LEY 797 DE 2003",
+    "Ley 100 de 1993",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Fernando Castillo Cadena/Autos/AL818-2021.pdf",
+  "fecha_descarga": "2026-10-20T23:51:01.820855+00:00"
+}

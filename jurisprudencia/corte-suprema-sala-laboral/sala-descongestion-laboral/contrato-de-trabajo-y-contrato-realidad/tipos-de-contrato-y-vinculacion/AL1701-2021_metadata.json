@@ -1,0 +1,21 @@
+{
+  "radicado": "AL1701-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-07T01:58:57Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Tipos de contrato y vinculación",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Decreto 528 de 1964",
+    "Ley 1395 de 2010",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Gerardo Botero Zuluaga/Autos/AL1701-2021.pdf",
+  "fecha_descarga": "2026-10-20T23:48:00.074828+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "radicado": "AL1177-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-07T22:09:48Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 1887 de 1994",
+    "Decreto 528 de 1964",
+    "Ley 446 de 1998",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar Angel Mejia Amador/Autos/AL1177-2021.pdf",
+  "fecha_descarga": "2026-10-20T23:47:38.304492+00:00"
+}

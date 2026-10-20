@@ -1,0 +1,21 @@
+{
+  "radicado": "AL1321-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2021,
+  "fecha_creacion": "2021-04-19T19:12:08Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Jorge Prada Sanchez/Autos/AL1321-2021.pdf",
+  "fecha_descarga": "2026-10-20T23:50:31.307783+00:00"
+}
