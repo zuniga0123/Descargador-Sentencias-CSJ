@@ -1,0 +1,31 @@
+{
+  "radicado": "SL4982-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-11-09T20:02:21Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 2013 de 2012",
+    "Decreto 2115 de 2013",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 2714 de 2014",
+    "Decreto 3135 de 1968",
+    "Decreto 553 de 2015",
+    "Decreto 652 de 2014",
+    "Decreto 797 de 1949",
+    "Ley 6 de 1945",
+    "Ley 80 de 1980",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL4982-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:23:17.072754+00:00"
+}
