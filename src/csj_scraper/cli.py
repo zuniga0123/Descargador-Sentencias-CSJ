@@ -19,9 +19,11 @@ from .pipeline import ejecutar, reclasificar, reconstruir_indice
 
 
 def _parsear_anios(valor: str) -> list[str]:
+    """'2024' -> ['2024']; '2020-2022' -> ascendente; '2022-2020' -> descendente."""
     if "-" in valor:
-        inicio, fin = valor.split("-", 1)
-        return [str(a) for a in range(int(inicio), int(fin) + 1)]
+        inicio, fin = (int(x) for x in valor.split("-", 1))
+        paso = 1 if fin >= inicio else -1
+        return [str(a) for a in range(inicio, fin + paso, paso)]
     return [valor]
 
 
