@@ -1,0 +1,26 @@
+{
+  "radicado": "SL3482-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-09-15T01:24:49Z",
+  "magistrado_ponente": "Dra. Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 34,
+  "leyes_o_articulos": [
+    "Decreto 01 de 1984",
+    "Decreto 1373 de 1966",
+    "Decreto 1469 de 1978",
+    "Decreto 2351 de 1965",
+    "Ley 16 de 1972",
+    "Ley 2351 de 1965",
+    "Ley 50 de 1990",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Clara Cecilia Dueñas Quevedo/Sentencias/SL3482-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:49:40.353328+00:00"
+}

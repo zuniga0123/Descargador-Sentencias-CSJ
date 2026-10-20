@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3891-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-09-14T00:59:39Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 44,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1295 de 1995",
+    "Ley 100 de 1993",
+    "Ley 1098 de 2006",
+    "Ley 766 de 2002",
+    "Ley 776 de 2002",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Jorge Prada Sanchez/Sentencias/SL3891-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:50:24.007416+00:00"
+}

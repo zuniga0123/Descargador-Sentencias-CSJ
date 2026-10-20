@@ -1,0 +1,31 @@
+{
+  "radicado": "SL3904-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-09-08T20:18:17Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 42,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 2474 de 2008",
+    "Decreto 3118 de 1968",
+    "Decreto 797 de 1949",
+    "LEY 50 DE 1990",
+    "Ley 1150 de 2007",
+    "Ley 1285 de 2009",
+    "Ley 270 de 1996",
+    "Ley 50 de 1990",
+    "Ley 789 de 2002",
+    "Ley 797 de 2003",
+    "Ley 80 de 1993",
+    "Ley 819 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL3904-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:53:12.951786+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3786-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-09-09T21:31:26Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 692 de 1994",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 489 de 1998",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL3786-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:52:31.861421+00:00"
+}

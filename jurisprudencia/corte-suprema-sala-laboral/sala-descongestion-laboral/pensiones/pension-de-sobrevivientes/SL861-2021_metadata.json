@@ -1,0 +1,24 @@
+{
+  "radicado": "SL861-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-09-10T00:54:31Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 1406 de 1999",
+    "Decreto 1642 de 1995",
+    "Ley 100 de 1993",
+    "Ley 270 de 1996",
+    "Ley 361 de 1997",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL861-2021.pdf",
+  "fecha_descarga": "2026-10-20T20:52:15.105938+00:00"
+}
