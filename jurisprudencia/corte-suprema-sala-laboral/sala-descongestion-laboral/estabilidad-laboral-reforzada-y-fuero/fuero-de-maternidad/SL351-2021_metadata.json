@@ -1,0 +1,20 @@
+{
+  "radicado": "SL351-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-17T21:18:51Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Estabilidad Laboral Reforzada y Fuero",
+  "subtema": "Fuero de maternidad",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 13 de 1967",
+    "Ley 361 de 1997"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Gerardo Botero Zuluaga/Sentencias/SL351-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:31:12.277912+00:00"
+}
