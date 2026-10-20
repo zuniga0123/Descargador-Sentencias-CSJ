@@ -1,0 +1,21 @@
+{
+  "radicado": "SL429-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-04T16:28:25Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 528 de 1964",
+    "Ley 1010 de 2006",
+    "Ley 361 de 1997"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL429-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:23:51.533695+00:00"
+}

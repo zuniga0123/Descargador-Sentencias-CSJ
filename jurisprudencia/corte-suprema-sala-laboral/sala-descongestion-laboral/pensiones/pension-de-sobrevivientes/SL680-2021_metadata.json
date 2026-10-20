@@ -1,0 +1,24 @@
+{
+  "radicado": "SL680-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-08T15:01:31Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 692 de 1994",
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 1149 de 2007",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL680-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:23:07.306376+00:00"
+}

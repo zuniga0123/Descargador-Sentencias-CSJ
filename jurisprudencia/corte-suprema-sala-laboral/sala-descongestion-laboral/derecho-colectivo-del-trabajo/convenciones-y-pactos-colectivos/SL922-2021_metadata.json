@@ -1,0 +1,25 @@
+{
+  "radicado": "SL922-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-19T15:30:07Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 1048 de 1978",
+    "Decreto 1083 de 2015",
+    "Decreto 1295 de 1994",
+    "Decreto 1848 de 1969",
+    "Ley 100 de 1993",
+    "Ley 3135 de 1968",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL922-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:16:34.980818+00:00"
+}

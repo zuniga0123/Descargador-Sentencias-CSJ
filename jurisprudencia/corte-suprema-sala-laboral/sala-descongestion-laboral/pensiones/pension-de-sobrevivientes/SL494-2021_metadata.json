@@ -1,0 +1,23 @@
+{
+  "radicado": "SL494-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-18T17:55:33Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 1507 de 2014",
+    "Decreto 3041 de 1966",
+    "Ley 100 de 1991",
+    "Ley 16 de 1969",
+    "Ley 23 de 1981"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar Angel Mejia Amador/Sentencias/SL494-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:17:27.025980+00:00"
+}

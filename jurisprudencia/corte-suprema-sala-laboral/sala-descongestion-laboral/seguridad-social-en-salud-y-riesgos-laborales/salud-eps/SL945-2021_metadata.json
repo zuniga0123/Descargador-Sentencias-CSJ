@@ -1,0 +1,27 @@
+{
+  "radicado": "SL945-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-23T15:51:33Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 1281 de 2001",
+    "Decreto 1281 de 2002",
+    "Decreto 1283 de 1996",
+    "LEY 1281 DE 2002",
+    "Ley 100 de 1993",
+    "Ley 1281 de 2002",
+    "Ley 1285 de 2002",
+    "Ley 1753 de 2015",
+    "Ley 715 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL945-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:16:07.179467+00:00"
+}

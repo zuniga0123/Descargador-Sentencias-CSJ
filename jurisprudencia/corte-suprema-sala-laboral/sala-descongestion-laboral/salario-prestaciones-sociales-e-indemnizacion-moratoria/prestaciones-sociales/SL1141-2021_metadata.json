@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1141-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-04-06T13:31:58Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 58,
+  "leyes_o_articulos": [
+    "Decreto 1333 de 1986",
+    "Decreto 1582 de 1998",
+    "Decreto 797 de 1949",
+    "Ley 142 de 1994",
+    "Ley 344 de 1996",
+    "Ley 432 de 1998",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL1141-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:13:06.882271+00:00"
+}

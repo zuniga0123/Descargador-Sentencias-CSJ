@@ -1,0 +1,23 @@
+{
+  "radicado": "SL224-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-25T17:35:40Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 50 de 1990",
+    "Ley 62 de 1985",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Gerardo Botero Zuluaga/Sentencias/SL224-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:15:11.873698+00:00"
+}

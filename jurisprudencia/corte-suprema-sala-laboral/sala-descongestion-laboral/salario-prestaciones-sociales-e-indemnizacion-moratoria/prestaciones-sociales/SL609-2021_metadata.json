@@ -1,0 +1,23 @@
+{
+  "radicado": "SL609-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-03T19:27:08Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 75,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 62 de 1975",
+    "Ley 789 de 2002",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL609-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:24:47.722786+00:00"
+}

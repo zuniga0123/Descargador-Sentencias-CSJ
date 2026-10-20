@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1064-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-04-06T16:23:26Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1564 de 2013",
+    "Ley 171 de 1961",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Ana Maria Muñoz Segura/Sentencias/SL1064-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:10:50.114968+00:00"
+}

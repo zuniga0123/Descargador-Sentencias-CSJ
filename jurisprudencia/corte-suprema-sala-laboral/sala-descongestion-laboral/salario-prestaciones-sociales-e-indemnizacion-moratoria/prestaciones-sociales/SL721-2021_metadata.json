@@ -1,0 +1,20 @@
+{
+  "radicado": "SL721-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-11T13:26:04Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Ley 16 de 1969",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL721-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:21:38.235227+00:00"
+}

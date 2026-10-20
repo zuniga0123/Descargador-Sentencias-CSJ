@@ -1,0 +1,24 @@
+{
+  "radicado": "SL940-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-23T14:33:43Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 37,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 190 de 2003",
+    "Ley 100 de 1993",
+    "Ley 1098 de 2006",
+    "Ley 1149 de 2007",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL940-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:16:12.813109+00:00"
+}

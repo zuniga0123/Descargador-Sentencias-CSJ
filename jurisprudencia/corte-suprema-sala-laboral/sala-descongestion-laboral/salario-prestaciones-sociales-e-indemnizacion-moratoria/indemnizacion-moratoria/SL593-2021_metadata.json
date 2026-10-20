@@ -1,0 +1,24 @@
+{
+  "radicado": "SL593-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-09T20:59:09Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 38,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Decreto 3148 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Fernando Castillo Cadena/Sentencias/SL593-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:22:05.646399+00:00"
+}

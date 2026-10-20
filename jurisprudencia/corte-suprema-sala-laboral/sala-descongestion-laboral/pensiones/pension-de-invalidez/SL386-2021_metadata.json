@@ -1,0 +1,25 @@
+{
+  "radicado": "SL386-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-22T16:54:27Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 2463 de 2001",
+    "Decreto 2643 de 2001",
+    "Decreto 656 de 1994",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 100 de 2001",
+    "Ley 700 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL386-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:29:02.860224+00:00"
+}

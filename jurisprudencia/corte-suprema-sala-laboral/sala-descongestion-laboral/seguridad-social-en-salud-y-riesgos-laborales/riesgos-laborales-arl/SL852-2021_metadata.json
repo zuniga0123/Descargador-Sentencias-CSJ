@@ -1,0 +1,24 @@
+{
+  "radicado": "SL852-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-23T14:36:29Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 66,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1295 de 1994",
+    "Ley 1753 de 2015",
+    "Ley 776 de 2002",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Olga Yineth Merchan Calderon/Sentencias/SL852-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:16:18.270307+00:00"
+}

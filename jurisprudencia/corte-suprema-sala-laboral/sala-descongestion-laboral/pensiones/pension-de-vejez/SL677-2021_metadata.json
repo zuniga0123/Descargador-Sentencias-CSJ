@@ -1,0 +1,26 @@
+{
+  "radicado": "SL677-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-25T17:37:29Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 029 de 1985",
+    "Decreto 1064 de 1999",
+    "Decreto 1160 de 1989",
+    "Decreto 1611 de 1962",
+    "Decreto 2218 de 1966",
+    "Decreto 2879 de 1985",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL677-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:15:09.634189+00:00"
+}

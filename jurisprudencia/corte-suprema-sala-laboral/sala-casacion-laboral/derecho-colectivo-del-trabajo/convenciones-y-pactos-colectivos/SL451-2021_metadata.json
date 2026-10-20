@@ -1,0 +1,21 @@
+{
+  "radicado": "SL451-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-23T22:16:58Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Aleman",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1650 de 1977",
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2021/Dr.Jorge Luis Quiroz Aleman/Sentencias/SL451-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:28:25.478502+00:00"
+}

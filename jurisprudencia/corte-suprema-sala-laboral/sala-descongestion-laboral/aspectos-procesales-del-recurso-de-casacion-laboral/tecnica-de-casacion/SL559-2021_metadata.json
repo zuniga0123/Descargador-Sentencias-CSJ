@@ -1,0 +1,26 @@
+{
+  "radicado": "SL559-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-02T15:57:22Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 074 de 1980",
+    "Decreto 1743 de 1966",
+    "Decreto 2127 de 1945",
+    "Decreto 528 de 1964",
+    "Decreto 74 de 1980",
+    "Ley 100 de 1993",
+    "Ley 16 de 1972",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL559-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:24:36.289065+00:00"
+}

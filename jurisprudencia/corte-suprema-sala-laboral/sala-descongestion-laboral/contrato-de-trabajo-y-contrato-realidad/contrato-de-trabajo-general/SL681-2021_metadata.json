@@ -1,0 +1,22 @@
+{
+  "radicado": "SL681-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-08T15:12:21Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1993",
+    "Ley 50 de 1990",
+    "Ley 995 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL681-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:22:50.831105+00:00"
+}

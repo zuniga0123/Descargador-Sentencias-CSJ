@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1195-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-04-07T19:33:57Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 69,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1210 de 1994",
+    "Decreto 1609 de 2003",
+    "Decreto 261 de 2006",
+    "Decreto 3135 de 1968",
+    "Ley 130 de 1976",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1195-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:11:15.032513+00:00"
+}

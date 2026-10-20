@@ -1,0 +1,23 @@
+{
+  "radicado": "SL550-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-01T16:15:17Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 48,
+  "leyes_o_articulos": [
+    "Decreto 1281 de 1994",
+    "Decreto 2090 de 2003",
+    "Decreto 2181 de 1994",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL550-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:26:31.558794+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL592-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-02T17:41:47Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 042 de 2020",
+    "Decreto 2651 de 1991",
+    "Ley 100 de 1933",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 1955 de 2019",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL592-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:25:49.531516+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "radicado": "SL383-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-22T15:48:00Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Ley 222 de 1995",
+    "Ley 50 de 1990",
+    "Ley 797 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL383-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:29:13.848074+00:00"
+}

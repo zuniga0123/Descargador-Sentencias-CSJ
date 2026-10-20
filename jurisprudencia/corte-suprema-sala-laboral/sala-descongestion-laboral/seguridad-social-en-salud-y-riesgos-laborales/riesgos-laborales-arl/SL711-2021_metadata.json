@@ -1,0 +1,31 @@
+{
+  "radicado": "SL711-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-12T13:13:52Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 41,
+  "leyes_o_articulos": [
+    "Decreto 1507 de 2014",
+    "Decreto 2436 de 2001",
+    "Decreto 2463 de 2001",
+    "Decreto 917 de 1999",
+    "Ley 12 de 1987",
+    "Ley 1346 de 2009",
+    "Ley 36 de 1997",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 762 de 2002",
+    "Ley 789 de 2002",
+    "Ley 82 de 1988",
+    "Ley 982 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Gerardo Botero Zuluaga/Sentencias/SL711-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:21:01.182846+00:00"
+}

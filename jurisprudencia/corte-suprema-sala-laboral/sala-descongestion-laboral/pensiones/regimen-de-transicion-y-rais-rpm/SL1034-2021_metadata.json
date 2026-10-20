@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1034-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-26T20:48:15Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 1270 de 2009",
+    "Decreto 2510 de 2009",
+    "Decreto 2590 de 2003",
+    "LEY 100 DE 1993",
+    "Ley 100 de 1993",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL1034-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:13:54.391332+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "radicado": "SL942-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-23T14:42:20Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 510 de 2003",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 445 de 1998",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL942-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:16:16.367051+00:00"
+}

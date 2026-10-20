@@ -1,0 +1,22 @@
+{
+  "radicado": "SL707-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-26T00:21:00Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 52,
+  "leyes_o_articulos": [
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Fernando Castillo Cadena/Sentencias/SL707-2021.doc",
+  "fecha_descarga": "2026-10-20T22:14:50.134694+00:00"
+}

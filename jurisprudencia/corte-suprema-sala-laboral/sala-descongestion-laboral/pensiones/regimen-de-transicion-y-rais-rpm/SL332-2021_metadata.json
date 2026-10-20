@@ -1,0 +1,23 @@
+{
+  "radicado": "SL332-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-17T18:39:46Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 1160 de 1947",
+    "Ley 100 de 1993",
+    "Ley 169 de 1986",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL332-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:30:35.866008+00:00"
+}

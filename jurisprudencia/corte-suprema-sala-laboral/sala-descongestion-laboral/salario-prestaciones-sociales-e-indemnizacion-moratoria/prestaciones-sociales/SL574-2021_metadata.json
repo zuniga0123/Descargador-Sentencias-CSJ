@@ -1,0 +1,24 @@
+{
+  "radicado": "SL574-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-02T02:43:57Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 57,
+  "leyes_o_articulos": [
+    "Decreto 4588 de 2006",
+    "Ley 1233 de 2008",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 789 de 2002",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL574-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:24:21.590995+00:00"
+}

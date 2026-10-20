@@ -1,0 +1,25 @@
+{
+  "radicado": "SL435-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-25T17:58:25Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Aleman",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 49,
+  "leyes_o_articulos": [
+    "Decreto 656 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 656 de 1994",
+    "Ley 700 de 2001",
+    "Ley 717 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2021/Dr.Jorge Luis Quiroz Aleman/Sentencias/SL435-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:15:07.507631+00:00"
+}

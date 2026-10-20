@@ -1,0 +1,21 @@
+{
+  "radicado": "SL567-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-01T16:33:44Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 53,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1947",
+    "Decreto 2351 de 1965",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL567-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:24:28.949397+00:00"
+}

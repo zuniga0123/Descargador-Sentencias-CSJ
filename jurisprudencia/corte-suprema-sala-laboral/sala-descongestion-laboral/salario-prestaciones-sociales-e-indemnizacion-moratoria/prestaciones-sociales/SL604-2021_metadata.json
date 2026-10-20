@@ -1,0 +1,30 @@
+{
+  "radicado": "SL604-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-09T21:41:59Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 1406 de 1999",
+    "Decreto 2282 de 1989",
+    "Decreto 2633 de 1994",
+    "Decreto 2665 de 1988",
+    "Decreto 692 de 1994",
+    "Decreto 832 de 1996",
+    "Ley 100 de 1993",
+    "Ley 1395 de 2010",
+    "Ley 153 de 1887",
+    "Ley 794 de 2003",
+    "Ley 797 de 2003",
+    "Ley 828 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL604-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:22:03.665371+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "radicado": "SL714-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-09T20:26:59Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Ley 1781 de 2016",
+    "Ley 2351 de 1965",
+    "Ley 270 de 1996",
+    "Ley 446 de 1998",
+    "Ley 50 de 1936",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Ana Maria Muñoz Segura/Sentencias/SL714-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:22:07.692048+00:00"
+}

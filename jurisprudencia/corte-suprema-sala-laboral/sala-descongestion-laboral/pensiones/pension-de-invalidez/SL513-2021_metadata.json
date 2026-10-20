@@ -1,0 +1,30 @@
+{
+  "radicado": "SL513-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-25T12:44:50Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1352 de 2013",
+    "Decreto 19 de 2012",
+    "Decreto 2463 de 2001",
+    "Decreto 806 de 2020",
+    "Ley 019 de 2012",
+    "Ley 100 de 1993",
+    "Ley 1562 de 2012",
+    "Ley 16 de 1969",
+    "Ley 19 de 2012",
+    "Ley 860 de 2003",
+    "Ley 863 de 2003",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL513-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:27:12.553380+00:00"
+}

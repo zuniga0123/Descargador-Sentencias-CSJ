@@ -1,0 +1,27 @@
+{
+  "radicado": "SL732-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-10T21:07:00Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 1373 de 1966",
+    "Decreto 2351 de 1965",
+    "Decreto 2463 de 2001",
+    "Decreto 917 de 1999",
+    "Ley 153 de 1987",
+    "Ley 361 de 1997",
+    "Ley 361 de 2007",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Olga Yineth Merchan Calderon/Sentencias/SL732-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:21:42.420421+00:00"
+}

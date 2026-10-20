@@ -1,0 +1,25 @@
+{
+  "radicado": "SL961-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-23T17:48:50Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 77,
+  "leyes_o_articulos": [
+    "Decreto 1433 de 1983",
+    "Decreto 24 de 1998",
+    "Decreto 4369 de 2006",
+    "Ley 100 de 1993",
+    "Ley 1395 de 2010",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Olga Yineth Merchan Calderon/Sentencias/SL961-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:15:59.886319+00:00"
+}

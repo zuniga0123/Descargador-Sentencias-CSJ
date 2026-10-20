@@ -1,0 +1,21 @@
+{
+  "radicado": "SL1133-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-04-05T21:59:01Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 2820 de 1974",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL1133-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:12:24.382341+00:00"
+}

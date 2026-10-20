@@ -1,0 +1,25 @@
+{
+  "radicado": "SL859-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-17T00:14:32Z",
+  "magistrado_ponente": "Dra. Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 92,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 550 de 1999",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Clara Cecilia Dueñas Quevedo/Sentencias/SL859-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:19:13.213276+00:00"
+}

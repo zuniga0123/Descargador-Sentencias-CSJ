@@ -1,0 +1,23 @@
+{
+  "radicado": "SL999-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-04-06T16:39:31Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 41,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Ana Maria Muñoz Segura/Sentencias/SL999-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:12:54.958389+00:00"
+}

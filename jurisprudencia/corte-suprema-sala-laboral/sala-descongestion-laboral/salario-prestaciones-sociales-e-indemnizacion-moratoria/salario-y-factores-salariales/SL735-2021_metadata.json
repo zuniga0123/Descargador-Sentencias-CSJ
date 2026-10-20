@@ -1,0 +1,25 @@
+{
+  "radicado": "SL735-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-11T19:53:44Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 111,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1993",
+    "Ley 1429 de 2010",
+    "Ley 22 de 1995",
+    "Ley 222 de 1995",
+    "Ley 50 de 1990",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Olga Yineth Merchan Calderon/Sentencias/SL735-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:21:26.059478+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL679-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-08T14:50:33Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1993",
+    "Ley 1346 de 2008",
+    "Ley 1346 de 2009",
+    "Ley 1581 de 2012",
+    "Ley 361 de 1997"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Ivan Mauricio Lenis Gomez/Sentencias/SL679-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:23:09.226287+00:00"
+}

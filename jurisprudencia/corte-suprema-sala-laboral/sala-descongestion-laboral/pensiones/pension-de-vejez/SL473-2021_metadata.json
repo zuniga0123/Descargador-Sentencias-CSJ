@@ -1,0 +1,26 @@
+{
+  "radicado": "SL473-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-24T18:47:24Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 44,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 1474 de 1997",
+    "Decreto 1513 de 1998",
+    "Decreto 1748 de 1995",
+    "Decreto 3798 de 2003",
+    "Decreto 510 de 2003",
+    "Decreto 656 de 1994",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL473-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:27:50.330264+00:00"
+}

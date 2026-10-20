@@ -1,0 +1,22 @@
+{
+  "radicado": "SL733-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-18T21:33:47Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchán Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 47,
+  "leyes_o_articulos": [
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Ley 797 de 2012"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Olga Yineth Merchán Calderón/Sentencias/SL733-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:17:12.113483+00:00"
+}

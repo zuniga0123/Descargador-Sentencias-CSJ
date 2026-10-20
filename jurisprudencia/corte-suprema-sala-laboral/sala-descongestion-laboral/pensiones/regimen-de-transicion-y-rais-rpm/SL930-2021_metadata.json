@@ -1,0 +1,22 @@
+{
+  "radicado": "SL930-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-19T16:38:00Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1889 de 1994",
+    "Decreto 2651 de 1991",
+    "Ley 100 de 1993",
+    "Ley 16 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL930-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:16:25.273906+00:00"
+}

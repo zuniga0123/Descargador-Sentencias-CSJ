@@ -1,0 +1,24 @@
+{
+  "radicado": "SL694-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-08T17:01:18Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1469 de 1978",
+    "Decreto 2351 de 1965",
+    "Decreto 528 de 1964",
+    "Ley 153 de 1887",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL694-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:22:43.324448+00:00"
+}

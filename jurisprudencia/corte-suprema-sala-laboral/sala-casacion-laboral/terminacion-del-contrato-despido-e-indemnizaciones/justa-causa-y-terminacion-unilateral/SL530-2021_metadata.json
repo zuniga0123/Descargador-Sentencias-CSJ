@@ -1,0 +1,25 @@
+{
+  "radicado": "SL530-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-26T13:46:57Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Aleman",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 3135 de 1968",
+    "Ley 6 de 1945",
+    "Ley 996 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2021/Dr.Jorge Luis Quiroz Aleman/Sentencias/SL530-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:27:14.402363+00:00"
+}

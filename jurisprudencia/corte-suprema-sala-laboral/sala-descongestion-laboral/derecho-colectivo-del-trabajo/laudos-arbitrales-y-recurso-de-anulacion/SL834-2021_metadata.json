@@ -1,0 +1,26 @@
+{
+  "radicado": "SL834-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-16T19:21:45Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Laudos arbitrales y recurso de anulación",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 01 de 1999",
+    "Decreto 035 de 1999",
+    "Decreto 14 de 1999",
+    "Decreto 734 de 1991",
+    "Decreto 980 de 1998",
+    "Ley 10 de 1990",
+    "Ley 100 de 1990",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL834-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:19:29.977307+00:00"
+}

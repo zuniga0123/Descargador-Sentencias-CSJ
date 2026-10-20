@@ -1,0 +1,29 @@
+{
+  "radicado": "SL821-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-15T17:58:23Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1968",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Decreto 528 de 1964",
+    "Ley 10 de 1981",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1985",
+    "Ley 62 de 1985",
+    "Ley 99 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL821-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:19:58.764525+00:00"
+}

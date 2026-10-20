@@ -1,0 +1,21 @@
+{
+  "radicado": "SL629-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-04T19:00:03Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1564 de 2012",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL629-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:23:05.529953+00:00"
+}

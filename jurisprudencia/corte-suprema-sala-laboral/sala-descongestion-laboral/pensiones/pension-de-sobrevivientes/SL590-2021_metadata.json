@@ -1,0 +1,23 @@
+{
+  "radicado": "SL590-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-02T15:22:52Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 232 de 1984",
+    "Decreto 3041 de 1966",
+    "Ley 12 de 1975",
+    "Ley 516 de 1999",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL590-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:25:54.943186+00:00"
+}

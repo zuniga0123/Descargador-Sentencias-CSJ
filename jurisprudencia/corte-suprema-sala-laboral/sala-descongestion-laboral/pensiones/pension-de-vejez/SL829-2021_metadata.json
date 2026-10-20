@@ -1,0 +1,25 @@
+{
+  "radicado": "SL829-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-16T19:43:50Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 2879 de 1985",
+    "Decreto 301 de 1982",
+    "Ley 153 de 1887",
+    "Ley 33 de 1971",
+    "Ley 33 de 1985",
+    "Ley 57 de 1931",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL829-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:18:39.251732+00:00"
+}

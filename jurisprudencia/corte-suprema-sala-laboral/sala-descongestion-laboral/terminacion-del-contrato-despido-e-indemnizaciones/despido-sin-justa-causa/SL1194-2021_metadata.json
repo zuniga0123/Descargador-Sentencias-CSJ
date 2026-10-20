@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1194-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-04-07T19:23:26Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Despido sin justa causa",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 50 de 1990",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1194-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:11:16.882304+00:00"
+}

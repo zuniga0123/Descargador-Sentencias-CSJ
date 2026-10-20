@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1156-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-04-08T00:45:12Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 48,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 553 de 2015",
+    "Decreto 797 de 1946",
+    "Decreto 797 de 1949",
+    "Decreto 797 de 2003",
+    "Ley 6 de 1945",
+    "Ley 80 de 1983",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Olga Yineth Merchan Calderon/Sentencias/SL1156-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:10:58.455472+00:00"
+}

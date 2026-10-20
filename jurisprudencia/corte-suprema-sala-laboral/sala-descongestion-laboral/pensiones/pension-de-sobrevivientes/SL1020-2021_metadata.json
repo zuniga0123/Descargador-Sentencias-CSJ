@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1020-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-26T21:45:03Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1098 de 2006",
+    "Ley 12 de 1975",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Fernando Castillo Cadena/Sentencias/SL1020-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:13:41.748747+00:00"
+}

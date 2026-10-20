@@ -1,0 +1,22 @@
+{
+  "radicado": "SL967-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-23T21:46:26Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Laudos arbitrales y recurso de anulación",
+  "puntaje_clasificacion": 39,
+  "leyes_o_articulos": [
+    "Decreto 1127 de 1991",
+    "Decreto 491 de 2020",
+    "Decreto 806 de 2020",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL967-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:15:32.911631+00:00"
+}

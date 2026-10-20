@@ -1,0 +1,21 @@
+{
+  "radicado": "SL935-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-26T18:03:56Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 42,
+  "leyes_o_articulos": [
+    "Decreto 917 de 1999",
+    "Ley 1346 de 2009",
+    "Ley 361 de 1997"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL935-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:14:22.513317+00:00"
+}

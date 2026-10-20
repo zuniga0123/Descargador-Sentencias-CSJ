@@ -1,0 +1,21 @@
+{
+  "radicado": "SL480-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-24T18:53:15Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Ley 100 de 1993",
+    "Ley 74 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL480-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:27:39.207852+00:00"
+}

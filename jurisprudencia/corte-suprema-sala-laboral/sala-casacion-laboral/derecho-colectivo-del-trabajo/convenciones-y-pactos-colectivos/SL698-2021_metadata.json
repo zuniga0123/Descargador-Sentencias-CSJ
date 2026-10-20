@@ -1,0 +1,23 @@
+{
+  "radicado": "SL698-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-09T13:38:54Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Aleman",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966",
+    "Ley 142 de 1994",
+    "Ley 1650 de 1977",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2021/Dr.Jorge Luis Quiroz Aleman/Sentencias/SL698-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:22:19.810889+00:00"
+}

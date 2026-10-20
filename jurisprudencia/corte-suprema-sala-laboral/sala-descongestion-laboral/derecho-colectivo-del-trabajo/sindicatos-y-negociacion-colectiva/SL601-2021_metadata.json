@@ -1,0 +1,20 @@
+{
+  "radicado": "SL601-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-04T21:34:10Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 78,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 1149 de 2007"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL601-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:23:33.187953+00:00"
+}

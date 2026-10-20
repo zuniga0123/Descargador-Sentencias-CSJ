@@ -1,0 +1,26 @@
+{
+  "radicado": "SL432-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-23T21:05:33Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 624 de 1989",
+    "Ley 153 de 1887",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 222 de 1995",
+    "Ley 2351 de 1965",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL432-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:28:27.477146+00:00"
+}

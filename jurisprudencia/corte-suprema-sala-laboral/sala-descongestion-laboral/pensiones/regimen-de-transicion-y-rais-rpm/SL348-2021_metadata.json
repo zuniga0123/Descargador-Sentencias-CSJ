@@ -1,0 +1,26 @@
+{
+  "radicado": "SL348-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-01T16:17:50Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 3041 de 1966",
+    "Decreto 3063 de 1989",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 433 de 1971",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946",
+    "Ley 90 de 1996"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL348-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:26:29.834771+00:00"
+}

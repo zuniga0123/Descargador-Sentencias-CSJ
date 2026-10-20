@@ -1,0 +1,25 @@
+{
+  "radicado": "SL636-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-04T15:31:38Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 53,
+  "leyes_o_articulos": [
+    "Decreto 2241 de 2010",
+    "Decreto 663 de 1993",
+    "Decreto 663 de 1996",
+    "Decreto 720 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1328 de 2009",
+    "Ley 1748 de 2014"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL636-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:22:54.562729+00:00"
+}
