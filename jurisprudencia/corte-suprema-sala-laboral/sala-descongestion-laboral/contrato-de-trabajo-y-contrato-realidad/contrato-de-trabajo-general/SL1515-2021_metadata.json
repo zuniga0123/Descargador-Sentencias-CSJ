@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1515-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-03T17:26:06Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 1083 de 2015",
+    "Decreto 2127 de 1945",
+    "Decreto 2463 de 2001",
+    "Decreto 2663 de 1950",
+    "Decreto 3135 de 1968",
+    "Ley 361 de 1997",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Jorge Prada Sanchez/Sentencias/SL1515-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:59:10.650448+00:00"
+}

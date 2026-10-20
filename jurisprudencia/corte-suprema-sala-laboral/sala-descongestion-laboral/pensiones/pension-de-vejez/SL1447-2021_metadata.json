@@ -1,0 +1,29 @@
+{
+  "radicado": "SL1447-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-05T16:28:52Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 142 de 2006",
+    "Decreto 656 de 1994",
+    "Decreto 832 de 1996",
+    "Decreto 835 de 1996",
+    "Decreto 836 de 1996",
+    "Ley 100 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1395 de 2010",
+    "Ley 1955 de 2019",
+    "Ley 794 de 2003",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL1447-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:56:32.347045+00:00"
+}

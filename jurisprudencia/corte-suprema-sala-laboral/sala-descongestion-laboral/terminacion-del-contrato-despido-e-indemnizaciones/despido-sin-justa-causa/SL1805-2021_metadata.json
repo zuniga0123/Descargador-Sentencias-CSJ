@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1805-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-20T19:11:41Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Despido sin justa causa",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Decreto 1615 de 2003",
+    "Decreto 1848 de 1969",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 254 de 2000",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Olga Yineth Merchan Calderon/Sentencias/SL1805-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:50:33.497077+00:00"
+}

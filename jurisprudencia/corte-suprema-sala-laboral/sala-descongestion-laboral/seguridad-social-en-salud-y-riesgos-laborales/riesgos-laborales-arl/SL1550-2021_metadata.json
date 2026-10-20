@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1550-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-05T00:09:14Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Ley 16 de 1969",
+    "Ley 23 de 1981",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 65 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL1550-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:57:47.846362+00:00"
+}

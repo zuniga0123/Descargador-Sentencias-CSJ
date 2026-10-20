@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1827-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-18T16:48:46Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 64,
+  "leyes_o_articulos": [
+    "Decreto 3041 de 1966",
+    "Ley 100 de 1993",
+    "Ley 12 de 1975",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1827-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:52:53.654070+00:00"
+}

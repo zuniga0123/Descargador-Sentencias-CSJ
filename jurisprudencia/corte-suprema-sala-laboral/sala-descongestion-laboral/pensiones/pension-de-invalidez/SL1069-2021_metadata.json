@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1069-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-06T21:07:01Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 1507 de 2014",
+    "Decreto 19 de 2012",
+    "Decreto 692 de 1994",
+    "Decreto 806 de 1998",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 860 de 2003",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar Angel Mejia Amador/Sentencias/SL1069-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:56:04.693172+00:00"
+}

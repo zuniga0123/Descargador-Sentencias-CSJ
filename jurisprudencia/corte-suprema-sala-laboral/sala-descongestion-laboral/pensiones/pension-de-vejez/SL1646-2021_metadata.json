@@ -1,0 +1,28 @@
+{
+  "radicado": "SL1646-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-06T02:53:05Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchán Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 111,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 1474 de 1997",
+    "Decreto 1833 de 2016",
+    "Decreto 3995 de 2008",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1650 de 1977",
+    "Ley 797 de 2003",
+    "Ley 812 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Olga Yineth Merchán Calderón/Sentencias/SL1646-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:57:25.010854+00:00"
+}

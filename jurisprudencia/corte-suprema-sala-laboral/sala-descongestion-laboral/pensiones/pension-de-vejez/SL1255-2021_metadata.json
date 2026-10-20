@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1255-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-04-21T16:57:17Z",
+  "magistrado_ponente": "Dr. Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 758 de 1990",
+    "LEY 100 DE 1993",
+    "Ley 100 de 1993",
+    "Ley 549 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Martin Emilio Beltran Quintero/Sentencias/SL1255-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:04:09.047990+00:00"
+}

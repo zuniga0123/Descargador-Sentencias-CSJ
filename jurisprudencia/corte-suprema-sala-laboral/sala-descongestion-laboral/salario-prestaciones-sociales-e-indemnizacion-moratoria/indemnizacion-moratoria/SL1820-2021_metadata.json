@@ -1,0 +1,33 @@
+{
+  "radicado": "SL1820-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-18T16:08:13Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 45,
+  "leyes_o_articulos": [
+    "Decreto 01 de 1984",
+    "Decreto 1160 de 1947",
+    "Decreto 140 de 2017",
+    "Decreto 2127 de 1945",
+    "Decreto 2519 de 2015",
+    "Decreto 4588 de 2006",
+    "Decreto 468 de 1990",
+    "Decreto 797 de 1947",
+    "Decreto 797 de 1949",
+    "Ley 1233 de 2008",
+    "Ley 1285 de 2009",
+    "Ley 270 de 1996",
+    "Ley 79 de 1988",
+    "Ley 797 de 1949",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL1820-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:52:57.435191+00:00"
+}

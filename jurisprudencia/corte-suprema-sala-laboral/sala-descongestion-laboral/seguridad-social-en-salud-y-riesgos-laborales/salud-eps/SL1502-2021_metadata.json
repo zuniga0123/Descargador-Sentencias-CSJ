@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1502-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-20T22:51:37Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 1073 de 2002",
+    "Decreto 1818 de 1998",
+    "Decreto 692 de 1994",
+    "LEY 100 DE 1993",
+    "Ley 100 de 1993",
+    "Ley 1250 de 2008"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL1502-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:49:55.599718+00:00"
+}

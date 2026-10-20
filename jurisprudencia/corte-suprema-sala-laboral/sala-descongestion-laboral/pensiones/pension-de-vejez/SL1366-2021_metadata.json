@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1366-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-04-19T21:51:12Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 58,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 1748 de 1995",
+    "Decreto 3995 de 2008",
+    "Ley 100 de 1993",
+    "Ley 37 de 1933",
+    "Ley 37 de 1993",
+    "Ley 812 de 2003",
+    "Ley 832 de 2003",
+    "Ley 91 de 1989"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL1366-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:02:55.102941+00:00"
+}

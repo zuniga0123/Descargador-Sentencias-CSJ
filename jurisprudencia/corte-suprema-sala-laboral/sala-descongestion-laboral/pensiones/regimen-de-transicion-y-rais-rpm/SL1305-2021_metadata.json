@@ -1,0 +1,28 @@
+{
+  "radicado": "SL1305-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-04-19T19:54:03Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 81,
+  "leyes_o_articulos": [
+    "Decreto 1888 de 1994",
+    "Decreto 3995 de 2008",
+    "Decreto 663 de 1993",
+    "Decreto 691 de 1994",
+    "Decreto 693 de 1994",
+    "Decreto 720 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1151 de 2007",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL1305-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:05:11.032420+00:00"
+}

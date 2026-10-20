@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2048-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-28T21:11:27Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Aleman",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 2232 de 1984",
+    "Decreto 232 de 1984",
+    "Decreto 3041 de 1966",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2021/Dr.Jorge Luis Quiroz Aleman/Sentencias/SL2048-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:45:38.933342+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1581-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-06T19:51:50Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 917 de 1990",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 361 de 1997",
+    "Ley 762 de 2002",
+    "Ley 776 de 2002",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1581-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:56:28.472909+00:00"
+}

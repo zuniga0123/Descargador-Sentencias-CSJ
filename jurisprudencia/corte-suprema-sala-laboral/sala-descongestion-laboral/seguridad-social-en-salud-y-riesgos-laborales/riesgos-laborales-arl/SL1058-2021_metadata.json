@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1058-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-20T23:54:39Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 2463 de 2001",
+    "Decreto 2463 de 2011",
+    "Decreto 2651 de 1991",
+    "Ley 361 de 1996",
+    "Ley 361 de 1997"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Ana Maria Muñoz Segura/Sentencias/SL1058-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:49:40.536358+00:00"
+}

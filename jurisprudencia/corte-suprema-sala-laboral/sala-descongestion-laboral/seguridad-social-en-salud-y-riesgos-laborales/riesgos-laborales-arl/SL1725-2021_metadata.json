@@ -1,0 +1,28 @@
+{
+  "radicado": "SL1725-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-28T15:11:00Z",
+  "magistrado_ponente": "Dr. Omar Angel Mejia Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 614 de 1984",
+    "Ley 1346 de 2009",
+    "Ley 16 de 1972",
+    "Ley 319 de 1996",
+    "Ley 361 de 1997",
+    "Ley 378 de 1997",
+    "Ley 51 de 1981",
+    "Ley 74 de 1968",
+    "Ley 776 de 2002",
+    "Ley 9 de 1979"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar Angel Mejia Amador/Sentencias/SL1725-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:46:32.594352+00:00"
+}

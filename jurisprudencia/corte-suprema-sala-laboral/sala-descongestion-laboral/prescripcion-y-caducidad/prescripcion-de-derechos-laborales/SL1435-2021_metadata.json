@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1435-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-04-27T14:38:35Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 262 de 2000",
+    "Decreto 2651 de 1991",
+    "Decreto 806 de 2020",
+    "Ley 1149 de 2007",
+    "Ley 1748 de 1995",
+    "Ley 23 de 1991",
+    "Ley 25 de 1894",
+    "Ley 25 de 1974",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL1435-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:01:53.891374+00:00"
+}

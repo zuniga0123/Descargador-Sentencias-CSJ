@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1199-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-04T12:31:46Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Renuncia y retiro voluntario",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1818 de 1998",
+    "Decreto 2127 de 1945",
+    "Ley 446 de 1998",
+    "Ley 6 de 1945",
+    "Ley 640 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1199-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:58:33.156832+00:00"
+}

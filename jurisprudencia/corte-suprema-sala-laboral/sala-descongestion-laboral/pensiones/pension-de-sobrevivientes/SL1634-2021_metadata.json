@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1634-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-05T14:32:36Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 1703 de 2002",
+    "Decreto 806 de 1998",
+    "Decreto 896 de 1998",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 1098 de 2006",
+    "Ley 1206 de 2009",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL1634-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:54:54.335237+00:00"
+}

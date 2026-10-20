@@ -1,0 +1,32 @@
+{
+  "radicado": "SL1826-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-18T21:15:37Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1189 de 1988",
+    "Decreto 1486 de 1994",
+    "Decreto 1570 de 1993",
+    "Decreto 1887 de 1994",
+    "Decreto 2351 de 1965",
+    "Decreto 617 de 1954",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 16 de 1969",
+    "Ley 256 de 1996",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1826-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:52:48.194790+00:00"
+}

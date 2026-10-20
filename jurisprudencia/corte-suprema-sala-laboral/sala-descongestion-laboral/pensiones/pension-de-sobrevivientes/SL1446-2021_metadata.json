@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1446-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-02T19:55:39Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 1675 de 1997",
+    "Ley 100 de 1993",
+    "Ley 1204 de 2008",
+    "Ley 2351 de 1965",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL1446-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:57:19.206766+00:00"
+}

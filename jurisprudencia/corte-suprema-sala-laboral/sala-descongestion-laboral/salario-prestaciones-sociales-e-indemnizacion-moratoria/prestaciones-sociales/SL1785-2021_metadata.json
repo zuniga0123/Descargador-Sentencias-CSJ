@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1785-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-14T19:38:32Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 2013 de 2012",
+    "Decreto 2714 de 2014",
+    "Decreto 797 de 1949",
+    "Ley 1496 de 2011",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 52 de 1962"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL1785-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:52:16.354934+00:00"
+}

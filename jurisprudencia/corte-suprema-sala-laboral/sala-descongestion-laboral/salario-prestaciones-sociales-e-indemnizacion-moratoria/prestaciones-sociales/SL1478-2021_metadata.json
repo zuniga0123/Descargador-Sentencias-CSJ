@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1478-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-03T13:36:45Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1947",
+    "Decreto 1651 de 1977",
+    "Decreto 2013 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL1478-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:59:46.735189+00:00"
+}

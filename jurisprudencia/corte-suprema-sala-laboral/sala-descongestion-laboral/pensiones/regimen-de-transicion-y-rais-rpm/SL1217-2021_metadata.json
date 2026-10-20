@@ -1,0 +1,31 @@
+{
+  "radicado": "SL1217-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-06T21:14:00Z",
+  "magistrado_ponente": "Dra. Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 88,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 1642 de 1995",
+    "Decreto 2055 de 2010",
+    "Decreto 3800 de 2003",
+    "Decreto 656 de 1994",
+    "Decreto 663 de 1993",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 1748 de 2014",
+    "Ley 71 de 1988",
+    "Ley 795 de 2003",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Clara Cecilia Dueñas Quevedo/Sentencias/SL1217-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:56:03.215577+00:00"
+}

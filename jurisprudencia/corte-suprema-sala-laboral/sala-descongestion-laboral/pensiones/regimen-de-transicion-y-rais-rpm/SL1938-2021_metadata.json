@@ -1,0 +1,28 @@
+{
+  "radicado": "SL1938-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-05-25T16:07:09Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 49,
+  "leyes_o_articulos": [
+    "Decreto 1281 de 1994",
+    "Decreto 1548 de 1998",
+    "Decreto 2090 de 2003",
+    "Decreto 2150 de 1995",
+    "Decreto 407 de 1994",
+    "Decreto 691 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1281 de 1994",
+    "Ley 2090 de 2003",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL1938-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:48:49.498007+00:00"
+}
