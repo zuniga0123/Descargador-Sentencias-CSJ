@@ -1,0 +1,19 @@
+{
+  "radicado": "SL301-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-15T14:38:22Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Ley 361 de 1997"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Jorge Prada Sanchez/Sentencias/SL301-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:33:37.916480+00:00"
+}

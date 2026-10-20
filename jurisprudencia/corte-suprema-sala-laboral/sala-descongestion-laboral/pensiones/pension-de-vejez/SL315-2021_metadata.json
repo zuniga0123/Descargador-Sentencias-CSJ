@@ -1,0 +1,25 @@
+{
+  "radicado": "SL315-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-16T20:16:10Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 1818 de 1998",
+    "Decreto 3041 de 1966",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 640 de 2001",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL315-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:32:50.968944+00:00"
+}

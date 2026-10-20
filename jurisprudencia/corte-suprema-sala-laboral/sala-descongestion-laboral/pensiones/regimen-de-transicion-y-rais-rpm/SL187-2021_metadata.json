@@ -1,0 +1,22 @@
+{
+  "radicado": "SL187-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-09T21:15:39Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 2704 de 1994",
+    "Decreto 2709 de 1994",
+    "Ley 100 de 1993",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL187-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:35:05.854451+00:00"
+}

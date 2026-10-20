@@ -1,0 +1,24 @@
+{
+  "radicado": "SL174-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-12T17:43:59Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 49,
+  "leyes_o_articulos": [
+    "Decreto 0169 de 2006",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 712 de 2001",
+    "Ley 92 de 1933"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL174-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:34:14.406812+00:00"
+}

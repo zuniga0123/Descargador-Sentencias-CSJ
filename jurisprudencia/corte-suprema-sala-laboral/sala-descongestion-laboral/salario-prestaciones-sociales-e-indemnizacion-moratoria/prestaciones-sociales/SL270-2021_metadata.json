@@ -1,0 +1,24 @@
+{
+  "radicado": "SL270-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-17T01:23:39Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchan Calderon",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 49,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 617 de 1954",
+    "Ley 16 de 1969",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Olga Yineth Merchan Calderon/Sentencias/SL270-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:32:37.374535+00:00"
+}

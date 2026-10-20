@@ -1,0 +1,22 @@
+{
+  "radicado": "SL355-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-17T15:24:35Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 2090 de 2003",
+    "Decreto 2663 de 1950",
+    "Ley 100 de 1993",
+    "Ley 22 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL355-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:31:45.382497+00:00"
+}

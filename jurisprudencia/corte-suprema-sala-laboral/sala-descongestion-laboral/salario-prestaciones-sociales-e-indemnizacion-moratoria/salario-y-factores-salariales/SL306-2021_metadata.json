@@ -1,0 +1,21 @@
+{
+  "radicado": "SL306-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-15T16:04:29Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Ley 361 de 1997",
+    "Ley 361 de 2007"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Jorge Prada Sanchez/Sentencias/SL306-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:33:27.995021+00:00"
+}

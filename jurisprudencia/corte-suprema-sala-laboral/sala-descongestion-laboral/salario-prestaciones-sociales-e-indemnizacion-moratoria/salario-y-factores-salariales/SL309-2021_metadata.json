@@ -1,0 +1,23 @@
+{
+  "radicado": "SL309-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-16T20:18:41Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 42,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 679 de 1994",
+    "Ley 52 de 1975",
+    "Ley 789 de 2002",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL309-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:32:46.602156+00:00"
+}

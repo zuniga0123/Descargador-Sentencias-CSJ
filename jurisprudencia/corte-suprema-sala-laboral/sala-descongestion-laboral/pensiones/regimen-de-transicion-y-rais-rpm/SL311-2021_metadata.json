@@ -1,0 +1,27 @@
+{
+  "radicado": "SL311-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-16T20:13:47Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 49,
+  "leyes_o_articulos": [
+    "Decreto 1281 de 1994",
+    "Decreto 1291 de 1994",
+    "Decreto 2090 de 1990",
+    "Decreto 2090 de 2003",
+    "Decreto 2655 de 2014",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL311-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:32:53.238169+00:00"
+}

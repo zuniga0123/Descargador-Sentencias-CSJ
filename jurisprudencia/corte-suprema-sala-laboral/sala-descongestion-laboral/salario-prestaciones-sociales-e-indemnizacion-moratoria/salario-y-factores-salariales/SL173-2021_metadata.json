@@ -1,0 +1,32 @@
+{
+  "radicado": "SL173-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-12T19:03:22Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1158 de 1994",
+    "Decreto 1650 de 1977",
+    "Decreto 1848 de 1969",
+    "Decreto 3041 de 1966",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1985",
+    "Ley 433 de 1971",
+    "Ley 6 de 1945",
+    "Ley 62 de 1985",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL173-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:34:05.147451+00:00"
+}

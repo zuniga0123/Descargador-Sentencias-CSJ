@@ -1,0 +1,22 @@
+{
+  "radicado": "SL287-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-12T19:03:02Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 59,
+  "leyes_o_articulos": [
+    "Decreto 2245 de 2012",
+    "Ley 2351 de 1965",
+    "Ley 50 de 1990",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL287-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:34:07.934738+00:00"
+}

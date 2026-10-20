@@ -1,0 +1,21 @@
+{
+  "radicado": "SL260-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-12T20:07:49Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 44,
+  "leyes_o_articulos": [
+    "Decreto 116 de 1976",
+    "Ley 1395 de 2010",
+    "Ley 16 de 1969"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL260-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:33:54.731115+00:00"
+}

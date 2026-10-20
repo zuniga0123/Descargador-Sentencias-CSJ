@@ -1,0 +1,22 @@
+{
+  "radicado": "SL044-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-17T20:39:53Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 165,
+  "leyes_o_articulos": [
+    "Decreto 063 de 2002",
+    "Decreto 2351 de 1965",
+    "Decreto 63 de 2002",
+    "Ley 550 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL044-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:31:17.001666+00:00"
+}

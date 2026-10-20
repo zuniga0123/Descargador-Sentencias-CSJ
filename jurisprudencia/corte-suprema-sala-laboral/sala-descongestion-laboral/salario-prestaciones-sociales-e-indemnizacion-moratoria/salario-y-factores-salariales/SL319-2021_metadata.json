@@ -1,0 +1,32 @@
+{
+  "radicado": "SL319-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-15T21:51:43Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 1195 de 1994",
+    "Decreto 1264 de 1997",
+    "Decreto 3063 de 1989",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 1161 de 1999",
+    "Ley 142 de 1994",
+    "Ley 2665 de 1988",
+    "Ley 33 de 1985",
+    "Ley 489 de 1998",
+    "Ley 54 de 1962",
+    "Ley 6 de 1945",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Donald Jose Dix Ponnefz/Sentencias/SL319-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:33:01.986155+00:00"
+}

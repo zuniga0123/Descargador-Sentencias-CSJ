@@ -1,0 +1,20 @@
+{
+  "radicado": "SL291-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-16T16:07:09Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Tipos de contrato y vinculación",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 4588 de 2006",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL291-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:32:57.366298+00:00"
+}

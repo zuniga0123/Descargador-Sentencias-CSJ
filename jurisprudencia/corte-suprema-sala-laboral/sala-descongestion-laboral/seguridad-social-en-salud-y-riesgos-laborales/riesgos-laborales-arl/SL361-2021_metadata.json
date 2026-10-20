@@ -1,0 +1,28 @@
+{
+  "radicado": "SL361-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-17T16:11:43Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1972 de 1995",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 12 de 1975",
+    "Ley 16 de 1969",
+    "Ley 52 de 1993",
+    "Ley 776 de 2002",
+    "Ley 797 de 2003",
+    "Ley 9 de 1979"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL361-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:31:34.458846+00:00"
+}

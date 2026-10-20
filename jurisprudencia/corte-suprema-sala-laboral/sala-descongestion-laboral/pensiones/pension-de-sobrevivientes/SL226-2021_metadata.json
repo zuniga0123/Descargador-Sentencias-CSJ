@@ -1,0 +1,22 @@
+{
+  "radicado": "SL226-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-02-11T15:58:52Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1204 de 2008",
+    "Ley 44 de 1980",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Gerardo Botero Zuluaga/Sentencias/SL226-2021.pdf",
+  "fecha_descarga": "2026-10-20T22:34:45.786038+00:00"
+}
