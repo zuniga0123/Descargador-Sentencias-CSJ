@@ -1,10 +1,11 @@
-"""CLI para descargar providencias de la Sala Laboral de la CSJ.
+"""CLI para descargar providencias de la Sala Laboral de la CSJ y de la
+Corte Constitucional.
 
 Ejemplos:
     python main.py --anio 2026
     python main.py --anio 2020-2026
     python main.py --anio 2024 --tipo SENTENCIA --limite 20
-    python main.py --anio 2011-2026   # backfill completo de 15 años
+    python main.py --corte constitucional --anio 2019 --tipo T --max-minutos 25
 """
 
 from __future__ import annotations
@@ -27,19 +28,27 @@ def _parsear_anios(valor: str) -> list[str]:
 def main() -> None:
     anio_actual = datetime.now().year
     parser = argparse.ArgumentParser(
-        description="Descarga y clasifica providencias de la Sala de Casación Laboral "
-        "y la Sala de Descongestión Laboral de la Corte Suprema de Justicia."
+        description="Descarga y clasifica providencias de la Sala de Casación Laboral y la Sala de "
+        "Descongestión Laboral de la Corte Suprema de Justicia, o de la Corte Constitucional."
+    )
+    parser.add_argument(
+        "--corte",
+        choices=["suprema", "constitucional"],
+        default="suprema",
+        help="Corte a descargar. Por defecto: suprema (Sala Laboral). Las sentencias de la Corte "
+        "Constitucional se guardan en el repositorio Descargador-Sentencias-CC, clonado junto a este.",
     )
     parser.add_argument(
         "--anio",
-        default=f"{anio_actual - config.ANIOS_A_CUBRIR + 1}-{anio_actual}",
-        help="Año único (2024) o rango (2011-2026). Por defecto: últimos 15 años.",
+        default=None,
+        help="Año único (2024) o rango (2011-2026). Por defecto: últimos 15 años (suprema) o "
+        "desde 1992 (constitucional).",
     )
     parser.add_argument(
         "--tipo",
-        choices=config.TIPOS_PROVIDENCIA,
         action="append",
-        help="Filtrar por tipo de providencia. Se puede repetir. Por defecto: SENTENCIA y AUTO.",
+        help="Filtrar por tipo de providencia; se puede repetir. Suprema: SENTENCIA, AUTO. "
+        "Constitucional: T, C, SU, A (auto). Por defecto: todos.",
     )
     parser.add_argument(
         "--limite",
@@ -96,6 +105,13 @@ def main() -> None:
         datefmt="%H:%M:%S",
     )
 
+    if args.corte == "constitucional":
+        _main_constitucional(args, parser)
+        return
+
+    tipos_validos = config.TIPOS_PROVIDENCIA
+    if args.tipo and not set(args.tipo) <= set(tipos_validos):
+        parser.error(f"--tipo para la Corte Suprema debe ser uno de: {', '.join(tipos_validos)}")
     if args.reconstruir_indice:
         reconstruir_indice()
         return
@@ -103,13 +119,39 @@ def main() -> None:
         reclasificar()
         return
 
-    anios = _parsear_anios(args.anio)
+    anios = _parsear_anios(args.anio or f"{anio_actual - config.ANIOS_A_CUBRIR + 1}-{anio_actual}")
     ejecutar(
         anios=anios,
         tipos=args.tipo,
         limite=args.limite,
         forzar=args.forzar,
         descargar_original=args.con_original,
+        max_minutos=args.max_minutos,
+        reenumerar=args.reenumerar,
+    )
+
+
+def _main_constitucional(args, parser) -> None:
+    from cc_scraper import config as cc_config
+    from cc_scraper import pipeline as cc_pipeline
+
+    if not cc_config.DESTINO.is_dir():
+        parser.error(
+            f"No encuentro el repositorio de datos de la Corte Constitucional en {cc_config.DESTINO}. "
+            "Clónalo ahí (rama datos) o indica otra ruta con la variable de entorno CC_DATOS_DIR."
+        )
+    if args.tipo and not set(args.tipo) <= set(cc_config.TIPOS):
+        parser.error(f"--tipo para la Corte Constitucional debe ser uno de: {', '.join(cc_config.TIPOS)}")
+    if args.reclasificar:
+        parser.error("--reclasificar solo aplica a la Corte Suprema (la Constitucional usa los temas oficiales).")
+    if args.reconstruir_indice:
+        cc_pipeline.reconstruir_indice()
+        return
+    anios = _parsear_anios(args.anio or f"{cc_config.ANIO_INICIAL}-{datetime.now().year}")
+    cc_pipeline.ejecutar(
+        anios=[int(a) for a in anios],
+        tipos=args.tipo,
+        limite=args.limite,
         max_minutos=args.max_minutos,
         reenumerar=args.reenumerar,
     )

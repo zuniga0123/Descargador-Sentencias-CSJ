@@ -4,7 +4,9 @@
 **De:** el proyecto del descargador de la **Corte Suprema de Justicia — Sala Laboral** (repo `zuniga0123/Descargador-Sentencias-CSJ`).
 **Objetivo:** que ambos descargadores funcionen igual (dónde guardan, qué formato producen y cómo se ejecutan) para que el paso siguiente —unificar los datos y montar la app local de búsqueda/gestión de casos— lea un solo formato.
 
-> Instrucción para Claude en la otra conversación: adapta el descargador de la Corte Constitucional a este contrato. Donde este documento dice **DEBE**, es obligatorio para que la unificación funcione. Donde dice **RECOMENDADO**, usa tu criterio con el código existente. No cambies la forma en que se consulta la Relatoría (la fuente sigue siendo la misma); lo que cambia es **dónde y cómo se guarda el resultado**.
+> **Estado (oct. 2026):** la Corte Constitucional ya quedó implementada dentro del repositorio Descargador-Sentencias-CSJ (`python main.py --corte constitucional`, módulo `src/cc_scraper/`), siguiendo este contrato. Los datos se guardan en la rama `datos` de Descargador-Sentencias-CC. Este documento queda como referencia del formato común.
+>
+> Instrucción original para Claude en la otra conversación: adapta el descargador de la Corte Constitucional a este contrato. Donde este documento dice **DEBE**, es obligatorio para que la unificación funcione. Donde dice **RECOMENDADO**, usa tu criterio con el código existente. No cambies la forma en que se consulta la Relatoría (la fuente sigue siendo la misma); lo que cambia es **dónde y cómo se guarda el resultado**.
 
 ---
 

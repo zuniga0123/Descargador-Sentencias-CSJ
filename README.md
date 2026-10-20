@@ -94,6 +94,36 @@ programado ni corre en segundo plano.
 - Al final de cada corrida el log dice `ESTADO: COMPLETO` o
   `ESTADO: INCOMPLETO` (en ese caso, volver a correr el mismo comando).
 
+## Corte Constitucional
+
+El mismo programa descarga también las providencias de la **Corte
+Constitucional** (todas las áreas, desde 1992: tutelas, constitucionalidad,
+unificación y autos), con el mismo formato (`.md` + `_metadata.json`, ver
+[`docs/ESPECIFICACION_UNIFICACION.md`](docs/ESPECIFICACION_UNIFICACION.md)).
+
+- **Dónde se guardan:** en el repositorio aparte
+  [`Descargador-Sentencias-CC`](https://github.com/zuniga0123/Descargador-Sentencias-CC),
+  rama `datos`, que debe estar clonado junto a este
+  (`../descargador-sentencias-cc`; otra ruta con la variable de entorno
+  `CC_DATOS_DIR`). Cada lote se sube a GitHub desde esa carpeta.
+- **Fuente:** el buscador de la Relatoría
+  (`corteconstitucional.gov.co/relatoria/buscador_new/`). Se enumera por
+  tipo y año (una consulta trae hasta 5.000 resultados); por cada
+  providencia se baja el texto (`.htm`) y sus **temas/subtemas oficiales**
+  ("titulaciones" de la Relatoría). El área del derecho se asigna con reglas
+  sobre esos temas (`src/cc_scraper/areas.py`).
+- **Estructura:** `jurisprudencia/corte-constitucional/<área>/<tema>/<subtema>/`
+  (nombres de carpeta recortados a 60 caracteres para que funcione en
+  Windows).
+- Los números que faltan en la numeración (p. ej. T-017/19) no están
+  publicados: el sitio responde con una página genérica vacía.
+
+```bash
+python main.py --corte constitucional --anio 2019 --tipo T --limite 5   # prueba
+python main.py --corte constitucional --anio 1992-2026 --max-minutos 25 # por tandas
+python main.py --corte constitucional --reconstruir-indice
+```
+
 ## Decisiones tomadas en este proyecto
 
 - **Fuente**: la API GraphQL interna de
