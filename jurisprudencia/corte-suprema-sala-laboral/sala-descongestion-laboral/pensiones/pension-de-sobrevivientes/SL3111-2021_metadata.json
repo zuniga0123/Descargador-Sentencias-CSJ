@@ -1,0 +1,21 @@
+{
+  "radicado": "SL3111-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2021,
+  "fecha_creacion": "2021-07-26T15:53:19Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Ley 100 de 1993",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL3111-2021.pdf",
+  "fecha_descarga": "2026-10-20T21:14:56.020532+00:00"
+}
