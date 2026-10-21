@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3992-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-19T20:48:51Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 12 de 1975",
+    "Ley 171 de 1961",
+    "Ley 33 de 1985",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Jorge Prada Sanchez/Sentencias/SL3992-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:50:33.840664+00:00"
+}

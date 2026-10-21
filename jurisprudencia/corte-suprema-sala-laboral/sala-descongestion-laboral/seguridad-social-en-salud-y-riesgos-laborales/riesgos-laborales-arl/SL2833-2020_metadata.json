@@ -1,0 +1,29 @@
+{
+  "radicado": "SL2833-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-09-02T15:55:46Z",
+  "magistrado_ponente": "Dr. Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 110,
+  "leyes_o_articulos": [
+    "Decreto 1122 de 1999",
+    "Decreto 1295 de 1994",
+    "Decreto 2150 de 1995",
+    "Decreto 266 de 2000",
+    "Ley 100 de 1993",
+    "Ley 1295 de 1994",
+    "Ley 336 de 1996",
+    "Ley 366 de 1996",
+    "Ley 712 de 2001",
+    "Ley 776 de 2002",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Martin Emilio Beltran Quintero/Sentencias/SL2833-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:08:26.340541+00:00"
+}

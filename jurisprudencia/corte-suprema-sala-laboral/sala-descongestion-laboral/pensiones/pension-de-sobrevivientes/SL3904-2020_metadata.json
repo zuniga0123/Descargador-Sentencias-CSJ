@@ -1,0 +1,32 @@
+{
+  "radicado": "SL3904-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-16T14:00:43Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "DECRETO 1611 DE 1962",
+    "DECRETO 1848 DE 1969",
+    "DECRETO 2663 DE 1950",
+    "DECRETO 3041 DE 1966",
+    "DECRETO 434 DE 1971",
+    "Decreto 3041 de 1966",
+    "Decreto 3170 de 1964",
+    "Decreto 433 de 1971",
+    "LEY 171 DE 1961",
+    "LEY 5 DE 1969",
+    "LEY 90 DE 1946",
+    "Ley 100 de 1993",
+    "Ley 433 de 1971",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL3904-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:51:59.901200+00:00"
+}

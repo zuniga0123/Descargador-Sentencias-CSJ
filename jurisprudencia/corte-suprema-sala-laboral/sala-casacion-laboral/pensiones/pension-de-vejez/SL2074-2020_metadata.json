@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2074-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-13T00:51:06Z",
+  "magistrado_ponente": "Dr. Iván Mauricio Lenis Gómez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 47,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 2108 de 1992",
+    "Decreto 2280 de 1994",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Iván Mauricio Lenis Gómez/Sentencias/SL2074-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:53:48.006678+00:00"
+}

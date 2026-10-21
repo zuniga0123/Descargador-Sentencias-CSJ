@@ -1,0 +1,21 @@
+{
+  "radicado": "SL3234-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-09-01T22:27:04Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 39,
+  "leyes_o_articulos": [
+    "Decreto 1014 de 1978",
+    "Decreto 2351 de 1965",
+    "Decreto 415 de 1979"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL3234-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:08:41.393393+00:00"
+}

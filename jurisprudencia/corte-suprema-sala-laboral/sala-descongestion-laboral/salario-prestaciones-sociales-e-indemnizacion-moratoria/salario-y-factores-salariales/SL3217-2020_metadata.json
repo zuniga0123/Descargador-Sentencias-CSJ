@@ -1,0 +1,20 @@
+{
+  "radicado": "SL3217-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-09-04T20:12:59Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 528 de 1964",
+    "Ley 1496 de 2011"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL3217-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:07:33.222641+00:00"
+}

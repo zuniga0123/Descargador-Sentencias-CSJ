@@ -1,0 +1,30 @@
+{
+  "radicado": "SL3564-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-09-29T17:13:01Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 80,
+  "leyes_o_articulos": [
+    "DECRETO 758 DE 1990",
+    "Decreto 1158 de 1994",
+    "Decreto 1314 de 1994",
+    "Decreto 1474 de 1997",
+    "Decreto 1513 de 1998",
+    "Decreto 1730 de 2001",
+    "Decreto 1748 de 1995",
+    "Decreto 4640 de 2005",
+    "Decreto 692 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL3564-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:59:58.993105+00:00"
+}

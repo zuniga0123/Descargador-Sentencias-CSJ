@@ -1,0 +1,31 @@
+{
+  "radicado": "SL3754-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-14T19:51:38Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 1160 de 1947",
+    "Decreto 2633 de 1994",
+    "Decreto 3063 de 1989",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 169 de 1896",
+    "Ley 33 de 1985",
+    "Ley 4 de 1992",
+    "Ley 528 de 1964",
+    "Ley 6 De 1945",
+    "Ley 62 de 1985",
+    "Ley 65 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL3754-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:52:34.319405+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "radicado": "SL4023-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-23T18:23:03Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 75,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 2013 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 2721 de 1945",
+    "Decreto 3135 de 1968",
+    "Decreto 3148 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 2351 de 1965",
+    "Ley 68 de 1945",
+    "Ley 797 de 1949",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL4023-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:48:28.952097+00:00"
+}

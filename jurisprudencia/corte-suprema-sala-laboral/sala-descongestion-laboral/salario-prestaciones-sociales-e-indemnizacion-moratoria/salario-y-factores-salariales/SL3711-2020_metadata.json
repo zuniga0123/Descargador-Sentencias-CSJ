@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3711-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-01T21:56:13Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Ley 1496 de 2011",
+    "Ley 50 de 1990",
+    "Ley 51 de 1981",
+    "Ley 52 de 1975",
+    "Ley 54 de 1962"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL3711-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:57:11.915217+00:00"
+}

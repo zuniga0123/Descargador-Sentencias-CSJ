@@ -1,0 +1,30 @@
+{
+  "radicado": "SL3936-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-19T20:12:13Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 289 de 2012",
+    "Decreto 289 de 2014",
+    "Decreto 3135 de 1968",
+    "Decreto 4156 de 2011",
+    "Ley 1023 de 2006",
+    "Ley 1187 de 2008",
+    "Ley 16 de 1969",
+    "Ley 1607 de 2012",
+    "Ley 509 de 1999",
+    "Ley 75 de 1968",
+    "Ley 80 de 1993",
+    "Ley 89 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL3936-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:50:39.194413+00:00"
+}

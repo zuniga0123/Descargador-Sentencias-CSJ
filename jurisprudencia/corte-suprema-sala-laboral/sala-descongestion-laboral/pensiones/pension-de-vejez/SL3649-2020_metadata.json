@@ -1,0 +1,30 @@
+{
+  "radicado": "SL3649-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-09-29T23:59:45Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 93,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 1299 de 1999",
+    "Decreto 1748 de 1995",
+    "Decreto 266 de 2000",
+    "Decreto 3995 de 2006",
+    "Decreto 3995 de 2008",
+    "Decreto 636 de 1994",
+    "Decreto 656 de 1994",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 812 de 2003",
+    "Ley 91 de 1989"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL3649-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:50:15.405189+00:00"
+}

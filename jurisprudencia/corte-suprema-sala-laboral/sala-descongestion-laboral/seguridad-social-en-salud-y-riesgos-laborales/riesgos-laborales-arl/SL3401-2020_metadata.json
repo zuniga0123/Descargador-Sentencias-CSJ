@@ -1,0 +1,20 @@
+{
+  "radicado": "SL3401-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-08T12:46:00Z",
+  "magistrado_ponente": "Dr. Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1011 de 2006",
+    "Ley 95 de 1890"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Jorge Luis Quiroz Alemán/Sentencias/SL3401-2020.doc",
+  "fecha_descarga": "2026-10-21T09:55:12.838525+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2564-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-12T23:13:14Z",
+  "magistrado_ponente": "Dr. Iván Mauricio Lenis Gómez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Iván Mauricio Lenis Gómez/Sentencias/SL2564-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:53:58.586617+00:00"
+}

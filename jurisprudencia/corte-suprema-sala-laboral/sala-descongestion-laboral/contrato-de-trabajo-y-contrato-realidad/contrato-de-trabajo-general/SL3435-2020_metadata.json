@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3435-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-09-21T20:16:22Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1352 de 2013",
+    "Decreto 2463 de 2001",
+    "Ley 1352 de 2013",
+    "Ley 1618 de 2013",
+    "Ley 361 de 1996",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL3435-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:01:57.460708+00:00"
+}

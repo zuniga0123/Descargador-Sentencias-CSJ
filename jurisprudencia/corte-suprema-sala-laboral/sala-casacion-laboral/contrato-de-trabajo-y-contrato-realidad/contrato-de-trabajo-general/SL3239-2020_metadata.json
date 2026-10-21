@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3239-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-09-29T18:27:15Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1340 de 1995",
+    "Decreto 2019 de 1889",
+    "Decreto 289 de 2014",
+    "Decreto 3135 de 1968",
+    "Ley 16 de 1969",
+    "Ley 7 de 1978",
+    "Ley 89 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Fernando Castillo Cadena/Sentencias/SL3239-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:59:51.650320+00:00"
+}

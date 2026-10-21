@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3166-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-08-31T18:09:49Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 01 de 1984",
+    "Ley 16 de 1969",
+    "Ley 489 de 1998",
+    "Ley 50 de 1990",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Jorge Prada Sanchez/Sentencias/SL3166-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:09:14.907132+00:00"
+}

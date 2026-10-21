@@ -1,0 +1,27 @@
+{
+  "radicado": "SL3777-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-06T18:00:03Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 37,
+  "leyes_o_articulos": [
+    "Decreto 1315 de 1998",
+    "Decreto 1474 de 1997",
+    "Decreto 3041 de 1966",
+    "Decreto 758 de 1990",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 16 de 1969",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL3777-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:49:59.174096+00:00"
+}

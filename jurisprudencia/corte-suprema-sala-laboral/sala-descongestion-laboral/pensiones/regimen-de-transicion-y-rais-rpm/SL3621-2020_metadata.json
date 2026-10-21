@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3621-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-01T20:22:21Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Decreto 2665 de 1988",
+    "Decreto 2665 de 1998",
+    "Decreto 758 de 1990",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL3621-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:57:24.292289+00:00"
+}

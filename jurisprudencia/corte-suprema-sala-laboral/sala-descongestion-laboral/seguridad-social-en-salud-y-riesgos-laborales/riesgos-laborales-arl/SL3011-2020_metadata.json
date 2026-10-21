@@ -1,0 +1,22 @@
+{
+  "radicado": "SL3011-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-08-24T14:47:33Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1887 de 1994",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL3011-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:11:59.739332+00:00"
+}

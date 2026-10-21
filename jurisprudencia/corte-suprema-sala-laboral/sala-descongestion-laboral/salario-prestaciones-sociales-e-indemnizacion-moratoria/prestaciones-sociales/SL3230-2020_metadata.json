@@ -1,0 +1,27 @@
+{
+  "radicado": "SL3230-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-09-02T01:32:30Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 89,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 2148 de 1992",
+    "Decreto 3135 de 1968",
+    "Decreto 553 de 2015",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 165 de 1997",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL3230-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:05:33.128721+00:00"
+}

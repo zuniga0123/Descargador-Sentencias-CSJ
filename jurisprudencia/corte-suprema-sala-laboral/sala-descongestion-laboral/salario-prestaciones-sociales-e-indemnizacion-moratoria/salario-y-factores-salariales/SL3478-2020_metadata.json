@@ -1,0 +1,32 @@
+{
+  "radicado": "SL3478-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-09-21T16:19:03Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 79,
+  "leyes_o_articulos": [
+    "Decreto 2719 de 1993",
+    "Decreto 2719 de 1994",
+    "Decreto 284 de 1957",
+    "Decreto 3164 de 2003",
+    "Ley 100 de 1993",
+    "Ley 1393 de 2010",
+    "Ley 141 de 1961",
+    "Ley 153 de 1887",
+    "Ley 344 de 1996",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 57 de 1987",
+    "Ley 789 de 2002",
+    "Ley 995 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Jorge Prada Sanchez/Sentencias/SL3478-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:02:24.349575+00:00"
+}

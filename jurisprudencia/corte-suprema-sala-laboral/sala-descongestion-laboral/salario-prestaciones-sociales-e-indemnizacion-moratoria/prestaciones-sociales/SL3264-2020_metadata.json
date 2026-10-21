@@ -1,0 +1,30 @@
+{
+  "radicado": "SL3264-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-09-16T16:25:38Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 65,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1848 de 1969",
+    "Decreto 2012 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 3135 de 1968",
+    "Decreto 337 de 1995",
+    "Decreto 416 de 1997",
+    "Decreto 797 de 1949",
+    "Ley 2351 de 1965",
+    "Ley 3135 de 1968",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL3264-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:04:18.487005+00:00"
+}

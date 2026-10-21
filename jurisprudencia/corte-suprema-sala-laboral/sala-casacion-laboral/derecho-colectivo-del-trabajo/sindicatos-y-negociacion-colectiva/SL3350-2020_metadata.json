@@ -1,0 +1,26 @@
+{
+  "radicado": "SL3350-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-09-17T13:26:31Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 207,
+  "leyes_o_articulos": [
+    "Decreto 1818 de 1988",
+    "Decreto 1818 de 1998",
+    "Decreto 616 de 1954",
+    "Ley 1563 de 2012",
+    "Ley 2279 de 1989",
+    "Ley 27 de 1976",
+    "Ley 524 de 1999",
+    "Ley 584 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Luis Benedicto Herrrera Diaz/Sentencias/SL3350-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:03:49.137589+00:00"
+}

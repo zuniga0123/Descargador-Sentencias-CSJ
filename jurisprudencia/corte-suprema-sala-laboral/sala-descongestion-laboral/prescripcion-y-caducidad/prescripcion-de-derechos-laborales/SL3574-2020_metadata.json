@@ -1,0 +1,28 @@
+{
+  "radicado": "SL3574-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-08T00:55:52Z",
+  "magistrado_ponente": "Dr. Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 37,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 1045 de 1978",
+    "Decreto 1650 de 1977",
+    "Decreto 1876 de 1994",
+    "Decreto 1950 de 1974",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Decreto 852 de 1953",
+    "Ley 6 de 1945",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Martin Emilio Beltran Quintero/Sentencias/SL3574-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:55:32.834701+00:00"
+}

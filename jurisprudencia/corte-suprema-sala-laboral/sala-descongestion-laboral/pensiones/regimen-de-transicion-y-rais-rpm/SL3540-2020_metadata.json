@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3540-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-09-23T17:28:00Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 1835 de 1984",
+    "Decreto 1835 de 1994",
+    "Decreto 2123 de 1992",
+    "Decreto 2661 de 1960",
+    "Ley 100 de 1993",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Donald Jose Dix Ponnefz/Sentencias/SL3540-2020.doc",
+  "fecha_descarga": "2026-10-21T10:00:50.808575+00:00"
+}

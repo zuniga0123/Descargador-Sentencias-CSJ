@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3546-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-09-25T20:37:00Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 45,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1295 de 1994",
+    "Ley 1562 de 2012",
+    "Ley 776 de 2002",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Donald Jose Dix Ponnefz/Sentencias/SL3546-2020.doc",
+  "fecha_descarga": "2026-10-21T10:00:31.438359+00:00"
+}

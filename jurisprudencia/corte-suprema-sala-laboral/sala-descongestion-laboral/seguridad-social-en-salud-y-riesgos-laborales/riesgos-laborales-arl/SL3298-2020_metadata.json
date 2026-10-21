@@ -1,0 +1,28 @@
+{
+  "radicado": "SL3298-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-09-08T14:19:34Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 46,
+  "leyes_o_articulos": [
+    "Decreto 1352 de 2013",
+    "Decreto 2463 de 2001",
+    "Decreto 303 de 1995",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 1395 de 2010",
+    "Ley 1396 de 2010",
+    "Ley 16 de 1969",
+    "Ley 776 de 2002",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL3298-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:04:51.005117+00:00"
+}

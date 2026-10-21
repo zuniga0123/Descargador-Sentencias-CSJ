@@ -1,0 +1,22 @@
+{
+  "radicado": "SL3905-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-16T15:30:08Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Tipos de contrato y vinculación",
+  "puntaje_clasificacion": 42,
+  "leyes_o_articulos": [
+    "Decreto 4588 de 2006",
+    "Decreto 468 de 1990",
+    "Ley 50 de 1990",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL3905-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:51:58.187042+00:00"
+}

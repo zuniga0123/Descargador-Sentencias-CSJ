@@ -1,0 +1,22 @@
+{
+  "radicado": "SL3550-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-09-22T20:12:00Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 8,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Donald Jose Dix Ponnefz/Sentencias/SL3550-2020.doc",
+  "fecha_descarga": "2026-10-21T10:01:10.690339+00:00"
+}

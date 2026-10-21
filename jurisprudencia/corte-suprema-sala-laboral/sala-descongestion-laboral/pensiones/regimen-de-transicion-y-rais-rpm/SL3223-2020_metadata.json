@@ -1,0 +1,33 @@
+{
+  "radicado": "SL3223-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-09-02T18:29:37Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 68,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1158 de 1994",
+    "Decreto 1158 de 1998",
+    "Decreto 1650 de 1977",
+    "Decreto 1748 de 1995",
+    "Decreto 1848 de 1969",
+    "Decreto 3041 de 1966",
+    "Decreto 433 de 1971",
+    "Decreto 691 de 1994",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1985",
+    "Ley 62 de 1985",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL3223-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:08:04.322772+00:00"
+}

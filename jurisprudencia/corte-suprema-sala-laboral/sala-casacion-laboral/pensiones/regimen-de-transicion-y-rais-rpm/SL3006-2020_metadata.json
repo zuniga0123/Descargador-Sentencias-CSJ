@@ -1,0 +1,22 @@
+{
+  "radicado": "SL3006-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-09-15T03:14:46Z",
+  "magistrado_ponente": "Dr. Omar Ángel Mejía Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 58,
+  "leyes_o_articulos": [
+    "Decreto 1748 de 1995",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 12 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Omar Ángel Mejía Amador/Sentencias/SL3006-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:04:32.773350+00:00"
+}

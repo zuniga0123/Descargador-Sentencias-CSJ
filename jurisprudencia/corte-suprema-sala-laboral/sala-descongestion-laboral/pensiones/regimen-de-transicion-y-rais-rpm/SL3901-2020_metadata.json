@@ -1,0 +1,29 @@
+{
+  "radicado": "SL3901-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-15T18:39:19Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 63,
+  "leyes_o_articulos": [
+    "Decreto 2241 de 2010",
+    "Decreto 656 de 1994",
+    "Decreto 663 de 1993",
+    "Decreto 694 de 1994",
+    "Ley 100 de 1992",
+    "Ley 100 de 1993",
+    "Ley 1328 de 2009",
+    "Ley 1382 de 2009",
+    "Ley 1748 de 2014",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL3901-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:49:33.982187+00:00"
+}

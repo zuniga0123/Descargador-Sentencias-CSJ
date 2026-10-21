@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3175-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-09-08T13:45:59Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 4,
+  "leyes_o_articulos": [
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 1116 de 2006",
+    "Ley 153 de 1887",
+    "Ley 16 de 1969",
+    "Ley 222 de 1995",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Donald Jose Dix Ponnefz/Sentencias/SL3175-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:06:57.341201+00:00"
+}

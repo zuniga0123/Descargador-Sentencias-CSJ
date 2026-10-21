@@ -1,0 +1,22 @@
+{
+  "radicado": "SL3340-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-09-14T14:06:24Z",
+  "magistrado_ponente": "Dra. Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 2108 de 1992",
+    "Decreto 2879 de 1985",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dra. Clara Cecilia Dueñas Quevedo/Sentencias/SL3340-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:05:16.231015+00:00"
+}

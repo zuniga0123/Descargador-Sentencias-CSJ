@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3502-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-09-24T22:20:59Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 62,
+  "leyes_o_articulos": [
+    "Decreto 1174 de 1991",
+    "Ley 101 de 1993",
+    "Ley 153 de 1887",
+    "Ley 50 de 1990",
+    "Ley 50 de 1994",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL3502-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:59:16.651314+00:00"
+}

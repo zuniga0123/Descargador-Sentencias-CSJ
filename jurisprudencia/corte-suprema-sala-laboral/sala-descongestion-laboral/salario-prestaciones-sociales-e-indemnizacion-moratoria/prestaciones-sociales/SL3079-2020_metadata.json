@@ -1,0 +1,30 @@
+{
+  "radicado": "SL3079-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-08-31T12:42:24Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 50,
+  "leyes_o_articulos": [
+    "Decreto 2996 de 2004",
+    "Ley 100 de 1993",
+    "Ley 119 de 1994",
+    "Ley 1233 de 2008",
+    "Ley 199 de 1994",
+    "Ley 21 de 1982",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 789 de 2002",
+    "Ley 79 de 1988",
+    "Ley 797 de 2002",
+    "Ley 89 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL3079-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:10:47.789764+00:00"
+}

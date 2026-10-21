@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3945-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-16T20:37:20Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Tipos de contrato y vinculación",
+  "puntaje_clasificacion": 42,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Decreto 4588 de 2006",
+    "Decreto 468 de 1990",
+    "Ley 1233 de 2008",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL3945-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:51:27.910015+00:00"
+}
