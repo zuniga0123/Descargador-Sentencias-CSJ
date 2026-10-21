@@ -1,0 +1,23 @@
+{
+  "radicado": "SL945-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-05-28T18:10:00Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Laudos arbitrales y recurso de anulación",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 1227 de 2005",
+    "Decreto 1750 de 2003",
+    "Ley 10 de 1990",
+    "Ley 270 de 1996",
+    "Ley 909 de 2004"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Donald Jose Dix Ponnefz/Sentencias/SL945-2020.doc",
+  "fecha_descarga": "2026-10-21T11:01:07.558648+00:00"
+}

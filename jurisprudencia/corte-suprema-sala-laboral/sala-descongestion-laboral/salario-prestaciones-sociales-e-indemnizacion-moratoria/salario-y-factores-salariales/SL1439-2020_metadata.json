@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1439-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-06-23T22:24:37Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 2463 de 2001",
+    "Decreto 4369 de 2006",
+    "Ley 1618 de 2013",
+    "Ley 361 de 1997",
+    "Ley 361 de 2007",
+    "Ley 82 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Jorge Prada Sanchez/Sentencias/SL1439-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:47:47.470363+00:00"
+}

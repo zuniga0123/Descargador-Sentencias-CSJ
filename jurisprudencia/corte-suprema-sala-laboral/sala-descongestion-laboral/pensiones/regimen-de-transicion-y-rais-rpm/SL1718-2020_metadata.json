@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1718-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-07-01T01:00:58Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1887 de 1994",
+    "Decreto 3041 de 1966",
+    "Decreto 3850 de 1949",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL1718-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:42:02.262653+00:00"
+}

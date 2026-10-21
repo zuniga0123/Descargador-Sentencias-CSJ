@@ -1,0 +1,33 @@
+{
+  "radicado": "SL1010-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-06-02T20:11:00Z",
+  "magistrado_ponente": "Dr. Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 1818 de 1995",
+    "Decreto 1818 de 1996",
+    "Decreto 1848 de 1969",
+    "Decreto 232 de 1984",
+    "Decreto 3041 de 1966",
+    "Decreto 3135 de 1968",
+    "Decreto 433 de 1971",
+    "Decreto 692 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 12 de 1975",
+    "Ley 33 de 1973",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Jorge Luis Quiroz Alemán/Sentencias/SL1010-2020.doc",
+  "fecha_descarga": "2026-10-21T11:00:04.905826+00:00"
+}

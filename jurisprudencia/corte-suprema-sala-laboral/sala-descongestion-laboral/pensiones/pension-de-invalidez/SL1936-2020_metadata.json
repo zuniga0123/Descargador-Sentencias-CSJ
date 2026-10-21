@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1936-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-07-02T01:22:13Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2463 de 2001",
+    "Ley 100 de 1993",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Jorge Prada Sanchez/Sentencias/SL1936-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:39:53.533304+00:00"
+}

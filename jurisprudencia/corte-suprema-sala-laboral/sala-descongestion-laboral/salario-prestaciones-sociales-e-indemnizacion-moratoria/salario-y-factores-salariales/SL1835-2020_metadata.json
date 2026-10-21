@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1835-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-06-30T19:40:56Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 1650 de 1977",
+    "Decreto 1748 de 1995",
+    "Decreto 3063 de 1989",
+    "Decreto 433 de 1971",
+    "Ley 100 de 1993",
+    "Ley 1299 de 1994",
+    "Ley 16 de 1972",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Jorge Prada Sanchez/Sentencias/SL1835-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:44:13.638870+00:00"
+}

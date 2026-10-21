@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1684-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-06-25T20:02:00Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1064 de 1999",
+    "Decreto 1848 de 1969",
+    "Decreto 2351 de 1965",
+    "Decreto 2721 de 2008",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 48 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL1684-2020.doc",
+  "fecha_descarga": "2026-10-21T10:46:16.114592+00:00"
+}

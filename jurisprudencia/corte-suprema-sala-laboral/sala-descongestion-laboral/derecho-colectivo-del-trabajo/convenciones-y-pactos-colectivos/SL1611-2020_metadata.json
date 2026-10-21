@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1611-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-07-01T14:15:30Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 2149 de 1992",
+    "Decreto 2351 de 1965",
+    "Decreto 249 de 2004",
+    "Decreto 3135 de 1968",
+    "Decreto 4108 de 2011",
+    "Decreto 415 de 1979",
+    "Ley 119 de 1994"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Donald Jose Dix Ponnefz/Sentencias/SL1611-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:41:55.107856+00:00"
+}

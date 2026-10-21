@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1212-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-06-12T23:20:41Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 1642 de 1995",
+    "Decreto 2610 de 1989",
+    "Decreto 2665 de 1988",
+    "Decreto 3063 de 1989",
+    "Decreto 3666 de 2007",
+    "Ley 100 de 1993",
+    "Ley 1299 de 1994"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL1212-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:57:16.534052+00:00"
+}

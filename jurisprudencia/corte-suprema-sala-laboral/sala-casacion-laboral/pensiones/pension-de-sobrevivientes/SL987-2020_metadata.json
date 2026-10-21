@@ -1,0 +1,23 @@
+{
+  "radicado": "SL987-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-06-13T02:34:44Z",
+  "magistrado_ponente": "Dr. Omar Ángel Mejía Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 12 de 1975",
+    "Ley 153 de 1887",
+    "Ley 717 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Omar Ángel Mejía Amador/Sentencias/SL987-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:56:41.061122+00:00"
+}

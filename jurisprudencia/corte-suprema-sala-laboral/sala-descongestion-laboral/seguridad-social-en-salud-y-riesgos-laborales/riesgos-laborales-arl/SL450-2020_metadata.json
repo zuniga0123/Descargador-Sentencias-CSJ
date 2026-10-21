@@ -1,0 +1,26 @@
+{
+  "radicado": "SL450-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-06-09T14:30:33Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 303 de 1995",
+    "Decreto 614 de 1984",
+    "Ley 153 de 1887",
+    "Ley 1562 de 2012",
+    "Ley 16 de 1969",
+    "Ley 71 de 2001",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL450-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:59:29.561311+00:00"
+}

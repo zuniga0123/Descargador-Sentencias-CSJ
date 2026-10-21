@@ -1,0 +1,30 @@
+{
+  "radicado": "SL1304-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-06-19T15:37:09Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 133 de 1985",
+    "Decreto 3135 de 1968",
+    "Decreto 80 de 1980",
+    "Ley 100 de 1993",
+    "Ley 30 de 1992",
+    "Ley 33 de 1985",
+    "Ley 37 de 1966",
+    "Ley 446 de 1998",
+    "Ley 62 de 1985",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003",
+    "Ley 90 de 1992"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL1304-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:50:40.389119+00:00"
+}

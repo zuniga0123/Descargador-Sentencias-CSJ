@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1613-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-06-30T23:03:26Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1477 de 2014",
+    "Decreto 1832 de 1994",
+    "Decreto 2351 de 1965",
+    "Decreto 2464 de 1994",
+    "Decreto 2644 de 1994",
+    "Ley 1010 de 2006"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL1613-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:43:01.235941+00:00"
+}

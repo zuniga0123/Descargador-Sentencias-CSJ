@@ -1,0 +1,21 @@
+{
+  "radicado": "SL997-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-06-01T17:44:00Z",
+  "magistrado_ponente": "Dr. Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 34,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Jorge Luis Quiroz Alemán/Sentencias/SL997-2020.doc",
+  "fecha_descarga": "2026-10-21T11:00:36.986032+00:00"
+}

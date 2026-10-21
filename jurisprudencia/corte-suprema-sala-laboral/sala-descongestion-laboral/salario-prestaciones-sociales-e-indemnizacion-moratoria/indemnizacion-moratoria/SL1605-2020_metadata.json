@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1605-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-06-30T22:16:44Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 2013 de 2012",
+    "Decreto 797 de 1949",
+    "Decreto 797 de 2003",
+    "Ley 6 de 1945",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL1605-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:43:11.469459+00:00"
+}

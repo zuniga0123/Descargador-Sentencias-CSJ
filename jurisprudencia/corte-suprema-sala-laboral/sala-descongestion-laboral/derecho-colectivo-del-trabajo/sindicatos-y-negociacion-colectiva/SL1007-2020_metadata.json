@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1007-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-06-25T17:49:00Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1469 de 1978",
+    "Decreto 2105 de 2004",
+    "Decreto 2109 de 2004",
+    "Decreto 2351 de 1965",
+    "Ley 48 de 1968",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Fernando Castillo Cadena/Sentencias/SL1007-2020.doc",
+  "fecha_descarga": "2026-10-21T10:46:28.776923+00:00"
+}

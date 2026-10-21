@@ -1,0 +1,25 @@
+{
+  "radicado": "SL982-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-06-01T14:20:00Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 4 de 1966",
+    "Ley 6 de 1945",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Jorge Prada Sanchez/Sentencias/SL982-2020.doc",
+  "fecha_descarga": "2026-10-21T11:00:53.062916+00:00"
+}

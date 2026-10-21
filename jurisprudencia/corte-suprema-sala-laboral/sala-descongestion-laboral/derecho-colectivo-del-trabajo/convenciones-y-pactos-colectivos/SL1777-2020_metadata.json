@@ -1,0 +1,28 @@
+{
+  "radicado": "SL1777-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-06-30T15:10:15Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 45,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 27 de 1976",
+    "Ley 39 de 1985",
+    "Ley 424 de 1999",
+    "Ley 446 de 1998",
+    "Ley 50 de 1936",
+    "Ley 50 de 1990",
+    "Ley 524 de 1994",
+    "Ley 524 de 1999",
+    "Ley 584 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL1777-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:45:24.303020+00:00"
+}

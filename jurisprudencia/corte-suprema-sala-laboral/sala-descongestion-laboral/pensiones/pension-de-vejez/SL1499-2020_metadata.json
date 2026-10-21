@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1499-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-06-23T13:39:27Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1474 de 1997",
+    "Decreto 1748 de 1995",
+    "Decreto 1887 de 1994",
+    "Decreto 3041 de 1966",
+    "Ley 100 de 1993",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL1499-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:50:23.963779+00:00"
+}

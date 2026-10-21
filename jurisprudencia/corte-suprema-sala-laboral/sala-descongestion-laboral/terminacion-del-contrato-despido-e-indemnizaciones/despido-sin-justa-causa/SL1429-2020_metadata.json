@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1429-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-06-23T21:56:12Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Despido sin justa causa",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 1615 de 2003",
+    "Decreto 190 de 2003",
+    "Decreto 2127 de 1945",
+    "Decreto 4781 de 2005",
+    "Decreto 797 de 1949"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Jorge Prada Sanchez/Sentencias/SL1429-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:48:12.246597+00:00"
+}
