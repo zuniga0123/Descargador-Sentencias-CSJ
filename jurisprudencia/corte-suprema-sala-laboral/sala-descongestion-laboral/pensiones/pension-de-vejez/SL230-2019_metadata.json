@@ -1,0 +1,29 @@
+{
+  "radicado": "SL230-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-03-21T21:51:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 13 de 2001",
+    "Decreto 1314 de 1994",
+    "Decreto 2013 de 2012",
+    "Decreto 2527 de 2000",
+    "Decreto 692 de 1994",
+    "Decreto 753 de 1974",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 50 de 1886",
+    "Ley 549 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Fernando Castillo Cadena/Sentencias/SL230-2019.doc",
+  "fecha_descarga": "2026-10-21T14:09:45.512171+00:00"
+}

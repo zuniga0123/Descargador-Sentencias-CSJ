@@ -1,0 +1,31 @@
+{
+  "radicado": "SL610-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-03-08T21:06:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 41,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 1887 de 1994",
+    "Decreto 2127 de 1945",
+    "Decreto 2541 de 1946",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 1328 de 2009",
+    "Ley 1382 de 2009",
+    "Ley 16 de 1969",
+    "Ley 165 de 1997",
+    "Ley 50 de 1990",
+    "Ley 60 de 1945",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL610-2019.doc",
+  "fecha_descarga": "2026-10-21T14:16:54.564561+00:00"
+}

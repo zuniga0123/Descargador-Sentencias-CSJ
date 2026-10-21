@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1054-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-03-29T16:19:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 2644 de 1994",
+    "Ley 2351 de 1965",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 712 de 2001",
+    "Ley 776 de 2002",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Donald Jose Dix Ponnefz/Sentencias/SL1054-2019.doc",
+  "fecha_descarga": "2026-10-21T14:05:16.768777+00:00"
+}

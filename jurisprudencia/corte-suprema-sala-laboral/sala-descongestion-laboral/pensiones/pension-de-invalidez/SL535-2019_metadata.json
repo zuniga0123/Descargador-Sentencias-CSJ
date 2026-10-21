@@ -1,0 +1,24 @@
+{
+  "radicado": "SL535-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-03-01T19:30:36Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1406 de 1999",
+    "Decreto 2633 de 1994",
+    "Decreto 656 de 1994",
+    "Ley 100 de 1993",
+    "Ley 550 de 1999",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL535-2019.pdf",
+  "fecha_descarga": "2026-10-21T14:19:01.509072+00:00"
+}

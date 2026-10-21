@@ -1,0 +1,27 @@
+{
+  "radicado": "SL955-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-03-21T19:46:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 69,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1947",
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 244 de 1995",
+    "Ley 344 de 1996",
+    "Ley 6 de 1945",
+    "Ley 65 de 1946",
+    "Ley 797 de 1949"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL955-2019.doc",
+  "fecha_descarga": "2026-10-21T14:09:58.141226+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "radicado": "SL615-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-03-11T13:26:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1389 de 2013",
+    "Decreto 1440 de 2014",
+    "Decreto 1609 de 2003",
+    "Decreto 2408 de 2014",
+    "Decreto 653 de 2014"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL615-2019.doc",
+  "fecha_descarga": "2026-10-21T14:16:18.613468+00:00"
+}

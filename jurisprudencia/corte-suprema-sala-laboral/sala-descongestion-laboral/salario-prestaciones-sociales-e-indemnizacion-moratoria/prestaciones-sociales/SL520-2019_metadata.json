@@ -1,0 +1,23 @@
+{
+  "radicado": "SL520-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-02-26T15:57:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 58,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Decreto 455 de 2006",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL520-2019.doc",
+  "fecha_descarga": "2026-10-21T14:20:27.672868+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "radicado": "SL644-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-03-08T19:41:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 0758 de 1990",
+    "Decreto 3135 de 1968",
+    "Decreto 371 de 1998",
+    "Ley 100 de 1993",
+    "Ley 3130 de 1968",
+    "Ley 60 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Ana Maria Muñoz Segura/Sentencias/SL644-2019.doc",
+  "fecha_descarga": "2026-10-21T14:17:16.022108+00:00"
+}

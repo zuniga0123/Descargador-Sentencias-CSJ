@@ -1,0 +1,28 @@
+{
+  "radicado": "SL476-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-02-25T16:17:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Decreto 2127 de 1945",
+    "Decreto 797 de 1949",
+    "Ley 10 de 1990",
+    "Ley 100 de 1993",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL476-2019.doc",
+  "fecha_descarga": "2026-10-21T14:21:21.367748+00:00"
+}

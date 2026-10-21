@@ -1,0 +1,24 @@
+{
+  "radicado": "SL228-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-03-26T17:42:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 1350 de 1996",
+    "Decreto 528 de 1964",
+    "Decreto 614 de 1984",
+    "Ley 1295 de 1994",
+    "Ley 776 de 2008",
+    "Ley 9 de 1979"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Rigoberto Echeverri Bueno/Sentencias/SL228-2019.doc",
+  "fecha_descarga": "2026-10-21T14:08:25.131989+00:00"
+}

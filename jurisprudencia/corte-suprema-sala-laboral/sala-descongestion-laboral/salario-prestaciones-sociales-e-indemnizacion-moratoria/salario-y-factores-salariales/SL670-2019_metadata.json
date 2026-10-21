@@ -1,0 +1,26 @@
+{
+  "radicado": "SL670-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-03-08T20:56:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1993",
+    "Decreto 1299 de 1994",
+    "Decreto 1748 de 1995",
+    "Decreto 2160 de 1989",
+    "Decreto 3063 de 1989",
+    "Ley 100 de 1993",
+    "Ley 1299 de 1994",
+    "Ley 153 de 1887"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL670-2019.doc",
+  "fecha_descarga": "2026-10-21T14:16:59.778354+00:00"
+}

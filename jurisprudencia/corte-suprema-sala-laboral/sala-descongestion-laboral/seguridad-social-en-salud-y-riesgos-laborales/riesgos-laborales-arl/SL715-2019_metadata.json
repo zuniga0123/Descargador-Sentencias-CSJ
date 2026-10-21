@@ -1,0 +1,25 @@
+{
+  "radicado": "SL715-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-03-14T19:51:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 4965 de 2007",
+    "Ley 153 de 1887",
+    "Ley 24 de 1921",
+    "Ley 25 de 1923",
+    "Ley 45 de 1923",
+    "Ley 57 de 1931"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Ernesto Forero Vargas/Sentencias/SL715-2019.doc",
+  "fecha_descarga": "2026-10-21T14:14:00.826693+00:00"
+}

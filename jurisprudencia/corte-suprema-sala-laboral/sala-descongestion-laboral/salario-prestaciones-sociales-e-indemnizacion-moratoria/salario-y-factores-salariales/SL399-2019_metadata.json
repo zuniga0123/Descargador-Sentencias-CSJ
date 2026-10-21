@@ -1,0 +1,26 @@
+{
+  "radicado": "SL399-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-02-19T14:09:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1048 de 1978",
+    "Decreto 1160 de 1974",
+    "Decreto 3135 de 1968",
+    "Decreto 691 de 1994",
+    "Ley 10 de 1990",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Donald Jose Dix Ponnefz/Sentencias/SL399-2019.doc",
+  "fecha_descarga": "2026-10-21T14:23:53.294645+00:00"
+}

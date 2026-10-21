@@ -1,0 +1,22 @@
+{
+  "radicado": "SL147-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-03-29T23:57:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 141,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2351 de 1965",
+    "Ley 1563 de 2012",
+    "Ley 584 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Fernando Castillo Cadena/Sentencias/SL147-2019.doc",
+  "fecha_descarga": "2026-10-21T14:05:04.451707+00:00"
+}

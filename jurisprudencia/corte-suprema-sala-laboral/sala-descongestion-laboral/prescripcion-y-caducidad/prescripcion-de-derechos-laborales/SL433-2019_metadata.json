@@ -1,0 +1,23 @@
+{
+  "radicado": "SL433-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-02-25T20:53:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 0169 de 2006",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 22 de 1967",
+    "Ley 71 de 1961"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL433-2019.doc",
+  "fecha_descarga": "2026-10-21T14:21:07.362653+00:00"
+}

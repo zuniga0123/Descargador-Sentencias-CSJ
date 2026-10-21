@@ -1,0 +1,30 @@
+{
+  "radicado": "SL920-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-03-20T20:48:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1947",
+    "Decreto 2127 de 1945",
+    "Decreto 3118 de 1968",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 1071 de 2006",
+    "Ley 153 de 1887",
+    "Ley 2 de 1984",
+    "Ley 344 de 1996",
+    "Ley 50 de 1990",
+    "Ley 6 de 1945",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL920-2019.doc",
+  "fecha_descarga": "2026-10-21T14:10:58.138132+00:00"
+}

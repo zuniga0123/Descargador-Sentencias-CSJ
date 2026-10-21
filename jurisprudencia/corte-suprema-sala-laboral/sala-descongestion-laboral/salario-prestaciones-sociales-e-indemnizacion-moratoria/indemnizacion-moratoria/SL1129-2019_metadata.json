@@ -1,0 +1,31 @@
+{
+  "radicado": "SL1129-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-04-02T18:05:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 39,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 2135 de 1992",
+    "Decreto 2196 de 2006",
+    "Decreto 2196 de 2009",
+    "Decreto 2211 de 2004",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 6 de 1945",
+    "Ley 712 de 2001",
+    "Ley 797 de 1949",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL1129-2019.doc",
+  "fecha_descarga": "2026-10-21T14:03:20.630220+00:00"
+}

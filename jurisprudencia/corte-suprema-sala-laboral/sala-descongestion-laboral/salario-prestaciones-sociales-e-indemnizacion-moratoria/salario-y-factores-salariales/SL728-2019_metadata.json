@@ -1,0 +1,25 @@
+{
+  "radicado": "SL728-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-03-11T22:00:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 55,
+  "leyes_o_articulos": [
+    "LEY 715 DE 2001",
+    "Ley 10 de 1990",
+    "Ley 50 de 1990",
+    "Ley 524 de 1999",
+    "Ley 6 de 1945",
+    "Ley 60 de 1993",
+    "Ley 715 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Donald Jose Dix Ponnefz/Sentencias/SL728-2019.doc",
+  "fecha_descarga": "2026-10-21T14:15:21.581163+00:00"
+}

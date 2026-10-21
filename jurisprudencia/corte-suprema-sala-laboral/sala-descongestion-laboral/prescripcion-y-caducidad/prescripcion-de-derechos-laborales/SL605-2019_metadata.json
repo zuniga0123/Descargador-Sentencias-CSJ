@@ -1,0 +1,25 @@
+{
+  "radicado": "SL605-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-03-08T21:44:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1222 de 1986",
+    "Decreto 3130 de 1968",
+    "Decreto 3135 de 1968",
+    "Ley 10 de 1990",
+    "Ley 50 de 1990",
+    "Ley 524 de 1999",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL605-2019.doc",
+  "fecha_descarga": "2026-10-21T14:16:33.075134+00:00"
+}

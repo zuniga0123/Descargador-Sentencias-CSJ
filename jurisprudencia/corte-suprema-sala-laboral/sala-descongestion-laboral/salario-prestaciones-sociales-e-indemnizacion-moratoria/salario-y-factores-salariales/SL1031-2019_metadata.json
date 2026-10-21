@@ -1,0 +1,21 @@
+{
+  "radicado": "SL1031-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-03-27T20:29:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 2027 de 1951",
+    "Ley 100 de 1993",
+    "Ley 1118 de 2006"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Ana Maria Muñoz Segura/Sentencias/SL1031-2019.doc",
+  "fecha_descarga": "2026-10-21T14:07:12.133177+00:00"
+}

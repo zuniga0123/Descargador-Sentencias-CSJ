@@ -1,0 +1,30 @@
+{
+  "radicado": "SL234-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-03-16T01:16:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1068 de 1995",
+    "Decreto 1748 de 1994",
+    "Decreto 1848 de 1969",
+    "Decreto 1887 de 1994",
+    "Decreto 2143 de 1995",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 33 de 1988",
+    "Ley 433 de 1971",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Fernando Castillo Cadena/Sentencias/SL234-2019.doc",
+  "fecha_descarga": "2026-10-21T14:13:34.261687+00:00"
+}

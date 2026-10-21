@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1041-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-03-28T13:28:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Tipos de contrato y vinculación",
+  "puntaje_clasificacion": 8,
+  "leyes_o_articulos": [
+    "Decreto 1233 de 1986",
+    "Decreto 1876 de 1994",
+    "Decreto 3135 de 1968",
+    "Ley 10 de 1990",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL1041-2019.doc",
+  "fecha_descarga": "2026-10-21T14:07:03.210599+00:00"
+}
