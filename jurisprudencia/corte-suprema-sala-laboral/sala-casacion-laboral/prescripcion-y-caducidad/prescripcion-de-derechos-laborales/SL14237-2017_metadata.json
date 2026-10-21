@@ -1,0 +1,32 @@
+{
+  "radicado": "SL14237-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-14T22:18:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1578 de 2001",
+    "Decreto 1748 de 1995",
+    "Decreto 2590 de 2003",
+    "Decreto 2601 de 2009",
+    "Decreto 4380 de 2004",
+    "Decreto 637 de 2007",
+    "Decreto 805 de 2000",
+    "Ley 100 de 1993",
+    "Ley 1105 de 2006",
+    "Ley 153 de 1887",
+    "Ley 254 de 2000",
+    "Ley 446 de 1998",
+    "Ley 573 de 2000",
+    "Ley 637 de 2007"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL14237-2017.doc",
+  "fecha_descarga": "2026-10-21T18:59:56.135049+00:00"
+}

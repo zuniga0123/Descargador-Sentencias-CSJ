@@ -1,0 +1,26 @@
+{
+  "radicado": "SL15714-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-03T20:44:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 4404 de 2004",
+    "Ley 1045 de 1978",
+    "Ley 153 de 1887",
+    "Ley 270 de 1996",
+    "Ley 489 de 1998",
+    "Ley 50 de 1990",
+    "Ley 64 de 1846"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Prada Sanchez/Sentencias/SL15714-2017.docx",
+  "fecha_descarga": "2026-10-21T18:48:42.938527+00:00"
+}

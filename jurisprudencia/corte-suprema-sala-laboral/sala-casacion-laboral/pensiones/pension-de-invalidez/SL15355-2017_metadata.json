@@ -1,0 +1,20 @@
+{
+  "radicado": "SL15355-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-03T20:41:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL15355-2017.docx",
+  "fecha_descarga": "2026-10-21T18:48:44.644134+00:00"
+}

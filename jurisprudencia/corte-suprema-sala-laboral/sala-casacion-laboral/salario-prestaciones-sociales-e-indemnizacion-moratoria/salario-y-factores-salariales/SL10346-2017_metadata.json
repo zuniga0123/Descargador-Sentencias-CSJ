@@ -1,0 +1,24 @@
+{
+  "radicado": "SL10346-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-06T18:40:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Ley 1042 de 1978",
+    "Ley 1050 de 1968",
+    "Ley 2351 de 1965",
+    "Ley 3130 de 1968",
+    "Ley 790 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Donald Jose Dix Ponnefz/Sentencias/SL10346-2017.doc",
+  "fecha_descarga": "2026-10-21T19:03:58.517849+00:00"
+}

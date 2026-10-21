@@ -1,0 +1,24 @@
+{
+  "radicado": "SL14118-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-13T21:40:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1745 de 1995",
+    "Decreto 2879 de 1985",
+    "Decreto 758 de 1990",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2017/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL14118-2017.doc",
+  "fecha_descarga": "2026-10-21T19:00:50.261826+00:00"
+}

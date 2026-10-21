@@ -1,0 +1,26 @@
+{
+  "radicado": "SL15873-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-06T19:56:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2496 de 1982",
+    "Decreto 3041 de 1966",
+    "Decreto 3170 de 1964",
+    "Ley 153 de 1887",
+    "Ley 3170 de 1964",
+    "Ley 433 de 1971",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL15873-2017.doc",
+  "fecha_descarga": "2026-10-21T18:46:30.326412+00:00"
+}

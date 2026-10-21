@@ -1,0 +1,26 @@
+{
+  "radicado": "SL11123-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-14T17:09:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1615 de 2003",
+    "Decreto 2123 de 1992",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 2200 de 1987",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL11123-2017.doc",
+  "fecha_descarga": "2026-10-21T19:00:14.735369+00:00"
+}

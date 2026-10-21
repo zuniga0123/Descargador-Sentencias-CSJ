@@ -1,0 +1,28 @@
+{
+  "radicado": "SL14692-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-21T13:23:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 1077 de 2015",
+    "Decreto 1713 de 2002",
+    "Decreto 2351 de 1965",
+    "Decreto 2811 de 1974",
+    "Ley 100 de 1993",
+    "Ley 142 de 1994",
+    "Ley 52 de 1975",
+    "Ley 689 de 2001",
+    "Ley 9 de 1979",
+    "Ley 99 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Fernando Castillo Cadena/Sentencias/SL14692-2017.doc",
+  "fecha_descarga": "2026-10-21T18:57:40.602419+00:00"
+}

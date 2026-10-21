@@ -1,0 +1,21 @@
+{
+  "radicado": "SL11938-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-26T17:13:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 2013 de 2012",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Rigoberto Echeverri Bueno/Sentencias/SL11938-2017.doc",
+  "fecha_descarga": "2026-10-21T18:55:06.428878+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "radicado": "SL14834-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-29T18:30:50Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 446 de 1998",
+    "Ley 640 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2017/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL14834-2017.pdf",
+  "fecha_descarga": "2026-10-21T18:51:10.307573+00:00"
+}

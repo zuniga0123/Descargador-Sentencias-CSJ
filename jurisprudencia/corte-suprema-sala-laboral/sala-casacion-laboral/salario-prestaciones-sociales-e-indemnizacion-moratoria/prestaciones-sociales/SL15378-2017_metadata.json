@@ -1,0 +1,28 @@
+{
+  "radicado": "SL15378-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-29T21:23:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 41,
+  "leyes_o_articulos": [
+    "Decreto 1176 de 1961",
+    "Decreto 1582 de 1998",
+    "Decreto 797 de 1949",
+    "Ley 141 de 1961",
+    "Ley 142 de 1994",
+    "Ley 153 de 1987",
+    "Ley 244 de 1995",
+    "Ley 344 de 1996",
+    "Ley 50 de 1990",
+    "Ley 797 de 1949"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL15378-2017.docx",
+  "fecha_descarga": "2026-10-21T18:50:38.759962+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL13786-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-13T18:02:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 1818 de 1998",
+    "Decreto 2351 de 1965",
+    "Decreto 797 de 2003",
+    "Ley 100 de 1993",
+    "Ley 444 de 1998",
+    "Ley 794 de 2003",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL13786-2017.doc",
+  "fecha_descarga": "2026-10-21T19:01:30.353150+00:00"
+}

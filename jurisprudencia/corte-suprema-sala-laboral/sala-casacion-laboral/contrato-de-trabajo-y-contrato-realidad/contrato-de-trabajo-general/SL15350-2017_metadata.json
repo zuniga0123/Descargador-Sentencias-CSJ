@@ -1,0 +1,20 @@
+{
+  "radicado": "SL15350-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-02T20:28:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 38,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL15350-2017.docx",
+  "fecha_descarga": "2026-10-21T18:49:59.891188+00:00"
+}

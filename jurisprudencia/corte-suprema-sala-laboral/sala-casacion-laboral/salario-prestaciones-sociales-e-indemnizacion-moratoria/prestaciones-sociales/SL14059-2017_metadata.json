@@ -1,0 +1,33 @@
+{
+  "radicado": "SL14059-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-12T17:50:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 1222 de 1986",
+    "Decreto 1333 de 1986",
+    "Decreto 1421 de 1993",
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 3133 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 1050 de 1968",
+    "Ley 11 de 1986",
+    "Ley 142 de 1994",
+    "Ley 153 de 1887",
+    "Ley 3135 de 1968",
+    "Ley 50 de 1990",
+    "Ley 57 de 1985",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Prada Sanchez/Sentencias/SL14059-2017.doc",
+  "fecha_descarga": "2026-10-21T19:02:27.064479+00:00"
+}

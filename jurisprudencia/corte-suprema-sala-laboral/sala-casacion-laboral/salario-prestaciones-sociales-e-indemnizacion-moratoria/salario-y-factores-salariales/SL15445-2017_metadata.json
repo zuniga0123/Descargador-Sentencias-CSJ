@@ -1,0 +1,24 @@
+{
+  "radicado": "SL15445-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-29T21:16:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 1281 de 1994",
+    "Decreto 2090 de 2003",
+    "Decreto 2150 de 1995",
+    "Decreto 2633 de 1994",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL15445-2017.docx",
+  "fecha_descarga": "2026-10-21T18:50:42.402089+00:00"
+}

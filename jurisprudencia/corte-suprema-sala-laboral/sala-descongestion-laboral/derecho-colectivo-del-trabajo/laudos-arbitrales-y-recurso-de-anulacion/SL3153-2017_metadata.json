@@ -1,0 +1,20 @@
+{
+  "radicado": "SL3153-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-25T16:55:43Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Laudos arbitrales y recurso de anulación",
+  "puntaje_clasificacion": 2,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2013 de 1986"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2017/Dr.Rigoberto Echeverri Bueno/Sentencias/SL3153-2017.pdf",
+  "fecha_descarga": "2026-10-21T18:39:31.736610+00:00"
+}

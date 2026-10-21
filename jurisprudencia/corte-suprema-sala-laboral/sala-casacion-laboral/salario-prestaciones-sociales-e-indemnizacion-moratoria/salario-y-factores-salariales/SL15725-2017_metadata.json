@@ -1,0 +1,28 @@
+{
+  "radicado": "SL15725-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-03T20:22:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 2127 de 1945",
+    "Ley 100 de 1993",
+    "Ley 151 de 1959",
+    "Ley 446 de 1998",
+    "Ley 489 de 1998",
+    "Ley 50 de 1990",
+    "Ley 51 de 1983",
+    "Ley 6 de 1945",
+    "Ley 64 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Prada Sanchez/Sentencias/SL15725-2017.docx",
+  "fecha_descarga": "2026-10-21T18:48:57.277990+00:00"
+}

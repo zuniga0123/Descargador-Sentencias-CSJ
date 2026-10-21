@@ -1,0 +1,24 @@
+{
+  "radicado": "SL6111-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-14T18:05:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 168,
+  "leyes_o_articulos": [
+    "Decreto 2739 de 2012",
+    "Decreto 4950 de 2007",
+    "Ley 100 de 1993",
+    "Ley 11 de 1984",
+    "Ley 29 de 1982",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL6111-2017.doc",
+  "fecha_descarga": "2026-10-21T19:00:11.490416+00:00"
+}

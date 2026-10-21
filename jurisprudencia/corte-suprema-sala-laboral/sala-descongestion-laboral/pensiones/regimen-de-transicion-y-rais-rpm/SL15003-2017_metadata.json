@@ -1,0 +1,22 @@
+{
+  "radicado": "SL15003-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-27T16:12:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1818 de 1996",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2017/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL15003-2017.docx",
+  "fecha_descarga": "2026-10-21T18:54:20.500251+00:00"
+}

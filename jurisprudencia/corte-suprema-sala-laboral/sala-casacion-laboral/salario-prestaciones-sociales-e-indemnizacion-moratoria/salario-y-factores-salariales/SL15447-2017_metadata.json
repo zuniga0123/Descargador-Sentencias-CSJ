@@ -1,0 +1,21 @@
+{
+  "radicado": "SL15447-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-29T20:55:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 50,
+  "leyes_o_articulos": [
+    "Decreto 797 de 1949",
+    "Ley 789 de 2002",
+    "Ley 789 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL15447-2017.docx",
+  "fecha_descarga": "2026-10-21T18:50:53.158170+00:00"
+}

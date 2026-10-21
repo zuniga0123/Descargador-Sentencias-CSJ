@@ -1,0 +1,25 @@
+{
+  "radicado": "SL11920-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-27T20:15:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 153 de 1887",
+    "Ley 2351 de 1965",
+    "Ley 48 de 1968",
+    "Ley 50 de 1990",
+    "Ley 65 de 1966",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL11920-2017.doc",
+  "fecha_descarga": "2026-10-21T18:53:55.292883+00:00"
+}

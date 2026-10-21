@@ -1,0 +1,20 @@
+{
+  "radicado": "SL12488-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-06T19:02:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Donald Jose Dix Ponnefz/Sentencias/SL12488-2017.docx",
+  "fecha_descarga": "2026-10-21T19:03:56.650952+00:00"
+}

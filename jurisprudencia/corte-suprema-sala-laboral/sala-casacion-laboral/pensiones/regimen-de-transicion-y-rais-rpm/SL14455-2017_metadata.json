@@ -1,0 +1,29 @@
+{
+  "radicado": "SL14455-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-28T16:03:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 39,
+  "leyes_o_articulos": [
+    "Decreto 1474 de 1997",
+    "Decreto 1600 de 1945",
+    "Decreto 1748 de 1995",
+    "Decreto 196 de 1971",
+    "Decreto 27089 de 1994",
+    "Decreto 2709 de 1994",
+    "Decreto 4937 de 2009",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 6 de 1945",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Gerardo Botero Zuluaga/Sentencias/SL14455-2017.doc",
+  "fecha_descarga": "2026-10-21T18:52:49.759139+00:00"
+}

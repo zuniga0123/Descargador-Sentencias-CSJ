@@ -1,0 +1,25 @@
+{
+  "radicado": "SL16917-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-18T17:42:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 270 de 1996",
+    "Ley 393 de 1997",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2017/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL16917-2017.doc",
+  "fecha_descarga": "2026-10-21T18:42:16.394863+00:00"
+}

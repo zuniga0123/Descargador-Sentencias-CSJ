@@ -1,0 +1,23 @@
+{
+  "radicado": "SL14652-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-21T14:17:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 8,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1258 de 1948",
+    "Ley 2158 de 1948",
+    "Ley 33 de 1985",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Prada Sanchez/Sentencias/SL14652-2017.docx",
+  "fecha_descarga": "2026-10-21T18:57:35.297127+00:00"
+}

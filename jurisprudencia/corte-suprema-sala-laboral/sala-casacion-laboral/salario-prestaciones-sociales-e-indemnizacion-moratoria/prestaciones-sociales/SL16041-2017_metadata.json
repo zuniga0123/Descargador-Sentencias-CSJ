@@ -1,0 +1,21 @@
+{
+  "radicado": "SL16041-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-04T21:05:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 39,
+  "leyes_o_articulos": [
+    "Decreto 2164 de 1959",
+    "Decreto 2352 de 1965",
+    "Ley 16 de 1969"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Ernesto Forero Vargas/Sentencias/SL16041-2017.doc",
+  "fecha_descarga": "2026-10-21T18:47:31.187020+00:00"
+}

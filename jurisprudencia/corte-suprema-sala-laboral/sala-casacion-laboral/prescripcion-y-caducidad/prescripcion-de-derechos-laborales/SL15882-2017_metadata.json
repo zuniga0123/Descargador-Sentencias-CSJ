@@ -1,0 +1,27 @@
+{
+  "radicado": "SL15882-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-06T19:49:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 2591 de 1991",
+    "Decreto 2591 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 153 de 1887",
+    "Ley 2591 de 1991",
+    "Ley 57 de 1887",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL15882-2017.doc",
+  "fecha_descarga": "2026-10-21T18:46:32.156603+00:00"
+}

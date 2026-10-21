@@ -1,0 +1,23 @@
+{
+  "radicado": "SL15440-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-29T21:30:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1281 de 1994",
+    "Decreto 1831 de 1994",
+    "Decreto 2090 de 2003",
+    "Decreto 2150 de 1995",
+    "Decreto 758 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL15440-2017.docx",
+  "fecha_descarga": "2026-10-21T18:50:33.415429+00:00"
+}

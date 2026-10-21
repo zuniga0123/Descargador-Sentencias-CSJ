@@ -1,0 +1,22 @@
+{
+  "radicado": "SL15252-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-29T13:04:52Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 1887 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1395 de 2010",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2017/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL15252-2017.pdf",
+  "fecha_descarga": "2026-10-21T18:51:37.117313+00:00"
+}

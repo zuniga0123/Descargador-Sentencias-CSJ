@@ -1,0 +1,29 @@
+{
+  "radicado": "SL16529-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-12T14:50:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 63,
+  "leyes_o_articulos": [
+    "Decreto 1748 de 1995",
+    "Decreto 1887 de 1994",
+    "Decreto 2351 de 1965",
+    "Decreto 2665 de 1988",
+    "Decreto 3798 de 2003",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL16529-2017.doc",
+  "fecha_descarga": "2026-10-21T18:44:21.103349+00:00"
+}

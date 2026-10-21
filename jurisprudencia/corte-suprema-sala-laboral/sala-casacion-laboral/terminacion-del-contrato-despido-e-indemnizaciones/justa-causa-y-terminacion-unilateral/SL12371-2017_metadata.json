@@ -1,0 +1,21 @@
+{
+  "radicado": "SL12371-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-15T17:27:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Ley 153 de 1987",
+    "Ley 171 de 1961"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Fernando Castillo Cadena/Sentencias/SL12371-2017.doc",
+  "fecha_descarga": "2026-10-21T18:59:47.281389+00:00"
+}

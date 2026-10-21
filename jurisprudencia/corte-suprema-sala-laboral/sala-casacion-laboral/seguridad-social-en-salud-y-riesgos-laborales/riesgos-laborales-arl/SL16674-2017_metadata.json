@@ -1,0 +1,31 @@
+{
+  "radicado": "SL16674-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-12T20:02:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 67,
+  "leyes_o_articulos": [
+    "Decreto 13 de 1967",
+    "Decreto 2282 de 1989",
+    "Decreto 2351 de 1965",
+    "Decreto 528 de 1964",
+    "Ley 1149 de 2007",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 712 de 2001",
+    "Ley 782 de 2002",
+    "Ley 794 de 2003",
+    "Ley 995 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Ernesto Forero Vargas/Sentencias/SL16674-2017.doc",
+  "fecha_descarga": "2026-10-21T18:44:06.613654+00:00"
+}

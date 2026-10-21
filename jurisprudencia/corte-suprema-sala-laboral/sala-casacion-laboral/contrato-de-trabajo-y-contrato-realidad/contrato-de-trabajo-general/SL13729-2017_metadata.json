@@ -1,0 +1,23 @@
+{
+  "radicado": "SL13729-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-12T18:00:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Ley 11 de 1986",
+    "Ley 6 de 1945",
+    "Ley 80 de 1983",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Prada Sanchez/Sentencias/SL13729-2017.docx",
+  "fecha_descarga": "2026-10-21T19:02:21.714796+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "radicado": "SL13752-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-13T20:31:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1065 de 1999",
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 171 de 1971",
+    "Ley 4 de 1976",
+    "Ley 50 de 1990",
+    "Ley 57 de 1931",
+    "Ley 64 de 1946",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL13752-2017.doc",
+  "fecha_descarga": "2026-10-21T19:01:10.354630+00:00"
+}

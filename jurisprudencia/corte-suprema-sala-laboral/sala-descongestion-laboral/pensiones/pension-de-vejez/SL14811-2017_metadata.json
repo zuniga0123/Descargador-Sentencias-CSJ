@@ -1,0 +1,21 @@
+{
+  "radicado": "SL14811-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-29T16:58:47Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 17 de 1961",
+    "Ley 171 de 1961"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2017/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL14811-2017.pdf",
+  "fecha_descarga": "2026-10-21T18:51:17.414406+00:00"
+}

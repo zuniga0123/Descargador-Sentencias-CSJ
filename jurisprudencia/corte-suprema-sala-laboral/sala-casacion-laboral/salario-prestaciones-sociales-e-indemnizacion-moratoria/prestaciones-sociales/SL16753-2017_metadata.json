@@ -1,0 +1,24 @@
+{
+  "radicado": "SL16753-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-13T14:41:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Ley 1116 de 2006",
+    "Ley 222 de 1995",
+    "Ley 50 de 1990",
+    "Ley 712 de 2001",
+    "Ley 789 de 2002",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Prada Sanchez/Sentencias/SL16753-2017.doc",
+  "fecha_descarga": "2026-10-21T18:43:57.547702+00:00"
+}

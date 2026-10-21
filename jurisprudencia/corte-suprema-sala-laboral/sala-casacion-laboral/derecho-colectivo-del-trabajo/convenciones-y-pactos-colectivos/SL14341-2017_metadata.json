@@ -1,0 +1,29 @@
+{
+  "radicado": "SL14341-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-15T15:50:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1750 de 2003",
+    "Decreto 2148 de 1992",
+    "Decreto 3135 de 1968",
+    "Decreto 528 de 1964",
+    "Decreto 81 de 1976",
+    "Ley 153 de 1887",
+    "Ley 16 de 1969",
+    "Ley 222 de 1983",
+    "Ley 446 de 1998",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL14341-2017.doc",
+  "fecha_descarga": "2026-10-21T18:59:54.309225+00:00"
+}

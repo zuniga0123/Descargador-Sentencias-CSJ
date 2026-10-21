@@ -1,0 +1,22 @@
+{
+  "radicado": "SL14957-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-25T18:12:06Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 49,
+  "leyes_o_articulos": [
+    "Decreto 1653 de 1977",
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Ley 791 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2017/Dra.Ana Maria Muñoz Segura/Sentencias/SL14957-2017.pdf",
+  "fecha_descarga": "2026-10-21T18:55:56.154028+00:00"
+}

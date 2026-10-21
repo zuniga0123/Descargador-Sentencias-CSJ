@@ -1,0 +1,22 @@
+{
+  "radicado": "SL14315-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-29T15:54:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 16 de 1960",
+    "Ley 16 de 1969",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL14315-2017.docx",
+  "fecha_descarga": "2026-10-21T18:51:28.199138+00:00"
+}

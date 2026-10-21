@@ -1,0 +1,26 @@
+{
+  "radicado": "SL9240-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-19T14:07:00Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 123,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989",
+    "Decreto 2531 de 1965",
+    "Decreto 694 de 1994",
+    "Ley 153 de 1887",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 54 de 1992",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Luis Quiroz Alemán/Sentencias/SL9240-2017.doc",
+  "fecha_descarga": "2026-10-21T18:41:49.087592+00:00"
+}

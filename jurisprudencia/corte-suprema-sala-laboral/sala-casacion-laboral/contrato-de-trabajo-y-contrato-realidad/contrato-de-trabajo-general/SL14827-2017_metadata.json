@@ -1,0 +1,21 @@
+{
+  "radicado": "SL14827-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-29T17:04:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 767 de 1949",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL14827-2017.docx",
+  "fecha_descarga": "2026-10-21T18:51:13.853486+00:00"
+}

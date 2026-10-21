@@ -1,0 +1,29 @@
+{
+  "radicado": "SL14200-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-15T21:24:54Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 1068 de 1995",
+    "Decreto 1160 de 1994",
+    "Decreto 1748 de 1994",
+    "Decreto 1748 de 1995",
+    "Decreto 1848 de 1969",
+    "Decreto 1887 de 1994",
+    "Decreto 2143 de 1995",
+    "Decreto 2527 de 2000",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2017/Dr. Donald Jose Dix Ponnefz/Sentencias/SL14200-2017.pdf",
+  "fecha_descarga": "2026-10-21T18:59:27.571725+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "radicado": "SL15850-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-03T15:47:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Donald Jose Dix Ponnefz/Sentencias/SL15850-2017.doc",
+  "fecha_descarga": "2026-10-21T18:49:40.240711+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "radicado": "SL17358-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-25T16:06:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 1160 de 1988",
+    "Decreto 1295 de 1994",
+    "Decreto 1848 de 1969",
+    "Decreto 2661 de 1960",
+    "Decreto 625 de 1988",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 344 de 1996",
+    "Ley 4 de 1992",
+    "Ley 6 de 1945",
+    "Ley 71 de 1988",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL17358-2017.doc",
+  "fecha_descarga": "2026-10-21T18:39:41.032609+00:00"
+}

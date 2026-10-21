@@ -1,0 +1,22 @@
+{
+  "radicado": "SL15716-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-03T20:32:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 692 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Prada Sanchez/Sentencias/SL15716-2017.docx",
+  "fecha_descarga": "2026-10-21T18:48:51.864776+00:00"
+}

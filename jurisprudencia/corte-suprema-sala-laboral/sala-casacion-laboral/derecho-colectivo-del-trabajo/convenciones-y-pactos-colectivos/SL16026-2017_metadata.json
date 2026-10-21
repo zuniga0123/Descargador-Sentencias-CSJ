@@ -1,0 +1,23 @@
+{
+  "radicado": "SL16026-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-09T16:03:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 029 de 1985",
+    "Decreto 1748 de 1995",
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Decreto 813 de 1994"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL16026-2017.doc",
+  "fecha_descarga": "2026-10-21T18:46:05.873241+00:00"
+}

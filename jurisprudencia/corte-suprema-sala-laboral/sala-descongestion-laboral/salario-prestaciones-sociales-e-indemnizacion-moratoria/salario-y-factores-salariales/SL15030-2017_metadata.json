@@ -1,0 +1,33 @@
+{
+  "radicado": "SL15030-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-22T19:46:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Decreto 1333 de 1086",
+    "Decreto 1333 de 1946",
+    "Decreto 1333 de 1986",
+    "Decreto 1421 de 1003",
+    "Decreto 1421 de 1993",
+    "Decreto 2127 de 1945",
+    "Decreto 2615 de 1946",
+    "Decreto 3135 de 1958",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 181 de 1995",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2017/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL15030-2017.docx",
+  "fecha_descarga": "2026-10-21T18:56:22.637789+00:00"
+}
