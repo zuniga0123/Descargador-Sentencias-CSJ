@@ -1,0 +1,20 @@
+{
+  "radicado": "AL795-2021",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "AUTO",
+  "ano": 2021,
+  "fecha_creacion": "2021-03-09T14:23:21Z",
+  "magistrado_ponente": "Dr. Ivan Mauricio Lenis Gomez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 4,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 528 de 1964"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2021/Dr. Ivan Mauricio Lenis Gomez/Autos/AL795-2021.pdf",
+  "fecha_descarga": "2026-10-20T23:56:16.148324+00:00"
+}
