@@ -1,0 +1,23 @@
+{
+  "radicado": "SL4040-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2021-03-26T22:17:08Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1346 de 2009",
+    "Ley 153 de 1887",
+    "Ley 1618 de 2013",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL4040-2019.pdf",
+  "fecha_descarga": "2026-10-21T11:56:00.792034+00:00"
+}

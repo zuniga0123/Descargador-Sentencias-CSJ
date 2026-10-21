@@ -1,0 +1,28 @@
+{
+  "radicado": "SL5410-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-12-11T01:11:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1994",
+    "Decreto 1333 de 1986",
+    "Decreto 1748 de 1995",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 142 de 1994",
+    "Ley 183 de 1887",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1985",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Ana Maria Muñoz Segura/Sentencias/SL5410-2019.doc",
+  "fecha_descarga": "2026-10-21T12:05:22.629560+00:00"
+}

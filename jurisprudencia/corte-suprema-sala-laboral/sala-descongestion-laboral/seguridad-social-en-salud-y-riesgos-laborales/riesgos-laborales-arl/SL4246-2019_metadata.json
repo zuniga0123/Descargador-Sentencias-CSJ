@@ -1,0 +1,31 @@
+{
+  "radicado": "SL4246-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-11-29T18:40:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1624 de 1995",
+    "Decreto 1642 de 1995",
+    "Decreto 1772 de 1994",
+    "Decreto 2282 de 1989",
+    "Decreto 2463 de 2001",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990",
+    "Ley 712 de 2001",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL4246-2019.doc",
+  "fecha_descarga": "2026-10-21T12:12:39.624435+00:00"
+}

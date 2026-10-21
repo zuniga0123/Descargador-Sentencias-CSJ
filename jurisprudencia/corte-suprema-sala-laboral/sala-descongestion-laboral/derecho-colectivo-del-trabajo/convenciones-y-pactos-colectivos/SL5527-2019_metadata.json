@@ -1,0 +1,27 @@
+{
+  "radicado": "SL5527-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-12-12T22:45:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 1083 de 2015",
+    "Decreto 1750 de 2003",
+    "Decreto 2127 de 1945",
+    "Decreto 254 de 2000",
+    "Decreto 2605 de 2008",
+    "Decreto 405 de 2007",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 1105 de 2006"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Donald Jose Dix Ponnefz/Sentencias/SL5527-2019.doc",
+  "fecha_descarga": "2026-10-21T12:02:16.884496+00:00"
+}

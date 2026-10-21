@@ -1,0 +1,25 @@
+{
+  "radicado": "SL5411-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-12-11T01:27:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 19 de 2012",
+    "Decreto 2463 de 2001",
+    "Decreto 2661 de 2001",
+    "Ley 100 de 1993",
+    "Ley 1753 de 2015",
+    "Ley 361 de 1997",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Ana Maria Muñoz Segura/Sentencias/SL5411-2019.doc",
+  "fecha_descarga": "2026-10-21T12:05:20.917740+00:00"
+}

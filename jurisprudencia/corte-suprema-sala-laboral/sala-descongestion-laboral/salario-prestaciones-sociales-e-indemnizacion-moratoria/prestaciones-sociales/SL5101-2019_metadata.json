@@ -1,0 +1,27 @@
+{
+  "radicado": "SL5101-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-12-04T14:07:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 92,
+  "leyes_o_articulos": [
+    "Decreto 062 de 1970",
+    "Decreto 1209 de 1994",
+    "Decreto 2027 de 1951",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 2 de 1984",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL5101-2019.doc",
+  "fecha_descarga": "2026-10-21T12:10:15.204698+00:00"
+}

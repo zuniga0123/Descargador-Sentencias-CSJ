@@ -1,0 +1,32 @@
+{
+  "radicado": "SL5547-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-12-13T16:27:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 0169 de 2006",
+    "Decreto 0182 de 2005",
+    "Decreto 0254 de 2004",
+    "Decreto 1045 de 1978",
+    "Decreto 2127 de 1945",
+    "Decreto 2135 de 1992",
+    "Decreto 2351 de 1965",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 151 de 1959",
+    "Ley 153 de 1887",
+    "Ley 489 de 1998",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL5547-2019.doc",
+  "fecha_descarga": "2026-10-21T12:01:44.247210+00:00"
+}

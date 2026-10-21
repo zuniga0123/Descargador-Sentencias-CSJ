@@ -1,0 +1,27 @@
+{
+  "radicado": "SL4313-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-11-18T20:23:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 80,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 1315 de 1998",
+    "Decreto 1399 de 1994",
+    "Decreto 1474 de 1997",
+    "Decreto 1513 de 1998",
+    "Decreto 1748 de 1995",
+    "Decreto 3798 de 2003",
+    "Ley 100 de 1993",
+    "Ley 1299 de 1994"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Fernando Castillo Cadena/Sentencias/SL4313-2019.doc",
+  "fecha_descarga": "2026-10-21T12:17:27.923536+00:00"
+}

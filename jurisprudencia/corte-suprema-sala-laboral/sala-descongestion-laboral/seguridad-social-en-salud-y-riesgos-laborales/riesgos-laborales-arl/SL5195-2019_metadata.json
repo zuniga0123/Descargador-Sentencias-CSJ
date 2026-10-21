@@ -1,0 +1,23 @@
+{
+  "radicado": "SL5195-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-12-19T16:00:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1995",
+    "Decreto 917 de 1999",
+    "Ley 270 de 1996",
+    "Ley 446 de 1998",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Fernando Castillo Cadena/Sentencias/SL5195-2019.doc",
+  "fecha_descarga": "2026-10-21T11:59:32.260707+00:00"
+}

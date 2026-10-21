@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1421-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2021-02-16T16:14:08Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 1642 de 1995",
+    "Decreto 2055 de 2010",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1748 de 2014",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Gerardo Botero Zuluaga/Sentencias/SL1421-2019.pdf",
+  "fecha_descarga": "2026-10-21T11:56:10.872488+00:00"
+}

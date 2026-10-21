@@ -1,0 +1,28 @@
+{
+  "radicado": "SL5049-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-11-25T16:12:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 1374 de 1979",
+    "Decreto 3130 de 1968",
+    "Decreto 3135 de 1968",
+    "Decreto 530 de 1994",
+    "Ley 10 de 1990",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990",
+    "Ley 524 de 1999",
+    "Ley 60 de 1993",
+    "Ley 715 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL5049-2019.doc",
+  "fecha_descarga": "2026-10-21T12:15:35.324562+00:00"
+}

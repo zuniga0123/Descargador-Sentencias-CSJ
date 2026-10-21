@@ -1,0 +1,26 @@
+{
+  "radicado": "SL5606-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2020-01-13T22:21:00Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 1352 de 2013",
+    "Decreto 19 de 2002",
+    "Decreto 19 de 2012",
+    "Decreto 2463 de 2001",
+    "Ley 100 de 1993",
+    "Ley 1352 de 2013",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Jorge Luis Quiroz Alemán/Sentencias/SL5606-2019.doc",
+  "fecha_descarga": "2026-10-21T11:58:38.987634+00:00"
+}

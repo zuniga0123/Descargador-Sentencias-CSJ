@@ -1,0 +1,31 @@
+{
+  "radicado": "SL5029-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-11-20T20:25:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Tipos de contrato y vinculación",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Decreto 1049 de 2006",
+    "Decreto 2211 de 2004",
+    "Decreto 255 de 2000",
+    "Decreto 2651 de 1991",
+    "Decreto 2721 de 2008",
+    "Decreto 2842 de 2013",
+    "Decreto 663 de 1993",
+    "Ley 100 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1151 de 2007",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Ana Maria Muñoz Segura/Sentencias/SL5029-2019.doc",
+  "fecha_descarga": "2026-10-21T12:16:12.844483+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "radicado": "SL5145-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-11-27T20:34:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 47,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 1945 de 1978",
+    "Decreto 2127 de 1945",
+    "Decreto 2170 de 2002",
+    "Decreto 2351 de 1965",
+    "Decreto 3135 de 1968",
+    "Decreto 553 de 2015",
+    "Decreto 797 de 1949",
+    "Decreto 797 de 2003",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 2351 de 1965",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL5145-2019.doc",
+  "fecha_descarga": "2026-10-21T12:13:33.476853+00:00"
+}

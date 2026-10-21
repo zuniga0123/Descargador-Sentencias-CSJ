@@ -1,0 +1,27 @@
+{
+  "radicado": "SL5208-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-12-02T20:14:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 092 de 2000",
+    "Decreto 130 de 1976",
+    "Decreto 1600 de 1945",
+    "Decreto 1848 de 1969",
+    "Decreto 2527 de 2000",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 6 de 1945",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Ana Maria Muñoz Segura/Sentencias/SL5208-2019.doc",
+  "fecha_descarga": "2026-10-21T12:11:31.362496+00:00"
+}

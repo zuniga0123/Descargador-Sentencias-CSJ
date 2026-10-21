@@ -1,0 +1,26 @@
+{
+  "radicado": "SL4350-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-12-05T17:10:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 43,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1530 de 1996",
+    "Decreto 1772 de 1994",
+    "Decreto 2800 de 2003",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 776 de 2002",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Rigoberto Echeverri Bueno/Sentencias/SL4350-2019.doc",
+  "fecha_descarga": "2026-10-21T12:08:29.609329+00:00"
+}

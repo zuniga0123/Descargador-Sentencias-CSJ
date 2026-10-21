@@ -1,0 +1,26 @@
+{
+  "radicado": "SL5280-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-12-04T22:56:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 0958 de 1984",
+    "Decreto 732 de 1976",
+    "Decreto 958 de 1984",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 4 de 1976",
+    "Ley 446 de 1998",
+    "Ley 640 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Ana Maria Muñoz Segura/Sentencias/SL5280-2019.doc",
+  "fecha_descarga": "2026-10-21T12:09:21.465541+00:00"
+}

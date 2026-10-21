@@ -1,0 +1,27 @@
+{
+  "radicado": "SL5033-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-11-21T14:59:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 1373 de 1966",
+    "Decreto 1469 de 1978",
+    "Decreto 198 de 2005",
+    "Decreto 2351 de 1965",
+    "Ley 142 de 1994",
+    "Ley 26 de 1976",
+    "Ley 27 de 1976",
+    "Ley 50 de 1990",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Ernesto Forero Vargas/Sentencias/SL5033-2019.doc",
+  "fecha_descarga": "2026-10-21T12:15:53.506929+00:00"
+}
