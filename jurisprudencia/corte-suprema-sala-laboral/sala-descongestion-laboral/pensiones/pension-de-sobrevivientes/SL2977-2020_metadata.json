@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2977-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-08-24T20:52:17Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 270 de 1996",
+    "Ley 393 de 1997",
+    "Ley 797 de 2003",
+    "Ley 797 de 2007",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL2977-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:12:58.382798+00:00"
+}
