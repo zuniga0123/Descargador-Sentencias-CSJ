@@ -1,0 +1,27 @@
+{
+  "radicado": "SL4621-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-06-22T23:24:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 1237 de 1946",
+    "Decreto 2132 de 1992",
+    "Decreto 2661 de 1960",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 22 de 1945",
+    "Ley 28 de 1943",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Rigoberto Echeverri Bueno/Sentencias/SL4621-2017.doc",
+  "fecha_descarga": "2026-10-21T19:28:34.836445+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "radicado": "SL11360-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-11T17:59:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 82,
+  "leyes_o_articulos": [
+    "Decreto 3995 de 2008",
+    "Ley 100 de 1993",
+    "Ley 270 de 1996",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL11360-2017.docx",
+  "fecha_descarga": "2026-10-21T19:14:37.514594+00:00"
+}

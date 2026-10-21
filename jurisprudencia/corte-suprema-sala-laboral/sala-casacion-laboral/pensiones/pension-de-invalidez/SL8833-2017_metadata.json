@@ -1,0 +1,23 @@
+{
+  "radicado": "SL8833-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-07-06T17:13:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 1900 de 1983",
+    "Decreto 2013 de 2012",
+    "Decreto 3170 de 1964",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Fernando Castillo Cadena/Sentencias/SL8833-2017.doc",
+  "fecha_descarga": "2026-10-21T19:26:45.194381+00:00"
+}

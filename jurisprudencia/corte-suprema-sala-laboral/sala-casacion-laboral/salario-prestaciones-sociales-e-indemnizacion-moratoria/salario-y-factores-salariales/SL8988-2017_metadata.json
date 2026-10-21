@@ -1,0 +1,20 @@
+{
+  "radicado": "SL8988-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-07-06T20:53:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Ley 6 de 1945",
+    "Ley 64 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Rigoberto Echeverri Bueno/Sentencias/SL8988-2017.doc",
+  "fecha_descarga": "2026-10-21T19:26:39.877988+00:00"
+}

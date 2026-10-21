@@ -1,0 +1,27 @@
+{
+  "radicado": "SL13175-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-30T10:29:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 691 de 1994",
+    "Ley 10 de 1972",
+    "Ley 100 de 1993",
+    "Ley 142 de 1994",
+    "Ley 33 de 1985",
+    "Ley 50 de 1990",
+    "Ley 62 de 1985",
+    "Ley 640 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Ernesto Forero Vargas/Sentencias/SL13175-2017.docx",
+  "fecha_descarga": "2026-10-21T19:07:10.521560+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL7690-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-04T23:35:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 1745 de 1995",
+    "Decreto 2879 de 1985",
+    "Decreto 692 de 1994",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 6 de 1945",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Fernando Castillo Cadena/Sentencias/SL7690-2017.doc",
+  "fecha_descarga": "2026-10-21T19:16:54.222399+00:00"
+}

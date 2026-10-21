@@ -1,0 +1,23 @@
+{
+  "radicado": "SL10205-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-07-19T14:19:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato realidad y subordinación",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 2651 de 1991",
+    "Ley 153 de 1887",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL10205-2017.docx",
+  "fecha_descarga": "2026-10-21T19:22:55.946583+00:00"
+}

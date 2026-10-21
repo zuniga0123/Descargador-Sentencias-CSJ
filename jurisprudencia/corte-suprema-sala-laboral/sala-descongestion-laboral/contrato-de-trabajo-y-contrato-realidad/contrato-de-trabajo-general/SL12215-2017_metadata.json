@@ -1,0 +1,31 @@
+{
+  "radicado": "SL12215-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-16T16:54:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 2463 de 2001",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 16 de 1972",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 712 de 2001",
+    "Ley 762 de 2002",
+    "Ley 776 de 2002",
+    "Ley 789 de 2002",
+    "Ley 797 de 2003",
+    "Ley 82 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2017/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL12215-2017.docx",
+  "fecha_descarga": "2026-10-21T19:12:17.256445+00:00"
+}

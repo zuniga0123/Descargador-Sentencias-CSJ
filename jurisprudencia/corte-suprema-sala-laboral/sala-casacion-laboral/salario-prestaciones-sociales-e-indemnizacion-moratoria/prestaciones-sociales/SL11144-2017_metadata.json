@@ -1,0 +1,27 @@
+{
+  "radicado": "SL11144-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-07-31T22:46:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 43,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 1045 de 1978",
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Ley 1045 de 1978",
+    "Ley 153 de 1887",
+    "Ley 153 de 1987",
+    "Ley 2351 de 1965",
+    "Ley 3135 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL11144-2017.doc",
+  "fecha_descarga": "2026-10-21T19:18:19.671680+00:00"
+}

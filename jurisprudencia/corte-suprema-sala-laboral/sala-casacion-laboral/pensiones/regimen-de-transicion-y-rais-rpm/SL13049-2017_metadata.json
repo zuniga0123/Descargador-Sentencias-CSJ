@@ -1,0 +1,29 @@
+{
+  "radicado": "SL13049-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-28T20:26:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 8,
+  "leyes_o_articulos": [
+    "Decreto 1650 de 1977",
+    "Decreto 1848 de 1969",
+    "Decreto 2655 de 1988",
+    "Decreto 433 de 1971",
+    "Ley 100 de 1993",
+    "Ley 31 de 1992",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1985",
+    "Ley 71 de 1988",
+    "Ley 72 de 1947",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL13049-2017.docx",
+  "fecha_descarga": "2026-10-21T19:07:46.424793+00:00"
+}

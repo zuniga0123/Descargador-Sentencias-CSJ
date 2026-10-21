@@ -1,0 +1,25 @@
+{
+  "radicado": "SL10791-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-07-27T10:41:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 73,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 1160 de 1947",
+    "Decreto 1750 de 2003",
+    "Decreto 1848 de 1969",
+    "Ley 3135 de 1968",
+    "Ley 6 de 1945",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL10791-2017.docx",
+  "fecha_descarga": "2026-10-21T19:20:25.853844+00:00"
+}

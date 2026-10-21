@@ -1,0 +1,27 @@
+{
+  "radicado": "SL11207-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-07-31T22:53:10Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1013 de 2012",
+    "Decreto 1281 de 1994",
+    "Decreto 1605 de 2002",
+    "Decreto 1607 de 2002",
+    "Decreto 1607 de 2007",
+    "Decreto 2090 de 2003",
+    "Decreto 2150 de 1995",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2017/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL11207-2017.pdf",
+  "fecha_descarga": "2026-10-21T19:18:17.890334+00:00"
+}

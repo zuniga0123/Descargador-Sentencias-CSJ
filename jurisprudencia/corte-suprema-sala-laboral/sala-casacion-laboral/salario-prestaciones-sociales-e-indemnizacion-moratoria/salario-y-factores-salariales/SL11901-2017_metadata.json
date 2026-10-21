@@ -1,0 +1,26 @@
+{
+  "radicado": "SL11901-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-14T01:44:00Z",
+  "magistrado_ponente": "Dr.Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 60,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 153 de 1887",
+    "Ley 153 de 1987",
+    "Ley 16 de 1969",
+    "Ley 2351 de 1965",
+    "Ley 50 de 1990",
+    "Ley 50 de 1991",
+    "Ley 920 de 2004"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Martin Emilio Beltran Quintero/Sentencias/SL11901-2017.doc",
+  "fecha_descarga": "2026-10-21T19:13:57.870296+00:00"
+}

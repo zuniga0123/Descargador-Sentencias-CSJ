@@ -1,0 +1,26 @@
+{
+  "radicado": "SL12553-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-25T10:13:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Decreto 2127 de 1945",
+    "Decreto 747 de 1949",
+    "Decreto 797 de 1449",
+    "Decreto 797 de 1949",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 1750 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Ernesto Forero Vargas/Sentencias/SL12553-2017.docx",
+  "fecha_descarga": "2026-10-21T19:09:01.115598+00:00"
+}

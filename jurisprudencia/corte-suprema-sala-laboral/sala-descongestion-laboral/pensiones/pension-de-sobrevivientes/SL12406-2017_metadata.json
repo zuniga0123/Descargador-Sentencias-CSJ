@@ -1,0 +1,23 @@
+{
+  "radicado": "SL12406-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-19T00:11:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Ley 100 de 1993",
+    "Ley 12 de 1975",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2017/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL12406-2017.docx",
+  "fecha_descarga": "2026-10-21T19:10:20.951254+00:00"
+}

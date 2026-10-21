@@ -1,0 +1,23 @@
+{
+  "radicado": "SL11582-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-08T16:27:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 11 de 1993",
+    "Ley 717 de 2001",
+    "Ley 776 de 2002",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Prada Sanchez/Sentencias/SL11582-2017.docx",
+  "fecha_descarga": "2026-10-21T19:16:26.940821+00:00"
+}

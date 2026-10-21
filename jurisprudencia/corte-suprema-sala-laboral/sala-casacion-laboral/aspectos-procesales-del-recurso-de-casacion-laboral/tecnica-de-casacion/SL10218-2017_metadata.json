@@ -1,0 +1,21 @@
+{
+  "radicado": "SL10218-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-07-19T14:20:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 8,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Ley 16 de 1969",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL10218-2017.docx",
+  "fecha_descarga": "2026-10-21T19:22:54.141803+00:00"
+}

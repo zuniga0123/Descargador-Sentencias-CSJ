@@ -1,0 +1,26 @@
+{
+  "radicado": "SL12581-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-24T20:28:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 785 de 1990",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 446 de 1998",
+    "Ley 489 de 1998",
+    "Ley 62 de 1985",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL12581-2017.docx",
+  "fecha_descarga": "2026-10-21T19:09:15.414737+00:00"
+}

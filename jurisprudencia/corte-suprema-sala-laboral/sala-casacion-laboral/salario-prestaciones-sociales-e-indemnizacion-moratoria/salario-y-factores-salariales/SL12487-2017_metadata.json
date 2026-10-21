@@ -1,0 +1,28 @@
+{
+  "radicado": "SL12487-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-23T15:34:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 59,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1223 de 1993",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 153 de 1897",
+    "Ley 27 de 1992",
+    "Ley 50 de 1990",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Donald Jose Dix Ponnefz/Sentencias/SL12487-2017.docx",
+  "fecha_descarga": "2026-10-21T19:09:27.978187+00:00"
+}

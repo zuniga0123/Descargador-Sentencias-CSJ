@@ -1,0 +1,21 @@
+{
+  "radicado": "SL11544-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-09T10:20:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 43,
+  "leyes_o_articulos": [
+    "Decreto 00099 de 2006",
+    "Decreto 0099 de 2006",
+    "Ley 524 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Prada Sanchez/Sentencias/SL11544-2017.docx",
+  "fecha_descarga": "2026-10-21T19:16:09.294558+00:00"
+}

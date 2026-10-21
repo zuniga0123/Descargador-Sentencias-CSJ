@@ -1,0 +1,27 @@
+{
+  "radicado": "SL6292-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-06-13T10:01:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Decreto 797 de 1949",
+    "Ley 1071 de 2006",
+    "Ley 1750 de 2003",
+    "Ley 244 de 1995",
+    "Ley 6 de 1945",
+    "Ley 64 de 1946",
+    "Ley 797 de 1949",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Fernando Castillo Cadena/Sentencias/SL6292-2017.doc",
+  "fecha_descarga": "2026-10-21T19:29:25.884236+00:00"
+}

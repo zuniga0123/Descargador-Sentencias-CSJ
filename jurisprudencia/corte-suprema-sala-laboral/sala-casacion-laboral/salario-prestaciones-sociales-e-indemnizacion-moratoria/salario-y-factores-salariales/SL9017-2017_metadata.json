@@ -1,0 +1,19 @@
+{
+  "radicado": "SL9017-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-06-29T13:01:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Ley 22 de 1967"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL9017-2017.doc",
+  "fecha_descarga": "2026-10-21T19:27:31.237238+00:00"
+}

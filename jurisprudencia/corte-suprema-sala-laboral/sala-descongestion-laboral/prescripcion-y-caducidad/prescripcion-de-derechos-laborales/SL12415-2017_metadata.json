@@ -1,0 +1,25 @@
+{
+  "radicado": "SL12415-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-17T13:42:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1237 de 1946",
+    "Decreto 1684 de 1947",
+    "Decreto 2201 de 1987",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 22 de 1945",
+    "Ley 28 de 1943"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2017/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL12415-2017.doc",
+  "fecha_descarga": "2026-10-21T19:11:53.753905+00:00"
+}

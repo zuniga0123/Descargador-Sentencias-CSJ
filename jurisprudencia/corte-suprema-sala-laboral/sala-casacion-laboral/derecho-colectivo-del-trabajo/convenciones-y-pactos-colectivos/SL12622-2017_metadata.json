@@ -1,0 +1,21 @@
+{
+  "radicado": "SL12622-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-23T13:47:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 1773 de 2004",
+    "Decreto 2127 de 1945",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL12622-2017.docx",
+  "fecha_descarga": "2026-10-21T19:09:56.279887+00:00"
+}

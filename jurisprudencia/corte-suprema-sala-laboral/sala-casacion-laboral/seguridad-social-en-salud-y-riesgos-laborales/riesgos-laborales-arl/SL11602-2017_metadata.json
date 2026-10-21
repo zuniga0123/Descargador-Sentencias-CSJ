@@ -1,0 +1,24 @@
+{
+  "radicado": "SL11602-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-11T09:30:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 1661 de 1991",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL11602-2017.docx",
+  "fecha_descarga": "2026-10-21T19:15:12.866462+00:00"
+}

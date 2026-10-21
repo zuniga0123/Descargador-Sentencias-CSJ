@@ -1,0 +1,25 @@
+{
+  "radicado": "SL11210-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-07-31T19:24:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 39,
+  "leyes_o_articulos": [
+    "Decreto 1876 de 1994",
+    "Decreto 2013 de 2012",
+    "Decreto 3800 de 2003",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL11210-2017.doc",
+  "fecha_descarga": "2026-10-21T19:18:44.262199+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "radicado": "SL12185-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-16T19:55:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 1129 de 1999",
+    "Decreto 1299 de 1994",
+    "Decreto 1474 de 1997",
+    "Decreto 1513 de 1998",
+    "Decreto 1748 de 1995",
+    "Decreto 1887 de 1994",
+    "Decreto 2565 de 1988",
+    "Decreto 3798 de 2003",
+    "Ley 100 de 1993",
+    "Ley 1299 de 1994",
+    "Ley 1314 de 1994",
+    "Ley 50 de 1990",
+    "Ley 712 de 2001",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL12185-2017.doc",
+  "fecha_descarga": "2026-10-21T19:12:06.300353+00:00"
+}

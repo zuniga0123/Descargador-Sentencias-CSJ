@@ -1,0 +1,30 @@
+{
+  "radicado": "SL12313-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-22T10:10:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 1615 de 2003",
+    "Decreto 1835 de 1994",
+    "Decreto 2161 de 1960",
+    "Decreto 2661 de 1960",
+    "Decreto 3135 de 1968",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 22 de 1945",
+    "Ley 28 de 1943",
+    "Ley 28 de 1945",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL12313-2017.doc",
+  "fecha_descarga": "2026-10-21T19:10:10.259363+00:00"
+}

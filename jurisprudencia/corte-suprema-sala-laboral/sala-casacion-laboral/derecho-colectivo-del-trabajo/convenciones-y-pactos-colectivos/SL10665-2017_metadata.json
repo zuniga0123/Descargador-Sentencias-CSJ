@@ -1,0 +1,28 @@
+{
+  "radicado": "SL10665-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-07-27T14:36:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 1900 de 1983",
+    "Decreto 2495 de 1982",
+    "Decreto 2859 de 1966",
+    "Decreto 3041 de 1966",
+    "Decreto 3135 de 1968",
+    "Decreto 528 de 1964",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 3135 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL10665-2017.docx",
+  "fecha_descarga": "2026-10-21T19:20:09.817017+00:00"
+}

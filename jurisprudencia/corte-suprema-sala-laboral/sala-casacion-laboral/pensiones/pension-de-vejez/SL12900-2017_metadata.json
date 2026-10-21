@@ -1,0 +1,24 @@
+{
+  "radicado": "SL12900-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-25T16:35:00Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1650 de 1977",
+    "Decreto 3041 de 1966",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1650 de 1977",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Luis Quiroz Alemán/Sentencias/SL12900-2017.doc",
+  "fecha_descarga": "2026-10-21T19:08:36.232253+00:00"
+}

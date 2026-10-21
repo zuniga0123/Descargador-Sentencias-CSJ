@@ -1,0 +1,24 @@
+{
+  "radicado": "SL11912-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-15T23:29:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 1889 de 1994",
+    "Decreto 2013 de 2012",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2009",
+    "Ley 1204 de 2008",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL11912-2017.doc",
+  "fecha_descarga": "2026-10-21T19:12:32.990839+00:00"
+}

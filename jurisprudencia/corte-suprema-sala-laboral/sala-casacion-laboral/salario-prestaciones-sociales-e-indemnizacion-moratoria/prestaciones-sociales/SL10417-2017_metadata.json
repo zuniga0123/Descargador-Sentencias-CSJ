@@ -1,0 +1,25 @@
+{
+  "radicado": "SL10417-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-07-24T19:21:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2150 de 1995",
+    "Decreto 2644 de 1994",
+    "Decreto 4360 de 2004",
+    "Decreto 4361 de 2004",
+    "Ley 15 de 1959",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL10417-2017.doc",
+  "fecha_descarga": "2026-10-21T19:22:01.839094+00:00"
+}

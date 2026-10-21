@@ -1,0 +1,26 @@
+{
+  "radicado": "SL13168-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-31T21:01:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Decreto 1615 de 2003",
+    "Decreto 1616 de 2003",
+    "Decreto 2127 de 1945",
+    "Decreto 2651 de 1991",
+    "Ley 153 de 1887",
+    "Ley 6 de 1945",
+    "Ley 6 de 1946",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL13168-2017.docx",
+  "fecha_descarga": "2026-10-21T19:05:54.243474+00:00"
+}

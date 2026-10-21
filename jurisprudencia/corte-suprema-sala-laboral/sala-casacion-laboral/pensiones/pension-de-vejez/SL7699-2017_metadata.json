@@ -1,0 +1,25 @@
+{
+  "radicado": "SL7699-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-30T20:31:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 59,
+  "leyes_o_articulos": [
+    "Decreto 1073 de 2002",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 344 de 1996",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Rigoberto Echeverri Bueno/Sentencias/SL7699-2017.docx",
+  "fecha_descarga": "2026-10-21T19:06:10.219626+00:00"
+}

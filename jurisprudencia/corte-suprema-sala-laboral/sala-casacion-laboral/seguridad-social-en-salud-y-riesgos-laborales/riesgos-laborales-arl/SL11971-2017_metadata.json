@@ -1,0 +1,20 @@
+{
+  "radicado": "SL11971-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-18T10:12:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL11971-2017.docx",
+  "fecha_descarga": "2026-10-21T19:11:27.028437+00:00"
+}

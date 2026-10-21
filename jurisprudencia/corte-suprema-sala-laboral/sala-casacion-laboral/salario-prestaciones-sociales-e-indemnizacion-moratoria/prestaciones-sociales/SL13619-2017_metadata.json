@@ -1,0 +1,22 @@
+{
+  "radicado": "SL13619-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-09-04T21:07:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1922 de 1994",
+    "Decreto 2418 de 1999",
+    "Decreto 663 de 1993",
+    "Ley 510 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Prada Sanchez/Sentencias/SL13619-2017.docx",
+  "fecha_descarga": "2026-10-21T19:04:53.876568+00:00"
+}

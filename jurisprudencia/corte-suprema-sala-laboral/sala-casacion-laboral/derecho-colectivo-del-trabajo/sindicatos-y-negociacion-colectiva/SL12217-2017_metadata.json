@@ -1,0 +1,21 @@
+{
+  "radicado": "SL12217-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-16T16:20:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 64,
+  "leyes_o_articulos": [
+    "Decreto 1469 de 1978",
+    "Decreto 2351 de 1965",
+    "Ley 2351 de 1965"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL12217-2017.docx",
+  "fecha_descarga": "2026-10-21T19:12:29.432678+00:00"
+}

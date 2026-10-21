@@ -1,0 +1,21 @@
+{
+  "radicado": "SL10186-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-07-18T21:36:36Z",
+  "magistrado_ponente": "Dr. Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 4588 de 2006",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2017/Dr. Ernesto Forero Vargas/Sentencias/SL10186-2017.pdf",
+  "fecha_descarga": "2026-10-21T19:23:24.148976+00:00"
+}

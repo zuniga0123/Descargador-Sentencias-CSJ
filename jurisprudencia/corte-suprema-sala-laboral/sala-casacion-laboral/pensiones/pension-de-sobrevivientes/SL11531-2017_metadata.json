@@ -1,0 +1,26 @@
+{
+  "radicado": "SL11531-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-09T09:52:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 2013 de 2012",
+    "Ley 1 de 1976",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 2 de 1984",
+    "Ley 25 de 1992",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL11531-2017.docx",
+  "fecha_descarga": "2026-10-21T19:16:21.823823+00:00"
+}

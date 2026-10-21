@@ -1,0 +1,24 @@
+{
+  "radicado": "SL10984-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-07-27T13:52:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 3730 de 1996",
+    "Ley 150 de 1976",
+    "Ley 3135 de 1968",
+    "Ley 48 de 1968",
+    "Ley 50 de 1990",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dra.Ana Maria Muñoz Segura/Sentencias/SL10984-2017.doc",
+  "fecha_descarga": "2026-10-21T19:20:16.898181+00:00"
+}

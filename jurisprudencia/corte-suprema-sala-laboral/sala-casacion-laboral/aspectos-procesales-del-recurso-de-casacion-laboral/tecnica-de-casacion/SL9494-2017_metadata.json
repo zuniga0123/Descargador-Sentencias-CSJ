@@ -1,0 +1,22 @@
+{
+  "radicado": "SL9494-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-07-07T13:49:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Ley 2282 de 1989",
+    "Ley 50 de 1990",
+    "Ley 712 de 2001",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Fernando Castillo Cadena/Sentencias/SL9494-2017.doc",
+  "fecha_descarga": "2026-10-21T19:26:36.214334+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "radicado": "SL10181-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-07-18T13:24:48Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Estabilidad Laboral Reforzada y Fuero",
+  "subtema": "Fuero sindical",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 1222 de 1985",
+    "Ley 1222 de 1986"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2017/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL10181-2017.pdf",
+  "fecha_descarga": "2026-10-21T19:23:54.506987+00:00"
+}

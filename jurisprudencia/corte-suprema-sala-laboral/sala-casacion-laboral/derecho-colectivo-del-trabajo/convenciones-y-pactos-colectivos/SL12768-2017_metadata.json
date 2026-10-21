@@ -1,0 +1,26 @@
+{
+  "radicado": "SL12768-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-30T21:57:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1947",
+    "Decreto 2127 de 1945",
+    "Decreto 797 de 1949",
+    "Ley 22 de 1995",
+    "Ley 222 de 1995",
+    "Ley 6 de 1945",
+    "Ley 65 de 1946",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL12768-2017.docx",
+  "fecha_descarga": "2026-10-21T19:06:04.861393+00:00"
+}

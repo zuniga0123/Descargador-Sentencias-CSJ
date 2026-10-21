@@ -1,0 +1,26 @@
+{
+  "radicado": "SL7662-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-07-10T13:38:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1068 de 1995",
+    "Decreto 1748 de 1994",
+    "Decreto 1848 de 1969",
+    "Decreto 1887 de 1994",
+    "Decreto 2143 de 1995",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL7662-2017.doc",
+  "fecha_descarga": "2026-10-21T19:25:50.524114+00:00"
+}

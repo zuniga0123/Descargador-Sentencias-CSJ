@@ -1,0 +1,21 @@
+{
+  "radicado": "SL4883-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-06-22T23:33:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Ley 6 de 1945",
+    "Ley 712 de 2001",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Rigoberto Echeverri Bueno/Sentencias/SL4883-2017.doc",
+  "fecha_descarga": "2026-10-21T19:28:27.229289+00:00"
+}

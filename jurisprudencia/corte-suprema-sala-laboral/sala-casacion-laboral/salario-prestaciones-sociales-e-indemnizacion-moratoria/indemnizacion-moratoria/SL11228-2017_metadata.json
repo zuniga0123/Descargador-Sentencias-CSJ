@@ -1,0 +1,28 @@
+{
+  "radicado": "SL11228-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-02T20:01:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1947",
+    "Decreto 2127 de 1945",
+    "Decreto 2127 de 1947",
+    "Decreto 797 de 1949",
+    "Ley 3118 de 1968",
+    "Ley 344 de 1999",
+    "Ley 712 de 2001",
+    "Ley 80 de 1983",
+    "Ley 80 de 1992",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL11228-2017.docx",
+  "fecha_descarga": "2026-10-21T19:17:31.732421+00:00"
+}

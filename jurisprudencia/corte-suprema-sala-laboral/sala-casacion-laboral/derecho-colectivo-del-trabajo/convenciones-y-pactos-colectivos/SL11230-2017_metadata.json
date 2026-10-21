@@ -1,0 +1,28 @@
+{
+  "radicado": "SL11230-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-08-04T15:06:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 2113 de 1992",
+    "Decreto 2123 de 1992",
+    "Decreto 2463 de 2001",
+    "Decreto 2643 de 2001",
+    "Decreto 2651 de 1991",
+    "Decreto 575 de 2013",
+    "Ley 100 de 1993",
+    "Ley 151 de 2007",
+    "Ley 169 de 2008",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Donald Jose Dix Ponnefz/Sentencias/SL11230-2017.docx",
+  "fecha_descarga": "2026-10-21T19:16:59.750222+00:00"
+}

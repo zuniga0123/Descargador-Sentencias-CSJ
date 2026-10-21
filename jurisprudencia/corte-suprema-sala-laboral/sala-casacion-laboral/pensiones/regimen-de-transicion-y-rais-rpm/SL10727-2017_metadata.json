@@ -1,0 +1,22 @@
+{
+  "radicado": "SL10727-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-07-25T13:39:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Ley 100 de 1993",
+    "Ley 11 de 1993",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Prada Sanchez/Sentencias/SL10727-2017.docx",
+  "fecha_descarga": "2026-10-21T19:21:29.562691+00:00"
+}

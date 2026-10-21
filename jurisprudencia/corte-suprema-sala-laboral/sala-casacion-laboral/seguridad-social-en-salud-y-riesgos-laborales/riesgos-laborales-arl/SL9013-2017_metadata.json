@@ -1,0 +1,27 @@
+{
+  "radicado": "SL9013-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-06-28T21:06:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1281 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 1818 de 1996",
+    "Decreto 2090 de 2003",
+    "Decreto 2665 de 1988",
+    "Decreto 656 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1281 de 1994",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL9013-2017.doc",
+  "fecha_descarga": "2026-10-21T19:27:38.380412+00:00"
+}

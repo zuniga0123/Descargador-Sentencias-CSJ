@@ -1,0 +1,20 @@
+{
+  "radicado": "SL6108-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-06-29T13:11:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Laudos arbitrales y recurso de anulación",
+  "puntaje_clasificacion": 64,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 51 de 1983"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL6108-2017.doc",
+  "fecha_descarga": "2026-10-21T19:27:29.597890+00:00"
+}

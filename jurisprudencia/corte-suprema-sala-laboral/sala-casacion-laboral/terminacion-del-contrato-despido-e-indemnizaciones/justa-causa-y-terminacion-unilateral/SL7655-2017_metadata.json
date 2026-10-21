@@ -1,0 +1,31 @@
+{
+  "radicado": "SL7655-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-06-13T22:38:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 255 de 2000",
+    "Decreto 3041 de 1966",
+    "Decreto 3135 de 1968",
+    "Decreto 691 de 1994",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 161 de 1971",
+    "Ley 171 de 1961",
+    "Ley 171 de 1981",
+    "Ley 50 de 1990",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL7655-2017.doc",
+  "fecha_descarga": "2026-10-21T19:29:15.516746+00:00"
+}

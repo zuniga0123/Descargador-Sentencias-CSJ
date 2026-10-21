@@ -1,0 +1,20 @@
+{
+  "radicado": "SL10559-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-07-24T02:53:00Z",
+  "magistrado_ponente": "Dr.Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Renuncia y retiro voluntario",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Ley 153 de 1887",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Martin Emilio Beltran Quintero/Sentencias/SL10559-2017.docx",
+  "fecha_descarga": "2026-10-21T19:22:28.688578+00:00"
+}
