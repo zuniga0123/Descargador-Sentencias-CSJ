@@ -1,0 +1,27 @@
+{
+  "radicado": "SL3011-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-09-27T20:13:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Decreto 3136 de 1968",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 141 de 1993",
+    "Ley 2 de 1984",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Rigoberto Echeverri Bueno/Sentencias/SL3011-2019.doc",
+  "fecha_descarga": "2026-10-21T12:42:24.106931+00:00"
+}

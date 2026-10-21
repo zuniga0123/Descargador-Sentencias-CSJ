@@ -1,0 +1,23 @@
+{
+  "radicado": "SL4216-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-10-04T15:10:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 49,
+  "leyes_o_articulos": [
+    "Decreto 1887 de 1994",
+    "Decreto 3063 de 1989",
+    "Decreto 3366 de 2007",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL4216-2019.doc",
+  "fecha_descarga": "2026-10-21T12:37:46.014736+00:00"
+}

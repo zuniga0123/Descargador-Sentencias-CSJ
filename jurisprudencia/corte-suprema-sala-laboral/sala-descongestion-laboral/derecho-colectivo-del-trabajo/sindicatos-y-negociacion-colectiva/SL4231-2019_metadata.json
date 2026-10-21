@@ -1,0 +1,23 @@
+{
+  "radicado": "SL4231-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-10-04T17:38:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 1373 de 1966",
+    "Decreto 2104 de 2004",
+    "Decreto 2351 de 1965",
+    "Ley 48 de 1968",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Donald Jose Dix Ponnefz/Sentencias/SL4231-2019.doc",
+  "fecha_descarga": "2026-10-21T12:37:17.799887+00:00"
+}

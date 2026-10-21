@@ -1,0 +1,21 @@
+{
+  "radicado": "SL4212-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-10-04T19:31:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 0169 de 2006",
+    "Ley 100 de 1993",
+    "Ley 28 de 1943"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Donald Jose Dix Ponnefz/Sentencias/SL4212-2019.doc",
+  "fecha_descarga": "2026-10-21T12:37:10.551525+00:00"
+}

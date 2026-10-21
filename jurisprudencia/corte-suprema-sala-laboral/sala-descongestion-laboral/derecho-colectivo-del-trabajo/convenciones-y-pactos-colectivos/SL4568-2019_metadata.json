@@ -1,0 +1,27 @@
+{
+  "radicado": "SL4568-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-10-24T17:02:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 036 de 1992",
+    "Decreto 1689 de 1997",
+    "Decreto 2145 de 1992",
+    "Decreto 2351 de 1965",
+    "Ley 1 de 1991",
+    "Ley 100 de 1993",
+    "Ley 584 de 2000",
+    "Ley 71 de 1988",
+    "Ley 71 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Jorge Prada Sanchez/Sentencias/SL4568-2019.doc",
+  "fecha_descarga": "2026-10-21T12:28:24.755397+00:00"
+}

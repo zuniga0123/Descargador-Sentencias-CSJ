@@ -1,0 +1,33 @@
+{
+  "radicado": "SL4162-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-10-02T20:30:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 41,
+  "leyes_o_articulos": [
+    "Decreto 0758 de 1990",
+    "Decreto 1160 de 1957",
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 2158 de 1948",
+    "Decreto 2490 de 2003",
+    "Decreto 2510 de 2009",
+    "Decreto 2590 de 2003",
+    "Decreto 2879 de 1985",
+    "Decreto 3135 de 1968",
+    "Decreto 936 de 1964",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 6 de 1945",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL4162-2019.doc",
+  "fecha_descarga": "2026-10-21T12:39:17.266316+00:00"
+}

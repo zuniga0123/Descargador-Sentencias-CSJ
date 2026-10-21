@@ -1,0 +1,28 @@
+{
+  "radicado": "SL4726-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-11-06T16:11:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1250 de 1970",
+    "Decreto 1295 de 1994",
+    "Decreto 2651 de 1991",
+    "Ley 100 de 1993",
+    "Ley 1295 de 1994",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998",
+    "Ley 776 de 2002",
+    "Ley 794 de 2003",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL4726-2019.doc",
+  "fecha_descarga": "2026-10-21T12:22:32.277026+00:00"
+}

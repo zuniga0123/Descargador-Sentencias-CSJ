@@ -1,0 +1,21 @@
+{
+  "radicado": "SL4728-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-11-06T16:24:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "DECRETO 758 DE 1990",
+    "Decreto 1281 de 1994",
+    "LEY 100 DE 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL4728-2019.doc",
+  "fecha_descarga": "2026-10-21T12:22:30.437095+00:00"
+}

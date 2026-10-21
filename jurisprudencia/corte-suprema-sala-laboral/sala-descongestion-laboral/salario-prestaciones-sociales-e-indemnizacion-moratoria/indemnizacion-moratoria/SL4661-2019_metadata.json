@@ -1,0 +1,24 @@
+{
+  "radicado": "SL4661-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-10-31T15:59:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 797 de 1949",
+    "Ley 2351 de 1965",
+    "Ley 80 de 1983",
+    "Ley 80 de 1991",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Jorge Prada Sanchez/Sentencias/SL4661-2019.doc",
+  "fecha_descarga": "2026-10-21T12:25:43.658728+00:00"
+}

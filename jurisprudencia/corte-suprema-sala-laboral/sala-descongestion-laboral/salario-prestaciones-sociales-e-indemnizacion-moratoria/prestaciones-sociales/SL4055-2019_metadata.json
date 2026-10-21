@@ -1,0 +1,28 @@
+{
+  "radicado": "SL4055-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-09-27T17:25:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 51,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1947",
+    "Decreto 2013 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 3118 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 1064 de 2006",
+    "Ley 3135 de 1968",
+    "Ley 344 de 1996",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL4055-2019.doc",
+  "fecha_descarga": "2026-10-21T12:42:54.721386+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "radicado": "SL4245-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-10-11T21:02:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 1824 de 1965",
+    "Decreto 2677 de 1971",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 16 de 1969",
+    "Ley 33 de 1985",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL4245-2019.doc",
+  "fecha_descarga": "2026-10-21T12:33:40.502013+00:00"
+}

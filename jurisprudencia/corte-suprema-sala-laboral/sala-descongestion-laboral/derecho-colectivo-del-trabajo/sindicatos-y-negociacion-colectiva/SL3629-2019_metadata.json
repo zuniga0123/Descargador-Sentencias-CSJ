@@ -1,0 +1,33 @@
+{
+  "radicado": "SL3629-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-10-15T16:08:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1373 de 1966",
+    "Decreto 1848 de 1969",
+    "Decreto 2012 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 3135 de 1968",
+    "Decreto 337 de 1995",
+    "Decreto 416 de 1997",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 2351 de 1965",
+    "Ley 26 de 1976",
+    "Ley 3135 de 1968",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL3629-2019.doc",
+  "fecha_descarga": "2026-10-21T12:33:17.214964+00:00"
+}

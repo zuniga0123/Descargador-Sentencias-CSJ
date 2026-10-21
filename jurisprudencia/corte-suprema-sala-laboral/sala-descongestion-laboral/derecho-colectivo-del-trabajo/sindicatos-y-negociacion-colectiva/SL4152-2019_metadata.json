@@ -1,0 +1,25 @@
+{
+  "radicado": "SL4152-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-10-02T17:02:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 254 de 2000",
+    "Decreto 2651 de 1991",
+    "Ley 100 de 1993",
+    "Ley 27 de 1976",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL4152-2019.doc",
+  "fecha_descarga": "2026-10-21T12:39:38.512468+00:00"
+}

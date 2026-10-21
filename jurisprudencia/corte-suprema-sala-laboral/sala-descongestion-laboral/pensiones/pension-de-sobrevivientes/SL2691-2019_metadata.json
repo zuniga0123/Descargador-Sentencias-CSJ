@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2691-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-10-03T15:35:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 54 de 1990",
+    "Ley 712 de 2001",
+    "Ley 717 de 2001",
+    "Ley 797 de 2003",
+    "Ley 979 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL2691-2019.doc",
+  "fecha_descarga": "2026-10-21T12:39:02.874504+00:00"
+}

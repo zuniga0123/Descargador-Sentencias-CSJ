@@ -1,0 +1,23 @@
+{
+  "radicado": "SL4508-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-10-29T12:36:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Estabilidad Laboral Reforzada y Fuero",
+  "subtema": "Fuero de salud / debilidad manifiesta",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 2463 de 2001",
+    "Ley 1285 de 2009",
+    "Ley 1616 de 2013",
+    "Ley 270 de 1996",
+    "Ley 361 de 1997"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL4508-2019.doc",
+  "fecha_descarga": "2026-10-21T12:26:59.232988+00:00"
+}

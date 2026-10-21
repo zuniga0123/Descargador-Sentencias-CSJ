@@ -1,0 +1,32 @@
+{
+  "radicado": "SL4694-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-11-01T14:58:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1222 de 1986",
+    "Decreto 1394 de 2000",
+    "Decreto 1983 de 2000",
+    "Decreto 2102 de 2001",
+    "Decreto 2127 de 1945",
+    "Decreto 2865 de 1996",
+    "Decreto 3135 de 1968",
+    "Ley 1050 de 1968",
+    "Ley 1222 de 1986",
+    "Ley 153 de 1887",
+    "Ley 489 de 1998",
+    "Ley 50 de 1990",
+    "Ley 584 de 2000",
+    "Ley 643 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL4694-2019.doc",
+  "fecha_descarga": "2026-10-21T12:24:37.006445+00:00"
+}

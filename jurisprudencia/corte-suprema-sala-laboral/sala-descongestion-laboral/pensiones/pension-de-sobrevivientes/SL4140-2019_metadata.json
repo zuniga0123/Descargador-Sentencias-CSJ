@@ -1,0 +1,25 @@
+{
+  "radicado": "SL4140-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-10-02T14:46:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1260 de 1970",
+    "Ley 100 de 1993",
+    "Ley 113 de 1985",
+    "Ley 1204 de 2008",
+    "Ley 16 de 1969",
+    "Ley 25 de 1992",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL4140-2019.doc",
+  "fecha_descarga": "2026-10-21T12:40:07.736572+00:00"
+}
