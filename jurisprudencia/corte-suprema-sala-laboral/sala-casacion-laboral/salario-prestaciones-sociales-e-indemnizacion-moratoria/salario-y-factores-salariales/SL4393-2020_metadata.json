@@ -1,0 +1,21 @@
+{
+  "radicado": "SL4393-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-12-16T15:03:54Z",
+  "magistrado_ponente": "Dr. Omar Ángel Mejía Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Omar Ángel Mejía Amador/Sentencias/SL4393-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:14:18.913939+00:00"
+}

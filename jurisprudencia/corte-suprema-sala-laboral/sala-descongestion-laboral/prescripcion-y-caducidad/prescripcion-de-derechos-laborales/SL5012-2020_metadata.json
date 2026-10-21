@@ -1,0 +1,24 @@
+{
+  "radicado": "SL5012-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-12-10T20:55:49Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 1615 de 2003",
+    "Ley 1045 de 1978",
+    "Ley 153 de 1887",
+    "Ley 254 de 2000",
+    "Ley 3135 de 1968",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL5012-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:15:01.287336+00:00"
+}

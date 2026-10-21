@@ -1,0 +1,33 @@
+{
+  "radicado": "SL3959-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-01-14T21:54:19Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 70,
+  "leyes_o_articulos": [
+    "Decreto 1082 de 2015",
+    "Decreto 2013 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 2474 de 2008",
+    "Decreto 553 de 2015",
+    "Decreto 797 de 1949",
+    "Ley 1149 de 2007",
+    "Ley 1150 de 2007",
+    "Ley 489 de 1998",
+    "Ley 50 de 1990",
+    "Ley 6 de 1945",
+    "Ley 789 de 2002",
+    "Ley 794 de 2003",
+    "Ley 797 de 2003",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Donald Jose Dix Ponnefz/Sentencias/SL3959-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:12:38.867861+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2415-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2022-01-18T22:31:07Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 11 de 1986",
+    "Ley 12 de 1975",
+    "Ley 153 de 1887"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Luis Benedicto Herrrera Diaz/Sentencias/SL2415-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:01:40.340711+00:00"
+}

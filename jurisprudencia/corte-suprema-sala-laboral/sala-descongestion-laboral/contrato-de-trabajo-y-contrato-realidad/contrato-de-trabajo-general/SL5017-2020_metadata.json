@@ -1,0 +1,26 @@
+{
+  "radicado": "SL5017-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-12-10T21:04:05Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 01 de 1984",
+    "Decreto 2127 de 1945",
+    "Decreto 4781 de 2005",
+    "Decreto 553 de 2015",
+    "Decreto 797 de 1949",
+    "Ley 244 de 1995",
+    "Ley 52 de 1975",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL5017-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:18:03.731737+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "radicado": "SL2345-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-04-27T23:40:16Z",
+  "magistrado_ponente": "Dr. Omar Ángel Mejía Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 1365 de 1986",
+    "Decreto 2282 de 1989",
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1993",
+    "Ley 11 de 1984",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 16 de 1985",
+    "Ley 171 de 1961",
+    "Ley 182 de 1948",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 675 de 2001",
+    "Ley 789 de 2002",
+    "Ley 95 de 1890"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Omar Ángel Mejía Amador/Sentencias/SL2345-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:03:06.471243+00:00"
+}

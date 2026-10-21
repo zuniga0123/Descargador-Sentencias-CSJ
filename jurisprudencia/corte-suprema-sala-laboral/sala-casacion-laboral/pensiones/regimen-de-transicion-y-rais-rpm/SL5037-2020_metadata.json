@@ -1,0 +1,25 @@
+{
+  "radicado": "SL5037-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-03-25T17:20:34Z",
+  "magistrado_ponente": "Dr. Iván Mauricio Lenis Gómez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 57,
+  "leyes_o_articulos": [
+    "Decreto 692 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 717 de 2001",
+    "Ley 797 de 2003",
+    "Ley 91 de 1989"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Iván Mauricio Lenis Gómez/Sentencias/SL5037-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:05:24.412056+00:00"
+}

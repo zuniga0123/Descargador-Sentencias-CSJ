@@ -1,0 +1,23 @@
+{
+  "radicado": "SL4901-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-02-23T20:33:53Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2651 de 1991",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL4901-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:06:41.935242+00:00"
+}

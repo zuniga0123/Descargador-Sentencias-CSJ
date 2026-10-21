@@ -1,0 +1,25 @@
+{
+  "radicado": "SL5118-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-12-15T11:15:09Z",
+  "magistrado_ponente": "Dr. Iván Mauricio Lenis Gómez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2027 de 1951",
+    "Decreto 2463 de 2001",
+    "Decreto 2566 de 2009",
+    "Decreto 692 de 1995",
+    "Decreto 807 de 1994",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Iván Mauricio Lenis Gómez/Sentencias/SL5118-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:15:20.966407+00:00"
+}

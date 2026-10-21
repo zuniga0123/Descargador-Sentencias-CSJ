@@ -1,0 +1,21 @@
+{
+  "radicado": "SL4285-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-03-26T20:53:42Z",
+  "magistrado_ponente": "Dr. Iván Mauricio Lenis Gómez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Ley 222 de 1995",
+    "Ley 33 de 1985",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Iván Mauricio Lenis Gómez/Sentencias/SL4285-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:05:20.699620+00:00"
+}

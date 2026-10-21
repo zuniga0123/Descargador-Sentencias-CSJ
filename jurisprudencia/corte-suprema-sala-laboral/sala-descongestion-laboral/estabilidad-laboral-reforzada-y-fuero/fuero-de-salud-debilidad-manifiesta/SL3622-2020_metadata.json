@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3622-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2022-03-13T00:59:22Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Estabilidad Laboral Reforzada y Fuero",
+  "subtema": "Fuero de salud / debilidad manifiesta",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 2436 de 2001",
+    "Decreto 2463 de 2001",
+    "Ley 1346 de 2009",
+    "Ley 1618 de 2013",
+    "Ley 1996 de 2019",
+    "Ley 361 de 1997"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL3622-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:00:38.837914+00:00"
+}

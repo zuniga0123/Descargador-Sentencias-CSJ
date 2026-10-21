@@ -1,0 +1,23 @@
+{
+  "radicado": "SL4018-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-01-19T17:43:15Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 83,
+  "leyes_o_articulos": [
+    "Decreto 1373 de 1966",
+    "Decreto 2351 de 1965",
+    "Ley 48 de 1968",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL4018-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:10:34.903388+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "radicado": "SL722-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2022-11-16T20:47:08Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 516 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL722-2020.pdf",
+  "fecha_descarga": "2026-10-21T08:59:32.384890+00:00"
+}

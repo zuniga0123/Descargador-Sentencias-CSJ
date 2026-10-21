@@ -1,0 +1,32 @@
+{
+  "radicado": "SL3750-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-01-15T17:09:59Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 1281 de 1994",
+    "Decreto 1295 de 1994",
+    "Decreto 1477 de 2014",
+    "Decreto 1496 de 2018",
+    "Decreto 1832 de 1994",
+    "Decreto 2150 de 1995",
+    "Decreto 2463 de 2001",
+    "Decreto 2566 de 2009",
+    "Decreto 2633 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 436 de 1998",
+    "Ley 55 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Gerardo Botero Zuluaga/Sentencias/SL3750-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:11:53.739639+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3718-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-01-19T17:50:34Z",
+  "magistrado_ponente": "Dr. Omar Ángel Mejía Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 56,
+  "leyes_o_articulos": [
+    "Decreto 1553 de 1998",
+    "Ley 15 de 1956",
+    "Ley 15 de 1959",
+    "Ley 336 de 1996",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Omar Ángel Mejía Amador/Sentencias/SL3718-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:10:33.159477+00:00"
+}

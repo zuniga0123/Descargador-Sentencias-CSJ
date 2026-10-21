@@ -1,0 +1,28 @@
+{
+  "radicado": "SL4073-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-04-30T17:30:26Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 46,
+  "leyes_o_articulos": [
+    "Decreto 1818 de 1996",
+    "Decreto 3041 de 1966",
+    "Decreto 656 de 1994",
+    "Decreto 692 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 4 de 1992",
+    "Ley 656 de 1994",
+    "Ley 700 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Luis Benedicto Herrrera Diaz/Sentencias/SL4073-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:03:02.456127+00:00"
+}

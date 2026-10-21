@@ -1,0 +1,26 @@
+{
+  "radicado": "SL5126-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-04-09T01:09:02Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 433 de 1971",
+    "Decreto 692 de 2004",
+    "Ley 100 de 1993",
+    "Ley 146 de 1994",
+    "Ley 319 de 1996",
+    "Ley 433 de 1971",
+    "Ley 516 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Fernando Castillo Cadena/Sentencias/SL5126-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:04:44.707492+00:00"
+}

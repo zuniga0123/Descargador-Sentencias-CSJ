@@ -1,0 +1,26 @@
+{
+  "radicado": "SL5042-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-12-11T14:12:18Z",
+  "magistrado_ponente": "Dr. Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 46,
+  "leyes_o_articulos": [
+    "Decreto 13 de 1967",
+    "Decreto 3615 de 2015",
+    "Decreto 510 de 2003",
+    "Ley 100 de 1993",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 52 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Jorge Luis Quiroz Alemán/Sentencias/SL5042-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:17:38.750917+00:00"
+}

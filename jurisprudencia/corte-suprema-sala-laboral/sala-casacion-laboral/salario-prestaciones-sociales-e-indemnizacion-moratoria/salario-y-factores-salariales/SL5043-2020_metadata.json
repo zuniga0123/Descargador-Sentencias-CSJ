@@ -1,0 +1,27 @@
+{
+  "radicado": "SL5043-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-01-15T19:20:57Z",
+  "magistrado_ponente": "Dr. Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 314 de 1994",
+    "Decreto 546 de 1971",
+    "Decreto 575 de 2013",
+    "Decreto 806 de 2020",
+    "Ley 100 de 1993",
+    "Ley 1437 de 2011",
+    "Ley 4 de 1976",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Jorge Luis Quiroz Alemán/Sentencias/SL5043-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:11:26.631160+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "radicado": "SL4803-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-02-17T21:17:46Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 2304 de 1989",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 165 de 1941",
+    "Ley 33 de 1985",
+    "Ley 446 de 1998",
+    "Ley 6 de 1945",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Gerardo Botero Zuluaga/Sentencias/SL4803-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:07:06.839574+00:00"
+}

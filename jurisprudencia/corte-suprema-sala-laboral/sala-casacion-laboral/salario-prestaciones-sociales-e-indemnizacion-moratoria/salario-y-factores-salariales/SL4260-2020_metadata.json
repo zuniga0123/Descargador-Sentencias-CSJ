@@ -1,0 +1,32 @@
+{
+  "radicado": "SL4260-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-01-15T02:35:42Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 211,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 129 de 1931",
+    "Ley 153 de 1887",
+    "Ley 16 de 1969",
+    "Ley 167 de 1938",
+    "Ley 1781 de 2016",
+    "Ley 22 de 1967",
+    "Ley 278 de 1996",
+    "Ley 31 de 1992",
+    "Ley 411 de 1997",
+    "Ley 46 de 1923",
+    "Ley 50 de 1990",
+    "Ley 56 de 1985",
+    "Ley 990 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Luis Benedicto Herrrera Diaz/Sentencias/SL4260-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:12:21.093493+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "radicado": "SL5120-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-12-15T12:21:18Z",
+  "magistrado_ponente": "Dr. Iván Mauricio Lenis Gómez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 1221 de 1975",
+    "Decreto 2108 de 1992",
+    "Decreto 446 de 1973",
+    "Decreto 732 de 1976",
+    "Decreto 958 de 1984",
+    "Ley 100 de 1993",
+    "Ley 4 de 1976",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Iván Mauricio Lenis Gómez/Sentencias/SL5120-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:15:19.062566+00:00"
+}

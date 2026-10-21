@@ -1,0 +1,25 @@
+{
+  "radicado": "SL4022-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-01-25T16:46:50Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 45,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 1346 de 2009",
+    "Ley 1616 de 2013",
+    "Ley 361 de 1997",
+    "Ley 860 de 2003",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL4022-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:09:34.609306+00:00"
+}

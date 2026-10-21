@@ -1,0 +1,26 @@
+{
+  "radicado": "SL4658-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-11-02T01:59:38Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 1748 de 1994",
+    "Decreto 1748 de 1995",
+    "Decreto 2070 de 2003",
+    "Decreto 2192 de 2004",
+    "Decreto 2616 de 2013",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Luis Benedicto Herrrera Diaz/Sentencias/SL4658-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:01:56.909473+00:00"
+}

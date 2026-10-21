@@ -1,0 +1,21 @@
+{
+  "radicado": "SL4102-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-01-21T19:11:53Z",
+  "magistrado_ponente": "Dr. Iván Mauricio Lenis Gómez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 169,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 1010 de 2006",
+    "Ley 589 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Iván Mauricio Lenis Gómez/Sentencias/SL4102-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:09:49.114179+00:00"
+}

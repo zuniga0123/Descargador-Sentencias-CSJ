@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2021-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-03-03T18:39:33Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 3041 de 1966",
+    "Decreto 433 de 1970",
+    "Decreto 433 de 1971",
+    "Ley 100 de 1993",
+    "Ley 145 de 1888",
+    "Ley 20 de 1970",
+    "Ley 433 de 1971",
+    "Ley 433 de 1977",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Gerardo Botero Zuluaga/Sentencias/SL2021-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:06:09.547745+00:00"
+}

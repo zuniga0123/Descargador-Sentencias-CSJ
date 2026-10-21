@@ -1,0 +1,27 @@
+{
+  "radicado": "SL3657-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-01-25T16:51:14Z",
+  "magistrado_ponente": "Dr. Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 80,
+  "leyes_o_articulos": [
+    "Decreto 758 de 1990",
+    "LEY 100 DE 1993",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 153 de 1887",
+    "Ley 1650 de 1977",
+    "Ley 71 de 1988",
+    "Ley 71 de 1998",
+    "Ley 797 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Jorge Luis Quiroz Alemán/Sentencias/SL3657-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:09:32.805153+00:00"
+}

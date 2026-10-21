@@ -1,0 +1,29 @@
+{
+  "radicado": "SL3659-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-01-25T16:56:11Z",
+  "magistrado_ponente": "Dr. Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 52,
+  "leyes_o_articulos": [
+    "Decreto 1730 de 2001",
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966",
+    "Decreto 3135 de 1968",
+    "Decreto 4640 de 2005",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1650 de 1977",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Jorge Luis Quiroz Alemán/Sentencias/SL3659-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:09:29.050738+00:00"
+}

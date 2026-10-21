@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3933-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-01-15T20:48:11Z",
+  "magistrado_ponente": "Dr. Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 91,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2013 de 1986",
+    "Ley 100 de 1993",
+    "Ley 1280 de 2009",
+    "Ley 1563 de 2012",
+    "Ley 403 de 1997"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Jorge Luis Quiroz Alemán/Sentencias/SL3933-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:11:14.978239+00:00"
+}

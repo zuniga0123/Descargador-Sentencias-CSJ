@@ -1,0 +1,27 @@
+{
+  "radicado": "SL4525-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-04-14T13:32:17Z",
+  "magistrado_ponente": "Dr. Omar Ángel Mejía Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 33 de 1985",
+    "Ley 4 de 1966",
+    "Ley 62 de 1985",
+    "Ley 640 de 2001",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Omar Ángel Mejía Amador/Sentencias/SL4525-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:04:21.084098+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "radicado": "SL4108-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-03-26T21:01:11Z",
+  "magistrado_ponente": "Dr. Iván Mauricio Lenis Gómez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 65,
+  "leyes_o_articulos": [
+    "Decreto 142 de 2006",
+    "Decreto 2090 de 2003",
+    "Decreto 656 de 1994",
+    "Decreto 832 de 1996",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 762 de 2002",
+    "Ley 797 de 2003",
+    "Ley 797 de 2013",
+    "Ley 860 de 2003",
+    "Ley 98 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Iván Mauricio Lenis Gómez/Sentencias/SL4108-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:05:16.591581+00:00"
+}

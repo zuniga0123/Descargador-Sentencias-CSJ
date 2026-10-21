@@ -1,0 +1,31 @@
+{
+  "radicado": "SL1744-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-04-21T18:33:26Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 1750 de 2003",
+    "Decreto 2127 de 1945",
+    "Decreto 2127 de 1949",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "LEY 1042 DE 1978",
+    "LEY 909 DE 2004",
+    "Ley 10 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1750 de 2003",
+    "Ley 712 de 2001",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Ana Maria Muñoz Segura/Sentencias/SL1744-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:03:42.640678+00:00"
+}

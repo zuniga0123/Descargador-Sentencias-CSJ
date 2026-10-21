@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1404-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2021-01-21T16:43:36Z",
+  "magistrado_ponente": "Dr. Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 546 de 1971",
+    "Decreto 717 de 1978",
+    "Decreto 748 de 1995",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 33 de 1985",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Jorge Luis Quiroz Alemán/Sentencias/SL1404-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:10:03.146598+00:00"
+}

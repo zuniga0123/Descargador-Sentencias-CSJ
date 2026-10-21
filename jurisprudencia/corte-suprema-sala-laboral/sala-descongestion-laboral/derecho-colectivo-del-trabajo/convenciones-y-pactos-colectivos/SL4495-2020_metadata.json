@@ -1,0 +1,32 @@
+{
+  "radicado": "SL4495-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-12-14T19:33:14Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 2011 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 2315 de 1965",
+    "Ley 100 de 1993",
+    "Ley 1151 de 2007",
+    "Ley 153 de 1887",
+    "Ley 28 de 1943",
+    "Ley 50 de 1936",
+    "Ley 584 de 2000",
+    "Ley 584 de 2009",
+    "Ley 71 de 1988",
+    "Ley 790 de 2002",
+    "Ley 812 de 2003",
+    "Ley 812 de 2013"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Ana Maria Muñoz Segura/Sentencias/SL4495-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:15:47.815393+00:00"
+}
