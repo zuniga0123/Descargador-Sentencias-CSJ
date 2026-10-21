@@ -1,0 +1,20 @@
+{
+  "radicado": "SL168-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-02-04T13:10:00Z",
+  "magistrado_ponente": "Dr. Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 58,
+  "leyes_o_articulos": [
+    "Decreto 4369 de 2006",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Ernesto Forero Vargas/Sentencias/SL168-2020.doc",
+  "fecha_descarga": "2026-10-21T11:20:54.602411+00:00"
+}

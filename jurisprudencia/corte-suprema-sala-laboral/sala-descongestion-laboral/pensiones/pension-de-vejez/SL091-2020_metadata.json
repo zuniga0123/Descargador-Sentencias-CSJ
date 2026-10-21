@@ -1,0 +1,30 @@
+{
+  "radicado": "SL091-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-01-29T16:27:00Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1650 de 1977",
+    "Decreto 1848 de 1968",
+    "Decreto 2767 de 1945",
+    "Decreto 2879 de 1985",
+    "Decreto 3135 de 1968",
+    "Decreto 758 de 1990",
+    "Ley 171 de 1961",
+    "Ley 171 de 1968",
+    "Ley 2127 de 1945",
+    "Ley 33 de 1985",
+    "Ley 6 de 1945",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL091-2020.doc",
+  "fecha_descarga": "2026-10-21T11:22:22.985758+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "radicado": "SL147-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-02-03T19:24:00Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 2394 de 1975",
+    "Decreto 2831 de 1979",
+    "Decreto 528 de 1964",
+    "Ley 16 de 1969"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL147-2020.doc",
+  "fecha_descarga": "2026-10-21T11:21:16.325659+00:00"
+}

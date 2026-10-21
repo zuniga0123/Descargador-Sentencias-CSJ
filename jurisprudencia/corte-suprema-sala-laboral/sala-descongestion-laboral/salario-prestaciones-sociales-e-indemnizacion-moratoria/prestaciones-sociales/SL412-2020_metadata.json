@@ -1,0 +1,30 @@
+{
+  "radicado": "SL412-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-02-17T17:04:00Z",
+  "magistrado_ponente": "Dr. Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1848 de 1969",
+    "Decreto 24 de 1998",
+    "Decreto 3118 de 1968",
+    "Decreto 3135 de 1968",
+    "Decreto 3148 de 1968",
+    "Decreto 4369 de 2006",
+    "Decreto 797 de 1949",
+    "Ley 130 de 1976",
+    "Ley 142 de 1994",
+    "Ley 50 de 1990",
+    "Ley 797 de 1949"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Ernesto Forero Vargas/Sentencias/SL412-2020.doc",
+  "fecha_descarga": "2026-10-21T11:14:40.679794+00:00"
+}

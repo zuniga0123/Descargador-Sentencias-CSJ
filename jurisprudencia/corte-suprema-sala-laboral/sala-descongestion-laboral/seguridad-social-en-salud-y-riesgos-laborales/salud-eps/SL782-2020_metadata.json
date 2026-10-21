@@ -1,0 +1,27 @@
+{
+  "radicado": "SL782-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-03-10T20:01:00Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 144,
+  "leyes_o_articulos": [
+    "Decreto 4588 de 2000",
+    "Decreto 4588 de 2006",
+    "Decreto 468 de 1990",
+    "Ley 100 de 1993",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 640 de 2001",
+    "Ley 79 de 1988",
+    "Ley 79 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL782-2020.doc",
+  "fecha_descarga": "2026-10-21T11:05:39.339993+00:00"
+}

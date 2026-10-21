@@ -1,0 +1,29 @@
+{
+  "radicado": "SL159-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-02-03T20:41:00Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 57,
+  "leyes_o_articulos": [
+    "Decreto 1887 de 1994",
+    "Decreto 2117 de 1945",
+    "Decreto 2127 de 1945",
+    "Decreto 3798 de 2013",
+    "Ley 100 de 1993",
+    "Ley 15 de 1959",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 80 de 1993",
+    "Ley 995 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL159-2020.doc",
+  "fecha_descarga": "2026-10-21T11:21:07.382656+00:00"
+}

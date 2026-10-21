@@ -1,0 +1,33 @@
+{
+  "radicado": "SL741-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-03-05T19:42:00Z",
+  "magistrado_ponente": "Dr. Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Decreto 0516 de 1988",
+    "Decreto 111 de 1996",
+    "Decreto 1471 de 1932",
+    "Decreto 1586 de 1989",
+    "Decreto 1591 de 1989",
+    "Decreto 2340 de 1946",
+    "Decreto 236 de 1999",
+    "Ley 206 de 1938",
+    "Ley 21 de 1988",
+    "Ley 445 de 1998",
+    "Ley 489 de 1998",
+    "Ley 49 de 1943",
+    "Ley 53 de 1945",
+    "Ley 63 de 1940",
+    "Ley 64 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Ernesto Forero Vargas/Sentencias/SL741-2020.doc",
+  "fecha_descarga": "2026-10-21T11:07:22.270566+00:00"
+}

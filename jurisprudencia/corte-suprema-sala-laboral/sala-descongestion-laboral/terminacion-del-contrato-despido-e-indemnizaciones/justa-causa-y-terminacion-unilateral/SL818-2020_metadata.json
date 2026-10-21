@@ -1,0 +1,25 @@
+{
+  "radicado": "SL818-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-03-11T19:42:00Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 204 de 1957",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 27 de 1976",
+    "Ley 361 de 1997",
+    "Ley 712 de 2001",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL818-2020.doc",
+  "fecha_descarga": "2026-10-21T11:05:17.358826+00:00"
+}

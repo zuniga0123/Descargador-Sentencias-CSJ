@@ -1,0 +1,29 @@
+{
+  "radicado": "SL056-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-01-27T19:54:00Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1750 de 2003",
+    "Decreto 2463 de 2001",
+    "Decreto 3147 de 2008",
+    "Decreto 3149 de 2008",
+    "Decreto 600 de 2008",
+    "Ley 100 de 1993",
+    "Ley 1151 de 2007",
+    "Ley 489 de 1998",
+    "Ley 776 de 2002",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL056-2020.doc",
+  "fecha_descarga": "2026-10-21T11:22:53.703899+00:00"
+}

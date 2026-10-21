@@ -1,0 +1,31 @@
+{
+  "radicado": "SL656-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-03-02T19:22:00Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 90,
+  "leyes_o_articulos": [
+    "Decreto 1036 de 1972",
+    "Decreto 1160 de 1994",
+    "Decreto 1650 de 1977",
+    "Decreto 1825 de 1965",
+    "Decreto 2610 de 1989",
+    "Decreto 2630 de 1983",
+    "Decreto 2879 de 1986",
+    "Decreto 3041 de 1966",
+    "Decreto 3090 de 1979",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 71 de 1988",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL656-2020.doc",
+  "fecha_descarga": "2026-10-21T11:08:45.055229+00:00"
+}

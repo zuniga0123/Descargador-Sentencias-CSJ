@@ -1,0 +1,27 @@
+{
+  "radicado": "SL316-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-02-11T21:31:00Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 1083 de 2015",
+    "Decreto 1373 de 1966",
+    "Decreto 1469 de 1978",
+    "Decreto 198 de 2005",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Ley 142 de 1994",
+    "Ley 26 de 1976",
+    "Ley 27 de 1976"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Donald Jose Dix Ponnefz/Sentencias/SL316-2020.doc",
+  "fecha_descarga": "2026-10-21T11:16:49.838169+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "radicado": "SL866-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-03-12T20:13:00Z",
+  "magistrado_ponente": "Dr. Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 39,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 24 de 1988",
+    "Decreto 4369 de 2006",
+    "Decreto 4396 de 2006",
+    "Ley 100 de 1993",
+    "Ley 116 de 1976",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 712 de 2001",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Ernesto Forero Vargas/Sentencias/SL866-2020.doc",
+  "fecha_descarga": "2026-10-21T11:04:49.430035+00:00"
+}

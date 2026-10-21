@@ -1,0 +1,29 @@
+{
+  "radicado": "SL718-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-03-16T15:18:00Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 129 de 1976",
+    "Decreto 1743 de 1966",
+    "Decreto 2661 de 1960",
+    "Decreto 3267 de 1963",
+    "Ley 100 de 1993",
+    "Ley 1045 de 1978",
+    "Ley 314 de 1996",
+    "Ley 33 de 1985",
+    "Ley 419 de 1997",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Fernando Castillo Cadena/Sentencias/SL718-2020.doc",
+  "fecha_descarga": "2026-10-21T11:03:59.027776+00:00"
+}

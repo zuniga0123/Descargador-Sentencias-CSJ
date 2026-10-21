@@ -1,0 +1,27 @@
+{
+  "radicado": "SL477-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-02-21T14:01:00Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 1073 de 2002",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Decreto 758 de 1990",
+    "Decreto 994 de 2003",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL477-2020.doc",
+  "fecha_descarga": "2026-10-21T11:13:17.891938+00:00"
+}

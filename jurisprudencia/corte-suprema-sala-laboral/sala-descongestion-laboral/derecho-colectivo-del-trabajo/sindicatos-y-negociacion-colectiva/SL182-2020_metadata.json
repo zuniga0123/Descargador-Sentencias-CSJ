@@ -1,0 +1,31 @@
+{
+  "radicado": "SL182-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-02-04T16:43:00Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1083 de 2015",
+    "Decreto 1373 de 1966",
+    "Decreto 1469 de 1978",
+    "Decreto 198 de 1995",
+    "Decreto 198 de 2005",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 528 de 1964",
+    "Ley 142 de 1994",
+    "Ley 16 de 1969",
+    "Ley 26 de 1976",
+    "Ley 27 de 1976",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Donald Jose Dix Ponnefz/Sentencias/SL182-2020.doc",
+  "fecha_descarga": "2026-10-21T11:20:21.225001+00:00"
+}

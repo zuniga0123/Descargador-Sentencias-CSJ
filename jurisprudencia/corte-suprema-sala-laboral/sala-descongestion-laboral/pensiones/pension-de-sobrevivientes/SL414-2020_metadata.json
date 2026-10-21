@@ -1,0 +1,27 @@
+{
+  "radicado": "SL414-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-02-17T16:58:00Z",
+  "magistrado_ponente": "Dr. Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 43,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1204 de 2008",
+    "Ley 1564 de 2012",
+    "Ley 25 de 1992",
+    "Ley 44 de 1980",
+    "Ley 712 de 2001",
+    "Ley 776 de 2002",
+    "Ley 776 de 2012",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Ernesto Forero Vargas/Sentencias/SL414-2020.doc",
+  "fecha_descarga": "2026-10-21T11:14:44.453814+00:00"
+}

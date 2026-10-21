@@ -1,0 +1,26 @@
+{
+  "radicado": "SL173-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-02-04T14:42:00Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 2177 de 1989",
+    "Decreto 2351 de 1965",
+    "Decreto 2719 de 1993",
+    "Decreto 284 de 1957",
+    "Decreto 3164 de 2003",
+    "Decreto 3164 de 2013",
+    "Ley 270 de 1996",
+    "Ley 361 de 1997"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL173-2020.doc",
+  "fecha_descarga": "2026-10-21T11:20:43.560360+00:00"
+}

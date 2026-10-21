@@ -1,0 +1,27 @@
+{
+  "radicado": "SL332-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-02-12T17:17:00Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2519 de 2015",
+    "Decreto 3135 de 1968",
+    "Decreto 4588 de 2006",
+    "Decreto 797 de 1949",
+    "Ley 1233 de 2008",
+    "Ley 4 de 1992",
+    "Ley 50 de 1990",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL332-2020.doc",
+  "fecha_descarga": "2026-10-21T11:16:29.903726+00:00"
+}

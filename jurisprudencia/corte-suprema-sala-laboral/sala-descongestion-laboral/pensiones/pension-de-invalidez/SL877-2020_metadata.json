@@ -1,0 +1,25 @@
+{
+  "radicado": "SL877-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-03-13T19:31:00Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 1352 de 2013",
+    "Decreto 2463 de 2001",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 446 de 1998",
+    "Ley 776 de 2002",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Fernando Castillo Cadena/Sentencias/SL877-2020.doc",
+  "fecha_descarga": "2026-10-21T11:04:15.007890+00:00"
+}

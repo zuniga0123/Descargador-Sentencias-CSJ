@@ -1,0 +1,24 @@
+{
+  "radicado": "SL551-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-02-26T13:05:00Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 46,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 528 de 1964",
+    "Ley 1149 de 2007",
+    "Ley 169 de 1899",
+    "Ley 446 de 1998",
+    "Ley 594 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL551-2020.doc",
+  "fecha_descarga": "2026-10-21T11:11:28.101904+00:00"
+}

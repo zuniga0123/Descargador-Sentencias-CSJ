@@ -1,0 +1,27 @@
+{
+  "radicado": "SL497-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-02-24T14:55:00Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Despido sin justa causa",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 080 de 1976",
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Ley 171 de 1961",
+    "Ley 3130 de 1968",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1985",
+    "Ley 60 de 1990",
+    "Ley 64 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL497-2020.doc",
+  "fecha_descarga": "2026-10-21T11:12:52.603146+00:00"
+}

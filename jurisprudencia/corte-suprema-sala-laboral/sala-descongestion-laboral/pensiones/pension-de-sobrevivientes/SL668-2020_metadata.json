@@ -1,0 +1,29 @@
+{
+  "radicado": "SL668-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-03-09T19:44:00Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "LEY 100 DE 1993",
+    "Ley 100 de 1993",
+    "Ley 1204 de 2008",
+    "Ley 153 de 1887",
+    "Ley 157 de 1887",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998",
+    "Ley 717 de 2001",
+    "Ley 794 de 2003",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL668-2020.doc",
+  "fecha_descarga": "2026-10-21T11:06:02.865413+00:00"
+}

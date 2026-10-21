@@ -1,0 +1,23 @@
+{
+  "radicado": "SL823-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-03-11T17:04:00Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 50,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1670 de 2007",
+    "Ley 100 de 1993",
+    "Ley 1295 de 1994",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Gerardo Botero Zuluaga/Sentencias/SL823-2020.doc",
+  "fecha_descarga": "2026-10-21T11:05:22.723211+00:00"
+}

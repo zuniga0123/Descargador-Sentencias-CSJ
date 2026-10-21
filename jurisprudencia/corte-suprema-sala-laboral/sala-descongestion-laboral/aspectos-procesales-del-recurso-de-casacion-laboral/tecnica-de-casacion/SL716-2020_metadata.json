@@ -1,0 +1,24 @@
+{
+  "radicado": "SL716-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-03-16T15:37:00Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 4,
+  "leyes_o_articulos": [
+    "Decreto 111 de 1996",
+    "Decreto 1586 de 1989",
+    "Decreto 1591 de 1989",
+    "Decreto 236 de 1999",
+    "Ley 21 de 1988",
+    "Ley 445 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Fernando Castillo Cadena/Sentencias/SL716-2020.doc",
+  "fecha_descarga": "2026-10-21T11:03:55.555857+00:00"
+}

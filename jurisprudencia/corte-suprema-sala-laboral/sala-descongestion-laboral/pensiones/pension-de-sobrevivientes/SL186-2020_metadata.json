@@ -1,0 +1,28 @@
+{
+  "radicado": "SL186-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-02-04T17:02:00Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 43,
+  "leyes_o_articulos": [
+    "Decreto 1889 de 1994",
+    "Decreto 2282 de 1989",
+    "Ley 100 de 1093",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 1781 de 2016",
+    "Ley 54 de 1990",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL186-2020.doc",
+  "fecha_descarga": "2026-10-21T11:20:12.331128+00:00"
+}

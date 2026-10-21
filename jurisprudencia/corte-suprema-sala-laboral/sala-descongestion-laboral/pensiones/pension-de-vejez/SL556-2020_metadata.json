@@ -1,0 +1,27 @@
+{
+  "radicado": "SL556-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-02-26T16:17:00Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 110,
+  "leyes_o_articulos": [
+    "Decreto 1294 de 1994",
+    "Decreto 1299 de 1994",
+    "Decreto 1748 de 1995",
+    "Decreto 656 de 1994",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 700 de 2001",
+    "Ley 797 de 2003",
+    "Ley 91 de 1989"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Donald Jose Dix Ponnefz/Sentencias/SL556-2020.doc",
+  "fecha_descarga": "2026-10-21T11:11:19.189633+00:00"
+}

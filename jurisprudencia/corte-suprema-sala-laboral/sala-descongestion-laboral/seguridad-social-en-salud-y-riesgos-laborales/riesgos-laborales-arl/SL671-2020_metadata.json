@@ -1,0 +1,32 @@
+{
+  "radicado": "SL671-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-03-09T15:17:00Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 172 de 2001",
+    "Decreto 176 de 2001",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 1295 de 1994",
+    "Ley 15 de 1959",
+    "Ley 2150 de 1995",
+    "Ley 336 de 1996",
+    "Ley 336 de 1998",
+    "Ley 50 de 1990",
+    "Ley 712 de 2001",
+    "Ley 776 de 2002",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL671-2020.doc",
+  "fecha_descarga": "2026-10-21T11:06:19.678350+00:00"
+}

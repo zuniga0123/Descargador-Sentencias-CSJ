@@ -1,0 +1,23 @@
+{
+  "radicado": "SL045-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-01-24T13:51:00Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1260 de 1970",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 712 de 2001",
+    "Ley 92 de 1933"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL045-2020.doc",
+  "fecha_descarga": "2026-10-21T11:23:30.351809+00:00"
+}

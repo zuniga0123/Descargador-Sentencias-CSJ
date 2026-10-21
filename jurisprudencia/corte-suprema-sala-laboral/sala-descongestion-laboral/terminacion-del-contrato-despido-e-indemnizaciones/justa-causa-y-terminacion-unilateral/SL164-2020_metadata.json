@@ -1,0 +1,24 @@
+{
+  "radicado": "SL164-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-02-04T13:06:00Z",
+  "magistrado_ponente": "Dr. Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 55,
+  "leyes_o_articulos": [
+    "Decreto 1675 de 1997",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1993",
+    "Ley 6 de 1945",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Ernesto Forero Vargas/Sentencias/SL164-2020.doc",
+  "fecha_descarga": "2026-10-21T11:21:01.693430+00:00"
+}

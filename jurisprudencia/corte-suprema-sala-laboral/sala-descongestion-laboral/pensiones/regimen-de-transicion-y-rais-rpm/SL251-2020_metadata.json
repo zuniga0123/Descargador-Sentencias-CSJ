@@ -1,0 +1,28 @@
+{
+  "radicado": "SL251-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-02-06T14:43:00Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 1281 de 1994",
+    "Decreto 1295 de 1994",
+    "Decreto 1832 de 1994",
+    "Decreto 2090 de 2003",
+    "Decreto 2463 de 2001",
+    "Decreto 2633 de 1994",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 436 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Jorge Prada Sanchez/Sentencias/SL251-2020.doc",
+  "fecha_descarga": "2026-10-21T11:19:05.269622+00:00"
+}
