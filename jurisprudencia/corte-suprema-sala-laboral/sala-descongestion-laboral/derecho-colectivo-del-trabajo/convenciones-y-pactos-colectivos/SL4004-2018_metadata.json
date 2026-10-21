@@ -1,0 +1,26 @@
+{
+  "radicado": "SL4004-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-09-19T16:58:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1661 de 1960",
+    "Decreto 1848 de 1969",
+    "Decreto 2651 de 1991",
+    "Decreto 2661 de 1960",
+    "Decreto 904 de 1951",
+    "Ley 100 de 1993",
+    "Ley 446 de 1998",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL4004-2018.doc",
+  "fecha_descarga": "2026-10-21T15:56:18.384428+00:00"
+}

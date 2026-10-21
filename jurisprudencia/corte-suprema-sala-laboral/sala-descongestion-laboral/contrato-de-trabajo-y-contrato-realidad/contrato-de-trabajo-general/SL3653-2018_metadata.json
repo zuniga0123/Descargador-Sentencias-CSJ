@@ -1,0 +1,27 @@
+{
+  "radicado": "SL3653-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-08-30T17:06:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 69,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 24 de 1998",
+    "Decreto 4588 de 2006",
+    "Decreto 468 de 1990",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 712 de 2001",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Ernesto Forero Vargas/Sentencias/SL3653-2018.doc",
+  "fecha_descarga": "2026-10-21T16:05:36.959850+00:00"
+}

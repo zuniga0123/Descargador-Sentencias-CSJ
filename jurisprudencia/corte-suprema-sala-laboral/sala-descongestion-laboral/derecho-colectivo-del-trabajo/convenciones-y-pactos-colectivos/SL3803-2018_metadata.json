@@ -1,0 +1,33 @@
+{
+  "radicado": "SL3803-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-09-10T22:55:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 1050 de 1968",
+    "Decreto 1848 de 1969",
+    "Decreto 2013 de 2012",
+    "Decreto 2789 de 1985",
+    "Decreto 2869 de 1985",
+    "Decreto 2879 de 1985",
+    "Decreto 3135 de 1968",
+    "Decreto 758 de 1990",
+    "Decreto 797 de 1949",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1985",
+    "Ley 6 de 1945",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Ernesto Forero Vargas/Sentencias/SL3803-2018.doc",
+  "fecha_descarga": "2026-10-21T16:01:52.094885+00:00"
+}

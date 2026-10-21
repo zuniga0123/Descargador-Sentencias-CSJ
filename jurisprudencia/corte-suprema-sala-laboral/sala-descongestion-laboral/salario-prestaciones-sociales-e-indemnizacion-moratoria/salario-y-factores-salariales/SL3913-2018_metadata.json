@@ -1,0 +1,26 @@
+{
+  "radicado": "SL3913-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-09-14T15:32:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2515 de 1999",
+    "Decreto 797 de 1949",
+    "Ley 142 de 1992",
+    "Ley 16 de 1969",
+    "Ley 200 de 1995",
+    "Ley 489 de 1998",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL3913-2018.doc",
+  "fecha_descarga": "2026-10-21T15:58:26.516750+00:00"
+}

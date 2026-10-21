@@ -1,0 +1,33 @@
+{
+  "radicado": "SL3760-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-09-10T20:42:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 1818 de 1996",
+    "Decreto 2282 de 1989",
+    "Decreto 2665 de 1988",
+    "Decreto 2665 de 1998",
+    "Decreto 6692 de 1994",
+    "Decreto 692 de 1994",
+    "Decreto 832 de 1996",
+    "Ley 100 de 1993",
+    "Ley 1285 de 2009",
+    "Ley 153 de 1887",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003",
+    "Ley 828 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL3760-2018.doc",
+  "fecha_descarga": "2026-10-21T16:02:02.702319+00:00"
+}

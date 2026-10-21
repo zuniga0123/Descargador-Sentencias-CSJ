@@ -1,0 +1,29 @@
+{
+  "radicado": "SL4408-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-10-11T14:51:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 111 de 1996",
+    "Decreto 1586 de 1989",
+    "Decreto 1591 de 1989",
+    "Decreto 1748 de 1995",
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Ley 10 de 1972",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 21 de 1988",
+    "Ley 445 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Ernesto Forero Vargas/Sentencias/SL4408-2018.doc",
+  "fecha_descarga": "2026-10-21T15:42:56.903585+00:00"
+}

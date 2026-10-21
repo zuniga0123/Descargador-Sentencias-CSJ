@@ -1,0 +1,24 @@
+{
+  "radicado": "SL4085-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-09-27T15:24:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Decreto 111 de 1996",
+    "Decreto 1591 de 1989",
+    "Decreto 236 de 1999",
+    "Decreto 2591 de 1989",
+    "Ley 21 de 1988",
+    "Ley 445 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL4085-2018.doc",
+  "fecha_descarga": "2026-10-21T15:50:27.344676+00:00"
+}

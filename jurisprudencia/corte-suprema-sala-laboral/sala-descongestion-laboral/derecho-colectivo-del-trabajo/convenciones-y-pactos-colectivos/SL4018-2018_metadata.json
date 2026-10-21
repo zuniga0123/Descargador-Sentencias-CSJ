@@ -1,0 +1,24 @@
+{
+  "radicado": "SL4018-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-09-19T17:54:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Decreto 2013 de 2012",
+    "Ley 1042 de 1978",
+    "Ley 1050 de 1968",
+    "Ley 3130 de 1968",
+    "Ley 790 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL4018-2018.doc",
+  "fecha_descarga": "2026-10-21T15:56:07.586603+00:00"
+}

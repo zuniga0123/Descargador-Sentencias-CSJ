@@ -1,0 +1,25 @@
+{
+  "radicado": "SL4115-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-10-05T16:55:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1887 de 1994",
+    "Decreto 3041 de 1966",
+    "Decreto 3063 de 1989",
+    "Ley 100 de 1993",
+    "Ley 433 de 1971",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL4115-2018.doc",
+  "fecha_descarga": "2026-10-21T15:44:46.427962+00:00"
+}

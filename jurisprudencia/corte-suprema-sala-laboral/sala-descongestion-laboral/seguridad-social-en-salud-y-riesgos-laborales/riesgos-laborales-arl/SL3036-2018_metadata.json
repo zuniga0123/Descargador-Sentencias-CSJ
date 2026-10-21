@@ -1,0 +1,26 @@
+{
+  "radicado": "SL3036-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-10-04T15:00:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989",
+    "Ley 1149 de 2007",
+    "Ley 1551 de 2012",
+    "Ley 33 de 1985",
+    "Ley 50 de 1886",
+    "Ley 50 de 1993",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Gerardo Botero Zuluaga/Sentencias/SL3036-2018.doc",
+  "fecha_descarga": "2026-10-21T15:46:31.251157+00:00"
+}

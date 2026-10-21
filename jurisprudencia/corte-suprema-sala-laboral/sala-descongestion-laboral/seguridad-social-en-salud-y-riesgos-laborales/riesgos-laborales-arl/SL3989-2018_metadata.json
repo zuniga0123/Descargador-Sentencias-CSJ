@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3989-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-10-05T20:55:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 8,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Decreto 1889 de 1994",
+    "Decreto 2795 de 1991",
+    "Ley 54 de 1990",
+    "Ley 979 de 2002",
+    "Ley 979 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL3989-2018.doc",
+  "fecha_descarga": "2026-10-21T15:44:38.950842+00:00"
+}

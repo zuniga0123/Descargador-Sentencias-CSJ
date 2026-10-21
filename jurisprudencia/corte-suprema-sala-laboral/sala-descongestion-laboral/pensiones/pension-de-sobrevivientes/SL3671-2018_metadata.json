@@ -1,0 +1,22 @@
+{
+  "radicado": "SL3671-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-09-04T16:28:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 100 de 2003",
+    "Ley 776 de 2002",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Donald Jose Dix Ponnefz/Sentencias/SL3671-2018.doc",
+  "fecha_descarga": "2026-10-21T16:04:03.659690+00:00"
+}

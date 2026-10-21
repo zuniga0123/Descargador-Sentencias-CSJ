@@ -1,0 +1,22 @@
+{
+  "radicado": "SL4021-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-09-19T19:21:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Ley 10 de 1990",
+    "Ley 50 de 1990",
+    "Ley 524 de 1999",
+    "Ley 584 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL4021-2018.doc",
+  "fecha_descarga": "2026-10-21T15:56:04.003205+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3825-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-10-11T16:42:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 1919 de 2002",
+    "Decreto 710 de 1978",
+    "Decreto 797 de 1949",
+    "Ley 30 de 1992"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL3825-2018.doc",
+  "fecha_descarga": "2026-10-21T15:42:40.339451+00:00"
+}

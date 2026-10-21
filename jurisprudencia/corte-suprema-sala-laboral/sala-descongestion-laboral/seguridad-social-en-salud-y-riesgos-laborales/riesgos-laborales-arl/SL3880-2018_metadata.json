@@ -1,0 +1,22 @@
+{
+  "radicado": "SL3880-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-09-24T17:57:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 617 de 1954",
+    "Ley 16 de 1969",
+    "Ley 2351 de 1965",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Donald Jose Dix Ponnefz/Sentencias/SL3880-2018.doc",
+  "fecha_descarga": "2026-10-21T15:53:19.826917+00:00"
+}

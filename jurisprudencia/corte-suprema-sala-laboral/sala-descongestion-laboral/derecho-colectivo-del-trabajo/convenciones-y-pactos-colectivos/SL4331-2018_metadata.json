@@ -1,0 +1,20 @@
+{
+  "radicado": "SL4331-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-10-04T19:49:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1919 de 2002",
+    "Ley 16 de 1969"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL4331-2018.doc",
+  "fecha_descarga": "2026-10-21T15:45:30.007512+00:00"
+}

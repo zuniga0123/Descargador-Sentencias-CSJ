@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3978-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-10-01T15:12:00Z",
+  "magistrado_ponente": "Dr.Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 43,
+  "leyes_o_articulos": [
+    "Decreto 3130 de 1968",
+    "Decreto 3135 de 1968",
+    "Ley 10 de 1990",
+    "Ley 50 de 1990",
+    "Ley 524 de 1999",
+    "Ley 584 de 2000",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Martin Emilio Beltran Quintero/Sentencias/SL3978-2018.doc",
+  "fecha_descarga": "2026-10-21T15:49:10.501520+00:00"
+}

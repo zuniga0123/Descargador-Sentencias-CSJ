@@ -1,0 +1,21 @@
+{
+  "radicado": "SL4118-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-09-25T21:08:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 50,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989",
+    "Ley 616 de 1954",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL4118-2018.doc",
+  "fecha_descarga": "2026-10-21T15:52:40.681614+00:00"
+}

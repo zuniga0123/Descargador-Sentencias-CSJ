@@ -1,0 +1,21 @@
+{
+  "radicado": "SL3288-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-09-12T16:57:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 59,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 2351 de 1965",
+    "Ley 48 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Gerardo Botero Zuluaga/Sentencias/SL3288-2018.doc",
+  "fecha_descarga": "2026-10-21T16:00:07.566566+00:00"
+}

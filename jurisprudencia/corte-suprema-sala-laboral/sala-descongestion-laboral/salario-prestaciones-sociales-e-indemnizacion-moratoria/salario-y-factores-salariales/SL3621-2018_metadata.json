@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3621-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-08-31T19:33:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 37,
+  "leyes_o_articulos": [
+    "Decreto 1557 de 1989",
+    "Decreto 663 de 1993",
+    "Decreto 92 de 2000",
+    "Ley 446 de 1998",
+    "Ley 510 de 1999",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL3621-2018.doc",
+  "fecha_descarga": "2026-10-21T16:04:46.268368+00:00"
+}

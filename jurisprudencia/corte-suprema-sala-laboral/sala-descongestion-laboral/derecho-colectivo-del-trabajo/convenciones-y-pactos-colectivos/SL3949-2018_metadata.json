@@ -1,0 +1,28 @@
+{
+  "radicado": "SL3949-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-09-20T20:14:00Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 38,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 1653 de 1977",
+    "Decreto 1750 de 2003",
+    "Decreto 1876 de 1994",
+    "Decreto 810 de 2008",
+    "Ley 10 de 1990",
+    "Ley 100 de 1993",
+    "Ley 16 de 1972",
+    "Ley 1750 de 2003",
+    "Ley 74 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Luis Quiroz Alemán/Sentencias/SL3949-2018.doc",
+  "fecha_descarga": "2026-10-21T15:54:26.022376+00:00"
+}

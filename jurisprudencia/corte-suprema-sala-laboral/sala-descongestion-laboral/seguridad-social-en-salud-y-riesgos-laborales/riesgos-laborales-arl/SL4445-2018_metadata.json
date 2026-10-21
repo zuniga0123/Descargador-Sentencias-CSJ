@@ -1,0 +1,21 @@
+{
+  "radicado": "SL4445-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-10-12T14:00:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Ley 446 de 1998",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL4445-2018.doc",
+  "fecha_descarga": "2026-10-21T15:42:05.987384+00:00"
+}

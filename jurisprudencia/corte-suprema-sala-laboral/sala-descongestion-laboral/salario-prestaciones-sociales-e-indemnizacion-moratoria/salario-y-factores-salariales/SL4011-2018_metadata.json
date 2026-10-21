@@ -1,0 +1,26 @@
+{
+  "radicado": "SL4011-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-09-19T21:06:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1154 de 1994",
+    "Decreto 1158 de 1994",
+    "Decreto 1424 de 1993",
+    "Decreto 1424 de 1998",
+    "Decreto 691 de 1994",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 4 de 1992"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL4011-2018.doc",
+  "fecha_descarga": "2026-10-21T15:55:46.095005+00:00"
+}

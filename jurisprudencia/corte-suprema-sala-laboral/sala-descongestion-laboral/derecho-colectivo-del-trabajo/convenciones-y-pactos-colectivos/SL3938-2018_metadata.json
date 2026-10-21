@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3938-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-09-17T13:50:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 37,
+  "leyes_o_articulos": [
+    "Decreto 047 de 2000",
+    "Decreto 2351 de 1965",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 50 de 1990",
+    "Ley 584 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL3938-2018.doc",
+  "fecha_descarga": "2026-10-21T15:57:53.972261+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3933-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-09-18T15:59:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 0958 de 1984",
+    "Decreto 2282 de 1989",
+    "Decreto 732 de 1976",
+    "Ley 100 de 1993",
+    "Ley 4 de 1976"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL3933-2018.doc",
+  "fecha_descarga": "2026-10-21T15:57:04.485225+00:00"
+}

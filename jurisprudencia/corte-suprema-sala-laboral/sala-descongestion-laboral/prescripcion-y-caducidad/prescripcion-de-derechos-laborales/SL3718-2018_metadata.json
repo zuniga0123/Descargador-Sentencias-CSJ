@@ -1,0 +1,22 @@
+{
+  "radicado": "SL3718-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-09-11T15:16:00Z",
+  "magistrado_ponente": "Dr.Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 8,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Ley 446 de 1998",
+    "Ley 600 de 2000",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Martin Emilio Beltran Quintero/Sentencias/SL3718-2018.doc",
+  "fecha_descarga": "2026-10-21T16:01:12.824293+00:00"
+}

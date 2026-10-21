@@ -1,0 +1,21 @@
+{
+  "radicado": "SL2721-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-08-30T16:29:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 2211 de 2004",
+    "Decreto 3550 de 2004",
+    "Ley 270 de 1996"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Rigoberto Echeverri Bueno/Sentencias/SL2721-2018.doc",
+  "fecha_descarga": "2026-10-21T16:05:49.694662+00:00"
+}

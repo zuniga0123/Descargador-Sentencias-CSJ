@@ -1,0 +1,30 @@
+{
+  "radicado": "SL3889-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-09-25T20:46:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 1226 de 1970",
+    "Decreto 1848 de 1969",
+    "Decreto 2170 de 1992",
+    "Decreto 3130 de 1968",
+    "Decreto 3135 de 1968",
+    "Decreto 612 de 1974",
+    "Decreto 838 de 1975",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 270 de 1996",
+    "Ley 3057 de 1968",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL3889-2018.docx",
+  "fecha_descarga": "2026-10-21T15:52:46.079955+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "radicado": "SL4213-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-10-04T17:49:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2127 de 1945",
+    "Ley 16 de 1969",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL4213-2018.doc",
+  "fecha_descarga": "2026-10-21T15:45:55.106832+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "radicado": "SL3945-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-09-17T14:58:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 1600 de 1945",
+    "Decreto 3135 de 1968",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1214 de 1990",
+    "Ley 22 de 1945",
+    "Ley 28 de 1943",
+    "Ley 33 de 1985",
+    "Ley 42 de 1933",
+    "Ley 42 de 1993",
+    "Ley 53 de 1945",
+    "Ley 57 de 1887",
+    "Ley 71 de 1985",
+    "Ley 84 de 1948",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL3945-2018.doc",
+  "fecha_descarga": "2026-10-21T15:57:38.448104+00:00"
+}

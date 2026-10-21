@@ -1,0 +1,26 @@
+{
+  "radicado": "SL3169-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-09-12T21:01:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1607 de 2002",
+    "Decreto 2651 de 1991",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998",
+    "Ley 794 de 2003",
+    "Ley 9 de 1979",
+    "Ley 95 de 1890"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Fernando Castillo Cadena/Sentencias/SL3169-2018.doc",
+  "fecha_descarga": "2026-10-21T15:59:37.569275+00:00"
+}

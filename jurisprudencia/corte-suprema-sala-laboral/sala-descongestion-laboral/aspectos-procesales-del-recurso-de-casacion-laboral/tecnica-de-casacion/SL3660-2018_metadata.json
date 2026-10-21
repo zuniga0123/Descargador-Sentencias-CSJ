@@ -1,0 +1,22 @@
+{
+  "radicado": "SL3660-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-08-30T19:39:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 3135 de 1968",
+    "Ley 10 de 1990",
+    "Ley 50 de 1990",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Ernesto Forero Vargas/Sentencias/SL3660-2018.doc",
+  "fecha_descarga": "2026-10-21T16:05:23.108595+00:00"
+}

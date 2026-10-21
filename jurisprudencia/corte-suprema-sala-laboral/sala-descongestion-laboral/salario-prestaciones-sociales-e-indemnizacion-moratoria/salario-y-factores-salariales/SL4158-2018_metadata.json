@@ -1,0 +1,29 @@
+{
+  "radicado": "SL4158-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-09-26T22:06:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 70,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 1650 de 1977",
+    "Decreto 2610 de 1989",
+    "Decreto 3041 de 1966",
+    "Decreto 3063 de 1989",
+    "Decreto 3366 de 2007",
+    "Decreto 433 de 1971",
+    "Ley 100 de 1993",
+    "Ley 1299 de 1994",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL4158-2018.doc",
+  "fecha_descarga": "2026-10-21T15:51:25.428821+00:00"
+}

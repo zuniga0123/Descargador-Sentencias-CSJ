@@ -1,0 +1,26 @@
+{
+  "radicado": "SL4231-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-10-02T14:41:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "DECRETO 3041 de 1996",
+    "Decreto 2495 de 1982",
+    "Decreto 2869 de 1985",
+    "Decreto 2879 de 1985",
+    "Decreto 3014 de 1966",
+    "Decreto 3041 de 1966",
+    "Ley 446 de 1998",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL4231-2018.doc",
+  "fecha_descarga": "2026-10-21T15:48:31.019546+00:00"
+}

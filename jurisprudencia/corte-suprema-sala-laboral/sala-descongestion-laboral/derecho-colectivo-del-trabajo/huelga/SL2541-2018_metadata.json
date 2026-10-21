@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2541-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-10-09T20:56:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Huelga",
+  "puntaje_clasificacion": 259,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 11 de 1984",
+    "Ley 1210 de 2008",
+    "Ley 142 de 1994",
+    "Ley 39 de 1985",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL2541-2018.doc",
+  "fecha_descarga": "2026-10-21T15:43:42.168122+00:00"
+}

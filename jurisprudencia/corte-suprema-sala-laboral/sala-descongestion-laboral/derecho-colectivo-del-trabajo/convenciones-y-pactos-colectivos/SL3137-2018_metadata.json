@@ -1,0 +1,29 @@
+{
+  "radicado": "SL3137-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-09-28T20:22:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 0758 de 1990",
+    "Decreto 1158 de 1994",
+    "Decreto 2067 de 1991",
+    "Decreto 2127 de 1945",
+    "Decreto 691 de 1994",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1395 de 2010",
+    "Ley 169 de 1898",
+    "Ley 196 de 1896",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Rigoberto Echeverri Bueno/Sentencias/SL3137-2018.doc",
+  "fecha_descarga": "2026-10-21T15:49:33.710327+00:00"
+}

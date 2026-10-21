@@ -1,0 +1,29 @@
+{
+  "radicado": "SL3988-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-09-18T21:06:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Decreto 1889 de 1994",
+    "Decreto 2651 de 1991",
+    "Ley 100 de 1993",
+    "Ley 1889 de 1994",
+    "Ley 446 de 1998",
+    "Ley 54 de 1990",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003",
+    "Ley 797 de 2013",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL3988-2018.doc",
+  "fecha_descarga": "2026-10-21T15:56:46.294605+00:00"
+}

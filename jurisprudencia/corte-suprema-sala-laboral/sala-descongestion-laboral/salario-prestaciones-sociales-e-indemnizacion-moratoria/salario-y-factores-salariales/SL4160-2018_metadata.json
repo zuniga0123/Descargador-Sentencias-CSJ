@@ -1,0 +1,27 @@
+{
+  "radicado": "SL4160-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-09-26T22:47:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 50,
+  "leyes_o_articulos": [
+    "Decreto 3135 de 1968",
+    "Decreto 3535 de 2003",
+    "Decreto 3535 de 2004",
+    "Decreto 797 de 1949",
+    "Ley 278 de 1996",
+    "Ley 314 de 1996",
+    "Ley 4 de 1992",
+    "Ley 789 de 2002",
+    "Ley 797 de 1949"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Ernesto Forero Vargas/Sentencias/SL4160-2018.doc",
+  "fecha_descarga": "2026-10-21T15:51:10.866723+00:00"
+}
