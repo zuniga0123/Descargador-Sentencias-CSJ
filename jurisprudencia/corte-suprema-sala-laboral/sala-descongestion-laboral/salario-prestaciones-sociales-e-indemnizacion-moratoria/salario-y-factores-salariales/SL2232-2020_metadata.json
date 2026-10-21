@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2232-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-07-13T15:05:01Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 3130 de 1968",
+    "Decreto 3135 de 1968",
+    "Ley 50 de 1990",
+    "Ley 6 de 1945",
+    "Ley 715 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL2232-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:30:48.937124+00:00"
+}

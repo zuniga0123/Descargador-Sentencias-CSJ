@@ -1,0 +1,28 @@
+{
+  "radicado": "SL2899-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-08-19T18:15:02Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 38,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Decreto 2013 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 254 de 2000",
+    "Decreto 2605 de 2008",
+    "Decreto 405 de 2007",
+    "Ley 1005 de 2006",
+    "Ley 1105 de 2006",
+    "Ley 254 de 2000",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL2899-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:13:18.203482+00:00"
+}

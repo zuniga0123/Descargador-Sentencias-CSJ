@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2417-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-08-06T15:44:00Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1158 de 1994",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Luis Benedicto Herrrera Diaz/Sentencias/SL2417-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:17:23.219718+00:00"
+}

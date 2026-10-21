@@ -1,0 +1,29 @@
+{
+  "radicado": "SL2618-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-07-28T21:10:29Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Laudos arbitrales y recurso de anulación",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 182 de 1995",
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Ley 1333 de 1986",
+    "Ley 142 de 1994",
+    "Ley 16 de 1969",
+    "Ley 1952 de 2019",
+    "Ley 3135 de 1968",
+    "Ley 734 de 2002",
+    "Ley 909 de 2004"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL2618-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:20:12.271586+00:00"
+}

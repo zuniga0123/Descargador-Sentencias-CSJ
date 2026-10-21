@@ -1,0 +1,21 @@
+{
+  "radicado": "SL2499-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-07-21T20:36:31Z",
+  "magistrado_ponente": "Dr. Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 4588 de 2006",
+    "Ley 1562 de 2011"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Santander Rafael Brito Cuadrado/Sentencias/SL2499-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:25:45.876750+00:00"
+}

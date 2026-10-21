@@ -1,0 +1,32 @@
+{
+  "radicado": "SL2729-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-08-13T05:30:32Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 21 de 1982",
+    "Ley 222 de 1995",
+    "Ley 50 de 1190",
+    "Ley 50 de 1990",
+    "Ley 51 de 1983",
+    "Ley 52 de 1975",
+    "Ley 54 de 1962",
+    "Ley 584 de 2000",
+    "Ley 712 de 2001",
+    "Ley 789 de 2002",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Donald Jose Dix Ponnefz/Sentencias/SL2729-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:16:14.460382+00:00"
+}

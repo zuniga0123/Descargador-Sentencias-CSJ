@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2642-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-07-31T17:50:11Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 1043 de 1978",
+    "Decreto 1388 de 2013",
+    "Decreto 2013 de 2012",
+    "Ley 1042 de 1978"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL2642-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:20:35.403098+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1939-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-07-07T14:04:11Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 42,
+  "leyes_o_articulos": [
+    "Decreto 1260 de 1970",
+    "Ley 100 de 1993",
+    "Ley 1098 de 2006",
+    "Ley 1149 de 2007",
+    "Ley 153 de 1887",
+    "Ley 29 de 1982",
+    "Ley 54 de 1990",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Gerardo Botero Zuluaga/Sentencias/SL1939-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:35:28.365520+00:00"
+}

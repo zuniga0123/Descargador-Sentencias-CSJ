@@ -1,0 +1,30 @@
+{
+  "radicado": "SL2268-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-07-13T18:56:00Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2177 de 1989",
+    "Decreto 2351 de 1965",
+    "Decreto 2463 de 2001",
+    "Decreto 2464 de 2001",
+    "Decreto 917 de 1999",
+    "Ley 21 de 1982",
+    "Ley 361 de 1997",
+    "Ley 418 de 1997",
+    "Ley 772 de 2002",
+    "Ley 776 de 2002",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL2268-2020.pdf",
+  "fecha_descarga": "2026-10-21T10:29:42.774686+00:00"
+}
