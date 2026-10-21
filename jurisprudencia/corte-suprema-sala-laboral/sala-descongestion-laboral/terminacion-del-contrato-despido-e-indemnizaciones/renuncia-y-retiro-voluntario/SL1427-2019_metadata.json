@@ -1,0 +1,28 @@
+{
+  "radicado": "SL1427-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-04-24T15:30:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Renuncia y retiro voluntario",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 1660 de 1991",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Ley 16 de 1969",
+    "Ley 171 de 1961",
+    "Ley 2351 de 1965",
+    "Ley 50 de 1990",
+    "Ley 584 de 2000",
+    "Ley 6 de 1945",
+    "Ley 60 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1427-2019.doc",
+  "fecha_descarga": "2026-10-21T13:54:45.541969+00:00"
+}

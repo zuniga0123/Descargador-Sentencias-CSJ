@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1971-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-13T21:52:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 224,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Ley 100 de 1993",
+    "Ley 142 de 1994",
+    "Ley 39 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Gerardo Botero Zuluaga/Sentencias/SL1971-2019.doc",
+  "fecha_descarga": "2026-10-21T13:36:06.921567+00:00"
+}

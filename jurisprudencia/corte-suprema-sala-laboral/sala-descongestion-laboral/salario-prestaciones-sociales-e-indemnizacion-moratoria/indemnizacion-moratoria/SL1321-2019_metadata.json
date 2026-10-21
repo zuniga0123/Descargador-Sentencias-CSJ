@@ -1,0 +1,28 @@
+{
+  "radicado": "SL1321-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-10T22:09:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 43,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 16 de 1969",
+    "Ley 22 de 1985",
+    "Ley 50 de 1990",
+    "Ley 57 de 1887",
+    "Ley 712 de 2001",
+    "Ley 789 de 2002",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL1321-2019.doc",
+  "fecha_descarga": "2026-10-21T13:38:43.872256+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "radicado": "SL1238-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-04-08T19:18:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 48,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Donald Jose Dix Ponnefz/Sentencias/SL1238-2019.doc",
+  "fecha_descarga": "2026-10-21T13:59:45.419983+00:00"
+}

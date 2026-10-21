@@ -1,0 +1,29 @@
+{
+  "radicado": "SL2111-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-12T22:10:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 1578 de 2001",
+    "Decreto 2127 de 1945",
+    "Decreto 2282 de 1989",
+    "Decreto 2590 de 2003",
+    "Decreto 2601 de 2009",
+    "Decreto 4380 de 2004",
+    "Decreto 637 de 2007",
+    "Decreto 805 de 2000",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 254 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Ana Maria Muñoz Segura/Sentencias/SL2111-2019.doc",
+  "fecha_descarga": "2026-10-21T13:36:26.167068+00:00"
+}

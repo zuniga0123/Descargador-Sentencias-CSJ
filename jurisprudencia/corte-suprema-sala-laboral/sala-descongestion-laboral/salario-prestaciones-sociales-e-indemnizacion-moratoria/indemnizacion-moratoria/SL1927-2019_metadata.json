@@ -1,0 +1,30 @@
+{
+  "radicado": "SL1927-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-04T19:35:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 57,
+  "leyes_o_articulos": [
+    "Decreto 2012 de 2012",
+    "Decreto 2013 de 2012",
+    "Decreto 2127 de 1975",
+    "Decreto 3135 de 1968",
+    "Decreto 553 de 2015",
+    "Decreto 797 de 1949",
+    "Decreto 797 de 1979",
+    "Ley 100 de 1993",
+    "Ley 1651 de 1977",
+    "Ley 797 de 1949",
+    "Ley 80 de 1993",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Ernesto Forero Vargas/Sentencias/SL1927-2019.doc",
+  "fecha_descarga": "2026-10-21T13:41:43.650299+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "radicado": "SL1474-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-04-29T16:47:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 73,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Decreto 1950 de 1973",
+    "Decreto 2127 de 1945",
+    "Decreto 2282 de 1989",
+    "Decreto 2351 de 1965",
+    "Decreto 797 de 1949",
+    "Ley 1750 de 2003",
+    "Ley 2127 de 1945",
+    "Ley 50 de 1990",
+    "Ley 797 de 1949",
+    "Ley 80 de 1990",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Ernesto Forero Vargas/Sentencias/SL1474-2019.doc",
+  "fecha_descarga": "2026-10-21T13:53:32.363370+00:00"
+}

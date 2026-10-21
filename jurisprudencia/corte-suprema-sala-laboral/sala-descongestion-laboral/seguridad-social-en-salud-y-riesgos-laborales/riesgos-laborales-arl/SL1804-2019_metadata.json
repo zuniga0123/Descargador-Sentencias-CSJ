@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1804-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-05-27T21:23:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 308 de 2009",
+    "Decreto 330 de 2008",
+    "Decreto 331 de 2008",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL1804-2019.doc",
+  "fecha_descarga": "2026-10-21T13:43:48.657565+00:00"
+}

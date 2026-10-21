@@ -1,0 +1,22 @@
+{
+  "radicado": "SL2012-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-11T21:39:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Tipos de contrato y vinculación",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 456 de 1956",
+    "Ley 712 de 2001",
+    "Ley 756 de 2002",
+    "Ley 788 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Rigoberto Echeverri Bueno/Sentencias/SL2012-2019.doc",
+  "fecha_descarga": "2026-10-21T13:37:37.690133+00:00"
+}

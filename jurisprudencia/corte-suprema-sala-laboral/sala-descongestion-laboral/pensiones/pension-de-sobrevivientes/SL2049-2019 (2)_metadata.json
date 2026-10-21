@@ -1,0 +1,29 @@
+{
+  "radicado": "SL2049-2019 (2)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-10T12:47:00Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 2633 de 1994",
+    "Decreto 2651 de 1991",
+    "Decreto 433 de 1971",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 148 de 1976",
+    "Ley 16 de 1969",
+    "Ley 1650 de 1977",
+    "Ley 171 de 1961",
+    "Ley 433 de 1971",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL2049-2019 (2).doc",
+  "fecha_descarga": "2026-10-21T13:39:15.789501+00:00"
+}

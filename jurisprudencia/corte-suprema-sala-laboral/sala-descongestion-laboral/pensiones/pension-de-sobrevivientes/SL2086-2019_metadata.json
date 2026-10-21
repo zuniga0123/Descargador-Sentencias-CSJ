@@ -1,0 +1,26 @@
+{
+  "radicado": "SL2086-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-12T14:58:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 34,
+  "leyes_o_articulos": [
+    "Decreto 2665 de 1988",
+    "Decreto 656 de 1994",
+    "Ley 100 de 1993",
+    "Ley 100 de 2003",
+    "Ley 1650 de 1977",
+    "Ley 712 de 2001",
+    "Ley 712 de 2002",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL2086-2019.doc",
+  "fecha_descarga": "2026-10-21T13:37:07.613442+00:00"
+}

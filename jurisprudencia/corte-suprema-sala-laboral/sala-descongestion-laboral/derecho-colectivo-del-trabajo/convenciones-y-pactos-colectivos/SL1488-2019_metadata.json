@@ -1,0 +1,30 @@
+{
+  "radicado": "SL1488-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-05-09T16:41:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1968",
+    "Decreto 3135 de 1968",
+    "Decreto 3235 de 1968",
+    "Decreto 3557 de 2003",
+    "Decreto 80 de 1980",
+    "Decreto 918 de 2005",
+    "Ley 100 de 1993",
+    "Ley 22 de 1985",
+    "Ley 30 de 1992",
+    "Ley 33 de 1985",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL1488-2019.doc",
+  "fecha_descarga": "2026-10-21T13:47:56.819090+00:00"
+}

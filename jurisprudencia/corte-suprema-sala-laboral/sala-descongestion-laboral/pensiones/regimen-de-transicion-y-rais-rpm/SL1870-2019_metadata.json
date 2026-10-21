@@ -1,0 +1,28 @@
+{
+  "radicado": "SL1870-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-05-30T20:33:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 1281 de 1994",
+    "Decreto 2090 de 2003",
+    "Decreto 2150 de 1995",
+    "Decreto 528 de 1964",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1281 de 1994",
+    "Ley 1295 de 1999",
+    "Ley 16 de 1969",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Donald Jose Dix Ponnefz/Sentencias/SL1870-2019.doc",
+  "fecha_descarga": "2026-10-21T13:42:54.752774+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1969-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2019-06-05T22:20:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 446 de 1998",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2009/2019/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL1969-2019.doc",
+  "fecha_descarga": "2026-10-21T13:40:59.580742+00:00"
+}

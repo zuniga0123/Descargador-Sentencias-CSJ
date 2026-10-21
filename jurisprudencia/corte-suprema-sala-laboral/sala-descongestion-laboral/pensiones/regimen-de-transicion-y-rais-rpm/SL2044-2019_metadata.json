@@ -1,0 +1,28 @@
+{
+  "radicado": "SL2044-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-07T20:30:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 78,
+  "leyes_o_articulos": [
+    "Decreto 1748 de 1995",
+    "Decreto 1824 de 1965",
+    "Decreto 1887 de 1994",
+    "Decreto 2665 de 1988",
+    "Decreto 758 de 1990",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1395 de 2010",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL2044-2019.doc",
+  "fecha_descarga": "2026-10-21T13:39:39.309953+00:00"
+}

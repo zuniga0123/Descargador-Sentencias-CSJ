@@ -1,0 +1,29 @@
+{
+  "radicado": "SL1672-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-05-10T14:07:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 1424 de 1998",
+    "Decreto 1426 de 1998",
+    "Decreto 1848 de 1969",
+    "Decreto 2149 de 1992",
+    "Decreto 222 de 1983",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1947",
+    "Ley 115 de 1994",
+    "Ley 1150 de 2007",
+    "Ley 119 de 1994",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Donald Jose Dix Ponnefz/Sentencias/SL1672-2019.doc",
+  "fecha_descarga": "2026-10-21T13:47:33.272582+00:00"
+}

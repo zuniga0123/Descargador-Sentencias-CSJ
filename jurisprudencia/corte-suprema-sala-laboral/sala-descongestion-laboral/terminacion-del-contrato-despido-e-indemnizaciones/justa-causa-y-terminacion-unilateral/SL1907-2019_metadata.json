@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1907-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-04T15:14:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 1611 de 1962",
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Ley 171 de 1961",
+    "Ley 21 de 1986",
+    "Ley 734 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1907-2019.doc",
+  "fecha_descarga": "2026-10-21T13:42:21.567426+00:00"
+}

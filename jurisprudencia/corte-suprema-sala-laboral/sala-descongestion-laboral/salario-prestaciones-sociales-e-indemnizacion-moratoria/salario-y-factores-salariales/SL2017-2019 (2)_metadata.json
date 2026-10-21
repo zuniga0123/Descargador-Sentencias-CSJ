@@ -1,0 +1,32 @@
+{
+  "radicado": "SL2017-2019 (2)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-06T18:47:00Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 83,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 1283 de 1994",
+    "Decreto 1326 de 1922",
+    "Decreto 1611 de 1962",
+    "Decreto 60 de 1973",
+    "Ley 100 de 1993",
+    "Ley 1214 de 1990",
+    "Ley 16 de 1969",
+    "Ley 171 de 1961",
+    "Ley 50 de 1990",
+    "Ley 50 de 1999",
+    "Ley 71 de 1988",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL2017-2019 (2).doc",
+  "fecha_descarga": "2026-10-21T13:40:28.144237+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "radicado": "SL1970-2019 (2)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-05T22:28:00Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 1045 de 1978",
+    "Decreto 1672 de 1973",
+    "Decreto 1848 de 1969",
+    "Decreto 2282 de 1989",
+    "Ley 10 de 1972",
+    "Ley 100 de 1992",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 270 de 1996",
+    "Ley 33 de 1985",
+    "Ley 528 de 1964",
+    "Ley 62 de 1985",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL1970-2019 (2).doc",
+  "fecha_descarga": "2026-10-21T13:40:56.092239+00:00"
+}

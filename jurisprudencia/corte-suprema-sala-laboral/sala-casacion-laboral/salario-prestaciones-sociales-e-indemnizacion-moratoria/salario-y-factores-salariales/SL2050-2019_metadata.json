@@ -1,0 +1,26 @@
+{
+  "radicado": "SL2050-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2009,
+  "fecha_creacion": "2019-06-10T12:49:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 2108 de 1992",
+    "Decreto 2601 de 2009",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 33 de 1985",
+    "Ley 62 de 1985",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2009/2019/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL2050-2019.doc",
+  "fecha_descarga": "2026-10-21T13:39:10.624431+00:00"
+}

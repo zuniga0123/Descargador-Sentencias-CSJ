@@ -1,0 +1,33 @@
+{
+  "radicado": "SL1580-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-05-03T20:17:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Despido sin justa causa",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 1092 de 2012",
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Decreto 80 de 1980",
+    "Ley 1679 de 1991",
+    "Ley 171 de 1961",
+    "Ley 222 de 1983",
+    "Ley 30 de 1992",
+    "Ley 3135 de 1968",
+    "Ley 37 de 1966",
+    "Ley 528 de 1964",
+    "Ley 789 de 2002",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL1580-2019.doc",
+  "fecha_descarga": "2026-10-21T13:50:54.068997+00:00"
+}

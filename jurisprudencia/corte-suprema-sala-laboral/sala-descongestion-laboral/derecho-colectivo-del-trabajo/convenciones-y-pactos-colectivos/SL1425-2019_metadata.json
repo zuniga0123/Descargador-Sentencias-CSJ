@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1425-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-04-24T14:34:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966",
+    "Decreto 785 de 1990",
+    "Ley 6 de 1945",
+    "Ley 712 de 2001",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1425-2019.doc",
+  "fecha_descarga": "2026-10-21T13:54:49.074554+00:00"
+}
