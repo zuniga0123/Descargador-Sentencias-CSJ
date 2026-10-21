@@ -1,0 +1,29 @@
+{
+  "radicado": "SL4768-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-11-07T17:31:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Decreto 1848 de 1969",
+    "Decreto 2400 de 1968",
+    "Decreto 3074 de 1968",
+    "Decreto 434 de 1971",
+    "Decreto 625 de 1988",
+    "Ley 100 de 1993",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1973",
+    "Ley 33 de 1985",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Gerardo Botero Zuluaga/Sentencias/SL4768-2018.doc",
+  "fecha_descarga": "2026-10-21T15:32:50.212385+00:00"
+}

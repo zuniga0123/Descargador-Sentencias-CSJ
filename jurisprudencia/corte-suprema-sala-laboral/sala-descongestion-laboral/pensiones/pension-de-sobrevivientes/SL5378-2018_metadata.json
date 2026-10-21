@@ -1,0 +1,22 @@
+{
+  "radicado": "SL5378-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-10T15:36:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 3800 de 2003",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Ley 91 de 1989"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL5378-2018.doc",
+  "fecha_descarga": "2026-10-21T15:18:14.108847+00:00"
+}

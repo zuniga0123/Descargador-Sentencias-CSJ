@@ -1,0 +1,23 @@
+{
+  "radicado": "SL4901-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-11-15T12:58:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Decreto 4588 de 2006",
+    "Ley 16 de 1969",
+    "Ley 909 de 2004",
+    "Ley 911 de 2004"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Prada Sanchez/Sentencias/SL4901-2018.doc",
+  "fecha_descarga": "2026-10-21T15:29:50.150454+00:00"
+}

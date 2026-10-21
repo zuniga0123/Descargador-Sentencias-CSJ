@@ -1,0 +1,28 @@
+{
+  "radicado": "SL4912-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-11-15T14:07:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 114 de 1996",
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 2277 de 1977",
+    "Decreto 2777 de 1979",
+    "Decreto 2888 de 2007",
+    "Decreto 907 de 1996",
+    "Ley 115 de 1994",
+    "Ley 169 de 1896",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Prada Sanchez/Sentencias/SL4912-2018.doc",
+  "fecha_descarga": "2026-10-21T15:29:43.044439+00:00"
+}

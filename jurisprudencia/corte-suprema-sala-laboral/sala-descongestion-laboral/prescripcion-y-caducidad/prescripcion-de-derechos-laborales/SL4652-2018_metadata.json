@@ -1,0 +1,26 @@
+{
+  "radicado": "SL4652-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-11-01T16:23:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 1866 de 1977",
+    "Decreto 2651 de 1991",
+    "Decreto 2701 de 1988",
+    "Decreto 3135 de 1968",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL4652-2018.doc",
+  "fecha_descarga": "2026-10-21T15:33:56.043360+00:00"
+}

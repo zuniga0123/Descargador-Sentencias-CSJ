@@ -1,0 +1,28 @@
+{
+  "radicado": "SL4595-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-10-24T15:50:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 44,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1848 de 1969",
+    "Decreto 2027 de 1951",
+    "Decreto 2463 de 2001",
+    "Decreto 2643 de 2001",
+    "Decreto 807 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1496 de 2011",
+    "Ley 153 de 1887",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL4595-2018.doc",
+  "fecha_descarga": "2026-10-21T15:38:14.195542+00:00"
+}

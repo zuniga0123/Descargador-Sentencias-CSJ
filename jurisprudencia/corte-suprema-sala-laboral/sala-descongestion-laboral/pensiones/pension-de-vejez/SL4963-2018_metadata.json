@@ -1,0 +1,29 @@
+{
+  "radicado": "SL4963-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-11-16T20:40:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 1068 de 1995",
+    "Decreto 1160 de 1994",
+    "Decreto 1743 de 1966",
+    "Decreto 1748 de 1995",
+    "Decreto 2527 de 2000",
+    "Decreto 2767 de 1945",
+    "Decreto 691 de 1994",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Ana Maria Muñoz Segura/Sentencias/SL4963-2018.doc",
+  "fecha_descarga": "2026-10-21T15:28:26.688390+00:00"
+}

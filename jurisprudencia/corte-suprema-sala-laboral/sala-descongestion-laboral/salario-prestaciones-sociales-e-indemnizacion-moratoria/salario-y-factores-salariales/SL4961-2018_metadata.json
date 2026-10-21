@@ -1,0 +1,32 @@
+{
+  "radicado": "SL4961-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-11-19T15:47:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1985",
+    "Decreto 1158 de 1994",
+    "Decreto 1160 de 1994",
+    "Decreto 1474 de 1997",
+    "Decreto 2651 de 1991",
+    "Decreto 2661 de 1960",
+    "Decreto 2709 de 1994",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 2661 de 1960",
+    "Ley 33 de 1985",
+    "Ley 446 de 1998",
+    "Ley 62 de 1985",
+    "Ley 62 de 1995"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL4961-2018.doc",
+  "fecha_descarga": "2026-10-21T15:28:17.847038+00:00"
+}

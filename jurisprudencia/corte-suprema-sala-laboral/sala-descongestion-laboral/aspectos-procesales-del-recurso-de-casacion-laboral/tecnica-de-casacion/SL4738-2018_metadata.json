@@ -1,0 +1,27 @@
+{
+  "radicado": "SL4738-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-11-08T21:36:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 290 de 1979",
+    "Decreto 3130 de 1968",
+    "Decreto 3135 de 1968",
+    "Ley 10 de 1990",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990",
+    "Ley 524 de 1999",
+    "Ley 6 de 1945",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL4738-2018.doc",
+  "fecha_descarga": "2026-10-21T15:32:27.122179+00:00"
+}

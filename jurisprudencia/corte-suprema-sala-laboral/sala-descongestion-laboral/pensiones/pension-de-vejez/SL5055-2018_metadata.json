@@ -1,0 +1,29 @@
+{
+  "radicado": "SL5055-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-11-30T16:10:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 63,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 1474 de 1994",
+    "Decreto 1513 de 1998",
+    "Decreto 153 de 1998",
+    "Decreto 1748 de 1995",
+    "Decreto 1887 de 1998",
+    "Decreto 3798 de 2003",
+    "Decreto 510 de 2003",
+    "Ley 100 de 1993",
+    "Ley 200 de 1995",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL5055-2018.doc",
+  "fecha_descarga": "2026-10-21T15:21:12.171021+00:00"
+}

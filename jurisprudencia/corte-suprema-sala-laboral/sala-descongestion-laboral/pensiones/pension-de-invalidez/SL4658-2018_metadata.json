@@ -1,0 +1,24 @@
+{
+  "radicado": "SL4658-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-10-29T16:52:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 37,
+  "leyes_o_articulos": [
+    "Decreto 1406 de 1999",
+    "Decreto 2280 de 1994",
+    "Ley 100 de 1993",
+    "Ley 270 de 1996",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Donald Jose Dix Ponnefz/Sentencias/SL4658-2018.doc",
+  "fecha_descarga": "2026-10-21T15:36:06.412058+00:00"
+}

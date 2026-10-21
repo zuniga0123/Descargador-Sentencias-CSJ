@@ -1,0 +1,33 @@
+{
+  "radicado": "SL3112-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-10-29T20:06:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 1222 de 1986",
+    "Decreto 1567 de 1998",
+    "Decreto 2127 de 1945",
+    "Decreto 222 de 1983",
+    "Decreto 627 de 2008",
+    "Decreto 797 de 1949",
+    "Decreto 80 de 1980",
+    "Ley 222 de 1983",
+    "Ley 30 de 1992",
+    "Ley 344 de 1996",
+    "Ley 50 de 1990",
+    "Ley 647 de 2001",
+    "Ley 80 de 1980",
+    "Ley 80 de 1993",
+    "Ley 909 de 2004"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL3112-2018.doc",
+  "fecha_descarga": "2026-10-21T15:35:32.091481+00:00"
+}

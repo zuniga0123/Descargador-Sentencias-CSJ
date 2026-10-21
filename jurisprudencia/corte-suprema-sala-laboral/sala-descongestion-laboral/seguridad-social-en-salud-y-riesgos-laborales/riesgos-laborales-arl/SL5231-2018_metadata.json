@@ -1,0 +1,26 @@
+{
+  "radicado": "SL5231-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-03T20:02:00Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Decreto 111 de 1996",
+    "Decreto 1586 de 1989",
+    "Decreto 1591 de 1989",
+    "Decreto 236 de 1999",
+    "Ley 100 de 1993",
+    "Ley 1420 de 2010",
+    "Ley 21 de 1988",
+    "Ley 445 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Luis Quiroz Alemán/Sentencias/SL5231-2018.doc",
+  "fecha_descarga": "2026-10-21T15:20:39.995400+00:00"
+}

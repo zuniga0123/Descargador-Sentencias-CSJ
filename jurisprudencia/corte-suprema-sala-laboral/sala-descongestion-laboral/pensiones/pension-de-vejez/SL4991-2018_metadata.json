@@ -1,0 +1,27 @@
+{
+  "radicado": "SL4991-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-11-30T15:06:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 691 de 1994",
+    "Ley 100 de 1993",
+    "Ley 2 de 1984",
+    "Ley 33 de 1985",
+    "Ley 33 de 1998",
+    "Ley 62 de 1985",
+    "Ley 712 de 2001",
+    "Ley 712 de 2002",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL4991-2018.doc",
+  "fecha_descarga": "2026-10-21T15:21:17.415496+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "radicado": "SL4583-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-10-23T19:37:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 56,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 1748 de 1995",
+    "Decreto 2303 de 1989",
+    "Decreto 2633 de 1994",
+    "Decreto 2665 de 1988",
+    "Decreto 2665 de 1998",
+    "Decreto 562 de 1990",
+    "Decreto 758 de 1990",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 270 de 1996",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Ernesto Forero Vargas/Sentencias/SL4583-2018.doc",
+  "fecha_descarga": "2026-10-21T15:38:37.482349+00:00"
+}
