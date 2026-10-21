@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3890-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-03T18:10:30Z",
+  "magistrado_ponente": "Dr. Omar Ángel Mejía Amador",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 2842 de 2013",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 489 de 1998",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Omar Ángel Mejía Amador/Sentencias/SL3890-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:39:54.959381+00:00"
+}

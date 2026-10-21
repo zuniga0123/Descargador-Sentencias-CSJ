@@ -1,0 +1,24 @@
+{
+  "radicado": "SL4395-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-12T19:49:27Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1968",
+    "Decreto 1848 de 1969",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 171 de 1961",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Ana Maria Muñoz Segura/Sentencias/SL4395-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:34:41.540085+00:00"
+}

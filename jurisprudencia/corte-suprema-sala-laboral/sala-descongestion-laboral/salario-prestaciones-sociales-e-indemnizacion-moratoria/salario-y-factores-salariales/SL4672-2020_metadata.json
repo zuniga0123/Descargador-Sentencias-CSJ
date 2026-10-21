@@ -1,0 +1,25 @@
+{
+  "radicado": "SL4672-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-12-02T15:15:48Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchán Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1947",
+    "Decreto 1586 de 1989",
+    "Decreto 1651 de 1991",
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 895 de 1991",
+    "Ley 65 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Olga Yineth Merchán Calderón/Sentencias/SL4672-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:25:32.262462+00:00"
+}

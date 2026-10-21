@@ -1,0 +1,28 @@
+{
+  "radicado": "SL4864-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-12-07T19:16:35Z",
+  "magistrado_ponente": "Dr. Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 59,
+  "leyes_o_articulos": [
+    "Decreto 2013 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 254 de 2000",
+    "Decreto 535 de 2015",
+    "Decreto 553 de 2015",
+    "Decreto 797 de 1949",
+    "Decreto 797 de 2003",
+    "Ley 1105 de 2006",
+    "Ley 254 de 2000",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Martin Emilio Beltran Quintero/Sentencias/SL4864-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:22:32.796020+00:00"
+}

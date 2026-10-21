@@ -1,0 +1,20 @@
+{
+  "radicado": "SL1156-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-27T15:33:30Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 524 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Donald Jose Dix Ponnefz/Sentencias/SL1156-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:46:27.255116+00:00"
+}

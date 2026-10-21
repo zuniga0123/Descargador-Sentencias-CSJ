@@ -1,0 +1,29 @@
+{
+  "radicado": "SL4050-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-24T17:20:50Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1158 de 1994",
+    "Decreto 1611 de 1962",
+    "Decreto 2340 de 1946",
+    "Decreto 2651 de 1991",
+    "Ley 1 de 1932",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 171 de 1961",
+    "Ley 33 de 1985",
+    "Ley 53 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL4050-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:30:43.853829+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "radicado": "SL4673-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-12-02T16:42:52Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchán Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 600 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Olga Yineth Merchán Calderón/Sentencias/SL4673-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:25:20.874160+00:00"
+}

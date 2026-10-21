@@ -1,0 +1,24 @@
+{
+  "radicado": "SL4666-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-12-07T18:52:56Z",
+  "magistrado_ponente": "Dr. Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Ley 142 de 1994",
+    "Ley 1496 de 2011",
+    "Ley 16 de 1969",
+    "Ley 22 de 1967",
+    "Ley 57 de 1887",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Martin Emilio Beltran Quintero/Sentencias/SL4666-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:22:40.288916+00:00"
+}

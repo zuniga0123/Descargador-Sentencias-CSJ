@@ -1,0 +1,20 @@
+{
+  "radicado": "SL4572-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-24T00:51:55Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 255 de 2000",
+    "Decreto 2721 de 2008"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL4572-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:27:17.429014+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "radicado": "SL4567-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-24T00:46:41Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 40 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL4567-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:27:22.895115+00:00"
+}

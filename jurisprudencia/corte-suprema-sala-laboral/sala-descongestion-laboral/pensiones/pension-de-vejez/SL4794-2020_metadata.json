@@ -1,0 +1,25 @@
+{
+  "radicado": "SL4794-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-12-04T21:15:18Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1994",
+    "Decreto 1748 de 1995",
+    "Decreto 2879 de 1985",
+    "Decreto 758 de 1990",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1564 de 2012"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Donald Jose Dix Ponnefz/Sentencias/SL4794-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:23:32.727227+00:00"
+}

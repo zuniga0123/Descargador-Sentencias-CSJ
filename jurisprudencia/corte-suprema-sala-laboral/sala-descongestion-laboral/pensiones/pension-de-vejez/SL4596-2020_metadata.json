@@ -1,0 +1,23 @@
+{
+  "radicado": "SL4596-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-24T15:19:00Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 043 de 1971",
+    "Decreto 3798 de 2003",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL4596-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:30:27.961694+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2167-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-27T14:32:15Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 116 de 1976",
+    "Decreto 2651 de 1991",
+    "Ley 100 de 1993",
+    "Ley 1395 de 2010",
+    "Ley 153 de 1887",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL2167-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:46:43.103923+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "radicado": "SL3470-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-28T14:49:04Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 1887 de 1994",
+    "Decreto 1889 de 1994",
+    "Decreto 2222 de 1995",
+    "Decreto 3041 de 1966",
+    "Decreto 433 de 1971",
+    "Decreto 813 de 1994",
+    "LEY 100 DE 1993",
+    "Ley 100 de 1993",
+    "Ley 141 de 1961",
+    "Ley 153 de 1887",
+    "Ley 6 de 1945",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Jorge Prada Sanchez/Sentencias/SL3470-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:44:28.515965+00:00"
+}

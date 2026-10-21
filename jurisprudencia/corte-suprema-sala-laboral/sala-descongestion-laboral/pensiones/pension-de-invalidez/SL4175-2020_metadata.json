@@ -1,0 +1,23 @@
+{
+  "radicado": "SL4175-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-29T21:54:00Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1730 de 2001",
+    "Decreto 2651 de 1991",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL4175-2020.doc",
+  "fecha_descarga": "2026-10-21T09:41:29.808934+00:00"
+}

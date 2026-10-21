@@ -1,0 +1,21 @@
+{
+  "radicado": "SL4307-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-11T18:48:49Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 092 de 2000",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL4307-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:35:43.173682+00:00"
+}

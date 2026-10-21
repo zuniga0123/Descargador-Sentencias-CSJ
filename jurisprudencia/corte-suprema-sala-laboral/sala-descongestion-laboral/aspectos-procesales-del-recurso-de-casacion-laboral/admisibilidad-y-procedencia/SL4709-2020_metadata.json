@@ -1,0 +1,25 @@
+{
+  "radicado": "SL4709-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-12-03T17:55:52Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 3,
+  "leyes_o_articulos": [
+    "Decreto 111 de 1996",
+    "Decreto 1586 de 1889",
+    "Decreto 1586 de 1989",
+    "Decreto 1591 de 1989",
+    "Decreto 236 de 1999",
+    "Ley 21 de 1988",
+    "Ley 445 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL4709-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:24:26.804970+00:00"
+}

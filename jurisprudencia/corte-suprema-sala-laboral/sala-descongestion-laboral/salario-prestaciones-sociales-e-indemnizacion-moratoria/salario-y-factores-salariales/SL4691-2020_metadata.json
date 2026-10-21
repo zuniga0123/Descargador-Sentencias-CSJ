@@ -1,0 +1,29 @@
+{
+  "radicado": "SL4691-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-12-01T15:36:00Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 1222 de 1986",
+    "Decreto 1333 de 1986",
+    "Decreto 1394 de 2000",
+    "Decreto 1983 de 2000",
+    "Decreto 2102 de 2001",
+    "Decreto 2127 de 1945",
+    "Decreto 2865 de 1996",
+    "Decreto 3135 de 1968",
+    "Ley 1222 de 1986",
+    "Ley 489 de 1998",
+    "Ley 643 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL4691-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:25:46.568951+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3333-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-28T20:03:06Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 72,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1335 de 1987",
+    "Decreto 2351 de 1965",
+    "Ley 16 de 1969",
+    "Ley 496 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL3333-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:43:20.322607+00:00"
+}

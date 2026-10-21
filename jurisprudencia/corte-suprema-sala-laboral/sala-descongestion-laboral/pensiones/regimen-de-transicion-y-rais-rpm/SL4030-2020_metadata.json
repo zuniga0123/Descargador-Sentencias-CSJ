@@ -1,0 +1,21 @@
+{
+  "radicado": "SL4030-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-28T15:34:04Z",
+  "magistrado_ponente": "Dra. Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Dolly Amparo Caguasango Villota/Sentencias/SL4030-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:40:48.336431+00:00"
+}

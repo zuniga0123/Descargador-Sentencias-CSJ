@@ -1,0 +1,20 @@
+{
+  "radicado": "SL4142-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-24T16:43:20Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 1,
+  "leyes_o_articulos": [
+    "Ley 141 de 1961",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Jorge Prada Sanchez/Sentencias/SL4142-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:30:56.231825+00:00"
+}

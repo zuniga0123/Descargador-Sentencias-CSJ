@@ -1,0 +1,21 @@
+{
+  "radicado": "SL4600-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-24T15:44:45Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL4600-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:30:11.154383+00:00"
+}

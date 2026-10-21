@@ -1,0 +1,27 @@
+{
+  "radicado": "SL4531-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-23T21:10:10Z",
+  "magistrado_ponente": "Dra. Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1513 de 1998",
+    "Decreto 1748 de 1995",
+    "Decreto 656 de 1994",
+    "Decreto 692 de 1994",
+    "Decreto 806 de 1998",
+    "Decreto 832 de 1996",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 153 de 1887"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dra. Clara Cecilia Dueñas Quevedo/Sentencias/SL4531-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:31:16.663330+00:00"
+}

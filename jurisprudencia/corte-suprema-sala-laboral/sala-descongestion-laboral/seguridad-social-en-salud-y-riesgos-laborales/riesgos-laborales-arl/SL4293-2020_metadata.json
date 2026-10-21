@@ -1,0 +1,29 @@
+{
+  "radicado": "SL4293-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-10T18:41:38Z",
+  "magistrado_ponente": "Dr. Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 70,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 3135 de 1968",
+    "Decreto 904 de 1951",
+    "Ley 142 de 1994",
+    "Ley 153 de 1886",
+    "Ley 165 de 1941",
+    "Ley 222 de 1995",
+    "Ley 2351 de 1965",
+    "Ley 50 de 1990",
+    "Ley 524 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Carlos Arturo Guarin Jurado/Sentencias/SL4293-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:36:59.930531+00:00"
+}

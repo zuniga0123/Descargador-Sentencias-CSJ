@@ -1,0 +1,26 @@
+{
+  "radicado": "SL4555-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-26T12:53:07Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 41,
+  "leyes_o_articulos": [
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1650 de 1977",
+    "Ley 71 de 1988",
+    "Ley 794 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Luis Benedicto Herrrera Diaz/Sentencias/SL4555-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:28:00.704879+00:00"
+}

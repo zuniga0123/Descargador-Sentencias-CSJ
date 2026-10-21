@@ -1,0 +1,29 @@
+{
+  "radicado": "SL4546-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-23T18:53:40Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1954",
+    "Decreto 1161 de 1994",
+    "Decreto 228 de 1995",
+    "Decreto 3995 de 2008",
+    "Decreto 692 de 1994",
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 1149 de 2007",
+    "Ley 16 de 1969",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Donald Jose Dix Ponnefz/Sentencias/SL4546-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:31:38.304511+00:00"
+}

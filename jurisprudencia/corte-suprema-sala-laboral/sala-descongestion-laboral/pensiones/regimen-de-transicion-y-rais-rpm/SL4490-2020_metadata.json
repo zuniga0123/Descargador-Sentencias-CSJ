@@ -1,0 +1,25 @@
+{
+  "radicado": "SL4490-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-19T17:38:00Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 38,
+  "leyes_o_articulos": [
+    "Decreto 2709 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 71 de 1988",
+    "Ley 71 de 1998",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Gerardo Botero Zuluaga/Sentencias/SL4490-2020.doc",
+  "fecha_descarga": "2026-10-21T09:32:59.811725+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "radicado": "SL1703-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-25T17:21:56Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 1045 de 1978",
+    "Decreto 1158 de 1994",
+    "Decreto 1748 de 1995",
+    "Decreto 2651 de 1991",
+    "Decreto 3135 de 1968",
+    "Decreto 4937 de 2009",
+    "Decreto 692 de 1994",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 33 de 1985",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1703-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:29:02.543178+00:00"
+}

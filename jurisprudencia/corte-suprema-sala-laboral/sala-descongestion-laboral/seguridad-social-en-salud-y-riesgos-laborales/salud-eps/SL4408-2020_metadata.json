@@ -1,0 +1,27 @@
+{
+  "radicado": "SL4408-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-13T20:33:22Z",
+  "magistrado_ponente": "Dr. Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1281 de 2002",
+    "Decreto 410 de 1971",
+    "Decreto 4747 de 2007",
+    "Decreto 4747 de 2008",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 1231 de 2008",
+    "Ley 1438 de 2011",
+    "Ley 715 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Donald Jose Dix Ponnefz/Sentencias/SL4408-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:34:00.911844+00:00"
+}

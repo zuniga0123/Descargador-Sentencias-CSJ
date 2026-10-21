@@ -1,0 +1,27 @@
+{
+  "radicado": "SL3693-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-20T18:57:08Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 169,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2013 de 1986",
+    "Decreto 614 de 1984",
+    "Ley 1116 de 2006",
+    "Ley 1280 de 2009",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 776 de 2002",
+    "Ley 9 de 1979"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Gerardo Botero Zuluaga/Sentencias/SL3693-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:32:30.842058+00:00"
+}

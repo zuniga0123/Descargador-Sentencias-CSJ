@@ -1,0 +1,21 @@
+{
+  "radicado": "SL3072-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-04T00:29:46Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 81,
+  "leyes_o_articulos": [
+    "Ley 153 de 1887",
+    "Ley 27 de 1976",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Luis Benedicto Herrrera Diaz/Sentencias/SL3072-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:39:12.024744+00:00"
+}

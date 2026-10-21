@@ -1,0 +1,23 @@
+{
+  "radicado": "SL4176-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-29T21:57:23Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 142 de 2006",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 446 de 1998",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL4176-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:41:28.145182+00:00"
+}

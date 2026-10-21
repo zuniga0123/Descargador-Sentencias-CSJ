@@ -1,0 +1,30 @@
+{
+  "radicado": "SL4607-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-12-07T22:31:18Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 132 de 1978",
+    "Decreto 1660 de 1978",
+    "Decreto 3135 de 2005",
+    "Decreto 546 de 1971",
+    "Decreto 691 de 1994",
+    "Decreto 717 de 1978",
+    "Decreto 748 de 1995",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 33 de 1985",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Gerardo Botero Zuluaga/Sentencias/SL4607-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:22:25.695525+00:00"
+}

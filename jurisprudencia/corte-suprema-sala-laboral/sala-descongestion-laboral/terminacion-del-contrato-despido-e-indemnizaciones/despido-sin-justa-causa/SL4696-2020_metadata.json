@@ -1,0 +1,20 @@
+{
+  "radicado": "SL4696-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-12-01T16:08:03Z",
+  "magistrado_ponente": "Dra. Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Despido sin justa causa",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 248 de 1957",
+    "Ley 16 de 1969"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Cecilia Margarita Duran Ujueta/Sentencias/SL4696-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:25:41.126758+00:00"
+}

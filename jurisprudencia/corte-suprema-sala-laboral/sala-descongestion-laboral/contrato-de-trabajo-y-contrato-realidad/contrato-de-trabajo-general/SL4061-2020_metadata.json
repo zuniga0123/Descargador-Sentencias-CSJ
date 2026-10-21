@@ -1,0 +1,25 @@
+{
+  "radicado": "SL4061-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-23T16:03:05Z",
+  "magistrado_ponente": "Dra. Olga Yineth Merchán Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1100 de 1992",
+    "Decreto 2127 de 1945",
+    "Ley 10 de 1991",
+    "Ley 100 de 1993",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Olga Yineth Merchán Calderón/Sentencias/SL4061-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:45:47.570932+00:00"
+}

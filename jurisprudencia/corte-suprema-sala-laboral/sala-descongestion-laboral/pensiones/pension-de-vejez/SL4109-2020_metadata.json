@@ -1,0 +1,25 @@
+{
+  "radicado": "SL4109-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-29T14:51:43Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 1145 de 1995",
+    "Decreto 1160 de 1994",
+    "Decreto 1745 de 1995",
+    "Decreto 1748 de 1995",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL4109-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:42:14.723896+00:00"
+}

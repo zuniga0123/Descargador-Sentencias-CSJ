@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1983-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-23T14:06:26Z",
+  "magistrado_ponente": "Dra. Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 120,
+  "leyes_o_articulos": [
+    "Decreto 1227 de 2005",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 616 de 1954",
+    "Ley 019 de 2012",
+    "Ley 11 de 1984",
+    "Ley 2351 de 1965",
+    "Ley 909 de 2004"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dra. Clara Cecilia Dueñas Quevedo/Sentencias/SL1983-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:32:21.557600+00:00"
+}

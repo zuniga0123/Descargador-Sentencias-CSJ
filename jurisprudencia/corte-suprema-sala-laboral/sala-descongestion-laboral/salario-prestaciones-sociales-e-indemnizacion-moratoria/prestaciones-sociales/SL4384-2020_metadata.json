@@ -1,0 +1,25 @@
+{
+  "radicado": "SL4384-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-12T17:59:12Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 6 de 1945",
+    "Ley 797 de 1949",
+    "Ley 80 de 1980",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL4384-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:34:54.235614+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "radicado": "SL3748-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-05T20:08:10Z",
+  "magistrado_ponente": "Dr. Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1252 de 2000",
+    "Decreto 1750 de 2003",
+    "Decreto 1848 de 1969",
+    "Decreto 1919 de 2002",
+    "Decreto 3135 de 1968",
+    "Decreto 3148 de 1968",
+    "Ley 1781 de 2016",
+    "Ley 244 de 1995",
+    "Ley 270 de 1996",
+    "Ley 344 de 1996",
+    "Ley 4 de 1966"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Gerardo Botero Zuluaga/Sentencias/SL3748-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:37:07.812788+00:00"
+}

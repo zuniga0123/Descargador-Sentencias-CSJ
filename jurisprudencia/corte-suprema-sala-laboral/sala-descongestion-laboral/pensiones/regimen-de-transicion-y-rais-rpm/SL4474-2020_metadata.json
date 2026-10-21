@@ -1,0 +1,29 @@
+{
+  "radicado": "SL4474-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-19T15:20:57Z",
+  "magistrado_ponente": "Dra. Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 255 de 2000",
+    "Decreto 2721 de 2008",
+    "Decreto 2842 de 2013",
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 171 de 1971",
+    "Ley 50 de 1990",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dra. Jimena Isabel Godoy Fajardo/Sentencias/SL4474-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:33:06.991808+00:00"
+}

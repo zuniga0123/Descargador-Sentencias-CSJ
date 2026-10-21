@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1706-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-10-28T14:30:33Z",
+  "magistrado_ponente": "Dr. Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 57,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Ley 1105 de 2006",
+    "Ley 254 de 2000",
+    "Ley 50 de 1990",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1706-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:44:44.395838+00:00"
+}

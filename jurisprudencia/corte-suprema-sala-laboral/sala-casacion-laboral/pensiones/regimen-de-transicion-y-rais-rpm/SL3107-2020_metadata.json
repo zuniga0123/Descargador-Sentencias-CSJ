@@ -1,0 +1,32 @@
+{
+  "radicado": "SL3107-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-05T16:01:15Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1158 de 1994",
+    "Decreto 1660 de 1978",
+    "Decreto 546 de 1971",
+    "Decreto 691 de 1994",
+    "Decreto 717 de 1978",
+    "Decreto 748 de 1995",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 1437 de 2011",
+    "Ley 33 de 1985",
+    "Ley 546 de 1971",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2020/Dr. Fernando Castillo Cadena/Sentencias/SL3107-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:37:31.988363+00:00"
+}

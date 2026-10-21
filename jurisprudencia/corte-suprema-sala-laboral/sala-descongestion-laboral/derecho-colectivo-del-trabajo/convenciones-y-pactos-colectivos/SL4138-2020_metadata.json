@@ -1,0 +1,20 @@
+{
+  "radicado": "SL4138-2020",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2020,
+  "fecha_creacion": "2020-11-03T15:46:39Z",
+  "magistrado_ponente": "Dr. Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 4269 de 2011",
+    "Ley 1151 de 2007"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2020/Dr. Jorge Prada Sanchez/Sentencias/SL4138-2020.pdf",
+  "fecha_descarga": "2026-10-21T09:40:26.521680+00:00"
+}
