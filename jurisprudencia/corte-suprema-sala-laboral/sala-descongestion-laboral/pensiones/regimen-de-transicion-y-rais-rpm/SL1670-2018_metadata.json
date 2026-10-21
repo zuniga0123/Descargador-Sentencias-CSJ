@@ -1,0 +1,20 @@
+{
+  "radicado": "SL1670-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-05-22T17:06:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL1670-2018.doc",
+  "fecha_descarga": "2026-10-21T16:57:49.546405+00:00"
+}
