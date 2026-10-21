@@ -1,0 +1,28 @@
+{
+  "radicado": "SL17436-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-26T14:37:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1638 de 1995",
+    "Decreto 1814 de 1994",
+    "Decreto 1848 de 1696",
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Decreto 692 de 1994",
+    "Decreto 695 de 1994",
+    "Ley 01 de 1991",
+    "Ley 100 de 1993",
+    "Ley 1689 de 1997"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Ernesto Forero Vargas/Sentencias/SL17436-2017.doc",
+  "fecha_descarga": "2026-10-21T18:39:17.796519+00:00"
+}
