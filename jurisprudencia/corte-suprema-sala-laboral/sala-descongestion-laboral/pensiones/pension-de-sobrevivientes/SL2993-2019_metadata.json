@@ -1,0 +1,21 @@
+{
+  "radicado": "SL2993-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-13T13:43:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 25 de 1992",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL2993-2019.doc",
+  "fecha_descarga": "2026-10-21T13:07:20.674125+00:00"
+}

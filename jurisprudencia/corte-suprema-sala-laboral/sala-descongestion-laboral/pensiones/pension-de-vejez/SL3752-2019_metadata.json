@@ -1,0 +1,28 @@
+{
+  "radicado": "SL3752-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-09-12T20:25:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 0758 de 1990",
+    "Decreto 1406 de 1999",
+    "Decreto 1474 de 1997",
+    "Decreto 1642 de 1995",
+    "Decreto 2633 de 1994",
+    "Decreto 2665 de 1988",
+    "Decreto 2879 de 1985",
+    "Decreto 3083 de 1989",
+    "Decreto 759 de 1990",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Ana Maria Muñoz Segura/Sentencias/SL3752-2019.doc",
+  "fecha_descarga": "2026-10-21T12:51:37.560092+00:00"
+}

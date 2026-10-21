@@ -1,0 +1,26 @@
+{
+  "radicado": "SL3496-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-09-10T21:21:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 45,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 3118 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 344 de 1996",
+    "Ley 50 de 1990",
+    "Ley 797 de 1949",
+    "Ley 80 de 1980",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL3496-2019.doc",
+  "fecha_descarga": "2026-10-21T12:53:43.375712+00:00"
+}

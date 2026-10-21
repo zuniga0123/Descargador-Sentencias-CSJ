@@ -1,0 +1,20 @@
+{
+  "radicado": "SL3809-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-09-20T19:09:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 46,
+  "leyes_o_articulos": [
+    "Decreto 1403 de 1994",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Ana Maria Muñoz Segura/Sentencias/SL3809-2019.doc",
+  "fecha_descarga": "2026-10-21T12:47:50.437118+00:00"
+}

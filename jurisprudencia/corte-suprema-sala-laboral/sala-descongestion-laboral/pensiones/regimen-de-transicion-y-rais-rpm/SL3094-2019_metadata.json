@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3094-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-08T22:15:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 1781 de 2016",
+    "Ley 270 de 1996",
+    "Ley 71 de 1988",
+    "Ley 71 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Ernesto Forero Vargas/Sentencias/SL3094-2019.doc",
+  "fecha_descarga": "2026-10-21T13:08:57.950487+00:00"
+}

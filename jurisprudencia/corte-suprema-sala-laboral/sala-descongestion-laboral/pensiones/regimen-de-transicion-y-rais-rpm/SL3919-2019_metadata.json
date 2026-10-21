@@ -1,0 +1,30 @@
+{
+  "radicado": "SL3919-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-09-23T15:19:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1281 de 1991",
+    "Decreto 1281 de 1994",
+    "Decreto 1388 de 1995",
+    "Decreto 1406 de 1999",
+    "Decreto 1548 de 1998",
+    "Decreto 1837 de 1994",
+    "Decreto 2090 de 2003",
+    "Decreto 733 de 1976",
+    "Ley 100 de 1993",
+    "Ley 1281 de 1994",
+    "Ley 1282 de 1994",
+    "Ley 51 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL3919-2019.doc",
+  "fecha_descarga": "2026-10-21T12:47:08.735463+00:00"
+}

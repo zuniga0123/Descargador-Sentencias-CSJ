@@ -1,0 +1,26 @@
+{
+  "radicado": "SL3212-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-14T22:15:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Decreto 1748 de 1995",
+    "Decreto 255 de 2000",
+    "Decreto 2721 de 2008",
+    "Decreto 2842 de 2013",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 254 de 2000",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL3212-2019.doc",
+  "fecha_descarga": "2026-10-21T13:05:58.408971+00:00"
+}

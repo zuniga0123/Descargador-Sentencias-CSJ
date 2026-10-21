@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3026-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-13T14:44:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 2789 de 1985",
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Ana Maria Muñoz Segura/Sentencias/SL3026-2019.docx",
+  "fecha_descarga": "2026-10-21T13:07:15.423102+00:00"
+}

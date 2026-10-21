@@ -1,0 +1,28 @@
+{
+  "radicado": "SL3434-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-26T15:01:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 0284 de 1957",
+    "Decreto 1209 de 1994",
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1993",
+    "Ley 1118 de 2006",
+    "Ley 153 de 1887",
+    "Ley 52 de 1975",
+    "Ley 789 de 2001",
+    "Ley 794 de 2003",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL3434-2019.doc",
+  "fecha_descarga": "2026-10-21T13:00:44.581354+00:00"
+}

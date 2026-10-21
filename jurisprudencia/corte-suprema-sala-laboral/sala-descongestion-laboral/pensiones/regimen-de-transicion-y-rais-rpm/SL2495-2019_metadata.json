@@ -1,0 +1,29 @@
+{
+  "radicado": "SL2495-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-09-03T17:25:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1660 de 1978",
+    "Decreto 171 de 1978",
+    "Decreto 1950 de 1973",
+    "Decreto 546 de 1971",
+    "Decreto 691 de 1994",
+    "Decreto 717 de 1978",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 48 de 1993",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Fernando Castillo Cadena/Sentencias/SL2495-2019.doc",
+  "fecha_descarga": "2026-10-21T12:57:20.384324+00:00"
+}

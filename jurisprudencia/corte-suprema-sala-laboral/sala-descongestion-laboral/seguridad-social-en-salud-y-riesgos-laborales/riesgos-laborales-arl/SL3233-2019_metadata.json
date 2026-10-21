@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3233-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-15T14:44:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 2651 de 1991",
+    "Ley 16 de 1969",
+    "Ley 222 de 1995",
+    "Ley 446 de 1998",
+    "Ley 57 de 1915"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Jorge Prada Sanchez/Sentencias/SL3233-2019.doc",
+  "fecha_descarga": "2026-10-21T13:05:42.454134+00:00"
+}

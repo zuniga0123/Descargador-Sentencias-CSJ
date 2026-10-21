@@ -1,0 +1,27 @@
+{
+  "radicado": "SL3657-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-09-10T13:47:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1373 de 1966",
+    "Decreto 1469 de 1978",
+    "Decreto 198 de 2005",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Ley 142 de 1994",
+    "Ley 26 de 1976",
+    "Ley 27 de 1976",
+    "Ley 70 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Ernesto Forero Vargas/Sentencias/SL3657-2019.doc",
+  "fecha_descarga": "2026-10-21T12:54:10.515760+00:00"
+}

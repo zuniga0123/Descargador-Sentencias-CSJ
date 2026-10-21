@@ -1,0 +1,26 @@
+{
+  "radicado": "SL3101-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-09T01:10:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990",
+    "Ley 6 de 1945",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Ana Maria Muñoz Segura/Sentencias/SL3101-2019.doc",
+  "fecha_descarga": "2026-10-21T13:08:29.364487+00:00"
+}

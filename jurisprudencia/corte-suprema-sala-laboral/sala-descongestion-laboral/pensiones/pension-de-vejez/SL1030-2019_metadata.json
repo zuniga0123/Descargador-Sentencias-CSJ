@@ -1,0 +1,19 @@
+{
+  "radicado": "SL1030-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-09-05T14:52:45Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 2,
+  "leyes_o_articulos": [
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Fernando Castillo Cadena/Sentencias/SL1030-2019.pdf",
+  "fecha_descarga": "2026-10-21T12:55:44.762450+00:00"
+}

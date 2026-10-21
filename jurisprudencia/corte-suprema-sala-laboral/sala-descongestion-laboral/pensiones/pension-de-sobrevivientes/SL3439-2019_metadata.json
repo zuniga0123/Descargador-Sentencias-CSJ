@@ -1,0 +1,33 @@
+{
+  "radicado": "SL3439-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-26T19:35:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 2282 de 1989",
+    "Decreto 2633 de 1994",
+    "Decreto 2665 de 1988",
+    "Decreto 692 de 1994",
+    "Decreto 806 de 1998",
+    "Decreto 832 de 1996",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 1149 de 2007",
+    "Ley 153 de 1887",
+    "Ley 50 de 1990",
+    "Ley 797 de 2003",
+    "Ley 828 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Ernesto Forero Vargas/Sentencias/SL3439-2019.doc",
+  "fecha_descarga": "2026-10-21T13:00:21.006907+00:00"
+}

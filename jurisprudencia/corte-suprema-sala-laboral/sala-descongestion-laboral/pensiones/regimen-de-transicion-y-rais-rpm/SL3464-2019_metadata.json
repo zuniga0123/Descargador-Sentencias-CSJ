@@ -1,0 +1,21 @@
+{
+  "radicado": "SL3464-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-27T22:26:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 66,
+  "leyes_o_articulos": [
+    "Decreto 720 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1480 de 2011"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL3464-2019.doc",
+  "fecha_descarga": "2026-10-21T12:59:35.180510+00:00"
+}

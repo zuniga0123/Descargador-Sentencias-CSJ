@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3578-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-09-06T20:06:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1333 de 1986",
+    "Decreto 2651 de 1991",
+    "Decreto 4588 de 2006",
+    "Ley 446 de 1998",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL3578-2019.doc",
+  "fecha_descarga": "2026-10-21T12:54:49.764097+00:00"
+}

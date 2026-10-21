@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3824-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-09-24T14:54:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 69,
+  "leyes_o_articulos": [
+    "Decreto 1889 de 1994",
+    "Decreto 718 de 1994",
+    "Decreto 758 de 1990",
+    "Decreto 832 de 1996",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL3824-2019.doc",
+  "fecha_descarga": "2026-10-21T12:45:39.356219+00:00"
+}

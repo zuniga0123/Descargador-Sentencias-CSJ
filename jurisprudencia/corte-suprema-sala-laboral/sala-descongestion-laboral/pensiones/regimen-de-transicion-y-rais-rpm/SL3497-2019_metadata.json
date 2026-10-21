@@ -1,0 +1,27 @@
+{
+  "radicado": "SL3497-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-29T12:31:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 37,
+  "leyes_o_articulos": [
+    "Decreto 1015 de 1956",
+    "Decreto 1282 de 1994",
+    "Decreto 1283 de 1994",
+    "Decreto 2400 de 1972",
+    "Decreto 528 de 1964",
+    "Decreto 60 de 1973",
+    "Ley 100 de 1993",
+    "Ley 1282 de 1994",
+    "Ley 32 de 1961"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Ernesto Forero Vargas/Sentencias/SL3497-2019.doc",
+  "fecha_descarga": "2026-10-21T12:59:02.365282+00:00"
+}

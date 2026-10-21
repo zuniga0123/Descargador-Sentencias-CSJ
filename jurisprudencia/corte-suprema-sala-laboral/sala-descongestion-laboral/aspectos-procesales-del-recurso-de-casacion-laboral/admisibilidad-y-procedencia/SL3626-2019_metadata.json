@@ -1,0 +1,21 @@
+{
+  "radicado": "SL3626-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-09-12T17:11:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 8,
+  "leyes_o_articulos": [
+    "Decreto 1748 de 1995",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL3626-2019.doc",
+  "fecha_descarga": "2026-10-21T12:51:55.319705+00:00"
+}

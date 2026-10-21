@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3884-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-09-20T17:05:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1265 de 1997",
+    "Ley 100 de 1993",
+    "Ley 27 de 1976",
+    "Ley 33 de 1985",
+    "Ley 424 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Fernando Castillo Cadena/Sentencias/SL3884-2019.doc",
+  "fecha_descarga": "2026-10-21T12:47:52.109666+00:00"
+}

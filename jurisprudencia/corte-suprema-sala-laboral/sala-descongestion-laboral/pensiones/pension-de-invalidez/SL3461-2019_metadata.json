@@ -1,0 +1,31 @@
+{
+  "radicado": "SL3461-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-30T21:17:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 2665 de 1988",
+    "Decreto 692 de 1994",
+    "Decreto 806 de 1998",
+    "Decreto 832 de 1996",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 1149 de 2007",
+    "Ley 153 de 1887",
+    "Ley 797 de 2003",
+    "Ley 828 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Donald Jose Dix Ponnefz/Sentencias/SL3461-2019.doc",
+  "fecha_descarga": "2026-10-21T12:57:38.286179+00:00"
+}

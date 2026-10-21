@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2864-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-21T16:35:44Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Decreto 1672 de 1973",
+    "LEY 100 DE 1993",
+    "Ley 10 de 1972",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Gerardo Botero Zuluaga/Sentencias/SL2864-2019.pdf",
+  "fecha_descarga": "2026-10-21T13:02:50.921203+00:00"
+}

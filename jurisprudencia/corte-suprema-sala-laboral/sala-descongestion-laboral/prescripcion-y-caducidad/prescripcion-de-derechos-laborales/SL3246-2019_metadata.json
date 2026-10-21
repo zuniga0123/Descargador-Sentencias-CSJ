@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3246-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-20T15:07:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 2027 de 1951",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1118 de 2006",
+    "Ley 171 de 1961"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Fernando Castillo Cadena/Sentencias/SL3246-2019.doc",
+  "fecha_descarga": "2026-10-21T13:04:24.159706+00:00"
+}

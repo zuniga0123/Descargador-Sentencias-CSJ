@@ -1,0 +1,27 @@
+{
+  "radicado": "SL3763-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-09-13T14:23:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 41,
+  "leyes_o_articulos": [
+    "Decreto 692 de 1994",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 1346 de 2009",
+    "Ley 1618 de 2013",
+    "Ley 361 de 1997",
+    "Ley 797 de 2003",
+    "Ley 860 de 2001",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL3763-2019.doc",
+  "fecha_descarga": "2026-10-21T12:51:16.100169+00:00"
+}

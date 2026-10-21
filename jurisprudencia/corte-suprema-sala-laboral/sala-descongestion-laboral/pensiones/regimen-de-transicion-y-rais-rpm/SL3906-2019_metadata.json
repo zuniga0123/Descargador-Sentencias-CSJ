@@ -1,0 +1,32 @@
+{
+  "radicado": "SL3906-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-09-20T22:01:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 1045 de 1975",
+    "Decreto 1045 de 1978",
+    "Decreto 1158 de 1994",
+    "Decreto 691 de 1994",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 33 de 1985",
+    "Ley 33 de 1988",
+    "Ley 4 de 1992",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 62 de 1985",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL3906-2019.doc",
+  "fecha_descarga": "2026-10-21T12:47:36.021493+00:00"
+}

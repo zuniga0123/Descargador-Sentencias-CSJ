@@ -1,0 +1,29 @@
+{
+  "radicado": "SL3435-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-26T15:05:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 2025 de 2011",
+    "Decreto 2651 de 1991",
+    "Decreto 3553 de 2008",
+    "Decreto 4588 de 2006",
+    "Ley 1233 de 2008",
+    "Ley 1429 de 2010",
+    "Ley 1429 de 2011",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998",
+    "Ley 79 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL3435-2019.doc",
+  "fecha_descarga": "2026-10-21T13:00:42.771504+00:00"
+}

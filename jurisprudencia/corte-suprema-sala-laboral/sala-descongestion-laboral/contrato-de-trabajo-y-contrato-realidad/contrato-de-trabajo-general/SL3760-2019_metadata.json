@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3760-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-09-13T00:05:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 39,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 1010 de 2006",
+    "Ley 153 de 1887",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Ana Maria Muñoz Segura/Sentencias/SL3760-2019.doc",
+  "fecha_descarga": "2026-10-21T12:51:25.128441+00:00"
+}

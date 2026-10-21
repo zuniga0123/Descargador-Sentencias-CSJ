@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3804-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-09-17T15:05:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 53,
+  "leyes_o_articulos": [
+    "Ley 16 de 1969",
+    "Ley 27 de 1976",
+    "Ley 33 de 1985",
+    "Ley 39 de 1985",
+    "Ley 424 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL3804-2019.doc",
+  "fecha_descarga": "2026-10-21T12:49:47.264933+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3132-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-12T19:46:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1748 de 1995",
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL3132-2019.doc",
+  "fecha_descarga": "2026-10-21T13:07:36.920548+00:00"
+}

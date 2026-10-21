@@ -1,0 +1,26 @@
+{
+  "radicado": "SL3705-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-09-11T16:08:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 2111 de 1998",
+    "Decreto 2665 de 1988",
+    "Ley 100 de 1993",
+    "Ley 1159 de 2007",
+    "Ley 1689 de 1997",
+    "Ley 344 de 1996",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL3705-2019.doc",
+  "fecha_descarga": "2026-10-21T12:53:03.562833+00:00"
+}

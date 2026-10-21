@@ -1,0 +1,26 @@
+{
+  "radicado": "SL3241-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-15T15:26:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 8,
+  "leyes_o_articulos": [
+    "Decreto 1132 de 1994",
+    "Decreto 2108 DE 1992",
+    "Decreto 2108 de 1992",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 169 de 1986",
+    "Ley 270 de 1996",
+    "Ley 6 de 1992"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Jorge Prada Sanchez/Sentencias/SL3241-2019.doc",
+  "fecha_descarga": "2026-10-21T13:05:29.787084+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "radicado": "SL3303-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-21T16:21:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 71,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 1945 de 1978",
+    "Decreto 2027 de 1951",
+    "Decreto 2127 de 1945",
+    "Decreto 284 de 1957",
+    "Decreto 3138 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 1393 de 2010",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 54 de 1962",
+    "Ley 6 de 1945",
+    "Ley 6 de 1954",
+    "Ley 769 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Ernesto Forero Vargas/Sentencias/SL3303-2019.doc",
+  "fecha_descarga": "2026-10-21T13:02:56.420834+00:00"
+}

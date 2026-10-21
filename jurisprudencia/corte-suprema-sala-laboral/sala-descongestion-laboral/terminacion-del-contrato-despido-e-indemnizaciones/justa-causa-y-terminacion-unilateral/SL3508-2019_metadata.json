@@ -1,0 +1,33 @@
+{
+  "radicado": "SL3508-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-09-09T19:55:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1160 de 1989",
+    "Decreto 1209 de 2011",
+    "Decreto 1650 de 1977",
+    "Decreto 1650 de 1990",
+    "Decreto 1848 de 1969",
+    "Decreto 2665 de 1988",
+    "Decreto 2721 de 2008",
+    "Decreto 3063 de 1989",
+    "Decreto 434 de 1971",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 489 de 1998",
+    "Ley 50 de 1990",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Gerardo Botero Zuluaga/Sentencias/SL3508-2019.doc",
+  "fecha_descarga": "2026-10-21T12:54:21.289514+00:00"
+}

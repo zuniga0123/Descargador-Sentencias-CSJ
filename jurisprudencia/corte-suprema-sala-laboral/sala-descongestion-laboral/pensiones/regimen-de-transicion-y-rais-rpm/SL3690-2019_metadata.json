@@ -1,0 +1,29 @@
+{
+  "radicado": "SL3690-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-09-11T00:48:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 10 de 1989",
+    "Decreto 1042 de 1978",
+    "Decreto 1045 de 1978",
+    "Decreto 1158 de 1994",
+    "Decreto 1660 de 1978",
+    "Decreto 2651 de 1991",
+    "Decreto 546 de 1971",
+    "Decreto 717 de 1878",
+    "Decreto 717 de 1978",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Ana Maria Muñoz Segura/Sentencias/SL3690-2019.doc",
+  "fecha_descarga": "2026-10-21T12:53:34.481284+00:00"
+}

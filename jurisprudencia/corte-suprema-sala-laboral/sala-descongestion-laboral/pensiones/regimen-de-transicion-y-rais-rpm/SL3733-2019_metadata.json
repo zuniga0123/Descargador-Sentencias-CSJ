@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3733-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-09-13T14:39:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 69,
+  "leyes_o_articulos": [
+    "Decreto 1642 de 1995",
+    "Decreto 1652 de 1996",
+    "Decreto 2013 de 2012",
+    "Decreto 3800 de 2003",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL3733-2019.doc",
+  "fecha_descarga": "2026-10-21T12:51:14.082657+00:00"
+}

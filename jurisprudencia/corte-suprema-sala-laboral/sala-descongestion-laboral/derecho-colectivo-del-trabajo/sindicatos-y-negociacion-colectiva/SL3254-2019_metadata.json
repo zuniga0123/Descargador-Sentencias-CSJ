@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3254-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-15T19:21:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 55,
+  "leyes_o_articulos": [
+    "Decreto 1469 de 1978",
+    "Decreto 2351 de 1965",
+    "Decreto 2651 de 1991",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 840 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL3254-2019.doc",
+  "fecha_descarga": "2026-10-21T13:05:13.108725+00:00"
+}
