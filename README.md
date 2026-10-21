@@ -97,8 +97,9 @@ programado ni corre en segundo plano.
 ## Corte Constitucional
 
 El mismo programa descarga también las providencias de la **Corte
-Constitucional** (todas las áreas, desde 1992: tutelas, constitucionalidad,
-unificación y autos), con el mismo formato (`.md` + `_metadata.json`, ver
+Constitucional** (todas las áreas, desde 1992: tutelas, constitucionalidad y
+unificación; los autos no se descargan salvo que se pidan con `--tipo A`),
+con el mismo formato (`.md` + `_metadata.json`, ver
 [`docs/ESPECIFICACION_UNIFICACION.md`](docs/ESPECIFICACION_UNIFICACION.md)).
 
 - **Dónde se guardan:** en el repositorio aparte

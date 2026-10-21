@@ -27,6 +27,9 @@ TIPOS = {
     "SU": "Sentencia de unificación",
     "A": "Auto",
 }
+# Los autos no se descargan salvo que se pidan con --tipo A (decisión del
+# usuario: no son relevantes para la búsqueda de jurisprudencia).
+TIPOS_POR_DEFECTO = ["T", "C", "SU"]
 MAX_CANT_PROVIDENCIAS = 5000
 ANIO_INICIAL = 1992
 

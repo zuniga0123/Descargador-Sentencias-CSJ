@@ -176,7 +176,7 @@ def ejecutar(
     max_minutos: float | None = None,
     reenumerar: bool = False,
 ) -> bool:
-    tipos = tipos or list(config.TIPOS)
+    tipos = tipos or config.TIPOS_POR_DEFECTO
     presupuesto = Presupuesto(max_minutos)
     if not config.DB_PATH.exists() and any(config.OUTPUT_ROOT.rglob("*_metadata.json")):
         logger.info("No hay índice local pero sí providencias descargadas: reconstruyendo índice...")
