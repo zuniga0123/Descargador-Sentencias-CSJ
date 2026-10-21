@@ -1,0 +1,26 @@
+{
+  "radicado": "SL298-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-02-13T15:47:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 2148 de 1983",
+    "Decreto 2651 de 1991",
+    "Decreto 732 de 1976",
+    "Decreto 958 de 1984",
+    "Ley 100 de 1993",
+    "Ley 2 de 1984",
+    "Ley 4 de 1976",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL298-2019.doc",
+  "fecha_descarga": "2026-10-21T14:26:10.001746+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "radicado": "SL030-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-01-29T14:34:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 2304 de 1989",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Donald Jose Dix Ponnefz/Sentencias/SL030-2019.doc",
+  "fecha_descarga": "2026-10-21T14:31:59.864209+00:00"
+}

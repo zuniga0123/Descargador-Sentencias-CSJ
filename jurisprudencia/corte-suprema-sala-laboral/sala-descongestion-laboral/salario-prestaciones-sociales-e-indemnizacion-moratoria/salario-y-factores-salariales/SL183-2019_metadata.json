@@ -1,0 +1,22 @@
+{
+  "radicado": "SL183-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-02-01T16:17:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 63,
+  "leyes_o_articulos": [
+    "Decreto 4000 de 2004",
+    "Ley 115 de 1994",
+    "Ley 50 de 1990",
+    "Ley 995 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL183-2019.doc",
+  "fecha_descarga": "2026-10-21T14:29:31.565354+00:00"
+}

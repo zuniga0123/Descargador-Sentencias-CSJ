@@ -1,0 +1,30 @@
+{
+  "radicado": "SL305-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-02-13T16:58:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 50,
+  "leyes_o_articulos": [
+    "Decreto 1227 de 2005",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 528 de 1964",
+    "Decreto 797 de 1949",
+    "Decreto 904 de 1951",
+    "Ley 019 de 2012",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 19 de 2012",
+    "Ley 2351 de 1965",
+    "Ley 909 de 2004"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL305-2019.doc",
+  "fecha_descarga": "2026-10-21T14:26:04.649371+00:00"
+}

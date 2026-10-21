@@ -1,0 +1,25 @@
+{
+  "radicado": "SL182-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-02-01T15:51:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1258 de 1959",
+    "Decreto 1373 de 1966",
+    "Decreto 2351 de 1965",
+    "Ley 1395 de 2010",
+    "Ley 142 de 1994",
+    "Ley 33 de 1985",
+    "Ley 616 de 1954"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL182-2019.doc",
+  "fecha_descarga": "2026-10-21T14:29:33.390951+00:00"
+}

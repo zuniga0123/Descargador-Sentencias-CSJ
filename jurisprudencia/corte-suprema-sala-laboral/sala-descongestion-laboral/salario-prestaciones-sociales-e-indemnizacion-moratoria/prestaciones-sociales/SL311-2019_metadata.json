@@ -1,0 +1,26 @@
+{
+  "radicado": "SL311-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-02-13T17:07:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 80,
+  "leyes_o_articulos": [
+    "Decreto 1562 de 1977",
+    "Decreto 1652 de 1977",
+    "Decreto 1661 de 1991",
+    "Ley 1652 de 1977",
+    "Ley 1661 de 1991",
+    "Ley 344 de 1966",
+    "Ley 344 de 1996",
+    "Ley 60 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL311-2019.doc",
+  "fecha_descarga": "2026-10-21T14:26:01.135995+00:00"
+}

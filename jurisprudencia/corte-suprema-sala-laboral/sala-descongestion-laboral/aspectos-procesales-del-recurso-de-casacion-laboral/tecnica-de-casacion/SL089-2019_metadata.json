@@ -1,0 +1,29 @@
+{
+  "radicado": "SL089-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-02-04T17:14:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1707 de 1991",
+    "Decreto 1848 de 1969",
+    "Decreto 24 de 1998",
+    "Decreto 3118 de 1968",
+    "Decreto 503 de 1998",
+    "Decreto 797 de 1949",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL089-2019.doc",
+  "fecha_descarga": "2026-10-21T14:29:19.068863+00:00"
+}

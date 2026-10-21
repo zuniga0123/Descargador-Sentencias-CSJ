@@ -1,0 +1,29 @@
+{
+  "radicado": "SL064-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-01-25T15:17:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 1469 de 1978",
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 21 de 1982",
+    "Ley 2351 de 1965",
+    "Ley 50 de 1936",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 584 de 2000",
+    "Ley 616 de 1954"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL064-2019.doc",
+  "fecha_descarga": "2026-10-21T14:32:41.125775+00:00"
+}

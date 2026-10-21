@@ -1,0 +1,28 @@
+{
+  "radicado": "SL062-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-01-25T15:38:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 46,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1850 de 2002",
+    "Decreto 1860 de 1994",
+    "Ley 100 de 1993",
+    "Ley 115 de 1994",
+    "Ley 16 de 1969",
+    "Ley 30 de 1992",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL062-2019.doc",
+  "fecha_descarga": "2026-10-21T14:32:30.410020+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "radicado": "SL292-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-02-12T20:37:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 71,
+  "leyes_o_articulos": [
+    "Decreto 0284 de 1957",
+    "Ley 22 de 1967",
+    "Ley 411 de 1997"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL292-2019.doc",
+  "fecha_descarga": "2026-10-21T14:26:13.539127+00:00"
+}

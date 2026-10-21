@@ -1,0 +1,25 @@
+{
+  "radicado": "SL289-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-02-12T19:33:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 1237 de 1946",
+    "Decreto 2651 de 1991",
+    "Ley 100 de 1993",
+    "Ley 2 de 1932",
+    "Ley 28 de 1943",
+    "Ley 446 de 1998",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL289-2019.doc",
+  "fecha_descarga": "2026-10-21T14:26:17.353533+00:00"
+}
