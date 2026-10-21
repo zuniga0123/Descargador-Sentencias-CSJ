@@ -1,0 +1,27 @@
+{
+  "radicado": "SL21401-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-12-14T19:57:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 44,
+  "leyes_o_articulos": [
+    "Decreto 1258 de 1959",
+    "Decreto 1832 de 1994",
+    "Ley 15 de 1959",
+    "Ley 153 de 1887",
+    "Ley 21 de 1982",
+    "Ley 278 de 1996",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2017/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL21401-2017.doc",
+  "fecha_descarga": "2026-10-21T18:17:46.295826+00:00"
+}

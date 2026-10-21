@@ -1,0 +1,25 @@
+{
+  "radicado": "SL21443-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-12-15T21:16:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 2013 de 2012",
+    "Decreto 797 de 1949",
+    "Ley 1042 de 1978",
+    "Ley 3135 de 1968",
+    "Ley 3148 de 1968",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Donald Jose Dix Ponnefz/Sentencias/SL21443-2017.doc",
+  "fecha_descarga": "2026-10-21T18:15:45.240136+00:00"
+}

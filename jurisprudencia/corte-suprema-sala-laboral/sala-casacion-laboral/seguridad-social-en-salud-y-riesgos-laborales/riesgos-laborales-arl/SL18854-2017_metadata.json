@@ -1,0 +1,27 @@
+{
+  "radicado": "SL18854-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-11-14T23:20:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1994",
+    "Decreto 2649 de 1993",
+    "Decreto 3041 de 1966",
+    "Decreto 3041 de 1996",
+    "Decreto 656 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Ernesto Forero Vargas/Sentencias/SL18854-2017.doc",
+  "fecha_descarga": "2026-10-21T18:30:42.351703+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "radicado": "SL18481-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-11-21T13:51:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 37,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2282 de 1989",
+    "Decreto 797 de 1949",
+    "Ley 2127 de 1945",
+    "Ley 50 de 1990",
+    "Ley 797 de 1949",
+    "Ley 80 de 1990",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL18481-2017.doc",
+  "fecha_descarga": "2026-10-21T18:28:42.887673+00:00"
+}

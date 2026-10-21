@@ -1,0 +1,28 @@
+{
+  "radicado": "SL20249-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-12-06T21:11:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 1582 de 1998",
+    "Decreto 3135 de 1968",
+    "Decreto 747 de 1949",
+    "Decreto 797 de 1949",
+    "Ley 141 de 1961",
+    "Ley 142 de 1994",
+    "Ley 153 de 1887",
+    "Ley 244 de 1995",
+    "Ley 50 de 1990",
+    "Ley 797 de 1949"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Donald Jose Dix Ponnefz/Sentencias/SL20249-2017.doc",
+  "fecha_descarga": "2026-10-21T18:22:07.975040+00:00"
+}

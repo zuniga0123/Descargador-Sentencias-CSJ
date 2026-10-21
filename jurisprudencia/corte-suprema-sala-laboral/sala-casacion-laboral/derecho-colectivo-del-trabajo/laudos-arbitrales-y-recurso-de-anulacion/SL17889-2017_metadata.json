@@ -1,0 +1,20 @@
+{
+  "radicado": "SL17889-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-11-03T21:27:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Laudos arbitrales y recurso de anulación",
+  "puntaje_clasificacion": 157,
+  "leyes_o_articulos": [
+    "Decreto 616 de 1954",
+    "Ley 319 de 1966"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL17889-2017.doc",
+  "fecha_descarga": "2026-10-21T18:34:46.075800+00:00"
+}

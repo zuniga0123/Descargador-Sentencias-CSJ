@@ -1,0 +1,29 @@
+{
+  "radicado": "SL18044-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-11-08T13:38:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 78,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 1160 de 1947",
+    "Decreto 1469 de 1978",
+    "Decreto 2282 de 1989",
+    "Decreto 2351 de 1965",
+    "Decreto 2702 de 2003",
+    "Decreto 979 de 1949",
+    "Ley 2351 de 1965",
+    "Ley 4 de 1913",
+    "Ley 50 de 1990",
+    "Ley 57 de 1989"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL18044-2017.doc",
+  "fecha_descarga": "2026-10-21T18:34:21.714552+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "radicado": "SL21086-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-12-13T13:08:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 3041 de 1966",
+    "Decreto 3041 de 1996",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 50 de 1990",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL21086-2017.doc",
+  "fecha_descarga": "2026-10-21T18:18:42.889744+00:00"
+}

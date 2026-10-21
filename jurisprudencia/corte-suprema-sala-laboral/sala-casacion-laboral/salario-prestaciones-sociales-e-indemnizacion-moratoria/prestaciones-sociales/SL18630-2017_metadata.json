@@ -1,0 +1,24 @@
+{
+  "radicado": "SL18630-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-11-10T21:20:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 3130 de 1968",
+    "Decreto 3135 de 1968",
+    "Ley 10 de 1990",
+    "Ley 50 de 1990",
+    "Ley 524 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Donald Jose Dix Ponnefz/Sentencias/SL18630-2017.doc",
+  "fecha_descarga": "2026-10-21T18:31:23.310796+00:00"
+}

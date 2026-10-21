@@ -1,0 +1,32 @@
+{
+  "radicado": "SL18413-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-12-04T16:22:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1947",
+    "Decreto 1750 de 2003",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 10 de 1990",
+    "Ley 100 de 1993",
+    "Ley 11 de 1984",
+    "Ley 2400 de 1968",
+    "Ley 443 de 1998",
+    "Ley 6 de 1945",
+    "Ley 65 de 1946",
+    "Ley 790 de 2002",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL18413-2017.doc",
+  "fecha_descarga": "2026-10-21T18:23:21.315649+00:00"
+}

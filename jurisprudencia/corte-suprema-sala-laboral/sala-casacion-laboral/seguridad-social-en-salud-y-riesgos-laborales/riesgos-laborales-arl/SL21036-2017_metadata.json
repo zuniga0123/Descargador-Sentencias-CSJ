@@ -1,0 +1,30 @@
+{
+  "radicado": "SL21036-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-12-12T16:39:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1889 de 1994",
+    "Decreto 614 de 1984",
+    "Ley 100 de 1993",
+    "Ley 1295 de 1994",
+    "Ley 1383 de 2010",
+    "Ley 1562 de 2012",
+    "Ley 712 de 2001",
+    "Ley 769 de 2002",
+    "Ley 776 de 2002",
+    "Ley 797 de 2003",
+    "Ley 9 de 1979"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL21036-2017.doc",
+  "fecha_descarga": "2026-10-21T18:19:43.952224+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "radicado": "SL17673-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-27T17:13:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 054 de 1974",
+    "Decreto 290 de 1979",
+    "Decreto 3130 de 1968",
+    "Decreto 3135 de 1968",
+    "Decreto 371 de 1998",
+    "Ley 10 de 1990",
+    "Ley 3130 de 1968",
+    "Ley 50 de 1990",
+    "Ley 524 de 1999",
+    "Ley 584 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL17673-2017.doc",
+  "fecha_descarga": "2026-10-21T18:38:04.504100+00:00"
+}

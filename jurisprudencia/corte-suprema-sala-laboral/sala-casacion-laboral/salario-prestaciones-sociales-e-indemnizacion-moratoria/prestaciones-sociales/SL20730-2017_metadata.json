@@ -1,0 +1,24 @@
+{
+  "radicado": "SL20730-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-12-07T15:24:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 266 de 2001",
+    "Ley 100 de 1993",
+    "Ley 15 de 1959",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 336 de 1996"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Ernesto Forero Vargas/Sentencias/SL20730-2017.doc",
+  "fecha_descarga": "2026-10-21T18:21:19.782066+00:00"
+}

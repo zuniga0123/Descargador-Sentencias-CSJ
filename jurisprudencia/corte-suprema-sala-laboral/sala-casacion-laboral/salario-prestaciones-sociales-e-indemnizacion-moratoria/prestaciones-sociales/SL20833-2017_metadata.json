@@ -1,0 +1,28 @@
+{
+  "radicado": "SL20833-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-12-11T23:19:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 1270 de 1997",
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 165 de 1941",
+    "Ley 22 de 1967",
+    "Ley 3135 de 1968",
+    "Ley 712 de 2001",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Fernando Castillo Cadena/Sentencias/SL20833-2017.doc",
+  "fecha_descarga": "2026-10-21T18:20:02.529711+00:00"
+}

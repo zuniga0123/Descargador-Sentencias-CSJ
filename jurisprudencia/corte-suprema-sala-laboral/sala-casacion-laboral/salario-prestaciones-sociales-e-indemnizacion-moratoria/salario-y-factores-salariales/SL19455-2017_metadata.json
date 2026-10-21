@@ -1,0 +1,21 @@
+{
+  "radicado": "SL19455-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-12-12T21:30:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 34,
+  "leyes_o_articulos": [
+    "Decreto 254 de 2004",
+    "Decreto 747 de 1949",
+    "Decreto 797 de 1949"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Gerardo Botero Zuluaga/Sentencias/SL19455-2017.doc",
+  "fecha_descarga": "2026-10-21T18:19:09.782837+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "radicado": "SL17780-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-10-30T19:37:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 600 de 2006",
+    "Ley 100 de 1993",
+    "Ley 1151 de 2007"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dra.Ana Maria Muñoz Segura/Sentencias/SL17780-2017.doc",
+  "fecha_descarga": "2026-10-21T18:37:50.091454+00:00"
+}

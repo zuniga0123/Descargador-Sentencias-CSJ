@@ -1,0 +1,23 @@
+{
+  "radicado": "SL21707-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-12-15T20:04:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989",
+    "Decreto 2351 de 1965",
+    "Ley 1400 de 1970",
+    "Ley 50 de 1990",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dra.Ana Maria Muñoz Segura/Sentencias/SL21707-2017.doc",
+  "fecha_descarga": "2026-10-21T18:16:15.374448+00:00"
+}

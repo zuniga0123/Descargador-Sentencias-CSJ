@@ -1,0 +1,28 @@
+{
+  "radicado": "SL19810-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-11-27T15:31:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 254 de 2000",
+    "Decreto 3135 de 1968",
+    "Decreto 3525 de 2004",
+    "Decreto 3550 de 2004",
+    "Decreto 4404 de 2004",
+    "Ley 489 de 1998",
+    "Ley 6 de 1945",
+    "Ley 789 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL19810-2017.doc",
+  "fecha_descarga": "2026-10-21T18:26:18.318144+00:00"
+}

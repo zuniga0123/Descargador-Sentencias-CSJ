@@ -1,0 +1,26 @@
+{
+  "radicado": "SL21000-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-12-12T14:33:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 2351 de 1995",
+    "Decreto 528 de 1964",
+    "Decreto 617 de 1954",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL21000-2017.doc",
+  "fecha_descarga": "2026-10-21T18:19:55.447532+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "radicado": "SL19536-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-11-22T17:45:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Decreto 1638 de 1995",
+    "Decreto 1814 de 1994",
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Decreto 692 de 1994",
+    "Decreto 695 de 1994",
+    "Ley 100 de 1993",
+    "Ley 179 de 1994",
+    "Ley 225 de 1995",
+    "Ley 38 de 1989"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2017/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL19536-2017.doc",
+  "fecha_descarga": "2026-10-21T18:27:44.060291+00:00"
+}

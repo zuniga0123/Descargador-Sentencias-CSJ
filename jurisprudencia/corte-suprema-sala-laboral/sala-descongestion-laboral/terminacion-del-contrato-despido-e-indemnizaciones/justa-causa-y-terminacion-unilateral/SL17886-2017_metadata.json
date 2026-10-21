@@ -1,0 +1,25 @@
+{
+  "radicado": "SL17886-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-11-08T21:56:18Z",
+  "magistrado_ponente": "Dr. Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 130 de 1976",
+    "Decreto 2351 de 1965",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 200 de 1995",
+    "Ley 48 de 1968",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2017/Dr. Omar De Jesus Restrepo Ochoa/Sentencias/SL17886-2017.pdf",
+  "fecha_descarga": "2026-10-21T18:32:46.744838+00:00"
+}

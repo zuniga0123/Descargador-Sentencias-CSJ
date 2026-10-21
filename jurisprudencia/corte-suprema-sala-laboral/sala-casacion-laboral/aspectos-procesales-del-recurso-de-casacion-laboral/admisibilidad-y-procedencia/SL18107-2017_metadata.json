@@ -1,0 +1,28 @@
+{
+  "radicado": "SL18107-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-12-04T17:01:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1586 de 1989",
+    "Decreto 1591 de 1989",
+    "Decreto 1672 de 1973",
+    "Decreto 797 de 1949",
+    "Ley 10 de 1972",
+    "Ley 100 de 1993",
+    "Ley 21 de 1988",
+    "Ley 50 de 1990",
+    "Ley 53 de 1887",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL18107-2017.doc",
+  "fecha_descarga": "2026-10-21T18:23:12.360724+00:00"
+}
