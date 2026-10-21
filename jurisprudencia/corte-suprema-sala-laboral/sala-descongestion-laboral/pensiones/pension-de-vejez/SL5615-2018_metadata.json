@@ -1,0 +1,21 @@
+{
+  "radicado": "SL5615-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-13T14:53:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Prada Sanchez/Sentencias/SL5615-2018.doc",
+  "fecha_descarga": "2026-10-21T15:10:47.865805+00:00"
+}

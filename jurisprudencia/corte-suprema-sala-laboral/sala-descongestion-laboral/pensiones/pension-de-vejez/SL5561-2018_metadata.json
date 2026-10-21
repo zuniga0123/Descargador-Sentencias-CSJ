@@ -1,0 +1,27 @@
+{
+  "radicado": "SL5561-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-12T16:02:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 1650 de 1977",
+    "Decreto 2148 de 1992",
+    "Decreto 433 de 1971",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1650 de 1977",
+    "Ley 4 de 1992",
+    "Ley 4 de 1994",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Ana Maria Muñoz Segura/Sentencias/SL5561-2018.doc",
+  "fecha_descarga": "2026-10-21T15:12:18.605738+00:00"
+}

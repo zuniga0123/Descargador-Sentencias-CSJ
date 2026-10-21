@@ -1,0 +1,26 @@
+{
+  "radicado": "SL5375-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-13T17:11:40Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 2591 de 1991",
+    "Decreto 3800 de 2003",
+    "Ley 100 de 1993",
+    "Ley 2 de 1984",
+    "Ley 2591 de 1991",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL5375-2018.pdf",
+  "fecha_descarga": "2026-10-21T15:10:24.497205+00:00"
+}

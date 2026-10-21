@@ -1,0 +1,25 @@
+{
+  "radicado": "SL4316-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2019-02-25T17:37:05Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 43,
+  "leyes_o_articulos": [
+    "Decreto 2701 de 1994",
+    "Decreto 2709 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2018/Dr. Fernando Castillo Cadena/Sentencias/SL4316-2018.pdf",
+  "fecha_descarga": "2026-10-21T15:03:23.939655+00:00"
+}

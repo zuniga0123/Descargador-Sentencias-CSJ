@@ -1,0 +1,26 @@
+{
+  "radicado": "SL5526-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-11T22:19:00Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 48,
+  "leyes_o_articulos": [
+    "Decreto 1281 de 1994",
+    "Decreto 1295 de 1994",
+    "Decreto 1295 de 1995",
+    "Decreto 1530 de 1996",
+    "Decreto 2150 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 633 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Luis Quiroz Alemán/Sentencias/SL5526-2018.doc",
+  "fecha_descarga": "2026-10-21T15:13:11.398559+00:00"
+}

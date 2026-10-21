@@ -1,0 +1,20 @@
+{
+  "radicado": "SL4733-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2019-02-04T15:41:04Z",
+  "magistrado_ponente": "Dr. Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2018/Dr. Fernando Castillo Cadena/Sentencias/SL4733-2018.pdf",
+  "fecha_descarga": "2026-10-21T15:03:48.867761+00:00"
+}

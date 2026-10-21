@@ -1,0 +1,21 @@
+{
+  "radicado": "SL5373-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-13T18:09:25Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Renuncia y retiro voluntario",
+  "puntaje_clasificacion": 48,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989",
+    "Decreto 2651 de 1991",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL5373-2018.pdf",
+  "fecha_descarga": "2026-10-21T15:10:06.264792+00:00"
+}

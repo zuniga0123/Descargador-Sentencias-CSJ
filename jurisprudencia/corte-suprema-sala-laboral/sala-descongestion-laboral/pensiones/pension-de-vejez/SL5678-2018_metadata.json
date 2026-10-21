@@ -1,0 +1,25 @@
+{
+  "radicado": "SL5678-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-18T20:25:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 2527 de 2000",
+    "Decreto 3041 de 1966",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 712 de 2011",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Donald Jose Dix Ponnefz/Sentencias/SL5678-2018.doc",
+  "fecha_descarga": "2026-10-21T15:07:18.074048+00:00"
+}

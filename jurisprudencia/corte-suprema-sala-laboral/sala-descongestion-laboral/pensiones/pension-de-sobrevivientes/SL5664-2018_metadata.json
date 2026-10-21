@@ -1,0 +1,29 @@
+{
+  "radicado": "SL5664-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-14T17:31:00Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 1642 de 1995",
+    "Decreto 2633 de 1994",
+    "Decreto 2651 de 1991",
+    "Decreto 2665 de 1988",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 270 de 1996",
+    "Ley 712 de 2003",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Luis Quiroz Alemán/Sentencias/SL5664-2018.doc",
+  "fecha_descarga": "2026-10-21T15:08:38.406277+00:00"
+}

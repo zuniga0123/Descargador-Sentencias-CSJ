@@ -1,0 +1,30 @@
+{
+  "radicado": "SL5539-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-12T00:30:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 2177 de 1989",
+    "Decreto 2463 de 2001",
+    "Ley 1346 de 2009",
+    "Ley 1482 de 2011",
+    "Ley 1618 de 2013",
+    "Ley 1752 de 2015",
+    "Ley 270 de 1996",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 776 de 2002",
+    "Ley 82 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Ana Maria Muñoz Segura/Sentencias/SL5539-2018.doc",
+  "fecha_descarga": "2026-10-21T15:12:50.389294+00:00"
+}

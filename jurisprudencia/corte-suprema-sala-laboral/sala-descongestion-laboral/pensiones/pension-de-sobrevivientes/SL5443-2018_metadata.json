@@ -1,0 +1,25 @@
+{
+  "radicado": "SL5443-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-13T18:24:44Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 794 de 2003",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL5443-2018.pdf",
+  "fecha_descarga": "2026-10-21T15:10:02.595025+00:00"
+}

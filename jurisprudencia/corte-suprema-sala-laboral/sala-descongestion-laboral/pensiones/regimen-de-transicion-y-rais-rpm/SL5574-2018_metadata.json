@@ -1,0 +1,27 @@
+{
+  "radicado": "SL5574-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-12T17:43:00Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 111 de 1996",
+    "Decreto 1158 de 1994",
+    "Decreto 1848 de 1969",
+    "Decreto 4689 de 2005",
+    "Ley 100 de 1993",
+    "Ley 1395 de 2010",
+    "Ley 153 de 1887",
+    "Ley 254 de 2000",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Luis Quiroz Alemán/Sentencias/SL5574-2018.doc",
+  "fecha_descarga": "2026-10-21T15:12:01.196529+00:00"
+}

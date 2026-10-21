@@ -1,0 +1,32 @@
+{
+  "radicado": "SL5600-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-13T13:25:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 1578 de 2001",
+    "Decreto 2127 de 1945",
+    "Decreto 2282 de 1989",
+    "Decreto 2590 de 2003",
+    "Decreto 2601 de 1999",
+    "Decreto 2601 de 2009",
+    "Decreto 4380 de 2004",
+    "Decreto 637 de 2007",
+    "Decreto 805 de 2000",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 254 de 2000",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL5600-2018.doc",
+  "fecha_descarga": "2026-10-21T15:10:57.266645+00:00"
+}

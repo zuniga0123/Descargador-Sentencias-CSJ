@@ -1,0 +1,29 @@
+{
+  "radicado": "SL5656-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-13T21:02:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 85,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 2463 de 2001",
+    "Decreto 259 de 1981",
+    "Decreto 626 de 2008",
+    "LEY 361 DE 1997",
+    "Ley 100 de 1993",
+    "Ley 115 de 1994",
+    "Ley 16 de 1969",
+    "Ley 361 de 1997",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL5656-2018.doc",
+  "fecha_descarga": "2026-10-21T15:09:23.392434+00:00"
+}

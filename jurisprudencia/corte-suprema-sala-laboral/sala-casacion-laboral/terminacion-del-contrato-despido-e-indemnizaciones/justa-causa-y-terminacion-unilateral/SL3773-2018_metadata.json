@@ -1,0 +1,29 @@
+{
+  "radicado": "SL3773-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2019-01-21T19:19:55Z",
+  "magistrado_ponente": "Dr. Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 1065 de 1999",
+    "Decreto 1160 de 1989",
+    "Decreto 1848 de 1969",
+    "Decreto 2665 de 1988",
+    "Decreto 434 de 1971",
+    "Ley 100 de 1993",
+    "Ley 113 de 1985",
+    "Ley 171 de 1961",
+    "Ley 33 de 1973",
+    "Ley 50 de 1990",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2018/Dr. Rigoberto Echeverri Bueno/Sentencias/SL3773-2018.pdf",
+  "fecha_descarga": "2026-10-21T15:04:56.462842+00:00"
+}

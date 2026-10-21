@@ -1,0 +1,25 @@
+{
+  "radicado": "SL5532-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-11T23:17:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 1406 de 1999",
+    "Decreto 1642 de 1994",
+    "Decreto 1642 de 1995",
+    "Decreto 3041 de 1966",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL5532-2018.doc",
+  "fecha_descarga": "2026-10-21T15:13:02.654547+00:00"
+}

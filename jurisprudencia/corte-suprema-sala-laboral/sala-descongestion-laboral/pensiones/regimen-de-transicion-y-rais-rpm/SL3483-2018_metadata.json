@@ -1,0 +1,22 @@
+{
+  "radicado": "SL3483-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-14T20:36:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 813 de 1993",
+    "Ley 100 de 1993",
+    "Ley 4 de 1976",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Fernando Castillo Cadena/Sentencias/SL3483-2018.doc",
+  "fecha_descarga": "2026-10-21T15:08:20.585870+00:00"
+}

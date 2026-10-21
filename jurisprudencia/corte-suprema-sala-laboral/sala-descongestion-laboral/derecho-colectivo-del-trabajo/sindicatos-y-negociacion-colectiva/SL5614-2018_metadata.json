@@ -1,0 +1,22 @@
+{
+  "radicado": "SL5614-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-13T14:48:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 60,
+  "leyes_o_articulos": [
+    "Decreto 2105 de 2004",
+    "Decreto 2109 de 2004",
+    "Decreto 2351 de 1965",
+    "Ley 48 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL5614-2018.doc",
+  "fecha_descarga": "2026-10-21T15:10:49.864278+00:00"
+}

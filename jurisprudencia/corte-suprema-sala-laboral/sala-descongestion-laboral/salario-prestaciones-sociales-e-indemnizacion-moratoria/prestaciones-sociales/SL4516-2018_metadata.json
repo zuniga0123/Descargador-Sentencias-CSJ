@@ -1,0 +1,24 @@
+{
+  "radicado": "SL4516-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-19T16:35:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 53,
+  "leyes_o_articulos": [
+    "Decreto 1609 de 2003",
+    "Decreto 1615 de 2003",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 789 de 2002",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL4516-2018.doc",
+  "fecha_descarga": "2026-10-21T15:06:36.070282+00:00"
+}

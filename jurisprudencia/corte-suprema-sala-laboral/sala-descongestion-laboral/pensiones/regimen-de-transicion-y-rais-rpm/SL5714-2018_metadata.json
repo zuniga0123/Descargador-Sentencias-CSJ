@@ -1,0 +1,24 @@
+{
+  "radicado": "SL5714-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2019-02-08T19:26:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Decreto 2709 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 33 de 1985",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Donald Jose Dix Ponnefz/Sentencias/SL5714-2018.doc",
+  "fecha_descarga": "2026-10-21T15:03:43.456569+00:00"
+}

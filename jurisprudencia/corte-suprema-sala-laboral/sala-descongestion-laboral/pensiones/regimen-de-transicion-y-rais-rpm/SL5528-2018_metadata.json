@@ -1,0 +1,28 @@
+{
+  "radicado": "SL5528-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-11T23:09:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1835 de 1994",
+    "Decreto 2123 de 1992",
+    "Decreto 254 de 2000",
+    "Decreto 2661 de 1960",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 153 de 1998",
+    "Ley 33 de 1985",
+    "Ley 790 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Gerardo Botero Zuluaga/Sentencias/SL5528-2018.doc",
+  "fecha_descarga": "2026-10-21T15:13:04.502511+00:00"
+}

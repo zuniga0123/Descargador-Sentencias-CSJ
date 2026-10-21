@@ -1,0 +1,32 @@
+{
+  "radicado": "SL5540-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-12T00:43:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Decreto 111 de 1996",
+    "Decreto 1129 de 1999",
+    "Decreto 1586 de 1989",
+    "Decreto 1591 de 1989",
+    "Decreto 2108 de 1992",
+    "Decreto 236 de 1999",
+    "Decreto 2538 de 2001",
+    "Ley 179 de 1994",
+    "Ley 21 de 1988",
+    "Ley 38 de 1989",
+    "Ley 4 de 1976",
+    "Ley 445 de 1998",
+    "Ley 6 de 1992",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Gerardo Botero Zuluaga/Sentencias/SL5540-2018.doc",
+  "fecha_descarga": "2026-10-21T15:12:48.555972+00:00"
+}

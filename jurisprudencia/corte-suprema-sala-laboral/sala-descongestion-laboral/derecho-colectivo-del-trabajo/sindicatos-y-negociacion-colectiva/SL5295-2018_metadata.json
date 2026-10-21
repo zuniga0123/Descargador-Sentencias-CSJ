@@ -1,0 +1,20 @@
+{
+  "radicado": "SL5295-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-12T13:56:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 38,
+  "leyes_o_articulos": [
+    "Ley 1607 de 2012",
+    "Ley 1819 de 2016"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL5295-2018.doc",
+  "fecha_descarga": "2026-10-21T15:12:43.340961+00:00"
+}

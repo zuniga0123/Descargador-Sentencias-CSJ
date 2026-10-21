@@ -1,0 +1,24 @@
+{
+  "radicado": "SL4780-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-19T15:43:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 1653 de 1977",
+    "Decreto 1750 de 2003",
+    "Ley 1149 de 2007",
+    "Ley 1653 de 1977",
+    "Ley 2 de 1984",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Rigoberto Echeverri Bueno/Sentencias/SL4780-2018.doc",
+  "fecha_descarga": "2026-10-21T15:06:44.894700+00:00"
+}

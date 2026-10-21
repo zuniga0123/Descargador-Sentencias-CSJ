@@ -1,0 +1,22 @@
+{
+  "radicado": "SL5467-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2019-01-28T21:54:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 2879 de 1985",
+    "Decreto 510 de 2005",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Ana Maria Muñoz Segura/Sentencias/SL5467-2018.doc",
+  "fecha_descarga": "2026-10-21T15:04:08.370852+00:00"
+}

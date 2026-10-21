@@ -1,0 +1,24 @@
+{
+  "radicado": "SL4510-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2019-01-16T16:43:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Despido sin justa causa",
+  "puntaje_clasificacion": 85,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 222 de 1995",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 789 de 2002",
+    "Ley 995 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Rigoberto Echeverri Bueno/Sentencias/SL4510-2018.doc",
+  "fecha_descarga": "2026-10-21T15:05:44.777155+00:00"
+}

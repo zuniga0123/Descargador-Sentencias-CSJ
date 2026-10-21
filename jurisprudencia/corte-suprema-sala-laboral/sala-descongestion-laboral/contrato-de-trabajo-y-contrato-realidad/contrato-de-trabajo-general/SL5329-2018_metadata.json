@@ -1,0 +1,21 @@
+{
+  "radicado": "SL5329-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-13T21:22:15Z",
+  "magistrado_ponente": "Dra. Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Ley 446 de 1998",
+    "Ley 50 de 1936",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra. Ana Maria Muñoz Segura/Sentencias/SL5329-2018.pdf",
+  "fecha_descarga": "2026-10-21T15:09:10.632517+00:00"
+}

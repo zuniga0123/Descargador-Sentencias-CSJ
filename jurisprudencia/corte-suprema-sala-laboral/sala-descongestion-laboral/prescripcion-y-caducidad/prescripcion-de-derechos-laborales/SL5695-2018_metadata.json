@@ -1,0 +1,28 @@
+{
+  "radicado": "SL5695-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2019-01-15T13:23:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 167,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1750 de 2003",
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Decreto 797 de 1990",
+    "Ley 6 de 1945",
+    "Ley 64 de 1946",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Ernesto Forero Vargas/Sentencias/SL5695-2018.doc",
+  "fecha_descarga": "2026-10-21T15:06:06.193273+00:00"
+}

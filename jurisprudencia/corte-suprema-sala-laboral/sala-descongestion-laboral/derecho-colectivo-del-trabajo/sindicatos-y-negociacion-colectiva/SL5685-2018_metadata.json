@@ -1,0 +1,26 @@
+{
+  "radicado": "SL5685-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-18T22:00:00Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 1373 de 1966",
+    "Decreto 1469 de 1978",
+    "Decreto 198 de 2005",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Ley 142 de 1994",
+    "Ley 26 de 1976",
+    "Ley 27 de 1976"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Luis Quiroz Alemán/Sentencias/SL5685-2018.doc",
+  "fecha_descarga": "2026-10-21T15:07:14.579306+00:00"
+}

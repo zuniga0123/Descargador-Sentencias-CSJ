@@ -1,0 +1,30 @@
+{
+  "radicado": "SL5640-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-13T18:15:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 1065 de 1999",
+    "Decreto 1748 de 1995",
+    "Decreto 2282 de 2003",
+    "Decreto 2351 de 1965",
+    "Decreto 255 de 2000",
+    "Decreto 2721 de 2008",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 270 de 1996",
+    "Ley 33 de 1985",
+    "Ley 48 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Ana Maria Muñoz Segura/Sentencias/SL5640-2018.doc",
+  "fecha_descarga": "2026-10-21T15:10:04.382271+00:00"
+}

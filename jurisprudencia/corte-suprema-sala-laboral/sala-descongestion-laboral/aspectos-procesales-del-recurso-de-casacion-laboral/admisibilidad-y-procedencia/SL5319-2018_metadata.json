@@ -1,0 +1,24 @@
+{
+  "radicado": "SL5319-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-12-19T03:45:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Decreto 111 de 1996",
+    "Decreto 1586 de 1989",
+    "Decreto 1591 de 1989",
+    "Decreto 236 de 1999",
+    "Ley 21 de 1988",
+    "Ley 445 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Fernando Castillo Cadena/Sentencias/SL5319-2018.doc",
+  "fecha_descarga": "2026-10-21T15:06:50.152918+00:00"
+}
