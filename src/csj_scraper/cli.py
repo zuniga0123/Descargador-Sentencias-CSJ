@@ -50,8 +50,8 @@ def main() -> None:
         "--tipo",
         action="append",
         help="Filtrar por tipo de providencia; se puede repetir. Suprema: SENTENCIA, AUTO. "
-        "Constitucional: T, C, SU, A (auto). Por defecto: todos en la Suprema; T, C y SU "
-        "(sin autos) en la Constitucional.",
+        "Constitucional: T, C, SU, A (auto). Por defecto, sin autos: SENTENCIA en la "
+        "Suprema; T, C y SU en la Constitucional.",
     )
     parser.add_argument(
         "--limite",

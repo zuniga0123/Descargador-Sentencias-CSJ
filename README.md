@@ -1,9 +1,12 @@
 # Descargador de Jurisprudencia — Sala Laboral de la Corte Suprema de Justicia
 
-Descarga y organiza providencias (sentencias y autos) de la **Sala de
+Descarga y organiza las sentencias de la **Sala de
 Casación Laboral** y la **Sala de Descongestión Laboral** de la Corte
 Suprema de Justicia de Colombia, clasificándolas por tema, para poder
 alimentar luego un agente de IA con jurisprudencia laboral consultable.
+
+Por decisión del usuario **no se descargan autos** (no son relevantes para la
+búsqueda de jurisprudencia); se pueden pedir con `--tipo AUTO`.
 
 ## ¿Qué hace?
 
@@ -137,7 +140,7 @@ python main.py --corte constitucional --reconstruir-indice
   (`src/csj_scraper/taxonomy.py`). Si ningún tema de fondo coincide, se
   prueba con "Trámite procesal" (deserción del recurso, desistimiento,
   conflictos de competencia, nulidades, costas, etc.), pensado para los
-  autos de trámite. Lo que tampoco calza queda en "Otros - Sin
+  autos de trámite (solo aplica si se descargan autos con `--tipo AUTO`). Lo que tampoco calza queda en "Otros - Sin
   clasificar"; dentro de eso, "Texto incompleto en la fuente" agrupa los
   documentos de los que la Corte solo publica la constancia de
   notificación/ejecutoria, sin el texto de la providencia (no se puede

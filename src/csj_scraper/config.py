@@ -36,6 +36,9 @@ SUB_SALA_NOMBRE_LEGIBLE = {
 }
 
 TIPOS_PROVIDENCIA = ["SENTENCIA", "AUTO"]
+# Los autos no se descargan salvo que se pidan con --tipo AUTO (decisión del
+# usuario: no son relevantes para la búsqueda de jurisprudencia).
+TIPOS_POR_DEFECTO = ["SENTENCIA"]
 
 # Término de búsqueda usado para enumerar (casi) todas las providencias de
 # un año, dado que la API no ofrece un modo "traer todo" sin texto de

@@ -377,7 +377,7 @@ def ejecutar(
 ) -> bool:
     """Devuelve True si terminó todo lo pedido; False si se detuvo antes por
     --max-minutos o --limite (en ese caso basta con volver a correrlo)."""
-    tipos = tipos or config.TIPOS_PROVIDENCIA
+    tipos = tipos or config.TIPOS_POR_DEFECTO
     presupuesto = Presupuesto(max_minutos)
     # El índice no viaja en git: en un clon nuevo hay que regenerarlo para
     # que la corrida no vuelva a descargar lo que ya está en los archivos.
