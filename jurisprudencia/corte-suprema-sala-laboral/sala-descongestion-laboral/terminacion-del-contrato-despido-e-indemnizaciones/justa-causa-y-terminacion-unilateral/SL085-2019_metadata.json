@@ -1,0 +1,33 @@
+{
+  "radicado": "SL085-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-02-13T20:03:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 37,
+  "leyes_o_articulos": [
+    "Decreto 1675 de 1997",
+    "Decreto 2001 de 1993",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 2438 de 1997",
+    "Decreto 3048 de 1969",
+    "Decreto 3135 de 1968",
+    "Decreto 561 de 1990",
+    "Ley 153 de 1887",
+    "Ley 1675 de 1997",
+    "Ley 2351 de 1965",
+    "Ley 27 de 1992",
+    "Ley 344 de 1996",
+    "Ley 4 de 1976",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL085-2019.doc",
+  "fecha_descarga": "2026-10-21T14:25:55.671082+00:00"
+}
