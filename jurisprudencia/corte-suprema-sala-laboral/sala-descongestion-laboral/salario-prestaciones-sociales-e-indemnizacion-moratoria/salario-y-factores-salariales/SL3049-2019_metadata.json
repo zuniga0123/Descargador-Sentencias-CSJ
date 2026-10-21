@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3049-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-08T19:54:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 63,
+  "leyes_o_articulos": [
+    "Decreto 0284 de 1957",
+    "Decreto 2027 de 1951",
+    "Decreto 284 de 1957",
+    "Decreto 285 de 1957",
+    "Ley 1118 de 2006",
+    "Ley 141 de 1961",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL3049-2019.doc",
+  "fecha_descarga": "2026-10-21T13:09:47.829359+00:00"
+}

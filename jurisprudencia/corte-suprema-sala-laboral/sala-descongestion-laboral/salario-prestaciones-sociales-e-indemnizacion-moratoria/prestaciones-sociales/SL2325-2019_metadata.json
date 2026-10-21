@@ -1,0 +1,28 @@
+{
+  "radicado": "SL2325-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-27T22:30:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 116 de 1976",
+    "Decreto 24 de 1998",
+    "Decreto 4588 de 2006",
+    "Decreto 503 de 1998",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL2325-2019.doc",
+  "fecha_descarga": "2026-10-21T13:29:24.006679+00:00"
+}

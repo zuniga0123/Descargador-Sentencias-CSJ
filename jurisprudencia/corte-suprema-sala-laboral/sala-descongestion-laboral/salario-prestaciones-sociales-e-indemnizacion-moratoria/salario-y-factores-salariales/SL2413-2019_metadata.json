@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2413-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-07-12T20:22:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1848 de 1969",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 171 de 1971",
+    "Ley 33 de 1985",
+    "Ley 62 de 1965",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Fernando Castillo Cadena/Sentencias/SL2413-2019.doc",
+  "fecha_descarga": "2026-10-21T13:22:17.040720+00:00"
+}

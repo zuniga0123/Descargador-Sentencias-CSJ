@@ -1,0 +1,26 @@
+{
+  "radicado": "SL2287-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-26T20:52:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2463 de 2001",
+    "Decreto 692 de 1995",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 1295 de 1994",
+    "Ley 692 de 2005",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Jorge Prada Sanchez/Sentencias/SL2287-2019.doc",
+  "fecha_descarga": "2026-10-21T13:30:19.468668+00:00"
+}

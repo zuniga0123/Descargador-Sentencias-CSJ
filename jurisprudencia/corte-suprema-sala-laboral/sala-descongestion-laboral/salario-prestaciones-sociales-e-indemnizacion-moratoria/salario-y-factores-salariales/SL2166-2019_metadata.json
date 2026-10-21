@@ -1,0 +1,32 @@
+{
+  "radicado": "SL2166-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-18T17:29:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 39,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1158 de 1994",
+    "Decreto 1650 de 1977",
+    "Decreto 1748 de 1995",
+    "Decreto 1848 de 1969",
+    "Decreto 3041 de 1966",
+    "Decreto 3063 de 1989",
+    "Decreto 691 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1985",
+    "Ley 433 de 1971",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL2166-2019.doc",
+  "fecha_descarga": "2026-10-21T13:34:14.602981+00:00"
+}

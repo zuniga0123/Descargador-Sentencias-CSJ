@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2317-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-27T22:49:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Despido sin justa causa",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 2351 de 1965",
+    "Ley 142 de 1994",
+    "Ley 2351 de 1965",
+    "Ley 489 de 1998",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL2317-2019.doc",
+  "fecha_descarga": "2026-10-21T13:29:15.092345+00:00"
+}

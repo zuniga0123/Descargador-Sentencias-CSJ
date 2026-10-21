@@ -1,0 +1,31 @@
+{
+  "radicado": "SL2564-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-07-11T15:04:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 46,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 1642 de 1995",
+    "Decreto 2625 de 1988",
+    "Decreto 2633 de 1994",
+    "Decreto 2665 de 1988",
+    "Decreto 692 de 1994",
+    "Decreto 806 de 1998",
+    "Decreto 832 de 1996",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 797 de 2003",
+    "Ley 828 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Jorge Prada Sanchez/Sentencias/SL2564-2019.doc",
+  "fecha_descarga": "2026-10-21T13:22:43.715245+00:00"
+}

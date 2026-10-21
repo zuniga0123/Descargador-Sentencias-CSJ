@@ -1,0 +1,29 @@
+{
+  "radicado": "SL2605-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-07-15T20:20:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 80,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 1204 de 2008",
+    "Ley 2 de 1984",
+    "Ley 33 de 1985",
+    "Ley 54 de 1990",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Ernesto Forero Vargas/Sentencias/SL2605-2019.doc",
+  "fecha_descarga": "2026-10-21T13:21:44.437165+00:00"
+}

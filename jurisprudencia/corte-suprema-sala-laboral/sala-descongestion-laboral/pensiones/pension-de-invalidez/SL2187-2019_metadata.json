@@ -1,0 +1,30 @@
+{
+  "radicado": "SL2187-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-19T16:38:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 49,
+  "leyes_o_articulos": [
+    "Decreto 1355 de 2008",
+    "Decreto 2013 de 2012",
+    "Decreto 2663 de 1950",
+    "Decreto 3041 de 1966",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1437 de 2011",
+    "Ley 153 de 1887",
+    "Ley 16 de 1969",
+    "Ley 794 de 2004",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL2187-2019.doc",
+  "fecha_descarga": "2026-10-21T13:33:33.435834+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "radicado": "SL2316-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-07-10T20:07:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Decreto 1876 de 1994",
+    "Decreto 2127 de 1945",
+    "Decreto 2143 de 2008",
+    "Decreto 2400 de 1968",
+    "Ley 10 de 1990",
+    "Ley 100 de 1993",
+    "Ley 129 de 1931",
+    "Ley 1750 de 2003",
+    "Ley 18 de 1968",
+    "Ley 54 de 1962",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL2316-2019.doc",
+  "fecha_descarga": "2026-10-21T13:23:06.936482+00:00"
+}

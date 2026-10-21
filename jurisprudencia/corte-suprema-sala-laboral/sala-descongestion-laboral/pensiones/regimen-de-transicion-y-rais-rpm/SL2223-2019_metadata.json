@@ -1,0 +1,21 @@
+{
+  "radicado": "SL2223-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-21T21:22:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 48,
+  "leyes_o_articulos": [
+    "Decreto 3800 de 2003",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Gerardo Botero Zuluaga/Sentencias/SL2223-2019.doc",
+  "fecha_descarga": "2026-10-21T13:31:51.281790+00:00"
+}

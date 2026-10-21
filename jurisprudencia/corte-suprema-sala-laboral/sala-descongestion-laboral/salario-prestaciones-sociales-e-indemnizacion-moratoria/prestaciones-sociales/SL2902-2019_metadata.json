@@ -1,0 +1,29 @@
+{
+  "radicado": "SL2902-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-07-31T16:40:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 062 de 1970",
+    "Decreto 1209 de 1994",
+    "Decreto 2027 de 1951",
+    "Decreto 2027 de 1957",
+    "Ley 100 de 1993",
+    "Ley 1395 de 2010",
+    "Ley 153 de 1887",
+    "Ley 2 de 1984",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL2902-2019.doc",
+  "fecha_descarga": "2026-10-21T13:14:11.179406+00:00"
+}

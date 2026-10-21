@@ -1,0 +1,26 @@
+{
+  "radicado": "SL2326-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-27T23:20:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 1653 de 1977",
+    "Ley 790 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Donald Jose Dix Ponnefz/Sentencias/SL2326-2019.doc",
+  "fecha_descarga": "2026-10-21T13:28:55.543624+00:00"
+}

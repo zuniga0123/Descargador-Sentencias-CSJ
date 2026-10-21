@@ -1,0 +1,26 @@
+{
+  "radicado": "SL2303-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-27T20:44:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989",
+    "Decreto 2879 de 1985",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 57 de 1987",
+    "Ley 712 de 2001",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL2303-2019.doc",
+  "fecha_descarga": "2026-10-21T13:29:51.141095+00:00"
+}

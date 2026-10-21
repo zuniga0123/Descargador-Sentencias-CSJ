@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2234-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-21T00:38:00Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 692 de 1994",
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 153 de 1887",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Jorge Luis Quiroz Alemán/Sentencias/SL2234-2019.doc",
+  "fecha_descarga": "2026-10-21T13:32:24.076299+00:00"
+}

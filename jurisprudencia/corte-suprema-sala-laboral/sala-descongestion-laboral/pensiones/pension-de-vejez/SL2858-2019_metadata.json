@@ -1,0 +1,28 @@
+{
+  "radicado": "SL2858-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-07-29T14:38:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989",
+    "Decreto 2651 de 1991",
+    "Decreto 692 de 1944",
+    "Decreto 692 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Ernesto Forero Vargas/Sentencias/SL2858-2019.doc",
+  "fecha_descarga": "2026-10-21T13:15:19.445575+00:00"
+}

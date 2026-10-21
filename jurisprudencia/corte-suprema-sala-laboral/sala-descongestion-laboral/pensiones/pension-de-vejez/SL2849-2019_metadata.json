@@ -1,0 +1,29 @@
+{
+  "radicado": "SL2849-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-07-25T21:34:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "DECRETO 2282 DE 2003",
+    "DECRETO 2721 DE 2008",
+    "Decreto 1513 de 1998",
+    "Decreto 2282 de 2003",
+    "Decreto 255 de 2000",
+    "Decreto 2781 de 2008",
+    "Ley 100 de 1993",
+    "Ley 1105 de 2006",
+    "Ley 1299 de 1994",
+    "Ley 1314 de 1994",
+    "Ley 254 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Jorge Prada Sanchez/Sentencias/SL2849-2019.doc",
+  "fecha_descarga": "2026-10-21T13:15:44.778227+00:00"
+}

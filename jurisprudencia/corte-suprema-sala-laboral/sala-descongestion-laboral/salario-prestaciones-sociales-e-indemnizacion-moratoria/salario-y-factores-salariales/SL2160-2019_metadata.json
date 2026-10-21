@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2160-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-17T23:37:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 1848 de 1986",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 33 de 1985",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Gerardo Botero Zuluaga/Sentencias/SL2160-2019.doc",
+  "fecha_descarga": "2026-10-21T13:34:25.366057+00:00"
+}

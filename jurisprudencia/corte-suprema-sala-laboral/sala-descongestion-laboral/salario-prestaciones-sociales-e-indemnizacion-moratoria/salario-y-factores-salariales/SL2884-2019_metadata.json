@@ -1,0 +1,26 @@
+{
+  "radicado": "SL2884-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-07-29T23:44:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 1848 de 1969",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 33 de 1985",
+    "Ley 50 de 1990",
+    "Ley 62 de 1985",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL2884-2019.doc",
+  "fecha_descarga": "2026-10-21T13:14:52.494213+00:00"
+}

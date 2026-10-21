@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2607-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-07-16T20:01:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 1653 de 1977",
+    "Ley 100 de 1993",
+    "Ley 1653 de 1977",
+    "Ley 653 de 1977"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Gerardo Botero Zuluaga/Sentencias/SL2607-2019.doc",
+  "fecha_descarga": "2026-10-21T13:20:35.932883+00:00"
+}

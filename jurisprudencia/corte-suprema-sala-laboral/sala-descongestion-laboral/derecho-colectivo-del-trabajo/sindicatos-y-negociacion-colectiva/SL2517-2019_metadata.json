@@ -1,0 +1,22 @@
+{
+  "radicado": "SL2517-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-07-09T15:18:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 2109 de 2004",
+    "Decreto 2351 de 1965",
+    "Ley 16 de 1969",
+    "Ley 48 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL2517-2019.doc",
+  "fecha_descarga": "2026-10-21T13:23:48.113035+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "radicado": "SL2361-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-28T21:00:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 1222 de 1986",
+    "Decreto 1394 de 2000",
+    "Decreto 1983 de 2000",
+    "Decreto 2102 de 2001",
+    "Decreto 2127 de 1945",
+    "Decreto 2865 de 1996",
+    "Decreto 3135 de 1968",
+    "Decreto 625 de 1968",
+    "Ley 100 de 1993",
+    "Ley 1050 de 1968",
+    "Ley 1222 de 1986",
+    "Ley 14 de 1983",
+    "Ley 489 de 1998",
+    "Ley 643 de 2001",
+    "Ley 909 de 2004"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL2361-2019.doc",
+  "fecha_descarga": "2026-10-21T13:28:39.467777+00:00"
+}

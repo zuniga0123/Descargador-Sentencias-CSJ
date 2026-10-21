@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2805-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-07-24T21:30:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Despido sin justa causa",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 01 de 1984",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 142 de 1994",
+    "Ley 171 de 1961",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL2805-2019.doc",
+  "fecha_descarga": "2026-10-21T13:16:40.210706+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "radicado": "SL2486-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-07-08T20:34:00Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1333 de 1985",
+    "Decreto 3135 de 1968",
+    "Decreto 3557 de 2003",
+    "Decreto 452 de 1984",
+    "Decreto 80 de 1980",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 30 de 1992",
+    "Ley 33 de 1985",
+    "Ley 37 de 1966",
+    "Ley 62 de 1985",
+    "Ley 797 de 2003",
+    "Ley 80 de 1980"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Jorge Luis Quiroz Alemán/Sentencias/SL2486-2019.doc",
+  "fecha_descarga": "2026-10-21T13:24:42.245459+00:00"
+}

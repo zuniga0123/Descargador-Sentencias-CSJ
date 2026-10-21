@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2770-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-07-24T14:24:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 43,
+  "leyes_o_articulos": [
+    "Decreto 1481 de 1989",
+    "Decreto 663 de 1993",
+    "Ley 1481 de 1989",
+    "Ley 510 de 1999",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Donald Jose Dix Ponnefz/Sentencias/SL2770-2019.doc",
+  "fecha_descarga": "2026-10-21T13:17:37.770830+00:00"
+}

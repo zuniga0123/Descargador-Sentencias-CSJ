@@ -1,0 +1,26 @@
+{
+  "radicado": "SL2935-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-01T13:48:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 86,
+  "leyes_o_articulos": [
+    "Decreto 1373 de 1966",
+    "Decreto 1750 de 2003",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Ley 2351 de 1965",
+    "Ley 26 de 1976",
+    "Ley 6 de 1945",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Donald Jose Dix Ponnefz/Sentencias/SL2935-2019.doc",
+  "fecha_descarga": "2026-10-21T13:13:47.758373+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2260-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-25T16:22:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 41,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966",
+    "Decreto 3041 de 1996",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL2260-2019.doc",
+  "fecha_descarga": "2026-10-21T13:31:37.133755+00:00"
+}

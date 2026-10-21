@@ -1,0 +1,29 @@
+{
+  "radicado": "SL2928-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-07-31T20:01:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 133,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 3118 de 1968",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 26 de 1976",
+    "Ley 41 de 1975",
+    "Ley 6 de 1945",
+    "Ley 80 de 1980",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL2928-2019.doc",
+  "fecha_descarga": "2026-10-21T13:13:53.353664+00:00"
+}

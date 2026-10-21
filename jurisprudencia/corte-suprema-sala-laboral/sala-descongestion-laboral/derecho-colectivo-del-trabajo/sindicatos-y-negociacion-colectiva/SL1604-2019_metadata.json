@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1604-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-06-25T17:02:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 190,
+  "leyes_o_articulos": [
+    "Decreto 019 de 2012",
+    "Decreto 089 de 2014",
+    "Decreto 17 de 2016",
+    "Decreto 425 de 2001",
+    "Ley 1116 de 2006",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Gerardo Botero Zuluaga/Sentencias/SL1604-2019.doc",
+  "fecha_descarga": "2026-10-21T13:31:26.536030+00:00"
+}

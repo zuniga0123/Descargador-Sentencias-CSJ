@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2850-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-07-25T22:03:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 190 de 2003",
+    "Decreto 2201 de 1987",
+    "Decreto 4781 de 2005",
+    "Decreto 66 de 1993",
+    "Ley 100 de 1993",
+    "Ley 4 de 1987",
+    "Ley 6 de 1945",
+    "Ley 790 de 2002",
+    "Ley 812 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Jorge Prada Sanchez/Sentencias/SL2850-2019.doc",
+  "fecha_descarga": "2026-10-21T13:15:42.933527+00:00"
+}

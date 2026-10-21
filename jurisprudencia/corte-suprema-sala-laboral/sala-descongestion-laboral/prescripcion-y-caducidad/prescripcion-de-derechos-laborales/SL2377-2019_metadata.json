@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2377-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-07-02T19:23:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 42,
+  "leyes_o_articulos": [
+    "Decreto 20 de 2001",
+    "Ley 100 de 1993",
+    "Ley 1066 de 2006",
+    "Ley 33 de 1985",
+    "Ley 362 de 1997",
+    "Ley 57 de 1887",
+    "Ley 712 de 2001",
+    "Ley 77 de 1988",
+    "Ley 791 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL2377-2019.doc",
+  "fecha_descarga": "2026-10-21T13:27:35.616436+00:00"
+}

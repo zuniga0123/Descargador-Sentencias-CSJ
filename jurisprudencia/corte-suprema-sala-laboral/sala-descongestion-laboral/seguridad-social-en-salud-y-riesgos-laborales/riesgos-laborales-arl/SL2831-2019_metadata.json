@@ -1,0 +1,20 @@
+{
+  "radicado": "SL2831-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-01T21:25:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Ley 16 de 1969"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Donald Jose Dix Ponnefz/Sentencias/SL2831-2019.doc",
+  "fecha_descarga": "2026-10-21T13:12:52.086744+00:00"
+}

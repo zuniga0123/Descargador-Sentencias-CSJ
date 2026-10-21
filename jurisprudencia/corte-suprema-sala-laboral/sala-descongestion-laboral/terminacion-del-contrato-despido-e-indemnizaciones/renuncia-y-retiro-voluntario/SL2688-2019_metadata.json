@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2688-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-07-18T18:35:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Renuncia y retiro voluntario",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1395 de 2010",
+    "Ley 153 de 1887",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL2688-2019.doc",
+  "fecha_descarga": "2026-10-21T13:19:45.873743+00:00"
+}

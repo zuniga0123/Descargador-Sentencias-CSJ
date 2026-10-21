@@ -1,0 +1,27 @@
+{
+  "radicado": "SL3000-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-08-05T15:40:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1252 de 2000",
+    "Decreto 1582 de 1998",
+    "Decreto 2127 de 1945",
+    "Decreto 3118 de 1968",
+    "Decreto 432 de 1998",
+    "Decreto 797 de 1949",
+    "Ley 344 de 1996",
+    "Ley 50 de 1990",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL3000-2019.doc",
+  "fecha_descarga": "2026-10-21T13:11:25.015232+00:00"
+}

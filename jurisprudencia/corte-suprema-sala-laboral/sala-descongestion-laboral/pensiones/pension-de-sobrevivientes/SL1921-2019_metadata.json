@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1921-2019",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2019,
+  "fecha_creacion": "2019-07-02T17:31:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 1889 de 1994",
+    "Decreto 4360 de 2004",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2019/Dr.Fernando Castillo Cadena/Sentencias/SL1921-2019.doc",
+  "fecha_descarga": "2026-10-21T13:27:50.742363+00:00"
+}
