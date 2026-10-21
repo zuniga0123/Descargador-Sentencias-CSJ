@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3430-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-08-22T15:13:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 195,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2090 de 1993",
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1993",
+    "Ley 319 de 1996",
+    "Ley 50 de 1990",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL3430-2018.doc",
+  "fecha_descarga": "2026-10-21T16:10:17.855024+00:00"
+}

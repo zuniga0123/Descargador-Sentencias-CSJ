@@ -1,0 +1,27 @@
+{
+  "radicado": "SL3254-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-08-10T16:46:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Decreto 1295 de 1994",
+    "Decreto 1848 de 1969",
+    "Decreto 2013 de 2012",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 344 de 1996",
+    "Ley 71 de 1988",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL3254-2018.doc",
+  "fecha_descarga": "2026-10-21T16:15:34.757458+00:00"
+}

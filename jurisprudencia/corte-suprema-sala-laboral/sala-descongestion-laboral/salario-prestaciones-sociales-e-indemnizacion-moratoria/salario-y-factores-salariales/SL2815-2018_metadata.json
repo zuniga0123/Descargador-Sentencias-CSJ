@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2815-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-07-27T20:05:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1703 de 2002",
+    "Decreto 2651 de 1991",
+    "Decreto 3120 de 2004",
+    "Decreto 4715 de 2005",
+    "Decreto 624 de 1989",
+    "Ley 16 de 1969",
+    "Ley 361 de 1997",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL2815-2018.doc",
+  "fecha_descarga": "2026-10-21T16:22:08.541862+00:00"
+}

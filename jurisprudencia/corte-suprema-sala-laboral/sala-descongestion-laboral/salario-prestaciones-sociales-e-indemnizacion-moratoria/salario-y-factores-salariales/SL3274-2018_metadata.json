@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3274-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-08-15T16:08:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 61,
+  "leyes_o_articulos": [
+    "Decreto 1748 de 1995",
+    "Decreto 1748 de 1998",
+    "Decreto 1887 de 1994",
+    "Decreto 3798 de 2003",
+    "Ley 100 de 1993",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL3274-2018.doc",
+  "fecha_descarga": "2026-10-21T16:13:52.434352+00:00"
+}

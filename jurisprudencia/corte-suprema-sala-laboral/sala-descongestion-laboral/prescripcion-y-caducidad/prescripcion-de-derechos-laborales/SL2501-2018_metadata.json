@@ -1,0 +1,28 @@
+{
+  "radicado": "SL2501-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-07-11T13:28:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 01 de 1984",
+    "Decreto 1045 de 1978",
+    "Decreto 262 de 2000",
+    "Decreto 2651 de 1991",
+    "Ley 100 de 1993",
+    "Ley 1564 de 2012",
+    "Ley 25 de 1894",
+    "Ley 25 de 1974",
+    "Ley 33 de 1985",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL2501-2018.doc",
+  "fecha_descarga": "2026-10-21T16:30:48.565277+00:00"
+}

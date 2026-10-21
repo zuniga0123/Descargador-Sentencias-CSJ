@@ -1,0 +1,22 @@
+{
+  "radicado": "SL2860-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-07-18T17:06:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Ley 142 de 1994",
+    "Ley 16 de 1969",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL2860-2018.doc",
+  "fecha_descarga": "2026-10-21T16:26:29.732727+00:00"
+}

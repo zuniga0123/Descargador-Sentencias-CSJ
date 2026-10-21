@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3541-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-08-24T16:09:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 60,
+  "leyes_o_articulos": [
+    "Ley 16 de 1969",
+    "Ley 52 de 1975",
+    "Ley 640 de 2001",
+    "Ley 79 de 1988",
+    "Ley 79 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL3541-2018.doc",
+  "fecha_descarga": "2026-10-21T16:09:09.183211+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "radicado": "SL2733-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-07-16T17:14:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 45,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989",
+    "Decreto 528 de 1964",
+    "LEY 153 DE 1887"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL2733-2018.doc",
+  "fecha_descarga": "2026-10-21T16:27:58.226724+00:00"
+}

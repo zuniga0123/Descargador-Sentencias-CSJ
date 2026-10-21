@@ -1,0 +1,29 @@
+{
+  "radicado": "SL2622-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-07-10T14:16:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 69,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 254 de 2004",
+    "Decreto 904 de 1951",
+    "Ley 1295 de 2010",
+    "Ley 153 de 1887",
+    "Ley 2351 de 1965",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 712 de 2001",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL2622-2018.doc",
+  "fecha_descarga": "2026-10-21T16:31:50.340973+00:00"
+}

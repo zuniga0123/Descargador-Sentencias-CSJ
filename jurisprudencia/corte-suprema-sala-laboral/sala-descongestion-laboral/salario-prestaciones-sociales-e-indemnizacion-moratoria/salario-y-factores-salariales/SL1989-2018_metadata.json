@@ -1,0 +1,31 @@
+{
+  "radicado": "SL1989-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-08-09T13:58:00Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1260 de 2000",
+    "Decreto 1572 de 1973",
+    "Decreto 2337 de 1996",
+    "Decreto 2525 de 2005",
+    "Decreto 2677 de 1971",
+    "Decreto 2677 de 1991",
+    "Decreto 2777 de 1971",
+    "Ley 100 de 1993",
+    "Ley 1371 de 2009",
+    "Ley 171 de 1961",
+    "Ley 33 de 1985",
+    "Ley 549 de 1999",
+    "Ley 550 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Luis Quiroz Alemán/Sentencias/SL1989-2018.doc",
+  "fecha_descarga": "2026-10-21T16:16:56.814198+00:00"
+}

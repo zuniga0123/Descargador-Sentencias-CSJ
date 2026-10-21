@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3478-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-08-22T15:27:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Decreto 1050 de 1968",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Ley 16 de 1969",
+    "Ley 171 de 1961"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL3478-2018.doc",
+  "fecha_descarga": "2026-10-21T16:10:14.020849+00:00"
+}

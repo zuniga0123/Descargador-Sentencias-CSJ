@@ -1,0 +1,32 @@
+{
+  "radicado": "SL2984-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-07-26T21:09:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 53,
+  "leyes_o_articulos": [
+    "Decreto 174 de 1975",
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 2127 de 2008",
+    "Decreto 2282 de 2003",
+    "Decreto 2351 de 1965",
+    "Decreto 255 de 2000",
+    "Decreto 2721 de 2008",
+    "Decreto 3135 de 1968",
+    "Ley 1045 de 1978",
+    "Ley 153 de 1887",
+    "Ley 2351 de 1965",
+    "Ley 33 de 1985",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Donald Jose Dix Ponnefz/Sentencias/SL2984-2018.doc",
+  "fecha_descarga": "2026-10-21T16:23:48.241660+00:00"
+}

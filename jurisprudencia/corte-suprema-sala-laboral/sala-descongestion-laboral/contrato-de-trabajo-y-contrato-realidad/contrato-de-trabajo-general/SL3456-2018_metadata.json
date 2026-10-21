@@ -1,0 +1,31 @@
+{
+  "radicado": "SL3456-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-08-28T14:39:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 41,
+  "leyes_o_articulos": [
+    "Decreto 1840 de 1969",
+    "Decreto 1950 de 1973",
+    "Decreto 3130 de 1968",
+    "Decreto 3135 de 1968",
+    "Decreto 371 de 1998",
+    "Decreto 530 de 1994",
+    "Ley 10 de 1990",
+    "Ley 100 de 1993",
+    "Ley 50 de 1990",
+    "Ley 524 de 1999",
+    "Ley 60 de 1993",
+    "Ley 712 de 2001",
+    "Ley 909 de 2004"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL3456-2018.doc",
+  "fecha_descarga": "2026-10-21T16:07:27.350963+00:00"
+}

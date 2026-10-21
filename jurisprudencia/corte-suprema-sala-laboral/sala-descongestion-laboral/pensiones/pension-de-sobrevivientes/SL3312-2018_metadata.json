@@ -1,0 +1,27 @@
+{
+  "radicado": "SL3312-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-08-13T20:28:00Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Ley 100 de 1003",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 163 de 1887",
+    "Ley 270 de 1996",
+    "Ley 57 de 1887",
+    "Ley 57 de 1987",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Luis Quiroz Alemán/Sentencias/SL3312-2018.doc",
+  "fecha_descarga": "2026-10-21T16:14:42.366556+00:00"
+}

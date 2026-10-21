@@ -1,0 +1,21 @@
+{
+  "radicado": "SL2764-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-07-13T16:02:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Estabilidad Laboral Reforzada y Fuero",
+  "subtema": "Fuero de maternidad",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Ley 1395 de 2010",
+    "Ley 1822 de 2017",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Ernesto Forero Vargas/Sentencias/SL2764-2018.doc",
+  "fecha_descarga": "2026-10-21T16:28:27.211982+00:00"
+}

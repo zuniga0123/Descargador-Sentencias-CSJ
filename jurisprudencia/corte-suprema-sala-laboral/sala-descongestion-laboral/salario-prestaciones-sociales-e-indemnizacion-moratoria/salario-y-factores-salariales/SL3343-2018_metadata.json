@@ -1,0 +1,26 @@
+{
+  "radicado": "SL3343-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-08-15T16:38:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Ley 10 de 1972",
+    "Ley 100 de 1993",
+    "Ley 1395 de 2010",
+    "Ley 171 de 1961",
+    "Ley 270 de 1996",
+    "Ley 33 de 1985",
+    "Ley 448 de 1996",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Ana Maria Muñoz Segura/Sentencias/SL3343-2018.doc",
+  "fecha_descarga": "2026-10-21T16:13:41.692373+00:00"
+}

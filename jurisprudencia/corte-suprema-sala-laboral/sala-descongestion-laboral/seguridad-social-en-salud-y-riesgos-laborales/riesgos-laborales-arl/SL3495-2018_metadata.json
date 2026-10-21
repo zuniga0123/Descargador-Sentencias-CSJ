@@ -1,0 +1,27 @@
+{
+  "radicado": "SL3495-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-08-23T15:01:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1465 de 2005",
+    "Decreto 1772 de 1994",
+    "Decreto 2633 de 1994",
+    "Decreto 2665 de 1988",
+    "Decreto 3667 de 2004",
+    "Ley 100 de 1993",
+    "Ley 1295 de 1994",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Prada Sanchez/Sentencias/SL3495-2018.doc",
+  "fecha_descarga": "2026-10-21T16:09:48.424248+00:00"
+}

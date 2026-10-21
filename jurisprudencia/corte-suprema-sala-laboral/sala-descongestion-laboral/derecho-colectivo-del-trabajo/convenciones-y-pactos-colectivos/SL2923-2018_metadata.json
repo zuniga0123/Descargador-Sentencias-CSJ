@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2923-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-07-27T21:03:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 1011 de 1007",
+    "Decreto 1679 de 1997",
+    "Decreto 254 de 2004",
+    "Decreto 3135 de 1968",
+    "Decreto 904 de 1951",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Ernesto Forero Vargas/Sentencias/SL2923-2018.doc",
+  "fecha_descarga": "2026-10-21T16:21:55.199900+00:00"
+}

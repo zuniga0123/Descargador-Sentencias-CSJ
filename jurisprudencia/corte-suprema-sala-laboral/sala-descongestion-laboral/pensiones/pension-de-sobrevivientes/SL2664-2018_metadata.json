@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2664-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-07-10T18:16:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 3041 de 1966",
+    "Decreto 3170 de 1964",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 3170 de 1964"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL2664-2018.doc",
+  "fecha_descarga": "2026-10-21T16:31:21.818155+00:00"
+}

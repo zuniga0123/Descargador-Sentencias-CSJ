@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2926-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-07-24T15:04:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Decreto 1399 de 1990",
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Ley 10 de 1972",
+    "Ley 10 de 1990",
+    "Ley 183 de 1887"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL2926-2018.doc",
+  "fecha_descarga": "2026-10-21T16:24:50.353266+00:00"
+}

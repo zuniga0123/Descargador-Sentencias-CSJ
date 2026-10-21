@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2685-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-07-31T14:50:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 1651 de 1977",
+    "Decreto 1653 de 1977",
+    "Decreto 1750 de 2003",
+    "Ley 100 de 1993",
+    "Ley 1651 de 1977",
+    "Ley 790 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL2685-2018.doc",
+  "fecha_descarga": "2026-10-21T16:20:57.882017+00:00"
+}

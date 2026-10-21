@@ -1,0 +1,31 @@
+{
+  "radicado": "SL3234-2018-",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-08-22T17:09:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 42,
+  "leyes_o_articulos": [
+    "Decreto 1048 de 1970",
+    "Decreto 1213 de 1990",
+    "Decreto 1314 de 1994",
+    "Decreto 1386 de 1974",
+    "Decreto 1748 de 1995",
+    "Decreto 4433 de 2004",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1211 de 1990",
+    "Ley 3187 de 1968",
+    "Ley 33 de 1985",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL3234-2018-.doc",
+  "fecha_descarga": "2026-10-21T16:10:06.979923+00:00"
+}

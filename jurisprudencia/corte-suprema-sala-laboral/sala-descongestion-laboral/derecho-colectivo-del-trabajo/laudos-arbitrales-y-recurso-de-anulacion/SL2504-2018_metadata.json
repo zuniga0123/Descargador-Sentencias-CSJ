@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2504-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-08-09T14:11:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Laudos arbitrales y recurso de anulación",
+  "puntaje_clasificacion": 164,
+  "leyes_o_articulos": [
+    "Decreto 089 de 2004",
+    "Decreto 089 de 2014",
+    "Ley 100 de 1993",
+    "Ley 1280 de 2009",
+    "Ley 51 de 1983",
+    "Ley 59 de 1983",
+    "Ley 9 de 1979"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL2504-2018.doc",
+  "fecha_descarga": "2026-10-21T16:16:55.108169+00:00"
+}

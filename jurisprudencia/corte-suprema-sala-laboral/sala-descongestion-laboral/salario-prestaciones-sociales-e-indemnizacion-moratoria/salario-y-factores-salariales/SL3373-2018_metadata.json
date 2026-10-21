@@ -1,0 +1,31 @@
+{
+  "radicado": "SL3373-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-08-15T20:23:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1237 de 1946",
+    "Decreto 1615 de 2003",
+    "Decreto 1835 de 1994",
+    "Decreto 2123 de 1992",
+    "Decreto 2661 de 1960",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 171 de 1961",
+    "Ley 2 de 1932",
+    "Ley 22 de 1945",
+    "Ley 28 de 1943",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL3373-2018.doc",
+  "fecha_descarga": "2026-10-21T16:13:16.830911+00:00"
+}

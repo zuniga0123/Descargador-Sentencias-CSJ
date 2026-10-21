@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2610-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-07-12T20:00:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1222 de 1986",
+    "Decreto 1333 de 1986",
+    "Decreto 1750 de 2003",
+    "Decreto 2282 de 1989",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 446 de 1998",
+    "Ley 794 de 2003",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Donald Jose Dix Ponnefz/Sentencias/SL2610-2018.doc",
+  "fecha_descarga": "2026-10-21T16:29:31.414834+00:00"
+}

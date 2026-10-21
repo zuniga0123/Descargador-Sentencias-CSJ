@@ -1,0 +1,30 @@
+{
+  "radicado": "SL3543-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-08-24T16:33:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 1835 de 1994",
+    "Decreto 1848 de 1969",
+    "Decreto 190 de 2003",
+    "Decreto 2123 de 1992",
+    "Decreto 2661 de 1960",
+    "Decreto 4781 de 2005",
+    "Decreto 790 de 2002",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 4 de 1987",
+    "Ley 790 de 2002",
+    "Ley 812 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL3543-2018.doc",
+  "fecha_descarga": "2026-10-21T16:09:02.191471+00:00"
+}

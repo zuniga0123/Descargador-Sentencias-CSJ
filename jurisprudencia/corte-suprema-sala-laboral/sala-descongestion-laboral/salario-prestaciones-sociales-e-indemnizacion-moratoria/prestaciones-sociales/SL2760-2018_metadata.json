@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2760-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-07-13T15:08:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 3135 de 1968",
+    "Decreto 371 de 1998",
+    "Ley 50 de 1990",
+    "Ley 524 de 1999",
+    "Ley 584 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Prada Sanchez/Sentencias/SL2760-2018.doc",
+  "fecha_descarga": "2026-10-21T16:28:46.776493+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "radicado": "SL3310-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-08-21T16:47:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Tipos de contrato y vinculación",
+  "puntaje_clasificacion": 42,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Decreto 24 de 1998",
+    "Decreto 4588 de 2006",
+    "Ley 10 de 1990",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL3310-2018.doc",
+  "fecha_descarga": "2026-10-21T16:10:56.737302+00:00"
+}
