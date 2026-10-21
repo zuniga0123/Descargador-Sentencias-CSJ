@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1075-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-12T16:29:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 1650 de 1977",
+    "Decreto 1651 de 1977",
+    "Decreto 3041 de 1966",
+    "Decreto 3063 de 1989",
+    "Ley 100 de 1993",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Ana Maria Muñoz Segura/Sentencias/SL1075-2018.doc",
+  "fecha_descarga": "2026-10-21T17:15:35.396895+00:00"
+}

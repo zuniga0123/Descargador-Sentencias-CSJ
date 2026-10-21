@@ -1,0 +1,22 @@
+{
+  "radicado": "SL909-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-03-23T20:10:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 65,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 12 de 1975",
+    "Ley 155 de 1992",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL909-2018.doc",
+  "fecha_descarga": "2026-10-21T17:20:52.811865+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "radicado": "SL1158-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-23T22:34:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 39,
+  "leyes_o_articulos": [
+    "Decreto 0758 de 1990",
+    "Decreto 1848 de 1968",
+    "Decreto 1848 de 1969",
+    "Decreto 2351 de 1965",
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966",
+    "Decreto 3135 de 1968",
+    "Decreto 758 de 1990",
+    "Decreto 785 de 1990",
+    "Ley 100 de 1993",
+    "Ley 6 de 1945",
+    "Ley 65 de 1946",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL1158-2018.docx",
+  "fecha_descarga": "2026-10-21T17:10:48.821027+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "radicado": "SL749-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-03T15:30:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "DECRETO 1836 DE 1994",
+    "DECRETO 2644 DE 1994",
+    "Decreto 3135 de 1968",
+    "LEY 100 DE 1993",
+    "LEY 153 DE 1887",
+    "LEY 962 DE 2005",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 224 de 1966",
+    "Ley 71 de 1988",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL749-2018.doc",
+  "fecha_descarga": "2026-10-21T17:20:08.001074+00:00"
+}

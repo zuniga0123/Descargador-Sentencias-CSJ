@@ -1,0 +1,31 @@
+{
+  "radicado": "SL751-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-03T14:10:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 37,
+  "leyes_o_articulos": [
+    "Decreto 092 de 2000",
+    "Decreto 1045 de 1978",
+    "Decreto 1748 de 1995",
+    "Decreto 2331 de 1998",
+    "Decreto 2527 de 2000",
+    "Decreto 663 de 1993",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 2 de 1984",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1985",
+    "Ley 489 de 1998",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL751-2018.doc",
+  "fecha_descarga": "2026-10-21T17:20:18.971995+00:00"
+}

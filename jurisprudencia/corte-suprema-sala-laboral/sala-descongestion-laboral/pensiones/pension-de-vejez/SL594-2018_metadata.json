@@ -1,0 +1,21 @@
+{
+  "radicado": "SL594-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-05-11T19:31:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 0758 de 1990",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL594-2018.doc",
+  "fecha_descarga": "2026-10-21T17:01:42.715265+00:00"
+}

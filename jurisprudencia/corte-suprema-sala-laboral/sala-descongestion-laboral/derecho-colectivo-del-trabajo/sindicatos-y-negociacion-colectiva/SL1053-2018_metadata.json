@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1053-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-05-11T19:28:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 99,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 63 de 2002",
+    "Ley 11 de 1984",
+    "Ley 270 de 1996",
+    "Ley 52 de 1975",
+    "Ley 550 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL1053-2018.doc",
+  "fecha_descarga": "2026-10-21T17:01:44.586398+00:00"
+}

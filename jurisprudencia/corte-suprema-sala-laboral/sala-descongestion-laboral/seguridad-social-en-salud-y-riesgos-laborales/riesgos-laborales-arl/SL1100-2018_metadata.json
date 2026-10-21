@@ -1,0 +1,31 @@
+{
+  "radicado": "SL1100-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-13T14:05:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 77,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2463 de 2001",
+    "Decreto 2566 de 2009",
+    "Decreto 3170 de 1964",
+    "Decreto 528 de 1964",
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 1819 de 1964",
+    "Ley 57 de 1915",
+    "Ley 776 de 2002",
+    "Ley 962 de 1995"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Ernesto Forero Vargas/Sentencias/SL1100-2018.doc",
+  "fecha_descarga": "2026-10-21T17:14:44.230481+00:00"
+}

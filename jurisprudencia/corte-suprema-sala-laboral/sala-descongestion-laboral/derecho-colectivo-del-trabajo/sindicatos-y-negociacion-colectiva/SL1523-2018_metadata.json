@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1523-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-05-10T16:11:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 69,
+  "leyes_o_articulos": [
+    "Decreto 2104 de 2004",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Ley 1395 de 2010"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Ernesto Forero Vargas/Sentencias/SL1523-2018.doc",
+  "fecha_descarga": "2026-10-21T17:03:28.455135+00:00"
+}

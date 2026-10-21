@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1592-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-05-18T17:28:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1111 de 1998",
+    "Decreto 2661 de 1960",
+    "Ley 100 de 1993",
+    "Ley 2261 de 1960",
+    "Ley 2661 de 1960",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL1592-2018.doc",
+  "fecha_descarga": "2026-10-21T16:59:16.330476+00:00"
+}

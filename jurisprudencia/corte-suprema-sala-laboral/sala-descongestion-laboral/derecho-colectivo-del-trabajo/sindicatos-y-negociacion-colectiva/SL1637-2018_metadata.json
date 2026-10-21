@@ -1,0 +1,29 @@
+{
+  "radicado": "SL1637-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-05-17T14:58:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 126,
+  "leyes_o_articulos": [
+    "Decreto 063 de 2002",
+    "Decreto 2351 de 1965",
+    "Decreto 2651 de 1991",
+    "Decreto 63 de 2002",
+    "Ley 11 de 1984",
+    "Ley 27 de 1976",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 550 de 1990",
+    "Ley 550 de 1999",
+    "Ley 584 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Ernesto Forero Vargas/Sentencias/SL1637-2018.doc",
+  "fecha_descarga": "2026-10-21T17:00:32.710726+00:00"
+}

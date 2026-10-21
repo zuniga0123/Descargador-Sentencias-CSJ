@@ -1,0 +1,31 @@
+{
+  "radicado": "SL908-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-03-23T16:29:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 2013 de 2012",
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966",
+    "Decreto 4868 de 2008",
+    "Decreto 692 de 1994",
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 153 de 1987",
+    "Ley 171 de 1961",
+    "Ley 22 de 1967",
+    "Ley 65 de 1946",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL908-2018.doc",
+  "fecha_descarga": "2026-10-21T17:21:16.109537+00:00"
+}

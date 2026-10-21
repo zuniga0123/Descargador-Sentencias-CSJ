@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1287-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-05-03T20:51:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 546 de 1971",
+    "Decreto 717 de 1978",
+    "Decreto 813 de 1994",
+    "LEY 546 DE 1971",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 85 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL1287-2018.doc",
+  "fecha_descarga": "2026-10-21T17:06:13.217679+00:00"
+}

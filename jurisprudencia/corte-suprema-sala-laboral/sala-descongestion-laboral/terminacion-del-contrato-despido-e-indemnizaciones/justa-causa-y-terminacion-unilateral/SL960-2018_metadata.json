@@ -1,0 +1,26 @@
+{
+  "radicado": "SL960-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-12T19:29:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 434 de 1971",
+    "Ley 100 de 1993",
+    "Ley 113 de 1985",
+    "Ley 12 de 1975",
+    "Ley 171 de 1961",
+    "Ley 33 de 1973",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL960-2018.doc",
+  "fecha_descarga": "2026-10-21T17:15:19.683080+00:00"
+}

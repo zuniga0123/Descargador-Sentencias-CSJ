@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1385-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-30T20:28:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 1247 de 1946",
+    "Decreto 2123 de 1992",
+    "Decreto 2661 de 1960",
+    "Decreto 666 de 1993",
+    "Ley 100 de 1993",
+    "Ley 2661 de 1960",
+    "Ley 317 de 1994",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Prada Sanchez/Sentencias/SL1385-2018.doc",
+  "fecha_descarga": "2026-10-21T17:07:39.345034+00:00"
+}

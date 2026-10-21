@@ -1,0 +1,28 @@
+{
+  "radicado": "SL1618-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-05-17T16:42:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 1889 de 1994",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 16 de 1969",
+    "Ley 25 de 1992",
+    "Ley 50 de 1990",
+    "Ley 54 de 1990",
+    "Ley 797 de 2003",
+    "Ley 979 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL1618-2018.doc",
+  "fecha_descarga": "2026-10-21T17:00:20.087340+00:00"
+}

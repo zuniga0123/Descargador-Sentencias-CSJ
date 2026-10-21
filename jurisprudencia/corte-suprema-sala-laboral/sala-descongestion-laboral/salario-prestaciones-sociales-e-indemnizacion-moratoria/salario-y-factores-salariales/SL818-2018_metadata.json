@@ -1,0 +1,27 @@
+{
+  "radicado": "SL818-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-10T19:14:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Ley 1 de 1963",
+    "Ley 100 de 1993",
+    "Ley 2 de 1984",
+    "Ley 33 de 1985",
+    "Ley 4 de 1976",
+    "Ley 71 de 1988",
+    "Ley 712 de 2001",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Rigoberto Echeverri Bueno/Sentencias/SL818-2018.doc",
+  "fecha_descarga": "2026-10-21T17:16:50.147031+00:00"
+}

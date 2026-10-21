@@ -1,0 +1,29 @@
+{
+  "radicado": "SL1261-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-25T14:43:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 1826 de 1965",
+    "Decreto 2282 de 1989",
+    "Decreto 232 de 1984",
+    "Decreto 3041 de 1966",
+    "Decreto 433 de 1971",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 433 de 1971",
+    "Ley 48 de 1993",
+    "Ley 794 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Donald Jose Dix Ponnefz/Sentencias/SL1261-2018.doc",
+  "fecha_descarga": "2026-10-21T17:10:11.597266+00:00"
+}

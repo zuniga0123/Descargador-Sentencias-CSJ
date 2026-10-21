@@ -1,0 +1,30 @@
+{
+  "radicado": "SL1323-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-05-11T16:59:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1160 de 1947",
+    "Decreto 2127 de 1945",
+    "Decreto 3118 de 1969",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 1045 de 1978",
+    "Ley 16 de 1969",
+    "Ley 344 de 1996",
+    "Ley 6 de 1945",
+    "Ley 797 de 1949",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Donald Jose Dix Ponnefz/Sentencias/SL1323-2018.doc",
+  "fecha_descarga": "2026-10-21T17:01:55.422372+00:00"
+}

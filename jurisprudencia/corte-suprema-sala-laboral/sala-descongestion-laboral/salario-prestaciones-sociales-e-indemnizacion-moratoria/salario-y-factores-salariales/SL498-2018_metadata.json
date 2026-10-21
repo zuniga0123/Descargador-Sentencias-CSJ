@@ -1,0 +1,23 @@
+{
+  "radicado": "SL498-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-05T16:48:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1615 de 2003",
+    "Decreto 204 de 1957",
+    "Decreto 2127 de 1945",
+    "Decreto 2420 de 1976",
+    "Decreto 3551 de 2004"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Fernando Castillo Cadena/Sentencias/SL498-2018.doc",
+  "fecha_descarga": "2026-10-21T17:19:13.321632+00:00"
+}

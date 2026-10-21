@@ -1,0 +1,25 @@
+{
+  "radicado": "SL898-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-03-23T14:01:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Decreto 797 de 1994",
+    "Ley 6 de 1945",
+    "Ley 64 de 1946",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Donald Jose Dix Ponnefz/Sentencias/SL898-2018.doc",
+  "fecha_descarga": "2026-10-21T17:21:30.127570+00:00"
+}

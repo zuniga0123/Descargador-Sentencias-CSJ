@@ -1,0 +1,27 @@
+{
+  "radicado": "SL941-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-06T19:52:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1282 de 1994",
+    "Decreto 1283 de 1984",
+    "Decreto 1283 de 1994",
+    "Decreto 2210 de 2004",
+    "Decreto 60 de 1973",
+    "Ley 100 de 1993",
+    "Ley 16 de 1972",
+    "Ley 22 de 1967",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Gerardo Botero Zuluaga/Sentencias/SL941-2018.doc",
+  "fecha_descarga": "2026-10-21T17:18:30.968367+00:00"
+}

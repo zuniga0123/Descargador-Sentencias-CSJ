@@ -1,0 +1,23 @@
+{
+  "radicado": "SL976-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-09T20:10:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1003 de 1939",
+    "Decreto 1260 de 1970",
+    "Ley 100 de 1993",
+    "Ley 92 de 1938",
+    "Ley 92 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Prada Sanchez/Sentencias/SL976-2018.doc",
+  "fecha_descarga": "2026-10-21T17:17:25.257104+00:00"
+}

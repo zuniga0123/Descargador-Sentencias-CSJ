@@ -1,0 +1,26 @@
+{
+  "radicado": "SL811-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-05T17:46:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 70,
+  "leyes_o_articulos": [
+    "Decreto 1372 de 2005",
+    "Decreto 2104 de 2004",
+    "Decreto 2153 de 2005",
+    "Decreto 2351 de 1065",
+    "Decreto 2351 de 1965",
+    "Ley 26 de 1976",
+    "Ley 27 de 1976",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL811-2018.doc",
+  "fecha_descarga": "2026-10-21T17:18:52.485720+00:00"
+}

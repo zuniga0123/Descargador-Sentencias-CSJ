@@ -1,0 +1,22 @@
+{
+  "radicado": "SL990-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-07T22:38:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 56,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Ana Maria Muñoz Segura/Sentencias/SL990-2018.doc",
+  "fecha_descarga": "2026-10-21T17:18:00.865397+00:00"
+}

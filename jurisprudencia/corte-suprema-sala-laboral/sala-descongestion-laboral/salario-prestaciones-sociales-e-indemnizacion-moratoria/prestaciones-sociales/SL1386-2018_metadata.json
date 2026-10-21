@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1386-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-30T20:32:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Decreto 2013 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 797 de 1949",
+    "Ley 1750 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1386-2018.doc",
+  "fecha_descarga": "2026-10-21T17:07:37.655038+00:00"
+}

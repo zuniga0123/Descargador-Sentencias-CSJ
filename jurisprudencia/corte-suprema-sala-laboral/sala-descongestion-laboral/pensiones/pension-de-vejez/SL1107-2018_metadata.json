@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1107-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-17T20:17:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1650 de 1977",
+    "Ley 33 de 1985",
+    "Ley 4 de 1976",
+    "Ley 4 de 1992",
+    "Ley 433 de 1971",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Prada Sanchez/Sentencias/SL1107-2018.docx",
+  "fecha_descarga": "2026-10-21T17:13:26.849995+00:00"
+}

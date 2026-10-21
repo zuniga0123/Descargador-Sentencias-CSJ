@@ -1,0 +1,24 @@
+{
+  "radicado": "SL845-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-03-22T16:58:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Renuncia y retiro voluntario",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1994",
+    "Decreto 171 de 1961",
+    "Decreto 2143 de 1995",
+    "Ley 100 de 1993",
+    "Ley 1276 de 2009",
+    "Ley 171 de 1961"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL845-2018.doc",
+  "fecha_descarga": "2026-10-21T17:22:23.287164+00:00"
+}

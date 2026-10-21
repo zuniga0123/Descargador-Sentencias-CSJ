@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1096-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-12T23:25:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 47,
+  "leyes_o_articulos": [
+    "Decreto 1260 de 1970",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 44 de 1980",
+    "Ley 54 de 1990",
+    "Ley 75 de 1968",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Ernesto Forero Vargas/Sentencias/SL1096-2018.doc",
+  "fecha_descarga": "2026-10-21T17:14:49.617288+00:00"
+}

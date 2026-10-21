@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1205-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-19T20:54:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 41,
+  "leyes_o_articulos": [
+    "Decreto 2304 de 1989",
+    "Decreto 3135 de 1968",
+    "Decreto 371 de 1998",
+    "Ley 10 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1335 de 1968",
+    "Ley 489 de 1998",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL1205-2018.doc",
+  "fecha_descarga": "2026-10-21T17:11:50.845155+00:00"
+}

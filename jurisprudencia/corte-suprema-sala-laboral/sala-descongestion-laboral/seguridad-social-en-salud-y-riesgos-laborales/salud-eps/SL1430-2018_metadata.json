@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1430-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-05-08T19:27:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 74,
+  "leyes_o_articulos": [
+    "Decreto 4588 de 2006",
+    "Decreto 468 de 1990",
+    "Ley 10 de 1991",
+    "Ley 1233 de 2008",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL1430-2018.doc",
+  "fecha_descarga": "2026-10-21T17:05:05.491680+00:00"
+}

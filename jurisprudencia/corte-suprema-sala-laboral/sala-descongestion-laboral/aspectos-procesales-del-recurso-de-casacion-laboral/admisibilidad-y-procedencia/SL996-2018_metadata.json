@@ -1,0 +1,30 @@
+{
+  "radicado": "SL996-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-12T14:56:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 130 de 1976",
+    "Decreto 2127 de 1945",
+    "Decreto 2527 de 2000",
+    "Decreto 3130 de 1968",
+    "Decreto 3135 de 1968",
+    "Decreto 410 de 1971",
+    "Ley 142 de 1994",
+    "Ley 151 de 1959",
+    "Ley 28 de 1931",
+    "Ley 33 de 1985",
+    "Ley 57 de 1887",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL996-2018.doc",
+  "fecha_descarga": "2026-10-21T17:15:53.679250+00:00"
+}

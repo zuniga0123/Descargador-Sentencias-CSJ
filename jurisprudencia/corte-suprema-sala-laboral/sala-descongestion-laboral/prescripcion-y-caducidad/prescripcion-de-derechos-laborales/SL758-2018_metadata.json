@@ -1,0 +1,29 @@
+{
+  "radicado": "SL758-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-03T19:22:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1653 de 1977",
+    "Decreto 1750 de 2003",
+    "Decreto 2127 de 1945",
+    "Decreto 2505 de 2006",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 1395 de 2010",
+    "Ley 33 de 1985",
+    "Ley 712 de 2001",
+    "Ley 721 de 2001",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL758-2018.doc",
+  "fecha_descarga": "2026-10-21T17:19:43.519140+00:00"
+}

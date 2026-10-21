@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1254-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-25T14:31:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 60,
+  "leyes_o_articulos": [
+    "Decreto 2463 de 2001",
+    "Ley 100 de 1993",
+    "Ley 1295 de 1994",
+    "Ley 153 de 1887",
+    "Ley 16 de 1969",
+    "Ley 692 de 2005",
+    "Ley 776 de 2002",
+    "Ley 95 de 1890",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL1254-2018.doc",
+  "fecha_descarga": "2026-10-21T17:10:15.251999+00:00"
+}

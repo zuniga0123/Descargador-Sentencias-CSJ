@@ -1,0 +1,28 @@
+{
+  "radicado": "SL536-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-16T19:37:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 3063 de 1989",
+    "Decreto 692 de 1994",
+    "Decreto 758 de 1990",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1650 de 1977",
+    "Ley 33 de 1985",
+    "Ley 433 de 1971",
+    "Ley 71 de 1988",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Gerardo Botero Zuluaga/Sentencias/SL536-2018.doc",
+  "fecha_descarga": "2026-10-21T17:13:48.474959+00:00"
+}

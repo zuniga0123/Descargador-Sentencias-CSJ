@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1214-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-24T13:50:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 39,
+  "leyes_o_articulos": [
+    "Decreto 1950 de 1973",
+    "Decreto 2127 de 1945",
+    "Decreto 2400 de 1968",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 6 de 1945",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL1214-2018.doc",
+  "fecha_descarga": "2026-10-21T17:10:45.203438+00:00"
+}

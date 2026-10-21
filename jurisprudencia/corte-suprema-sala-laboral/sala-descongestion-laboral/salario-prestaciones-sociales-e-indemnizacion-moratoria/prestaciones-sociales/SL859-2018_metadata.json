@@ -1,0 +1,32 @@
+{
+  "radicado": "SL859-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-03-22T19:59:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 82,
+  "leyes_o_articulos": [
+    "Decreto 116 de 1976",
+    "Decreto 2076 de 1967",
+    "Decreto 222 de 1978",
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1993",
+    "Ley 1064 de 2006",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 789 de 2002",
+    "Ley 79 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Ernesto Forero Vargas/Sentencias/SL859-2018.doc",
+  "fecha_descarga": "2026-10-21T17:21:57.532374+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "radicado": "SL1054-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-05-11T19:40:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 62,
+  "leyes_o_articulos": [
+    "Decreto 1210 de 1994",
+    "Decreto 1609 de 2003",
+    "Decreto 2127 de 1945",
+    "Decreto 2282 de 1989",
+    "Decreto 254 de 2000",
+    "Decreto 749 de 1949",
+    "Decreto 797 de 1949",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 3135 de 1968",
+    "Ley 361 de 1997",
+    "Ley 6 de 1945",
+    "Ley 712 de 2001",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL1054-2018.doc",
+  "fecha_descarga": "2026-10-21T17:01:39.273076+00:00"
+}

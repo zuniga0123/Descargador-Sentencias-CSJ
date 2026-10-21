@@ -1,0 +1,33 @@
+{
+  "radicado": "SL958-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-19T17:49:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 0666 de 1993",
+    "Decreto 1158 de 1994",
+    "Decreto 2123 de 1992",
+    "Decreto 2123 de 1993",
+    "Decreto 2282 de 1989",
+    "Decreto 666 de 1993",
+    "Decreto 691 de 1994",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 157 de 1887",
+    "Ley 169 de 1896",
+    "Ley 169 de 1986",
+    "Ley 22 de 1985",
+    "Ley 33 de 1985",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL958-2018.doc",
+  "fecha_descarga": "2026-10-21T17:12:06.579340+00:00"
+}

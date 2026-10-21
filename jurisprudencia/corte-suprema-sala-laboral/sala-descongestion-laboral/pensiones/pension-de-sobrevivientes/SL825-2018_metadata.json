@@ -1,0 +1,26 @@
+{
+  "radicado": "SL825-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-04-06T19:17:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Ley 10 de 1972",
+    "Ley 113 de 1985",
+    "Ley 12 de 1975",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 33 de 1973",
+    "Ley 4 de 1976",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL825-2018.doc",
+  "fecha_descarga": "2026-10-21T17:18:40.098931+00:00"
+}

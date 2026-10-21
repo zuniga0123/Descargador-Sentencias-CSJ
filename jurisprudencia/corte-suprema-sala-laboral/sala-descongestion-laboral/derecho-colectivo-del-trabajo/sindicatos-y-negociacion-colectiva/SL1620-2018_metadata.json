@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1620-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-05-17T19:34:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 1373 de 1966",
+    "Decreto 2104 de 2004",
+    "Decreto 2105 de 2004",
+    "Decreto 2109 de 2004",
+    "Decreto 2351 de 1965",
+    "Ley 48 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL1620-2018.doc",
+  "fecha_descarga": "2026-10-21T16:59:48.291558+00:00"
+}

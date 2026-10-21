@@ -1,0 +1,30 @@
+{
+  "radicado": "SL1414-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-05-16T19:55:37Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 3550 de 2004",
+    "Ley 1045 de 1978",
+    "Ley 153 de 1887",
+    "Ley 182 de 1995",
+    "Ley 254 de 2000",
+    "Ley 3267 de 1963",
+    "Ley 335 de 1996",
+    "Ley 42 de 1985",
+    "Ley 489 de 1998",
+    "Ley 616 de 1954",
+    "Ley 64 de 1946",
+    "Ley 790 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL1414-2018.pdf",
+  "fecha_descarga": "2026-10-21T17:00:58.322665+00:00"
+}

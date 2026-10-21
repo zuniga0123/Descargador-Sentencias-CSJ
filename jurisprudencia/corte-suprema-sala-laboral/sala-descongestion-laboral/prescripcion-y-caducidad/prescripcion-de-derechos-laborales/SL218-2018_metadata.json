@@ -1,0 +1,28 @@
+{
+  "radicado": "SL218-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-05-15T16:08:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 046 de 2000",
+    "Decreto 1281 de 2002",
+    "Decreto 597 de 1988",
+    "Decreto 723 de 1997",
+    "Ley 100 de 1993",
+    "Ley 362 de 1997",
+    "Ley 446 de 1998",
+    "Ley 57 de 1887",
+    "Ley 712 de 2001",
+    "Ley 791 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Fernando Castillo Cadena/Sentencias/SL218-2018.doc",
+  "fecha_descarga": "2026-10-21T17:01:33.687369+00:00"
+}

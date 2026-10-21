@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1688-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-05-21T20:49:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Decreto 797 de 1949",
+    "Ley 1071 de 2006",
+    "Ley 244 de 1995",
+    "Ley 64 de 1946",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Donald Jose Dix Ponnefz/Sentencias/SL1688-2018.doc",
+  "fecha_descarga": "2026-10-21T16:58:25.128872+00:00"
+}
