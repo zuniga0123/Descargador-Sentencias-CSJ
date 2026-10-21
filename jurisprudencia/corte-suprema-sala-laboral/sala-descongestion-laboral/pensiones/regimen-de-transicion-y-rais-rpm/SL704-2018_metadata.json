@@ -1,0 +1,31 @@
+{
+  "radicado": "SL704-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-03-21T14:34:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 1281 de 1994",
+    "Decreto 1388 de 1995",
+    "Decreto 1548 de 1998",
+    "Decreto 1837 de 1994",
+    "Decreto 2090 de 2003",
+    "Decreto 2150 de 1995",
+    "Decreto 407 de 1994",
+    "Decreto 691 de 1994",
+    "Decreto 733 de 1976",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1281 de 1994",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL704-2018.doc",
+  "fecha_descarga": "2026-10-21T17:23:37.285273+00:00"
+}

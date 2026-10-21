@@ -1,0 +1,28 @@
+{
+  "radicado": "SL135-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-02-12T17:18:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 091 de 2001",
+    "Decreto 106 de 2006",
+    "Decreto 244 de 2009",
+    "Decreto 248 de 2008",
+    "Decreto 78 de 1987",
+    "Ley 12 de 1986",
+    "Ley 2610 de 1979",
+    "Ley 50 de 1990",
+    "Ley 66 de 1968",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Ernesto Forero Vargas/Sentencias/SL135-2018.doc",
+  "fecha_descarga": "2026-10-21T17:39:35.445056+00:00"
+}

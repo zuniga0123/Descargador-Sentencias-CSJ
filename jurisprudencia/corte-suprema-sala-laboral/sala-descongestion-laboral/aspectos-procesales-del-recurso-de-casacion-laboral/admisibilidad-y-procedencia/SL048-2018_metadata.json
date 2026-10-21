@@ -1,0 +1,24 @@
+{
+  "radicado": "SL048-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-02-20T21:38:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 2815 de 1975",
+    "Decreto 418 de 1977",
+    "Ley 100 de 1993",
+    "Ley 153 de 1987",
+    "Ley 446 de 1998",
+    "Ley 6 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Rigoberto Echeverri Bueno/Sentencias/SL048-2018.doc",
+  "fecha_descarga": "2026-10-21T17:35:51.927864+00:00"
+}

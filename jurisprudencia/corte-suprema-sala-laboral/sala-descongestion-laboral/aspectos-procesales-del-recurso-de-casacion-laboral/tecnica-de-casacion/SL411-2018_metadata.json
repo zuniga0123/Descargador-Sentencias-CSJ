@@ -1,0 +1,23 @@
+{
+  "radicado": "SL411-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-02-27T19:30:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2127 de 1954",
+    "Decreto 797 de 1949",
+    "Ley 153 de 1887",
+    "Ley 1781 de 2016"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL411-2018.doc",
+  "fecha_descarga": "2026-10-21T17:32:56.939237+00:00"
+}

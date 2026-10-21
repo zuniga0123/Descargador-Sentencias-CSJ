@@ -1,0 +1,30 @@
+{
+  "radicado": "SL580-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-03-07T20:15:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 2093 de 1993",
+    "Decreto 2127 de 1945",
+    "Decreto 2171 de 1992",
+    "Decreto 3135 de 1968",
+    "Decreto 3151 de 1990",
+    "Decreto 459 de 1985",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 33 de 1985",
+    "Ley 6 de 1945",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL580-2018.doc",
+  "fecha_descarga": "2026-10-21T17:29:43.639221+00:00"
+}

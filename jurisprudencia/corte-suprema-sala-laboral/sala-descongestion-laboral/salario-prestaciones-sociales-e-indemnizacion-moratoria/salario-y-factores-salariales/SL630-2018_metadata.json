@@ -1,0 +1,30 @@
+{
+  "radicado": "SL630-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-03-09T15:44:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1050 de 1968",
+    "Decreto 2013 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 2400 de 1968",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 200 de 1995",
+    "Ley 3135 de 1968",
+    "Ley 416 de 1998",
+    "Ley 446 de 1998",
+    "Ley 6 de 1945",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL630-2018.doc",
+  "fecha_descarga": "2026-10-21T17:28:26.356290+00:00"
+}

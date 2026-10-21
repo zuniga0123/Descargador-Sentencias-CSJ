@@ -1,0 +1,26 @@
+{
+  "radicado": "SL292-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-02-21T14:48:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 190 de 2003",
+    "LEY 50 DE 1990",
+    "LEY 52 DE 1975",
+    "LEY 790 DE 2002",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 790 de 2002",
+    "Ley 790 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL292-2018.doc",
+  "fecha_descarga": "2026-10-21T17:35:50.182510+00:00"
+}

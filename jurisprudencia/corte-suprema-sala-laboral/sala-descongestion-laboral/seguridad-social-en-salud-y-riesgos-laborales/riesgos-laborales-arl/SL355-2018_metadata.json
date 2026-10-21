@@ -1,0 +1,30 @@
+{
+  "radicado": "SL355-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-02-22T14:06:00Z",
+  "magistrado_ponente": "Dra.Jimena Isabel Godoy Fajardo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2496 de 1982",
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1171 de 2007",
+    "Ley 1251 de 2008",
+    "Ley 16 de 1969",
+    "Ley 294 de 1996",
+    "Ley 54 de 1990",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Jimena Isabel Godoy Fajardo/Sentencias/SL355-2018.doc",
+  "fecha_descarga": "2026-10-21T17:34:38.213540+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "radicado": "SL563-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-03-12T16:12:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 203,
+  "leyes_o_articulos": [
+    "Decreto 1373 de 1966",
+    "Decreto 1468 de 1978",
+    "Decreto 1469 de 1978",
+    "Decreto 1818 de 1998",
+    "Decreto 2351 de 1965",
+    "Ley 10 de 1991",
+    "Ley 153 de 1887",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 26 de 1976",
+    "Ley 50 de 1990",
+    "Ley 584 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL563-2018.doc",
+  "fecha_descarga": "2026-10-21T17:27:27.998541+00:00"
+}

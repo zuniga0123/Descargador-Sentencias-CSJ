@@ -1,0 +1,31 @@
+{
+  "radicado": "SL258-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-02-16T15:37:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 1615 de 2003",
+    "Decreto 2062 de 2003",
+    "Decreto 2123 de 1992",
+    "Decreto 254 de 2000",
+    "Decreto 2651 de 1991",
+    "Decreto 4781 de 2005",
+    "Decreto 797 de 1949",
+    "Ley 1045 de 1978",
+    "Ley 153 de 1887",
+    "Ley 254 de 2000",
+    "Ley 446 de 1998",
+    "Ley 64 de 1946",
+    "Ley 790 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL258-2018.doc",
+  "fecha_descarga": "2026-10-21T17:36:46.415151+00:00"
+}

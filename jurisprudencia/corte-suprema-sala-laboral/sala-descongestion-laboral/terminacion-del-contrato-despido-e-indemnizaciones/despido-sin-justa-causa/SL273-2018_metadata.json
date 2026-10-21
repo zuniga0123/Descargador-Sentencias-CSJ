@@ -1,0 +1,26 @@
+{
+  "radicado": "SL273-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-02-28T19:25:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Despido sin justa causa",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1615 de 2003",
+    "Decreto 190 de 2003",
+    "Decreto 2062 de 2003",
+    "Decreto 2127 de 1994",
+    "Decreto 4781 de 2005",
+    "Ley 254 de 2000",
+    "Ley 50 de 1990",
+    "Ley 790 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL273-2018.doc",
+  "fecha_descarga": "2026-10-21T17:32:41.091087+00:00"
+}

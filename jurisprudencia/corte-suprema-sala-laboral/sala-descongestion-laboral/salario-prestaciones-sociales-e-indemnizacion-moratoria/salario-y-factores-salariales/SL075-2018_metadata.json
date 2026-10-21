@@ -1,0 +1,29 @@
+{
+  "radicado": "SL075-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-02-14T16:21:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1160 de 1947",
+    "Decreto 1252 de 2000",
+    "Decreto 1848 de 1969",
+    "Decreto 1919 de 2002",
+    "Decreto 2282 de 1989",
+    "Decreto 2351 de 1965",
+    "Decreto 267 de 1946",
+    "Decreto 3135 de 1968",
+    "Ley 153 de 1887",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL075-2018.doc",
+  "fecha_descarga": "2026-10-21T17:38:41.722848+00:00"
+}

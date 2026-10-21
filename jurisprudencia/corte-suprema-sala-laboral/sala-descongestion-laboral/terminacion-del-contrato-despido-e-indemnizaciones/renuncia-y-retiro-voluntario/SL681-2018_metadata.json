@@ -1,0 +1,26 @@
+{
+  "radicado": "SL681-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-03-14T17:39:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Renuncia y retiro voluntario",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 2511 de 1998",
+    "Decreto 2651 de 1991",
+    "Ley 1395 de 2010",
+    "Ley 278 de 1996",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 62 de 1985",
+    "Ley 640 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL681-2018.doc",
+  "fecha_descarga": "2026-10-21T17:26:15.783538+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "radicado": "SL257-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-02-16T15:36:00Z",
+  "magistrado_ponente": "Dr.Carlos Arturo Guarin Jurado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 1615 de 2003",
+    "Decreto 2062 de 2003",
+    "Decreto 2123 de 1992",
+    "Decreto 2127 de 1945",
+    "Decreto 2661 de 1960",
+    "Ley 100 de 1993",
+    "Ley 1045 de 1978",
+    "Ley 22 de 1945",
+    "Ley 28 de 1943",
+    "Ley 50 de 1990",
+    "Ley 6 de 1945",
+    "Ley 64 de 1946",
+    "Ley 790 de 2002",
+    "Ley 812 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Carlos Arturo Guarin Jurado/Sentencias/SL257-2018.doc",
+  "fecha_descarga": "2026-10-21T17:36:48.194839+00:00"
+}

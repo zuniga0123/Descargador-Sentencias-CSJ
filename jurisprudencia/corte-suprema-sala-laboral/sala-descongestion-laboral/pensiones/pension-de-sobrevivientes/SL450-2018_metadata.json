@@ -1,0 +1,29 @@
+{
+  "radicado": "SL450-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-03-20T21:22:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 1306 de 2009",
+    "Ley 16 de 1972",
+    "Ley 319 de 1996",
+    "Ley 516 de 1999",
+    "Ley 74 de 1968",
+    "Ley 762 de 2002",
+    "Ley 776 de 2002",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Rigoberto Echeverri Bueno/Sentencias/SL450-2018.doc",
+  "fecha_descarga": "2026-10-21T17:24:21.006246+00:00"
+}
