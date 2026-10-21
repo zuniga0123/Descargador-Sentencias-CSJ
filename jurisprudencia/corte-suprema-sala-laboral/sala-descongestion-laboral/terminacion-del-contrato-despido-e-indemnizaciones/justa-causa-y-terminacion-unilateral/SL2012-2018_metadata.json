@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2012-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-06-06T15:47:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 231 de 1965",
+    "Ley 134 de 1931",
+    "Ley 153 de 1887",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 454 de 1988",
+    "Ley 50 de 1936",
+    "Ley 789 de 2002",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Ana Maria Muñoz Segura/Sentencias/SL2012-2018.doc",
+  "fecha_descarga": "2026-10-21T16:49:52.200522+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "radicado": "SL2248-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-06-19T21:50:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 614 de 1984",
+    "Ley 1295 de 1994",
+    "Ley 1562 de 2012",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998",
+    "Ley 712 de 2001",
+    "Ley 9 de 1979"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL2248-2018.doc",
+  "fecha_descarga": "2026-10-21T16:43:23.440869+00:00"
+}

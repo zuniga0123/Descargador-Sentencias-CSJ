@@ -1,0 +1,28 @@
+{
+  "radicado": "SL1179-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-07-04T20:30:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 062 de 1970",
+    "Decreto 1045 de 1978",
+    "Decreto 1848 de 1969",
+    "Decreto 2027 de 1951",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 1118 de 2006",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Fernando Castillo Cadena/Sentencias/SL1179-2018.doc",
+  "fecha_descarga": "2026-10-21T16:36:05.338378+00:00"
+}

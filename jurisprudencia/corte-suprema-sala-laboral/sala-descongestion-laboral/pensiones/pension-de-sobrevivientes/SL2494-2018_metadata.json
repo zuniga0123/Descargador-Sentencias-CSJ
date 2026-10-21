@@ -1,0 +1,22 @@
+{
+  "radicado": "SL2494-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-07-06T21:58:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "LEY 797 DE 2003",
+    "Ley 100 de 1993",
+    "Ley 797 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL2494-2018.doc",
+  "fecha_descarga": "2026-10-21T16:33:33.815753+00:00"
+}

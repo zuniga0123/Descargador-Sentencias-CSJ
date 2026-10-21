@@ -1,0 +1,31 @@
+{
+  "radicado": "SL1856-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-05-31T17:05:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 1586 de 1989",
+    "Decreto 2340 de 1946",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 206 de 1938",
+    "Ley 21 de 1988",
+    "Ley 24 de 1947",
+    "Ley 49 de 1943",
+    "Ley 49 de 1993",
+    "Ley 53 de 1945",
+    "Ley 63 de 1940",
+    "Ley 64 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL1856-2018.doc",
+  "fecha_descarga": "2026-10-21T16:52:15.790074+00:00"
+}

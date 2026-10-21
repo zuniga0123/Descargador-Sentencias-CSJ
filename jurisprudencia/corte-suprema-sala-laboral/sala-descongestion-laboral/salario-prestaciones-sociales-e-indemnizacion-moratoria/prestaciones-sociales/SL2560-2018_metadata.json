@@ -1,0 +1,32 @@
+{
+  "radicado": "SL2560-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-07-04T23:49:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1064 de 1999",
+    "Decreto 1065 de 1999",
+    "Decreto 1066 de 1999",
+    "Decreto 1650 de 1976",
+    "Decreto 2127 de 1945",
+    "Decreto 255 de 2000",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 1650 de 1977",
+    "Ley 171 de 1961",
+    "Ley 50 de 1990",
+    "Ley 573 de 2000",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Ana Maria Muñoz Segura/Sentencias/SL2560-2018.doc",
+  "fecha_descarga": "2026-10-21T16:35:27.249051+00:00"
+}

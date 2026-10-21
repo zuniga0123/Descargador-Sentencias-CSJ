@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2306-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-06-22T15:18:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 8,
+  "leyes_o_articulos": [
+    "Decreto 111 de 1996",
+    "Decreto 568 de 1996",
+    "Ley 100 de 1993",
+    "Ley 179 de 1994",
+    "Ley 225 de 1995",
+    "Ley 38 de 1989"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Prada Sanchez/Sentencias/SL2306-2018.doc",
+  "fecha_descarga": "2026-10-21T16:42:24.879699+00:00"
+}

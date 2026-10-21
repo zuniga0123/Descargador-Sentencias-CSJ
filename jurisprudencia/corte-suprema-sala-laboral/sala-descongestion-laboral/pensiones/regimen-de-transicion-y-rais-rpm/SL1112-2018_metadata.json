@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1112-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-05-31T15:18:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1127 de 1994",
+    "Decreto 2013 de 2012",
+    "Decreto 3771 de 2007",
+    "Decreto 569 de 2004",
+    "Decreto 758 de 1990",
+    "Decreto 759 de 1990",
+    "Ley 100 de 1993",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Fernando Castillo Cadena/Sentencias/SL1112-2018.doc",
+  "fecha_descarga": "2026-10-21T16:52:42.622559+00:00"
+}

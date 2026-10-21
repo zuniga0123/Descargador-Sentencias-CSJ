@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2312-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-06-22T15:55:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1963",
+    "Decreto 2351 de 1965",
+    "Ley 200 de 1995",
+    "Ley 31 de 1992",
+    "Ley 734 de 2000",
+    "Ley 734 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Prada Sanchez/Sentencias/SL2312-2018.doc",
+  "fecha_descarga": "2026-10-21T16:42:15.978407+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1730-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-05-22T22:12:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 43,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 688 de 1957",
+    "Decreto 797 de 1949",
+    "Ley 1222 de 1986",
+    "Ley 6 de 1945",
+    "Ley 64 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Donald Jose Dix Ponnefz/Sentencias/SL1730-2018.doc",
+  "fecha_descarga": "2026-10-21T16:57:06.108041+00:00"
+}

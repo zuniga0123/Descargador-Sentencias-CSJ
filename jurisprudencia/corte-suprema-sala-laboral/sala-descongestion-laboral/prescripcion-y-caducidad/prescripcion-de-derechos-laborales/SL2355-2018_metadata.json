@@ -1,0 +1,28 @@
+{
+  "radicado": "SL2355-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-06-25T16:29:00Z",
+  "magistrado_ponente": "Dr.Giovanni Francisco Rodriguez Jimenez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 59,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1750 de 2003",
+    "Decreto 2127 de 1945",
+    "Decreto 2733 de 1959",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 24 de 1947",
+    "Ley 6 de 1945",
+    "Ley 64 de 1946",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Giovanni Francisco Rodriguez Jimenez/Sentencias/SL2355-2018.doc",
+  "fecha_descarga": "2026-10-21T16:41:21.661608+00:00"
+}

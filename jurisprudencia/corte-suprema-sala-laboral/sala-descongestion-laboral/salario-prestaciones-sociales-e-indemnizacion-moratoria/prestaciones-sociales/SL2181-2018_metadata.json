@@ -1,0 +1,32 @@
+{
+  "radicado": "SL2181-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-06-14T20:43:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 46,
+  "leyes_o_articulos": [
+    "DECRETO 747 DE 1949",
+    "Decreto 1848 de 1969",
+    "Decreto 2351 de 1965",
+    "Decreto 2591 de 1991",
+    "Decreto 3135 de 1968",
+    "Decreto 528 de 1964",
+    "Decreto 528 de 1994",
+    "Decreto 797 de 1949",
+    "LEY 797 DE 1949",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 712 de 2001",
+    "Ley 712 de 2002",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL2181-2018.doc",
+  "fecha_descarga": "2026-10-21T16:45:44.854939+00:00"
+}

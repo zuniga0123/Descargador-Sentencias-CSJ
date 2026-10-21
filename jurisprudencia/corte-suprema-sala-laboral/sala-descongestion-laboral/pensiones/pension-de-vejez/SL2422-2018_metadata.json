@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2422-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-07-03T21:31:00Z",
+  "magistrado_ponente": "Dr.Martin Emilio Beltran Quintero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1306 de 2009",
+    "Ley 16 de 1960",
+    "Ley 16 de 1969",
+    "Ley 361 de 1997",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Martin Emilio Beltran Quintero/Sentencias/SL2422-2018.doc",
+  "fecha_descarga": "2026-10-21T16:36:35.600311+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "radicado": "SL2629-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-07-05T20:46:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 2158 de 1948",
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1883",
+    "Ley 1122 de 2007",
+    "Ley 1161 de 2007",
+    "Ley 50 de 1990",
+    "Ley 57 de 1887",
+    "Ley 57 de 1987",
+    "Ley 789 de 2002",
+    "Ley 995 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Prada Sanchez/Sentencias/SL2629-2018.doc",
+  "fecha_descarga": "2026-10-21T16:34:14.889749+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "radicado": "SL2449-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-06-28T17:29:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 1372 de 1966",
+    "Decreto 1835 de 1994",
+    "Decreto 2067 de 1991",
+    "Decreto 691 de 1994",
+    "Ley 100 de 1993",
+    "Ley 270 de 1996",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL2449-2018.doc",
+  "fecha_descarga": "2026-10-21T16:39:04.606908+00:00"
+}

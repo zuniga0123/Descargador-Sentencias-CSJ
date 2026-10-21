@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2174-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-06-22T14:56:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1978 de 1989",
+    "Ley 100 de 1993",
+    "Ley 100 de 1997",
+    "Ley 361 de 1997",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL2174-2018.doc",
+  "fecha_descarga": "2026-10-21T16:42:28.454442+00:00"
+}

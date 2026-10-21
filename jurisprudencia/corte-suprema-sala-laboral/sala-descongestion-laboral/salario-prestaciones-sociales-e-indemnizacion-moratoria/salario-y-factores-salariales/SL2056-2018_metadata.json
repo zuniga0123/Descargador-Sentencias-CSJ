@@ -1,0 +1,29 @@
+{
+  "radicado": "SL2056-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-06-18T13:50:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 0284 de 1957",
+    "Decreto 1050 de 1968",
+    "Decreto 1209 de 1994",
+    "Decreto 1760 de 2003",
+    "Decreto 2351 de 1965",
+    "Decreto 284 de 1957",
+    "Decreto 2919 de 1993",
+    "Ley 2351 de 1965",
+    "Ley 40 de 1990",
+    "Ley 50 de 1990",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL2056-2018.doc",
+  "fecha_descarga": "2026-10-21T16:44:42.643854+00:00"
+}

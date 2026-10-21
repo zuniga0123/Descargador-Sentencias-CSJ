@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2003-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-06-05T15:53:00Z",
+  "magistrado_ponente": "Dr.Omar De Jesus Restrepo Ochoa",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1889 de 1994",
+    "Decreto 2282 de 1989",
+    "Ley 100 de 1093",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Omar De Jesus Restrepo Ochoa/Sentencias/SL2003-2018.doc",
+  "fecha_descarga": "2026-10-21T16:50:19.153580+00:00"
+}

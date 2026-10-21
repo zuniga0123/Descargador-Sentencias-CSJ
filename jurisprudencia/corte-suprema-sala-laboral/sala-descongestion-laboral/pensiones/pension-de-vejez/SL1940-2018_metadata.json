@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1940-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-05-31T15:25:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 1887 de 1994",
+    "Decreto 2013 de 2012",
+    "Decreto 3041 de 1966",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Donald Jose Dix Ponnefz/Sentencias/SL1940-2018.doc",
+  "fecha_descarga": "2026-10-21T16:52:39.084073+00:00"
+}

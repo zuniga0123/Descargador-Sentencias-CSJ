@@ -1,0 +1,29 @@
+{
+  "radicado": "SL1634-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-06-29T21:16:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 38,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1750 de 2003",
+    "Decreto 1848 de 1969",
+    "Decreto 3118 de 1968",
+    "Decreto 3135 de 1968",
+    "Ley 1064 de 2006",
+    "Ley 1750 de 2003",
+    "Ley 344 de 1996",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Rigoberto Echeverri Bueno/Sentencias/SL1634-2018.doc",
+  "fecha_descarga": "2026-10-21T16:37:40.197960+00:00"
+}

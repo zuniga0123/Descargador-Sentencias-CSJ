@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1342-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-06-29T20:21:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 96,
+  "leyes_o_articulos": [
+    "Decreto 1281 de 1994",
+    "Decreto 1835 de 1994",
+    "Decreto 2090 de 2003",
+    "Decreto 3800 de 2003",
+    "Decreto 3995 de 2008",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Fernando Castillo Cadena/Sentencias/SL1342-2018.doc",
+  "fecha_descarga": "2026-10-21T16:37:49.219743+00:00"
+}

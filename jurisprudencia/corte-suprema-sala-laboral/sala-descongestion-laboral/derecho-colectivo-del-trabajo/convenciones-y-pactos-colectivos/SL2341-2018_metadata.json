@@ -1,0 +1,28 @@
+{
+  "radicado": "SL2341-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-07-03T14:36:00Z",
+  "magistrado_ponente": "Dra.Cecilia Margarita Duran Ujueta",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1333 de 1986",
+    "Decreto 2127 de 1945",
+    "Decreto 451 de 1984",
+    "Decreto 797 de 1949",
+    "Ley 11 de 1986",
+    "Ley 1105 de 2006",
+    "Ley 16 de 1969",
+    "Ley 254 de 2000",
+    "Ley 361 de 1997",
+    "Ley 64 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Cecilia Margarita Duran Ujueta/Sentencias/SL2341-2018.doc",
+  "fecha_descarga": "2026-10-21T16:37:15.344551+00:00"
+}

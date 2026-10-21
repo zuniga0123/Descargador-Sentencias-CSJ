@@ -1,0 +1,31 @@
+{
+  "radicado": "SL2151-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-06-13T20:50:00Z",
+  "magistrado_ponente": "Dra.Dolly Amparo Caguasango Villota",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1444 de 1992",
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Decreto 3557 de 2003",
+    "Decreto 692 de 1994",
+    "Decreto 80 de 1980",
+    "Ley 100 de 1993",
+    "Ley 30 de 1992",
+    "Ley 33 de 1985",
+    "Ley 37 de 1966",
+    "Ley 62 de 1985",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Dolly Amparo Caguasango Villota/Sentencias/SL2151-2018.doc",
+  "fecha_descarga": "2026-10-21T16:46:22.570805+00:00"
+}

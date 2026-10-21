@@ -1,0 +1,21 @@
+{
+  "radicado": "SL2418-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-06-27T18:28:00Z",
+  "magistrado_ponente": "Dr.Santander Rafael Brito Cuadrado",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Ley 10 de 1972",
+    "Ley 171 de 1961",
+    "Ley 749 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Santander Rafael Brito Cuadrado/Sentencias/SL2418-2018.doc",
+  "fecha_descarga": "2026-10-21T16:39:20.507016+00:00"
+}

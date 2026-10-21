@@ -1,0 +1,25 @@
+{
+  "radicado": "SL2197-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-06-15T14:50:00Z",
+  "magistrado_ponente": "Dr.Jorge Prada Sanchez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1969",
+    "Decreto 1160 de 1947",
+    "Decreto 2651 de 1991",
+    "Ley 100 de 1993",
+    "Ley 1042 de 1978",
+    "Ley 33 de 1985",
+    "Ley 5 de 1969"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Jorge Prada Sanchez/Sentencias/SL2197-2018.doc",
+  "fecha_descarga": "2026-10-21T16:45:21.862892+00:00"
+}

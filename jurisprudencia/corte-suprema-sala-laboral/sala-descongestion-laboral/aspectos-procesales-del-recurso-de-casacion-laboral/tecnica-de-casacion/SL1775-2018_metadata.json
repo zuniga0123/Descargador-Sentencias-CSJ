@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1775-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-05-23T19:46:00Z",
+  "magistrado_ponente": "Dra.Ana Maria Muñoz Segura",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 1591 de 1989",
+    "Decreto 1651 de 1991",
+    "Decreto 895 de 1991",
+    "Ley 100 de 1993",
+    "Ley 21 de 1988",
+    "Ley 48 de 1993",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Ana Maria Muñoz Segura/Sentencias/SL1775-2018.doc",
+  "fecha_descarga": "2026-10-21T16:56:42.810375+00:00"
+}

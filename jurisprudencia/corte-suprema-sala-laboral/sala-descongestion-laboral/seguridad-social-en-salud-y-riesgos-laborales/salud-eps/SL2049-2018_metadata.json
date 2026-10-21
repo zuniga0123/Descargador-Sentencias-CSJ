@@ -1,0 +1,26 @@
+{
+  "radicado": "SL2049-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-06-08T21:23:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 42,
+  "leyes_o_articulos": [
+    "Decreto 1011 de 2006",
+    "Decreto 1760 de 1992",
+    "Decreto 3380 de 1981",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 1438 de 2011",
+    "Ley 1751 de 2015",
+    "Ley 23 de 1981"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL2049-2018.doc",
+  "fecha_descarga": "2026-10-21T16:47:56.309511+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "radicado": "SL2319-2018",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "DESCONGESTION",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2018,
+  "fecha_creacion": "2018-06-22T20:21:00Z",
+  "magistrado_ponente": "Dr.Ernesto Forero Vargas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 2109 de 2004",
+    "Decreto 2351 de 1965",
+    "Decreto 528 de 1964",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/DESCONGESTION/2018/Dr.Ernesto Forero Vargas/Sentencias/SL2319-2018.doc",
+  "fecha_descarga": "2026-10-21T16:42:10.593164+00:00"
+}
