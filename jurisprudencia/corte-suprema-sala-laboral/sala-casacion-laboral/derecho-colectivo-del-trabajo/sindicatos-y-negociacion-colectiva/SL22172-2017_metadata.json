@@ -1,0 +1,28 @@
+{
+  "radicado": "SL22172-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2018-01-17T20:25:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 166,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Decreto 1295 de 1994",
+    "Decreto 17 de 2016",
+    "Decreto 2013 de 1986",
+    "Decreto 2351 de 1965",
+    "Decreto 4108 de 2011",
+    "Decreto 425 de 2001",
+    "Ley 11 de 1984",
+    "Ley 50 de 1990",
+    "Ley 51 de 1983"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Gerardo Botero Zuluaga/Sentencias/SL22172-2017.doc",
+  "fecha_descarga": "2026-10-21T18:10:45.150721+00:00"
+}

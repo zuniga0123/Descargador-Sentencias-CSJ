@@ -1,0 +1,24 @@
+{
+  "radicado": "SL21991-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2018-02-16T19:13:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 2201 de 1987",
+    "Decreto 2408 de 2014",
+    "Decreto 2661 de 1960",
+    "Ley 100 de 1993",
+    "Ley 28 de 1943",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Gerardo Botero Zuluaga/Sentencias/SL21991-2017.doc",
+  "fecha_descarga": "2026-10-21T18:08:48.165525+00:00"
+}

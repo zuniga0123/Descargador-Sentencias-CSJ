@@ -1,0 +1,30 @@
+{
+  "radicado": "SL22112-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-12-19T17:59:00Z",
+  "magistrado_ponente": "Dr.Donald Jose Dix Ponnefz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 38,
+  "leyes_o_articulos": [
+    "Decreto 1406 de 1999",
+    "Decreto 1406 de 2006",
+    "Decreto 1818 de 1996",
+    "Decreto 2665 de 1988",
+    "Decreto 326 de 1966",
+    "Decreto 326 de 1996",
+    "Decreto 329 de 1996",
+    "Decreto 692 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Donald Jose Dix Ponnefz/Sentencias/SL22112-2017.doc",
+  "fecha_descarga": "2026-10-21T18:13:10.996252+00:00"
+}

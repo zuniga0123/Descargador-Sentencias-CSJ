@@ -1,0 +1,30 @@
+{
+  "radicado": "SL19440-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2018-02-26T16:46:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 2127 de 1945",
+    "Decreto 2135 de 1992",
+    "Decreto 2651 de 1991",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 151 de 1959",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 489 de 1998",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Fernando Castillo Cadena/Sentencias/SL19440-2017.doc",
+  "fecha_descarga": "2026-10-21T18:08:34.040253+00:00"
+}

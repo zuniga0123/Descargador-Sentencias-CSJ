@@ -1,0 +1,26 @@
+{
+  "radicado": "SL22222-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2018-01-18T15:03:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Decreto 2879 de 1985",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 171 de 1968",
+    "Ley 50 de 1990",
+    "Ley 90 de 1946",
+    "Ley 90 de 1950",
+    "Ley 90 de 1976"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Gerardo Botero Zuluaga/Sentencias/SL22222-2017.doc",
+  "fecha_descarga": "2026-10-21T18:10:41.228028+00:00"
+}

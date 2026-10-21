@@ -1,0 +1,26 @@
+{
+  "radicado": "SL21130-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2018-04-12T17:18:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2127 de 1975",
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1993",
+    "Ley 33 de 1965",
+    "Ley 33 de 1985",
+    "Ley 54 de 1962",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Gerardo Botero Zuluaga/Sentencias/SL21130-2017.doc",
+  "fecha_descarga": "2026-10-21T18:07:54.157161+00:00"
+}
