@@ -1,0 +1,21 @@
+{
+  "radicado": "SL16277-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2015-01-21T17:32:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL16277-2014.doc",
+  "fecha_descarga": "2026-10-22T18:08:54.448363+00:00"
+}

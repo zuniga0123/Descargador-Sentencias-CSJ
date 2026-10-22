@@ -1,0 +1,28 @@
+{
+  "radicado": "SL15818-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2015-03-06T21:02:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1660 de 1978",
+    "Decreto 2527 de 2000",
+    "Decreto 546 de 1971",
+    "Decreto 691 de 1994",
+    "Decreto 717 de 1978",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 549 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Carlos Ernesto Molina Monsalve/Sentencias/SL15818-2014.doc",
+  "fecha_descarga": "2026-10-22T18:02:39.398537+00:00"
+}

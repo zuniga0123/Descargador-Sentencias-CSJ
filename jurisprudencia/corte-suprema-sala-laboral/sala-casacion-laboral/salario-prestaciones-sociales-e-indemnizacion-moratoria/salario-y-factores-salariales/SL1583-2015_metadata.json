@@ -1,0 +1,27 @@
+{
+  "radicado": "SL1583-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-03-09T21:03:00Z",
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 2211 de 2004",
+    "Decreto 2879 de 1985",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 153 de 1987",
+    "Ley 22 de 1967",
+    "Ley 510 de 1999",
+    "Ley 528 de 1965",
+    "Ley 663 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Gustavo Hernando López Algarra/Sentencias/SL1583-2015.doc",
+  "fecha_descarga": "2026-10-22T17:52:02.359079+00:00"
+}

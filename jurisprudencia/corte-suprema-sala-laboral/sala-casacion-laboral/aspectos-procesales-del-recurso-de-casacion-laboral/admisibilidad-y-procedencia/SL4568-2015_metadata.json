@@ -1,0 +1,27 @@
+{
+  "radicado": "SL4568-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-05-15T10:15:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Decreto 1611 de 1961",
+    "Decreto 1848 de 1969",
+    "Decreto 2218 de 1966",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 28 de 1943",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1985",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL4568-2015.doc",
+  "fecha_descarga": "2026-10-22T17:47:46.014738+00:00"
+}

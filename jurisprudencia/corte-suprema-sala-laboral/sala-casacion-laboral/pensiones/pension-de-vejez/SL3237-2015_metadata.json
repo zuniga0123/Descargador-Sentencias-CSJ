@@ -1,0 +1,29 @@
+{
+  "radicado": "SL3237-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-04-30T16:24:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 1314 de 1994",
+    "Decreto 1444 de 1992",
+    "Decreto 2158 de 1948",
+    "Decreto 528 de 1964",
+    "Decreto 691 de 1994",
+    "Ley 100 de 1993",
+    "Ley 16 de 1968",
+    "Ley 4 de 1992",
+    "Ley 712 de 2001",
+    "Ley 75 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL3237-2015.doc",
+  "fecha_descarga": "2026-10-22T17:48:47.283551+00:00"
+}

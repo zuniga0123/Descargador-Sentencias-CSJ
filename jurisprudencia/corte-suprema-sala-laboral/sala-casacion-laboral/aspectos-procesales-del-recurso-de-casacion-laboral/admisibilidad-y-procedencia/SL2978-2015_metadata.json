@@ -1,0 +1,31 @@
+{
+  "radicado": "SL2978-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-04-09T22:52:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Decreto 1748 de 1995",
+    "Decreto 2061 de 1992",
+    "Decreto 2548 de 1993",
+    "Decreto 2680 de 1973",
+    "Decreto 2867 de 1991",
+    "Decreto 3000 de 1989",
+    "Decreto 3732 de 1994",
+    "Ley 10 de 1972",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 33 de 1985",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL2978-2015.doc",
+  "fecha_descarga": "2026-10-22T17:50:57.319450+00:00"
+}

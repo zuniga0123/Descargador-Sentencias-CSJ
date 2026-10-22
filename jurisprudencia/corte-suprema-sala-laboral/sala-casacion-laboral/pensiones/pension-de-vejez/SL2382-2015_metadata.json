@@ -1,0 +1,32 @@
+{
+  "radicado": "SL2382-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-04-09T23:35:00Z",
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 1578 de 2001",
+    "Decreto 1650 de 1977",
+    "Decreto 2282 de 1989",
+    "Decreto 2651 de 1991",
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966",
+    "Decreto 433 de 1971",
+    "Decreto 758 de 1990",
+    "Decreto 805 de 2000",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 153 de 1987",
+    "Ley 6 de 1945",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Gustavo Hernando López Algarra/Sentencias/SL2382-2015.doc",
+  "fecha_descarga": "2026-10-22T17:50:50.391762+00:00"
+}

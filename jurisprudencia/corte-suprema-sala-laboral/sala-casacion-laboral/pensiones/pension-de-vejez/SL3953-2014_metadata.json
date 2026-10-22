@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3953-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2016-02-05T14:34:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1745 de 1995",
+    "Decreto 433 de 1971",
+    "Decreto 692 de 1994",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL3953-2014.doc",
+  "fecha_descarga": "2026-10-22T18:00:06.310734+00:00"
+}

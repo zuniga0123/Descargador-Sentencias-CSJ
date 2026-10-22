@@ -1,0 +1,20 @@
+{
+  "radicado": "SL1589-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-04-15T20:06:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Rigoberto Echeverri Bueno/Sentencias/SL1589-2015.doc",
+  "fecha_descarga": "2026-10-22T17:49:42.025247+00:00"
+}

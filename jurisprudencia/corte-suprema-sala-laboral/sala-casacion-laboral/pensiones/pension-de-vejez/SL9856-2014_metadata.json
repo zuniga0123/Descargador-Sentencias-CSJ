@@ -1,0 +1,27 @@
+{
+  "radicado": "SL9856-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2015-02-08T02:55:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 1887 de 1994",
+    "Decreto 2665 de 1989",
+    "Decreto 3041 de 1966",
+    "Decreto 3063 de 1989",
+    "Decreto 758 de 1990",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL9856-2014.doc",
+  "fecha_descarga": "2026-10-22T18:04:15.447802+00:00"
+}

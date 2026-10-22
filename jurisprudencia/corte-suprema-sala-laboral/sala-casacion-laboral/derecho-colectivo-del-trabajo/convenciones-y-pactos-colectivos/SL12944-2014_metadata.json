@@ -1,0 +1,21 @@
+{
+  "radicado": "SL12944-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2015-01-22T17:15:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 254 de 2004",
+    "Decreto 616 de 1954",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL12944-2014.doc",
+  "fecha_descarga": "2026-10-22T18:08:36.994049+00:00"
+}

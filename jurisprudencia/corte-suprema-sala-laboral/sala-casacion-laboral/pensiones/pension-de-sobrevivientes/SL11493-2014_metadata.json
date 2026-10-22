@@ -1,0 +1,27 @@
+{
+  "radicado": "SL11493-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2015-06-08T22:49:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1260 de 1970",
+    "Decreto 1889 de 1994",
+    "Decreto 2651 de 1991",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 446 de 1998",
+    "Ley 54 de 1990",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL11493-2014.doc",
+  "fecha_descarga": "2026-10-22T18:00:29.336547+00:00"
+}

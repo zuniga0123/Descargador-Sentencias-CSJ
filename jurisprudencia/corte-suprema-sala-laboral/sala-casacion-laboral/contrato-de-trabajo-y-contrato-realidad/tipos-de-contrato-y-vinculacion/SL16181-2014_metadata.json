@@ -1,0 +1,27 @@
+{
+  "radicado": "SL16181-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2015-02-04T15:28:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Tipos de contrato y vinculación",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2651 de 1991",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 3138 de 1968",
+    "Ley 446 de 1998",
+    "Ley 48 de 1946",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL16181-2014.doc",
+  "fecha_descarga": "2026-10-22T18:06:59.912305+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "radicado": "SL13543-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2015-02-05T14:23:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 0758 de 1990",
+    "Decreto 2565 de 1988",
+    "Decreto 2665 de 1988",
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 141 de 1961",
+    "Ley 16 de 1969",
+    "Ley 712 de 2001",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL13543-2014.doc",
+  "fecha_descarga": "2026-10-22T18:05:58.066840+00:00"
+}

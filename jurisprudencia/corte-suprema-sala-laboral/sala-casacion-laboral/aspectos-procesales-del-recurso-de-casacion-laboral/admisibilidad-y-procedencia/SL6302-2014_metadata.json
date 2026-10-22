@@ -1,0 +1,27 @@
+{
+  "radicado": "SL6302-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2016-02-03T20:24:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 2879 de 1985",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 33 de 1985",
+    "Ley 6 de 1945",
+    "Ley 712 de 2001",
+    "Ley 794 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL6302-2014.doc",
+  "fecha_descarga": "2026-10-22T18:00:09.836392+00:00"
+}

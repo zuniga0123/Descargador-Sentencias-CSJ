@@ -1,0 +1,26 @@
+{
+  "radicado": "SL773-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-05-05T20:30:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 092 de 2000",
+    "Decreto 1748 de 1991",
+    "Decreto 2331 de 1998",
+    "Decreto 3135 de 1968",
+    "Decreto 663 de 1993",
+    "Ley 278 de 1996",
+    "Ley 4 de 1992",
+    "Ley 510 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Rigoberto Echeverri Bueno/Sentencias/SL773-2015.doc",
+  "fecha_descarga": "2026-10-22T17:48:21.150187+00:00"
+}

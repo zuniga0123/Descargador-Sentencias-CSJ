@@ -1,0 +1,22 @@
+{
+  "radicado": "SL4350-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-05-20T15:30:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 72,
+  "leyes_o_articulos": [
+    "Decreto 2350 de 1944",
+    "Ley 153 de 1887",
+    "Ley 16 de 1969",
+    "Ley 57 de 1915"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL4350-2015.doc",
+  "fecha_descarga": "2026-10-22T17:47:16.084387+00:00"
+}

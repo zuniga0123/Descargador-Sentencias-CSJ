@@ -1,0 +1,22 @@
+{
+  "radicado": "SL15872-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-12-03T14:06:41Z",
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 314 de 1994",
+    "Ley 100 de 1993",
+    "Ley 4 de 1992",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Gustavo Hernando López Algarra/Sentencias/SL15872-2014.pdf",
+  "fecha_descarga": "2026-10-22T18:10:39.959948+00:00"
+}

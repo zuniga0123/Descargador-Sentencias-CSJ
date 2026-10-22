@@ -1,0 +1,22 @@
+{
+  "radicado": "SL16755-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2015-02-06T17:41:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989",
+    "Ley 100 de 1993",
+    "Ley 270 de 1996",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Rigoberto Echeverri Bueno/Sentencias/SL16755-2014.doc",
+  "fecha_descarga": "2026-10-22T18:04:27.941476+00:00"
+}

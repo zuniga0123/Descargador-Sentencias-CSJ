@@ -1,0 +1,23 @@
+{
+  "radicado": "SL431-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-03-09T20:46:00Z",
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1653 de 1977",
+    "Decreto 1750 de 2003",
+    "Decreto 2651 de 1991",
+    "Ley 33 de 1985",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Gustavo Hernando López Algarra/Sentencias/SL431-2015.doc",
+  "fecha_descarga": "2026-10-22T17:52:07.553341+00:00"
+}

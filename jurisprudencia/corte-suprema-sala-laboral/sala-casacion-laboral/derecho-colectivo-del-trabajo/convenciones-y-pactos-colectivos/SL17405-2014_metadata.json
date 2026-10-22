@@ -1,0 +1,21 @@
+{
+  "radicado": "SL17405-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2015-02-06T12:49:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Ley 10 de 1990",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Carlos Ernesto Molina Monsalve/Sentencias/SL17405-2014.doc",
+  "fecha_descarga": "2026-10-22T18:05:08.516565+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "radicado": "SL2528-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-03-09T14:36:00Z",
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Ley 16 de 1969",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Gustavo Hernando López Algarra/Sentencias/SL2528-2015.doc",
+  "fecha_descarga": "2026-10-22T17:52:18.132966+00:00"
+}

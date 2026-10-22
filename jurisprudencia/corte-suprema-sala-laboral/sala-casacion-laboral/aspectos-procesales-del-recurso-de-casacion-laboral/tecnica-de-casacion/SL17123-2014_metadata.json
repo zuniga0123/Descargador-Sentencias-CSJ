@@ -1,0 +1,22 @@
+{
+  "radicado": "SL17123-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2015-02-02T22:30:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2090 de 2003",
+    "Decreto 2150 de 1995",
+    "Decreto 3169 de 1964"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Carlos Ernesto Molina Monsalve/Sentencias/SL17123-2014.doc",
+  "fecha_descarga": "2026-10-22T18:07:17.516572+00:00"
+}

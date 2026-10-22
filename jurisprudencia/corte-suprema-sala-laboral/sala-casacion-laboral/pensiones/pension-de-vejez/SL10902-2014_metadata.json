@@ -1,0 +1,26 @@
+{
+  "radicado": "SL10902-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2015-03-12T20:59:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 171 de 1971",
+    "Ley 33 de 1985",
+    "Ley 4 de 1976",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL10902-2014.doc",
+  "fecha_descarga": "2026-10-22T18:01:44.772533+00:00"
+}

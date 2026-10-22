@@ -1,0 +1,26 @@
+{
+  "radicado": "SL9062-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-12-02T19:50:56Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 270 de 1996",
+    "Ley 4 de 1976",
+    "Ley 71 de 1988",
+    "Ley 71 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Rigoberto Echeverri Bueno/Sentencias/SL9062-2014.pdf",
+  "fecha_descarga": "2026-10-22T18:11:09.141181+00:00"
+}

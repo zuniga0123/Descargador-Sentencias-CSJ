@@ -1,0 +1,21 @@
+{
+  "radicado": "SL12900-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2015-01-20T21:01:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1748 de 1995",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL12900-2014.doc",
+  "fecha_descarga": "2026-10-22T18:09:49.697194+00:00"
+}

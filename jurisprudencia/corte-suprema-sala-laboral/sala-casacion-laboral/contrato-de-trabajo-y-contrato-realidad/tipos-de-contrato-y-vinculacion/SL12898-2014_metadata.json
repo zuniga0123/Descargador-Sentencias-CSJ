@@ -1,0 +1,30 @@
+{
+  "radicado": "SL12898-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2015-02-08T23:14:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Tipos de contrato y vinculación",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 2649 de 1993",
+    "Decreto 2663 de 1950",
+    "Decreto 617 de 1954",
+    "Ley 100 de 1993",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 57 de 1887",
+    "Ley 64 de 1946",
+    "Ley 789 de 2002",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL12898-2014.doc",
+  "fecha_descarga": "2026-10-22T18:04:04.822248+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "radicado": "SL1048-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-02-25T22:44:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1675 de 1997",
+    "Decreto 2001 de 1993",
+    "Decreto 2127 de 1945",
+    "Decreto 2651 de 1991",
+    "Decreto 3048 de 1969",
+    "Decreto 3135 de 1968",
+    "Decreto 516 de 1990",
+    "Ley 100 de 1993",
+    "Ley 2351 de 1965",
+    "Ley 446 de 1998",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL1048-2015.doc",
+  "fecha_descarga": "2026-10-22T17:52:34.645825+00:00"
+}

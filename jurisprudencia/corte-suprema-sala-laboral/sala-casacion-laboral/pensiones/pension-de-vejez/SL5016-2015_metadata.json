@@ -1,0 +1,27 @@
+{
+  "radicado": "SL5016-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-05-28T23:19:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 48,
+  "leyes_o_articulos": [
+    "Decreto 1650 de 1976",
+    "Decreto 1653 de 1977",
+    "Decreto 1848 de 1969",
+    "Decreto 2651 de 1991",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 446 de 1998",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL5016-2015.doc",
+  "fecha_descarga": "2026-10-22T17:46:54.860863+00:00"
+}

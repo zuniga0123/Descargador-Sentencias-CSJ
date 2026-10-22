@@ -1,0 +1,27 @@
+{
+  "radicado": "SL14078-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2015-02-06T15:05:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 610 de 2005",
+    "Decreto 663 de 1993",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 22 de 1967",
+    "Ley 222 de 1995",
+    "Ley 448 de 1996"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Rigoberto Echeverri Bueno/Sentencias/SL14078-2014.doc",
+  "fecha_descarga": "2026-10-22T18:04:47.499630+00:00"
+}

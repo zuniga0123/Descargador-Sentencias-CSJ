@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1590-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-04-15T20:18:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Rigoberto Echeverri Bueno/Sentencias/SL1590-2015.doc",
+  "fecha_descarga": "2026-10-22T17:49:40.308843+00:00"
+}

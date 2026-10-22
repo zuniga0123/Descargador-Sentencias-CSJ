@@ -1,0 +1,25 @@
+{
+  "radicado": "SL17403-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2015-02-05T14:58:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 2709 de 1994",
+    "Decreto 758 de 1990",
+    "Decreto 758 de 1998",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 71 de 1988",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL17403-2014.doc",
+  "fecha_descarga": "2026-10-22T18:05:42.126427+00:00"
+}

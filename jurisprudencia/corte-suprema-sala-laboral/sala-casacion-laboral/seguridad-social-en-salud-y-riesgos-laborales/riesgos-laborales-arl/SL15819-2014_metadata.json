@@ -1,0 +1,21 @@
+{
+  "radicado": "SL15819-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2015-02-05T22:39:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Decreto 546 de 1971",
+    "Decreto 911 de 1978",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Carlos Ernesto Molina Monsalve/Sentencias/SL15819-2014.doc",
+  "fecha_descarga": "2026-10-22T18:05:27.855452+00:00"
+}

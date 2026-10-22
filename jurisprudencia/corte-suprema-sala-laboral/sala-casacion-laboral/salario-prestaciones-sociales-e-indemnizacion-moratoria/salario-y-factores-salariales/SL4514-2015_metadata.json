@@ -1,0 +1,27 @@
+{
+  "radicado": "SL4514-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-05-05T20:09:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 153 de 1987",
+    "Ley 171 de 1961",
+    "Ley 171 de 1968",
+    "Ley 22 de 1967",
+    "Ley 33 de 1985",
+    "Ley 4 de 1976",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL4514-2015.doc",
+  "fecha_descarga": "2026-10-22T17:48:22.922885+00:00"
+}

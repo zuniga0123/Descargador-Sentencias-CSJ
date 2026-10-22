@@ -1,0 +1,30 @@
+{
+  "radicado": "SL1510-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-04-14T21:25:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1947",
+    "Decreto 1335 de 1990",
+    "Decreto 165 de 1997",
+    "Decreto 2127 de 1945",
+    "Decreto 3118 de 1968",
+    "Decreto 3135 de 1968",
+    "Decreto 528 de 1964",
+    "Decreto 797 de 1949",
+    "Ley 15 de 1959",
+    "Ley 50 de 1990",
+    "Ley 797 de 1949",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL1510-2015.doc",
+  "fecha_descarga": "2026-10-22T17:50:17.032818+00:00"
+}

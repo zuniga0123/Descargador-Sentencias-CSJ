@@ -1,0 +1,24 @@
+{
+  "radicado": "SL830-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-04-09T20:44:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 1214 de 1990",
+    "Decreto 1792 de 2000",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Ley 3135 de 1968",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL830-2015.doc",
+  "fecha_descarga": "2026-10-22T17:51:14.865948+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL1135-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-02-25T22:42:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 41,
+  "leyes_o_articulos": [
+    "Decreto 112 de 1986",
+    "Decreto 1750 de 2003",
+    "Decreto 2127 de 1945",
+    "Ley 16 de 1969",
+    "Ley 6 de 1945",
+    "Ley 64 de 1946",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL1135-2015.doc",
+  "fecha_descarga": "2026-10-22T17:52:41.798954+00:00"
+}

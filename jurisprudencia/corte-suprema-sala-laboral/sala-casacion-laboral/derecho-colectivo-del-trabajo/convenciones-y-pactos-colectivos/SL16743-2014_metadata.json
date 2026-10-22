@@ -1,0 +1,23 @@
+{
+  "radicado": "SL16743-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2015-01-23T22:26:00Z",
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 1065 de 1999",
+    "Decreto 2211 de 2004",
+    "Decreto 663 de 1993",
+    "Ley 153 de 1887",
+    "Ley 510 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Gustavo Hernando López Algarra/Sentencias/SL16743-2014.doc",
+  "fecha_descarga": "2026-10-22T18:08:03.388793+00:00"
+}

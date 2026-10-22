@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2928-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-04-10T14:33:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 2143 de 1995",
+    "Decreto 2351 de 1965",
+    "Decreto 2879 de 1985",
+    "Decreto 758 de 1990",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 50 de 1990",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL2928-2015.doc",
+  "fecha_descarga": "2026-10-22T17:50:20.468721+00:00"
+}

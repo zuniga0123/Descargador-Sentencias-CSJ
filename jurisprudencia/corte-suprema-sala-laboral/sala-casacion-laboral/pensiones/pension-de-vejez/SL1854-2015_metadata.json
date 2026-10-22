@@ -1,0 +1,20 @@
+{
+  "radicado": "SL1854-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-04-10T04:35:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 8,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Rigoberto Echeverri Bueno/Sentencias/SL1854-2015.doc",
+  "fecha_descarga": "2026-10-22T17:50:46.849487+00:00"
+}

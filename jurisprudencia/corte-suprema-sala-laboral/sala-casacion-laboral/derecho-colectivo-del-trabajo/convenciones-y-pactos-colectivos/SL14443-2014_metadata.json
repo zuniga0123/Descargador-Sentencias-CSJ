@@ -1,0 +1,23 @@
+{
+  "radicado": "SL14443-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2015-02-08T23:50:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 2651 de 1991",
+    "Ley 142 de 1994",
+    "Ley 2351 de 1965",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL14443-2014.doc",
+  "fecha_descarga": "2026-10-22T18:03:57.754143+00:00"
+}

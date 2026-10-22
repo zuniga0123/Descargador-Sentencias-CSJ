@@ -1,0 +1,21 @@
+{
+  "radicado": "SL3443-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-05-05T15:08:00Z",
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Renuncia y retiro voluntario",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 131 de 1992",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Gustavo Hernando López Algarra/Sentencias/SL3443-2015.doc",
+  "fecha_descarga": "2026-10-22T17:48:33.401945+00:00"
+}

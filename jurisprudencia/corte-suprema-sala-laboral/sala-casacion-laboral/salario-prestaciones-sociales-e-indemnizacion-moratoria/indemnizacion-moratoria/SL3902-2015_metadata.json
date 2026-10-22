@@ -1,0 +1,32 @@
+{
+  "radicado": "SL3902-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-05-08T14:16:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 2127 de 1945",
+    "Decreto 2803 de 2000",
+    "Decreto 2883 de 2000",
+    "Decreto 2883 de 2001",
+    "Decreto 539 de 2000",
+    "Decreto 797 de 1949",
+    "Ley 1042 de 1978",
+    "Ley 1376 de 1994",
+    "Ley 15 de 1959",
+    "Ley 15 de 1969",
+    "Ley 50 de 1990",
+    "Ley 64 de 1946",
+    "Ley 685 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL3902-2015.doc",
+  "fecha_descarga": "2026-10-22T17:48:10.614434+00:00"
+}
