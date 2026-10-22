@@ -1,0 +1,32 @@
+{
+  "radicado": "34671(04-07-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-09-11T15:27:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 010 de 1992",
+    "Decreto 10 de 1992",
+    "Decreto 1158 de 1994",
+    "Decreto 1253 de 1975",
+    "Decreto 2016 de 1968",
+    "Decreto 271 de 2000",
+    "Decreto 274 de 2000",
+    "Ley 010 de 1992",
+    "Ley 10 de 1992",
+    "Ley 100 de 1993",
+    "Ley 1181 de 1999",
+    "Ley 274 de 2000",
+    "Ley 41 de 1975",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Carlos Ernesto Molina Monsalve/Sentencias/34671(04-07-12).doc",
+  "fecha_descarga": "2026-10-22T19:26:24.346287+00:00"
+}

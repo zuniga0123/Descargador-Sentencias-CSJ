@@ -1,0 +1,20 @@
+{
+  "radicado": "43272(23-10-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-11-15T19:44:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 1950 de 1973"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Rigoberto Echeverri Bueno/Sentencias/43272(23-10-12).doc",
+  "fecha_descarga": "2026-10-22T19:19:59.811815+00:00"
+}

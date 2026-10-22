@@ -1,0 +1,21 @@
+{
+  "radicado": "45135(02-10-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-11-13T14:03:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Rigoberto Echeverri Bueno/Sentencias/45135(02-10-12).doc",
+  "fecha_descarga": "2026-10-22T19:20:09.184249+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "radicado": "48410(25-07-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-25T13:24:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 01 de 1984",
+    "Decreto 1042 de 1978",
+    "Decreto 1848 de 1969",
+    "Decreto 1849 de 1969",
+    "Decreto 3135 de 1968",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 270 de 1996",
+    "Ley 33 de 1985",
+    "Ley 446 de 1998",
+    "Ley 585 de 2000",
+    "Ley 712 de 2001",
+    "Ley 797 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dra.Elsy del Pilar Cuello Calderón/Sentencias/48410(25-07-12).doc",
+  "fecha_descarga": "2026-10-22T19:20:47.502619+00:00"
+}

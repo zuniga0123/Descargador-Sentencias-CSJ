@@ -1,0 +1,32 @@
+{
+  "radicado": "49337(23-10-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-11-16T23:09:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 1600 de 1945",
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 1650 de 1977",
+    "Ley 22 de 1945",
+    "Ley 28 de 1943",
+    "Ley 42 de 1933",
+    "Ley 53 de 1945",
+    "Ley 789 de 2002",
+    "Ley 797 de 2003",
+    "Ley 84 de 1948",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Luis Gabriel Miranda Buelvas/Sentencias/49337(23-10-12).doc",
+  "fecha_descarga": "2026-10-22T19:19:44.150829+00:00"
+}

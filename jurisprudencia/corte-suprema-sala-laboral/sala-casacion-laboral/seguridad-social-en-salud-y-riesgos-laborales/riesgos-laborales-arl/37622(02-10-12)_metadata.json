@@ -1,0 +1,25 @@
+{
+  "radicado": "37622(02-10-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-16T20:11:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1176 de 1991",
+    "Decreto 1651 de 1991",
+    "Decreto 2351 de 1965",
+    "Ley 153 de 1887",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998",
+    "Ley 48 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Luis Gabriel Miranda Buelvas/Sentencias/37622(02-10-12).doc",
+  "fecha_descarga": "2026-10-22T19:23:19.083339+00:00"
+}

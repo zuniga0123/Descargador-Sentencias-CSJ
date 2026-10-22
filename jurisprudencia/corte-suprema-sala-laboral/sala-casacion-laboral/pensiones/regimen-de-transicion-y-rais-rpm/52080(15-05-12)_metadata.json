@@ -1,0 +1,32 @@
+{
+  "radicado": "52080(15-05-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2013-03-21T21:07:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1650 de 1977",
+    "Decreto 1848 de 1969",
+    "Decreto 3041 de 1966",
+    "Decreto 3063 de 1989",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1122 de 2007",
+    "Ley 171 de 1961",
+    "Ley 33 de 1985",
+    "Ley 433 de 1971",
+    "Ley 445 de 1998",
+    "Ley 62 de 1985",
+    "Ley 712 de 2001",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/52080(15-05-12).doc",
+  "fecha_descarga": "2026-10-22T19:13:33.243839+00:00"
+}

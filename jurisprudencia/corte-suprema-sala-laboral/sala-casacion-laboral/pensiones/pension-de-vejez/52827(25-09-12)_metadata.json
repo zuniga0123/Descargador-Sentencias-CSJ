@@ -1,0 +1,26 @@
+{
+  "radicado": "52827(25-09-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-19T15:21:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Decreto 1672 de 1973",
+    "Decreto 2879 de 1985",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 153 de 1889",
+    "Ley 270 de 1996",
+    "Ley 33 de 1985",
+    "Ley 700 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/52827(25-09-12).doc",
+  "fecha_descarga": "2026-10-22T19:22:21.937527+00:00"
+}

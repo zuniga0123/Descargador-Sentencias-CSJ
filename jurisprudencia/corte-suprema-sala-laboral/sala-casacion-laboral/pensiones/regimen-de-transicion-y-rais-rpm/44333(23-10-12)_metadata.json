@@ -1,0 +1,30 @@
+{
+  "radicado": "44333(23-10-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-11-21T22:57:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 1237 de 1946",
+    "Decreto 1684 de 1947",
+    "Decreto 1835 de 1994",
+    "Decreto 2123 de 1992",
+    "Decreto 2661 de 1960",
+    "Ley 100 de 1993",
+    "Ley 157 de 1887",
+    "Ley 22 de 1945",
+    "Ley 28 de 1932",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1985",
+    "Ley 65 de 1967"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/44333(23-10-12).doc",
+  "fecha_descarga": "2026-10-22T19:19:35.191683+00:00"
+}

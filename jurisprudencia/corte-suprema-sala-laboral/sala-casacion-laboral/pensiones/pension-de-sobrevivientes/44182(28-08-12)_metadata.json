@@ -1,0 +1,20 @@
+{
+  "radicado": "44182(28-08-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-24T17:31:00Z",
+  "magistrado_ponente": "Dr.Francisco Javier Ricaurte Gómez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 47,
+  "leyes_o_articulos": [
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Francisco Javier Ricaurte Gómez/Sentencias/44182(28-08-12).doc",
+  "fecha_descarga": "2026-10-22T19:21:55.128033+00:00"
+}

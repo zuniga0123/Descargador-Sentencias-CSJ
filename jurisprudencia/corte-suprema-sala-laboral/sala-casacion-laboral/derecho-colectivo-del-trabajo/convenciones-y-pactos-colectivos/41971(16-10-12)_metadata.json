@@ -1,0 +1,28 @@
+{
+  "radicado": "41971(16-10-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2013-01-16T13:55:31Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 1653 de 1977",
+    "Decreto 1750 de 2003",
+    "Decreto 2127 de 1945",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 1651 de 1977",
+    "Ley 1653 de 1977",
+    "Ley 1750 de 2003",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Carlos Ernesto Molina Monsalve/Sentencias/41971(16-10-12).PDF",
+  "fecha_descarga": "2026-10-22T19:14:08.400462+00:00"
+}

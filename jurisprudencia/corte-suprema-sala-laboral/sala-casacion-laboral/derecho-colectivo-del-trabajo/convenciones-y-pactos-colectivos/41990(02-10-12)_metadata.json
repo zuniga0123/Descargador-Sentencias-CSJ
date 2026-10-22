@@ -1,0 +1,31 @@
+{
+  "radicado": "41990(02-10-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-11-13T14:12:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 0758 de 1990",
+    "Decreto 1935 de 1973",
+    "Decreto 2351 de 1965",
+    "Decreto 2879 de 1985",
+    "Decreto 2979 de 1985",
+    "Decreto 3041 de 1966",
+    "Decreto 3879 de 1985",
+    "Decreto 433 de 1971",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1650 de 1977",
+    "Ley 712 de 2001",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/41990(02-10-12).doc",
+  "fecha_descarga": "2026-10-22T19:20:06.843527+00:00"
+}

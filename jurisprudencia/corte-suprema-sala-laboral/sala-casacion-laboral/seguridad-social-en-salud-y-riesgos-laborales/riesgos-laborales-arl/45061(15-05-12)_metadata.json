@@ -1,0 +1,20 @@
+{
+  "radicado": "45061(15-05-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2013-07-03T16:39:00Z",
+  "magistrado_ponente": "Dr.Francisco Javier Ricaurte Gómez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 528 de 1964",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Francisco Javier Ricaurte Gómez/Sentencias/45061(15-05-12).DOC",
+  "fecha_descarga": "2026-10-22T19:12:10.155952+00:00"
+}

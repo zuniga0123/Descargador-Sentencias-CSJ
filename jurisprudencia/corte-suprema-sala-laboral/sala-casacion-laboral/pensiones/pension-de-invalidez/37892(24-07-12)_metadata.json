@@ -1,0 +1,26 @@
+{
+  "radicado": "37892(24-07-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2018-06-13T14:06:56Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1346 de 1994",
+    "Decreto 1832 de 1994",
+    "Decreto 2463 de 2001",
+    "Decreto 2963 de 2001",
+    "Decreto 832 de 1996",
+    "Ley 100 de 1993",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Rigoberto Echeverri Bueno/Sentencias/37892(24-07-12).pdf",
+  "fecha_descarga": "2026-10-22T19:11:13.779619+00:00"
+}

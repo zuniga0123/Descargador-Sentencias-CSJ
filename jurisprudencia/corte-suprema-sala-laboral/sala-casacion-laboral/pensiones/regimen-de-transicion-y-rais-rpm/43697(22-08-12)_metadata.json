@@ -1,0 +1,29 @@
+{
+  "radicado": "43697(22-08-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-11T22:13:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 092 de 2000",
+    "Decreto 1050 de 1968",
+    "Decreto 130 de 1976",
+    "Decreto 2314 de 1953",
+    "Decreto 2331 de 1998",
+    "Decreto 3130 de 1968",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 489 de 1996",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/43697(22-08-12).doc",
+  "fecha_descarga": "2026-10-22T19:23:29.655024+00:00"
+}

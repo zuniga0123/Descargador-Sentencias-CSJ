@@ -1,0 +1,20 @@
+{
+  "radicado": "53118(04-12-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2013-01-24T21:31:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 242,
+  "leyes_o_articulos": [
+    "Ley 22 de 1967",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Carlos Ernesto Molina Monsalve/Sentencias/53118(04-12-12).doc",
+  "fecha_descarga": "2026-10-22T19:14:59.861383+00:00"
+}

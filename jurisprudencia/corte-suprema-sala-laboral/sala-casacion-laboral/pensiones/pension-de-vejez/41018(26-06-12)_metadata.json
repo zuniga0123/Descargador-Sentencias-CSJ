@@ -1,0 +1,33 @@
+{
+  "radicado": "41018(26-06-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-09-17T15:01:00Z",
+  "magistrado_ponente": "Dr.Francisco Javier Ricaurte Gómez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 020 de 2001",
+    "Decreto 080 de 1976",
+    "Decreto 1848 de 1969",
+    "Decreto 2879 de 1985",
+    "Decreto 3130 de 1968",
+    "Decreto 3135 de 1968",
+    "Decreto 410 de 1971",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1985",
+    "Ley 57 de 1887",
+    "Ley 6 de 1945",
+    "Ley 64 de 1946",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Francisco Javier Ricaurte Gómez/Sentencias/41018(26-06-12).DOC",
+  "fecha_descarga": "2026-10-22T19:26:09.849410+00:00"
+}

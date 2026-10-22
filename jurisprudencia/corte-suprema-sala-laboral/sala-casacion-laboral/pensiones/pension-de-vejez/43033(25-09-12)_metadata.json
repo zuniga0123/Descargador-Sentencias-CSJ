@@ -1,0 +1,22 @@
+{
+  "radicado": "43033(25-09-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-24T20:53:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Decreto 3770 de 2003",
+    "Ley 100 de 1993",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/43033(25-09-12).doc",
+  "fecha_descarga": "2026-10-22T19:21:27.250821+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "radicado": "38962(10-07-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2013-02-11T20:12:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 53,
+  "leyes_o_articulos": [
+    "Decreto 1373 de 1966",
+    "Decreto 2351 de 1965",
+    "Ley 153 de 1886",
+    "Ley 21 de 1920",
+    "Ley 21 de 1929",
+    "Ley 2351 de 1965",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 83 de 1931"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Luis Gabriel Miranda Buelvas/Sentencias/38962(10-07-12).doc",
+  "fecha_descarga": "2026-10-22T19:13:52.510030+00:00"
+}

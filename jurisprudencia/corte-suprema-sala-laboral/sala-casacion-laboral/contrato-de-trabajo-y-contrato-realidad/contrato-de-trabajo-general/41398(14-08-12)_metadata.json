@@ -1,0 +1,28 @@
+{
+  "radicado": "41398(14-08-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-18T15:35:00Z",
+  "magistrado_ponente": "Dr.Francisco Javier Ricaurte Gómez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 1040 de 2010",
+    "Decreto 1388 de 2000",
+    "Decreto 2211 de 2004",
+    "Decreto 2351 de 1965",
+    "Decreto 3520 de 2004",
+    "Decreto 3751 de 2007",
+    "Decreto 3821 de 2008",
+    "Decreto 610 de 2005",
+    "Ley 100 de 1993",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Francisco Javier Ricaurte Gómez/Sentencias/41398(14-08-12).doc",
+  "fecha_descarga": "2026-10-22T19:22:39.854859+00:00"
+}

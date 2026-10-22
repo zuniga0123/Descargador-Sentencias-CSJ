@@ -1,0 +1,21 @@
+{
+  "radicado": "42591(30-10-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2013-02-11T20:19:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 640 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dra.Elsy del Pilar Cuello Calderón/Sentencias/42591(30-10-12).doc",
+  "fecha_descarga": "2026-10-22T19:13:50.641820+00:00"
+}

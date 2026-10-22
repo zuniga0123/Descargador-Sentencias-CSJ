@@ -1,0 +1,20 @@
+{
+  "radicado": "38355(24-04-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": null,
+  "magistrado_ponente": "Dr. Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 52,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr. Luis Gabriel Miranda Buelvas/Sentencias/38355(24-04-12).PDF",
+  "fecha_descarga": "2026-10-22T19:27:44.533256+00:00"
+}

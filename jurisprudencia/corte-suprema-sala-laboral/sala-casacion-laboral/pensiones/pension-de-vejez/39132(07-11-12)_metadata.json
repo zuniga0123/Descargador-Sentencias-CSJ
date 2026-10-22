@@ -1,0 +1,33 @@
+{
+  "radicado": "39132(07-11-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2013-01-23T23:14:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 2591 de 1991",
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966",
+    "Decreto 3135 de 1968",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1650 de 1977",
+    "Ley 42 de 1982",
+    "Ley 433 de 1971",
+    "Ley 446 de 1998",
+    "Ley 71 de 1988",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dra.Elsy del Pilar Cuello Calderón/Sentencias/39132(07-11-12).doc",
+  "fecha_descarga": "2026-10-22T19:15:39.926473+00:00"
+}

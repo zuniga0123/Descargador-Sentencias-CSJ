@@ -1,0 +1,33 @@
+{
+  "radicado": "38446(30-10-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-11-26T23:25:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 122 de 1970",
+    "Decreto 1848 de 1969",
+    "Decreto 2063 de 1980",
+    "Decreto 2351 de 1965",
+    "Decreto 2651 de 1991",
+    "Decreto 3135 de 1968",
+    "Decreto 912 de 1968",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 2 de 1980",
+    "Ley 2351 de 1965",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Rigoberto Echeverri Bueno/Sentencias/38446(30-10-12).doc",
+  "fecha_descarga": "2026-10-22T19:19:14.338045+00:00"
+}

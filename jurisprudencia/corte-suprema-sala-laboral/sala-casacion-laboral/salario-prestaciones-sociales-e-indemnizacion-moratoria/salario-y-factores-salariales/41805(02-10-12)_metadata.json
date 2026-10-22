@@ -1,0 +1,28 @@
+{
+  "radicado": "41805(02-10-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-24T15:03:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 116 de 1976",
+    "Decreto 2351 de 1965",
+    "Decreto 528 de 1964",
+    "Ley 11 de 1984",
+    "Ley 121 de 1982",
+    "Ley 153 de 1887",
+    "Ley 50 de 1936",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Carlos Ernesto Molina Monsalve/Sentencias/41805(02-10-12).doc",
+  "fecha_descarga": "2026-10-22T19:22:14.909181+00:00"
+}

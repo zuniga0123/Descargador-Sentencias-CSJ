@@ -1,0 +1,28 @@
+{
+  "radicado": "42954(18-09-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-18T22:40:00Z",
+  "magistrado_ponente": "Dr.Francisco Javier Ricaurte Gómez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 34,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 1818 de 1996",
+    "Decreto 2879 de 1985",
+    "Decreto 510 de 2003",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 758 de 1990",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Francisco Javier Ricaurte Gómez/Sentencias/42954(18-09-12).doc",
+  "fecha_descarga": "2026-10-22T19:22:36.248423+00:00"
+}

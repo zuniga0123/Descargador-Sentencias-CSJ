@@ -1,0 +1,31 @@
+{
+  "radicado": "38027(18-09-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-10-03T17:50:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 8,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 1650 de 1977",
+    "Decreto 1848 de 1969",
+    "Decreto 2186 de 1969",
+    "Decreto 3041 de 1966",
+    "Decreto 3135 de 1968",
+    "Decreto 4248 de 2007",
+    "Decreto 625 de 1998",
+    "Ley 100 de 1993",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1985",
+    "Ley 433 de 1971",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Luis Gabriel Miranda Buelvas/Sentencias/38027(18-09-12).doc",
+  "fecha_descarga": "2026-10-22T19:24:13.541465+00:00"
+}

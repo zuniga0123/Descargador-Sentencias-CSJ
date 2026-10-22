@@ -1,0 +1,25 @@
+{
+  "radicado": "42517(01-08-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-09-24T22:15:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Decreto 1848 de 1969",
+    "Decreto 2651 de 1991",
+    "Ley 100 de 1993",
+    "Ley 33 de 1973",
+    "Ley 446 de 1998",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dra.Elsy del Pilar Cuello Calderón/Sentencias/42517(01-08-12).doc",
+  "fecha_descarga": "2026-10-22T19:24:51.921108+00:00"
+}
