@@ -1,0 +1,27 @@
+{
+  "radicado": "SL2680-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-03-15T14:26:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 2153 de 1992",
+    "Decreto 2351 de 1965",
+    "Ley 153 de 1887",
+    "Ley 222 de 1995",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 532 de 1975",
+    "Ley 57 de 1887",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL2680-2016.doc",
+  "fecha_descarga": "2026-10-22T17:18:49.264431+00:00"
+}

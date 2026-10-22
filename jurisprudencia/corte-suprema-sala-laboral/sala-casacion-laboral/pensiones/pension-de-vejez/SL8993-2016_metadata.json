@@ -1,0 +1,25 @@
+{
+  "radicado": "SL8993-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-07-13T21:43:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 2211 de 2004",
+    "Decreto 2282 de 2003",
+    "Decreto 255 de 2000",
+    "Decreto 2721 de 2008",
+    "Decreto 2879 de 1985",
+    "Ley 100 de 1993",
+    "Ley 3135 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL8993-2016.doc",
+  "fecha_descarga": "2026-10-22T17:09:53.995570+00:00"
+}

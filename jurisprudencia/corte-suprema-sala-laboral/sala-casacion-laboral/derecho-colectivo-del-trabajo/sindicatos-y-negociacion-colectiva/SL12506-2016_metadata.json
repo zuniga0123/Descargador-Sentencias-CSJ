@@ -1,0 +1,22 @@
+{
+  "radicado": "SL12506-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-09-16T23:01:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 134,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 733 de 1966",
+    "Ley 100 de 1993",
+    "Ley 1429 de 2010"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Fernando Castillo Cadena/Sentencias/SL12506-2016.doc",
+  "fecha_descarga": "2026-10-22T17:05:58.701658+00:00"
+}

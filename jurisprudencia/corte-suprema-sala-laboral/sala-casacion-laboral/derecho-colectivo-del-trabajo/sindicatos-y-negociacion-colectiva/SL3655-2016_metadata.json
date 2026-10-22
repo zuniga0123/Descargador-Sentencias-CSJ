@@ -1,0 +1,20 @@
+{
+  "radicado": "SL3655-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-04-14T21:19:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 2351 de 1965"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL3655-2016.doc",
+  "fecha_descarga": "2026-10-22T17:17:30.295138+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "radicado": "SL8544-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-07-01T20:02:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Ley 10 de 1972",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL8544-2016.doc",
+  "fecha_descarga": "2026-10-22T17:11:17.728906+00:00"
+}

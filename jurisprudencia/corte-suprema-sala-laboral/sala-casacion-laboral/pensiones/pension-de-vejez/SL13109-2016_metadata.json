@@ -1,0 +1,28 @@
+{
+  "radicado": "SL13109-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-09-20T21:15:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 45,
+  "leyes_o_articulos": [
+    "Decreto 1642 de 1992",
+    "Decreto 1642 de 1995",
+    "Decreto 2013 de 2012",
+    "Decreto 3800 de 2003",
+    "Decreto 758 de 1990",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1003",
+    "Ley 100 de 1993",
+    "Ley 528 de 1964",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Gerardo Botero Zuluaga/Sentencias/SL13109-2016.doc",
+  "fecha_descarga": "2026-10-22T17:04:45.324599+00:00"
+}

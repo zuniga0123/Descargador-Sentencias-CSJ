@@ -1,0 +1,22 @@
+{
+  "radicado": "SL7876-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-06-27T10:29:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 153 de 1887",
+    "Ley 50 de 1936",
+    "Ley 74 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Gerardo Botero Zuluaga/Sentencias/SL7876-2016.doc",
+  "fecha_descarga": "2026-10-22T17:11:39.035453+00:00"
+}

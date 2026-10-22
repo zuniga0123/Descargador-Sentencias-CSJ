@@ -1,0 +1,24 @@
+{
+  "radicado": "SL15962-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-11-15T19:59:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1285 de 2009",
+    "Ley 153 de 1887",
+    "Ley 270 de 1996",
+    "Ley 712 de 2001",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL15962-2016.doc",
+  "fecha_descarga": "2026-10-22T16:57:56.212191+00:00"
+}

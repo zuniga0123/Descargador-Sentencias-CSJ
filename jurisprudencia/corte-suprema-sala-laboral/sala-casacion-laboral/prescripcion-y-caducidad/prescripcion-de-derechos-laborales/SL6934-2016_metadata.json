@@ -1,0 +1,28 @@
+{
+  "radicado": "SL6934-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-07-07T15:10:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Decreto 2127 de 1945",
+    "Decreto 2651 de 1991",
+    "Ley 100 de 1993",
+    "Ley 153 de 1987",
+    "Ley 171 de 1961",
+    "Ley 33 de 1985",
+    "Ley 4 de 1976",
+    "Ley 6 de 1945",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL6934-2016.doc",
+  "fecha_descarga": "2026-10-22T17:10:49.405311+00:00"
+}

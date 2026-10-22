@@ -1,0 +1,28 @@
+{
+  "radicado": "SL10728-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-09-20T21:43:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 55,
+  "leyes_o_articulos": [
+    "Decreto 1282 de 1994",
+    "Decreto 1295 de 1994",
+    "Decreto 1302 de 1994",
+    "Decreto 2463 de 2001",
+    "Decreto 60 de 1973",
+    "Ley 100 de 1993",
+    "Ley 1562 de 2012",
+    "Ley 32 de 1961",
+    "Ley 776 de 2002",
+    "Ley 962 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL10728-2016.doc",
+  "fecha_descarga": "2026-10-22T17:04:34.955567+00:00"
+}

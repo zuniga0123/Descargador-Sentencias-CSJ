@@ -1,0 +1,20 @@
+{
+  "radicado": "SL14113-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-10-10T15:12:00Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 77,
+  "leyes_o_articulos": [
+    "Decreto 062 de 1970",
+    "Decreto 062 de 1976"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Jorge Luis Quiroz Alemán/Sentencias/SL14113-2016.doc",
+  "fecha_descarga": "2026-10-22T17:00:16.854557+00:00"
+}

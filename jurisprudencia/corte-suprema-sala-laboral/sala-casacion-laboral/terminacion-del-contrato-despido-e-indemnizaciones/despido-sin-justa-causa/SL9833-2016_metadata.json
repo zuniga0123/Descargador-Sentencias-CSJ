@@ -1,0 +1,22 @@
+{
+  "radicado": "SL9833-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-09-20T21:26:00Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Despido sin justa causa",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 16 de 1969",
+    "Ley 2351 de 1965",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Jorge Luis Quiroz Alemán/Sentencias/SL9833-2016.doc",
+  "fecha_descarga": "2026-10-22T17:04:40.155751+00:00"
+}

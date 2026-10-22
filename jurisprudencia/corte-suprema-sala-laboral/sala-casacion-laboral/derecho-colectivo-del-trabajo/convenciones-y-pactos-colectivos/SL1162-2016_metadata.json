@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1162-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-03-03T13:27:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1947",
+    "Decreto 1848 de 1969",
+    "Ley 1149 de 2007",
+    "Ley 3135 de 1968",
+    "Ley 6 de 1945",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Rigoberto Echeverri Bueno/Sentencias/SL1162-2016.doc",
+  "fecha_descarga": "2026-10-22T17:19:17.785906+00:00"
+}

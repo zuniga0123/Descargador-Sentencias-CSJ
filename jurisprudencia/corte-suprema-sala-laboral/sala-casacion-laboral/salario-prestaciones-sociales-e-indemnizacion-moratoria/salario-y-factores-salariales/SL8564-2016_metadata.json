@@ -1,0 +1,24 @@
+{
+  "radicado": "SL8564-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-07-06T19:37:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 49,
+  "leyes_o_articulos": [
+    "Decreto 4568 de 2006",
+    "Decreto 468 de 1990",
+    "Ley 10 de 1991",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Fernando Castillo Cadena/Sentencias/SL8564-2016.doc",
+  "fecha_descarga": "2026-10-22T17:11:08.865211+00:00"
+}

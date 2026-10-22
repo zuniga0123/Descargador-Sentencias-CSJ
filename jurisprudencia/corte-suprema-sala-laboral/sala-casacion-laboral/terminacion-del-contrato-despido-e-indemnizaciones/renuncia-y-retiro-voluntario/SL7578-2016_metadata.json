@@ -1,0 +1,23 @@
+{
+  "radicado": "SL7578-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-07-14T15:20:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Renuncia y retiro voluntario",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2282 de 1989",
+    "Decreto 2351 de 1965",
+    "Ley 50 de 1990",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Rigoberto Echeverri Bueno/Sentencias/SL7578-2016.doc",
+  "fecha_descarga": "2026-10-22T17:09:24.041592+00:00"
+}

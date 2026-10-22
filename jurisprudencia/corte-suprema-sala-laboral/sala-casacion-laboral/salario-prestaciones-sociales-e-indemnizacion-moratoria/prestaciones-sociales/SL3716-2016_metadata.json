@@ -1,0 +1,30 @@
+{
+  "radicado": "SL3716-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-04-14T21:20:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 38,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1651 de 1977",
+    "Decreto 1750 de 2003",
+    "Decreto 1848 de 1968",
+    "Decreto 2127 de 1948",
+    "Decreto 3118 de 1968",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 1750 de 2003",
+    "Ley 712 de 2001",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL3716-2016.doc",
+  "fecha_descarga": "2026-10-22T17:17:28.515132+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "radicado": "SL9008-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-07-13T22:20:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Laudos arbitrales y recurso de anulación",
+  "puntaje_clasificacion": 120,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 1563 de 2012"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL9008-2016.doc",
+  "fecha_descarga": "2026-10-22T17:09:42.045975+00:00"
+}

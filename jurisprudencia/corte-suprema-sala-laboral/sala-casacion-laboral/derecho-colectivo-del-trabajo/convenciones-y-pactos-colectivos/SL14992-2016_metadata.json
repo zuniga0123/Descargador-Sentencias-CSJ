@@ -1,0 +1,24 @@
+{
+  "radicado": "SL14992-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-12-12T19:15:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 003 de 1987",
+    "Decreto 1333 de 1986",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Ley 1333 de 1986",
+    "Ley 4 de 1913"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Rigoberto Echeverri Bueno/Sentencias/SL14992-2016.doc",
+  "fecha_descarga": "2026-10-22T16:56:12.466257+00:00"
+}

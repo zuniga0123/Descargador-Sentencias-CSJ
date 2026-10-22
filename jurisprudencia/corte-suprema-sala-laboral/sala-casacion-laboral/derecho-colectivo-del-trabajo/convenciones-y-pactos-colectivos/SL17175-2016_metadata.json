@@ -1,0 +1,20 @@
+{
+  "radicado": "SL17175-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-11-30T20:40:00Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 2351 de 1965"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Jorge Luis Quiroz Alemán/Sentencias/SL17175-2016.doc",
+  "fecha_descarga": "2026-10-22T16:56:56.058048+00:00"
+}

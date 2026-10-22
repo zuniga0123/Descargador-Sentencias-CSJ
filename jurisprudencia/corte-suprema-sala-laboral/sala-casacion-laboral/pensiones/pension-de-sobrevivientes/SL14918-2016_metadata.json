@@ -1,0 +1,21 @@
+{
+  "radicado": "SL14918-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-10-20T16:17:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 110 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL14918-2016.doc",
+  "fecha_descarga": "2026-10-22T16:59:22.235514+00:00"
+}

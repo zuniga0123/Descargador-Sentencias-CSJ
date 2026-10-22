@@ -1,0 +1,33 @@
+{
+  "radicado": "SL1148-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-02-23T14:06:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 39,
+  "leyes_o_articulos": [
+    "Decreto 01 de 1984",
+    "Decreto 1042 de 1978",
+    "Decreto 1651 de 1977",
+    "Decreto 1750 de 2003",
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 1750 de 2003",
+    "Ley 244 de 1995",
+    "Ley 4 de 1913",
+    "Ley 432 de 1998",
+    "Ley 712 de 2001",
+    "Ley 80 de 1993",
+    "Ley 995 de 2005"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL1148-2016.doc",
+  "fecha_descarga": "2026-10-22T17:20:13.777817+00:00"
+}

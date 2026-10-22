@@ -1,0 +1,26 @@
+{
+  "radicado": "SL17021-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-12-01T14:01:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 1372 de 1966",
+    "Decreto 1835 de 1994",
+    "Decreto 2067 de 1991",
+    "Decreto 6914 de 1994",
+    "Ley 100 de 1993",
+    "Ley 270 de 1996",
+    "Ley 7 de 1961"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL17021-2016.doc",
+  "fecha_descarga": "2026-10-22T16:56:50.750185+00:00"
+}

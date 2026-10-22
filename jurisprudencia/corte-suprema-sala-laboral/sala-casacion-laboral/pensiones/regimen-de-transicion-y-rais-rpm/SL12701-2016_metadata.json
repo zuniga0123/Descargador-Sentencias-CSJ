@@ -1,0 +1,26 @@
+{
+  "radicado": "SL12701-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-09-21T16:08:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 42,
+  "leyes_o_articulos": [
+    "Decreto 2709 de 1994",
+    "Decreto 758  1990",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1990",
+    "Ley 100 de 1993",
+    "Ley 549 de 1999",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL12701-2016.doc",
+  "fecha_descarga": "2026-10-22T17:04:09.610530+00:00"
+}

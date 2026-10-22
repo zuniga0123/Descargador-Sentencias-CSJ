@@ -1,0 +1,30 @@
+{
+  "radicado": "SL5239-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-05-31T00:27:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 092 de 1994",
+    "Decreto 1045 de 1978",
+    "Decreto 1848 de 1969",
+    "Decreto 2282 de 1989",
+    "Decreto 3135 de 1968",
+    "Decreto 3135 de 1998",
+    "Decreto 692 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 33 de 1985",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL5239-2016.doc",
+  "fecha_descarga": "2026-10-22T17:14:10.527692+00:00"
+}

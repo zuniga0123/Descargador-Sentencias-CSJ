@@ -1,0 +1,33 @@
+{
+  "radicado": "SL4626-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-04-27T16:40:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 1045 de 1978",
+    "Decreto 1158 de 1994",
+    "Decreto 1161 de 1999",
+    "Decreto 1166 de 1991",
+    "Decreto 2125 de 1999",
+    "Decreto 2515 de 1995",
+    "Decreto 2515 de 1999",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 1045 de 1978",
+    "Ley 1445 de 1978",
+    "Ley 270 de 1996",
+    "Ley 489 de 1998",
+    "Ley 50 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL4626-2016.doc",
+  "fecha_descarga": "2026-10-22T17:16:38.206342+00:00"
+}

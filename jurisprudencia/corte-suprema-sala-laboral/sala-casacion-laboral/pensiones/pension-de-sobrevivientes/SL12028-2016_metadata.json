@@ -1,0 +1,24 @@
+{
+  "radicado": "SL12028-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-09-05T13:45:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1282 de 1994",
+    "Decreto 1283 de 1994",
+    "Decreto 232 de 1984",
+    "Ley 100 de 1993",
+    "Ley 1015 de 1956",
+    "Ley 32 de 1961"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL12028-2016.doc",
+  "fecha_descarga": "2026-10-22T17:06:07.214876+00:00"
+}

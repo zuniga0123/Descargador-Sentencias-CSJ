@@ -1,0 +1,23 @@
+{
+  "radicado": "SL6230-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-06-02T20:05:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1050 de 1968",
+    "Decreto 1333 de 1986",
+    "Ley 142 de 1994",
+    "Ley 446 de 1998",
+    "Ley 640 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Gerardo Botero Zuluaga/Sentencias/SL6230-2016.doc",
+  "fecha_descarga": "2026-10-22T17:13:44.050824+00:00"
+}

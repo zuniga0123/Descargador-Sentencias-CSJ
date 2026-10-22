@@ -1,0 +1,26 @@
+{
+  "radicado": "SL8344-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-07-07T14:35:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Decreto 1157 de 1940",
+    "Decreto 2651 de 1991",
+    "Decreto 2883 de 2001",
+    "Decreto 3287 de 1964",
+    "Decreto 539 de 2000",
+    "Ley 33 de 1985",
+    "Ley 41 de 1968",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL8344-2016.doc",
+  "fecha_descarga": "2026-10-22T17:11:00.113582+00:00"
+}
