@@ -1,0 +1,25 @@
+{
+  "radicado": "SL6844-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-05-23T15:42:00Z",
+  "magistrado_ponente": "Dr.Jorge Luis Quiroz Alemán",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 39,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 24 de 1998",
+    "Decreto 2615 de 1942",
+    "Decreto 4369 de 2006",
+    "Decreto 797 de 1949",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Luis Quiroz Alemán/Sentencias/SL6844-2017.doc",
+  "fecha_descarga": "2026-10-22T16:35:30.460591+00:00"
+}
