@@ -1,0 +1,20 @@
+{
+  "radicado": "SL15170-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-12-10T15:13:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 38,
+  "leyes_o_articulos": [
+    "Decreto 284 de 1957",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Rigoberto Echeverri Bueno/Sentencias/SL15170-2015.doc",
+  "fecha_descarga": "2026-10-22T17:30:04.364524+00:00"
+}

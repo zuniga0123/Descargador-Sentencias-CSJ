@@ -1,0 +1,27 @@
+{
+  "radicado": "SL7108-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-06-23T13:52:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 1469 de 1978",
+    "Decreto 2351 de 1965",
+    "Decreto 616 de 1954",
+    "Ley 11 de 1984",
+    "Ley 2351 de 1965",
+    "Ley 270 de 1996",
+    "Ley 39 de 1985",
+    "Ley 50 de 1990",
+    "Ley 584 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL7108-2015.doc",
+  "fecha_descarga": "2026-10-22T17:43:58.342254+00:00"
+}

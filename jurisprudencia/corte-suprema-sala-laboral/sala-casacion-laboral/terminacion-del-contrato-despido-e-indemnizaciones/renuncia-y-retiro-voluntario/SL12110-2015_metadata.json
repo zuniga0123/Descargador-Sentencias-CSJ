@@ -1,0 +1,30 @@
+{
+  "radicado": "SL12110-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-10-01T14:44:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Renuncia y retiro voluntario",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 2463 de 2001",
+    "Decreto 2566 de 2009",
+    "Ley 100 de 1993",
+    "Ley 1010 de 2006",
+    "Ley 1306 de 2009",
+    "Ley 1309 de 2009",
+    "Ley 16 de 1969",
+    "Ley 361 de 1997",
+    "Ley 371 de 1997",
+    "Ley 712 de 2001",
+    "Ley 776 de 2002",
+    "Ley 790 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL12110-2015.doc",
+  "fecha_descarga": "2026-10-22T17:35:58.428537+00:00"
+}

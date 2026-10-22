@@ -1,0 +1,32 @@
+{
+  "radicado": "SL16079-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-12-07T14:37:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Decreto 1950 de 1973",
+    "Decreto 2209 de 1994",
+    "Decreto 2339 de 1971",
+    "Decreto 2400 de 1968",
+    "Decreto 2709 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 2 de 1945",
+    "Ley 33 de 1985",
+    "Ley 48 de 1992",
+    "Ley 48 de 1993",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL16079-2015.doc",
+  "fecha_descarga": "2026-10-22T17:30:53.826299+00:00"
+}

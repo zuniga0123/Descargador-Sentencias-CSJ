@@ -1,0 +1,29 @@
+{
+  "radicado": "SL13276-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-10-20T14:01:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 34,
+  "leyes_o_articulos": [
+    "Decreto 111 de 1996",
+    "Decreto 1161 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 1818 de 1996",
+    "Decreto 2651 de 1991",
+    "Decreto 326 de 1996",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1031 de 2006",
+    "Ley 136 de 1994",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL13276-2015.doc",
+  "fecha_descarga": "2026-10-22T17:34:37.838347+00:00"
+}

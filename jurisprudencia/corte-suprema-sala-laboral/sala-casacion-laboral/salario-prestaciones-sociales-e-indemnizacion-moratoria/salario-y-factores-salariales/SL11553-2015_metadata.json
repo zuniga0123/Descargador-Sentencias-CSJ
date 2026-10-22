@@ -1,0 +1,29 @@
+{
+  "radicado": "SL11553-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-10-22T17:47:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 1748 de 1995",
+    "Decreto 610 de 2005",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 222 de 1995",
+    "Ley 270 de 1996",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1985",
+    "Ley 446 de 1998",
+    "Ley 693 de 1993",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL11553-2015.doc",
+  "fecha_descarga": "2026-10-22T17:34:04.191690+00:00"
+}

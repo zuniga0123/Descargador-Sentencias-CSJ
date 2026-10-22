@@ -1,0 +1,24 @@
+{
+  "radicado": "SL3202-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-06-23T17:07:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Decreto 2651 de 1991",
+    "Decreto 758 de 1990",
+    "Ley 12 de 1975",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL3202-2015.doc",
+  "fecha_descarga": "2026-10-22T17:43:26.426756+00:00"
+}

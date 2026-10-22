@@ -1,0 +1,20 @@
+{
+  "radicado": "SL9408-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-07-31T14:22:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 528 de 1964"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL9408-2015.doc",
+  "fecha_descarga": "2026-10-22T17:39:13.980027+00:00"
+}

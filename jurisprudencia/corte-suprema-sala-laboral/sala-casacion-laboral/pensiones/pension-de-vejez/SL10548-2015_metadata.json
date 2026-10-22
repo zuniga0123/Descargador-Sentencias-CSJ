@@ -1,0 +1,29 @@
+{
+  "radicado": "SL10548-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-08-26T21:48:00Z",
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1650 de 1977",
+    "Decreto 1650 de 1997",
+    "Decreto 1651 de 1977",
+    "Decreto 2651 de 1991",
+    "Decreto 3041 de 1966",
+    "Decreto 3063 de 1989",
+    "Decreto 433 de 1971",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1650 de 1977",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Gustavo Hernando López Algarra/Sentencias/SL10548-2015.doc",
+  "fecha_descarga": "2026-10-22T17:37:43.071118+00:00"
+}

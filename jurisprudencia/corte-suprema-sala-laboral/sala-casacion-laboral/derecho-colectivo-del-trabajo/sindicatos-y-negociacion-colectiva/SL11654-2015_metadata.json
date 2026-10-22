@@ -1,0 +1,20 @@
+{
+  "radicado": "SL11654-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-10-21T22:54:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 73,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 4950 de 2007"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL11654-2015.doc",
+  "fecha_descarga": "2026-10-22T17:34:28.987800+00:00"
+}

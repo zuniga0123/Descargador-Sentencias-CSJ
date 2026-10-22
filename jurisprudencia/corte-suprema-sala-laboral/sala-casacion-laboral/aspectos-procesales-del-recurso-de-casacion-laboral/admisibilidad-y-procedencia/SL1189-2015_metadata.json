@@ -1,0 +1,33 @@
+{
+  "radicado": "SL1189-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-06-22T14:56:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989",
+    "Decreto 2351 de 1965",
+    "Decreto 528 de 1964",
+    "Decreto 616 de 1954",
+    "Ley 100 de 1993",
+    "Ley 11 de 1984",
+    "Ley 153 de 1887",
+    "Ley 16 de 1961",
+    "Ley 270 de 1996",
+    "Ley 39 de 1985",
+    "Ley 50 de 1936",
+    "Ley 50 de 1990",
+    "Ley 712 de 2001",
+    "Ley 794 de 2003",
+    "Ley 974 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Rigoberto Echeverri Bueno/Sentencias/SL1189-2015.doc",
+  "fecha_descarga": "2026-10-22T17:44:30.197244+00:00"
+}

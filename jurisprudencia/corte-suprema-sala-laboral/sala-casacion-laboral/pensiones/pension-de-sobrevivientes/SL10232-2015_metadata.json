@@ -1,0 +1,27 @@
+{
+  "radicado": "SL10232-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-08-20T19:15:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 1889 de 1994",
+    "Decreto 2651 de 1991",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1992",
+    "Ley 100 de 1993",
+    "Ley 1650 de 1977",
+    "Ley 446 de 1998",
+    "Ley 57 de 1887",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL10232-2015.doc",
+  "fecha_descarga": "2026-10-22T17:38:20.369983+00:00"
+}

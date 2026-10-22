@@ -1,0 +1,25 @@
+{
+  "radicado": "SL4929-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-06-23T15:35:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 34,
+  "leyes_o_articulos": [
+    "Decreto 1653 de 1977",
+    "Decreto 1653 de 1997",
+    "Decreto 1750 de 2003",
+    "Decreto 2013 de 2012",
+    "Ley 100 de 1993",
+    "Ley 169 de 1896",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL4929-2015.doc",
+  "fecha_descarga": "2026-10-22T17:43:40.561495+00:00"
+}

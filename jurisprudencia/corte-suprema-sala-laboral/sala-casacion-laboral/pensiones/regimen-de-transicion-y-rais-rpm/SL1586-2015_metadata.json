@@ -1,0 +1,31 @@
+{
+  "radicado": "SL1586-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-06-23T15:53:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1214 de 1990",
+    "Decreto 1950 de 1973",
+    "Decreto 2400 de 1968",
+    "Decreto 2709 de 1994",
+    "Decreto 656 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 2 de 1945",
+    "Ley 33 de 1985",
+    "Ley 48 de 1993",
+    "Ley 50 de 1886",
+    "Ley 71 de 1988",
+    "Ley 9 de 1843"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL1586-2015.doc",
+  "fecha_descarga": "2026-10-22T17:43:35.219989+00:00"
+}

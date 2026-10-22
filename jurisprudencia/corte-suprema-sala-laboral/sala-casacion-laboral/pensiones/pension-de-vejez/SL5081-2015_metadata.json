@@ -1,0 +1,27 @@
+{
+  "radicado": "SL5081-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-07-22T15:01:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1156 de 1996",
+    "Decreto 1858 de 1995",
+    "Decreto 2013 de 2012",
+    "Decreto 3771 de 2007",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 4 de 1976",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Rigoberto Echeverri Bueno/Sentencias/SL5081-2015.doc",
+  "fecha_descarga": "2026-10-22T17:40:26.377315+00:00"
+}

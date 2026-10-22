@@ -1,0 +1,32 @@
+{
+  "radicado": "SL12872-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2016-01-20T21:36:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1065 de 1999",
+    "Decreto 133 de 1976",
+    "Decreto 1748 de 1995",
+    "Decreto 2282 de 1989",
+    "Decreto 2282 de 2003",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 161 de 1971",
+    "Ley 171 de 1961",
+    "Ley 33 de 1933",
+    "Ley 4 de 1976",
+    "Ley 42 de 1976",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL12872-2015.doc",
+  "fecha_descarga": "2026-10-22T17:28:29.232363+00:00"
+}

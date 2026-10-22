@@ -1,0 +1,32 @@
+{
+  "radicado": "SL1328-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-06-23T14:04:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 101,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 2560 de 1998",
+    "Decreto 2579 de 2000",
+    "Decreto 2647 de 1999",
+    "Decreto 2910 de 2001",
+    "Decreto 3232 de 2002",
+    "Ley 100 de 1993",
+    "Ley 16 de 1968",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 712 de 2001",
+    "Ley 789 de 2002",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL1328-2015.doc",
+  "fecha_descarga": "2026-10-22T17:43:54.798240+00:00"
+}

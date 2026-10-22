@@ -1,0 +1,28 @@
+{
+  "radicado": "SL17479-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2016-02-05T15:23:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 1558 de 1994",
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Decreto 691 de 1994",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 33 de 1985",
+    "Ley 62 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL17479-2015.doc",
+  "fecha_descarga": "2026-10-22T17:26:37.502257+00:00"
+}

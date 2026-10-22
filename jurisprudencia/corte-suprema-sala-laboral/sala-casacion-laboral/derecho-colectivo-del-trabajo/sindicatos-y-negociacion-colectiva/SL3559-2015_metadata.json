@@ -1,0 +1,31 @@
+{
+  "radicado": "SL3559-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-06-23T15:48:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 8,
+  "leyes_o_articulos": [
+    "Decreto 1650 de 1977",
+    "Decreto 1750 de 1977",
+    "Decreto 1848 de 1969",
+    "Decreto 2527 de 2000",
+    "Decreto 433 de 1971",
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 33 de 1985",
+    "Ley 446 de 1998",
+    "Ley 71 de 1988",
+    "Ley 72 de 1947",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL3559-2015.doc",
+  "fecha_descarga": "2026-10-22T17:43:36.959149+00:00"
+}

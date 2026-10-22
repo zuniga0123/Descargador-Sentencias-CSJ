@@ -1,0 +1,24 @@
+{
+  "radicado": "SL8082-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-07-22T13:56:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1406 de 1999",
+    "Decreto 1818 de 1996",
+    "Decreto 2665 de 1988",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL8082-2015.doc",
+  "fecha_descarga": "2026-10-22T17:40:40.863798+00:00"
+}

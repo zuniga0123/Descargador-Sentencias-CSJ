@@ -1,0 +1,28 @@
+{
+  "radicado": "SL3841-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-06-11T15:04:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 45,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Decreto 2231 de 2002",
+    "Decreto 2351 de 1965",
+    "Decreto 416 de 1997",
+    "Decreto 604 de 1997",
+    "Ley 1042 de 1978",
+    "Ley 1050 de 1968",
+    "Ley 2351 de 1965",
+    "Ley 3130 de 1968",
+    "Ley 790 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Rigoberto Echeverri Bueno/Sentencias/SL3841-2015.doc",
+  "fecha_descarga": "2026-10-22T17:45:00.992461+00:00"
+}

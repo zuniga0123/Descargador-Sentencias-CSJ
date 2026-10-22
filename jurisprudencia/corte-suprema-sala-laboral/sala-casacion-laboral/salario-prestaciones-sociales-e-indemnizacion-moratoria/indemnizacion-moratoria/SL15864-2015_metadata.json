@@ -1,0 +1,23 @@
+{
+  "radicado": "SL15864-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2016-01-21T15:51:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 32,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Decreto 2351 de 1991",
+    "Decreto 797 de 1949",
+    "Ley 270 de 1996",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Rigoberto Echeverri Bueno/Sentencias/SL15864-2015.doc",
+  "fecha_descarga": "2026-10-22T17:28:02.199607+00:00"
+}

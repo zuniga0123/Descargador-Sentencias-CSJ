@@ -1,0 +1,24 @@
+{
+  "radicado": "SL10177-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-08-27T20:50:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 1409 de 1999",
+    "Decreto 1772 de 1994",
+    "Decreto 1772 de 2003",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL10177-2015.doc",
+  "fecha_descarga": "2026-10-22T17:37:14.662326+00:00"
+}

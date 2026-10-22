@@ -1,0 +1,33 @@
+{
+  "radicado": "SL12448-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-10-27T15:40:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 1214 de 1990",
+    "Decreto 1950 de 1973",
+    "Decreto 2013 de 2012",
+    "Decreto 2400 de 1968",
+    "Decreto 2709 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 2 de 1945",
+    "Ley 33 de 1985",
+    "Ley 48 de 1993",
+    "Ley 50 de 1886",
+    "Ley 71 de 1988",
+    "Ley 71 de 1998",
+    "Ley 797 de 2003",
+    "Ley 9 de 1843"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Rigoberto Echeverri Bueno/Sentencias/SL12448-2015.doc",
+  "fecha_descarga": "2026-10-22T17:33:18.007086+00:00"
+}

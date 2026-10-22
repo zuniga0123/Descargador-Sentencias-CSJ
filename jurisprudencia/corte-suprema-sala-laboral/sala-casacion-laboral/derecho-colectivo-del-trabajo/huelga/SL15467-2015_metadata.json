@@ -1,0 +1,29 @@
+{
+  "radicado": "SL15467-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-12-07T17:16:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Huelga",
+  "puntaje_clasificacion": 61,
+  "leyes_o_articulos": [
+    "Decreto 116 de 1976",
+    "Decreto 2164 de 1959",
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1993",
+    "Ley 11 de 1984",
+    "Ley 21 de 1982",
+    "Ley 50 de 1936",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 71 de 1988",
+    "Ley 909 de 2004"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL15467-2015.doc",
+  "fecha_descarga": "2026-10-22T17:30:21.961609+00:00"
+}

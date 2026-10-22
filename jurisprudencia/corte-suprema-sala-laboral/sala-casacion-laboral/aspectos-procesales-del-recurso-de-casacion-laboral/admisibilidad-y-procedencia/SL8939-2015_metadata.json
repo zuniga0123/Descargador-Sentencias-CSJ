@@ -1,0 +1,21 @@
+{
+  "radicado": "SL8939-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-08-06T21:56:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Admisibilidad y procedencia",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Decreto 1373 de 1966",
+    "Decreto 2351 de 1965",
+    "Decreto 904 de 1951"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Rigoberto Echeverri Bueno/Sentencias/SL8939-2015.doc",
+  "fecha_descarga": "2026-10-22T17:39:00.139796+00:00"
+}

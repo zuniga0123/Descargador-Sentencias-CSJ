@@ -1,0 +1,31 @@
+{
+  "radicado": "SL14388-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-11-24T10:55:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 37,
+  "leyes_o_articulos": [
+    "Decreto 1474 de 1997",
+    "Decreto 1748 de 1995",
+    "Decreto 1824 de 1965",
+    "Decreto 1887 de 1994",
+    "Decreto 2665 de 1988",
+    "Decreto 3041 de 1966",
+    "Decreto 3063 de 1989",
+    "Decreto 3798 de 2003",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Rigoberto Echeverri Bueno/Sentencias/SL14388-2015.doc",
+  "fecha_descarga": "2026-10-22T17:31:46.805811+00:00"
+}

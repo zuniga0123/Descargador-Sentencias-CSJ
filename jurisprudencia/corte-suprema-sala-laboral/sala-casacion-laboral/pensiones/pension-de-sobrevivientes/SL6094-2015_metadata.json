@@ -1,0 +1,28 @@
+{
+  "radicado": "SL6094-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-06-22T14:19:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 34,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 1515 de 1998",
+    "Decreto 1642 de 1995",
+    "Decreto 1772 de 1994",
+    "Decreto 1818 de 1996",
+    "Decreto 2651 de 1991",
+    "Ley 100 de 1993",
+    "Ley 446 de 1998",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL6094-2015.doc",
+  "fecha_descarga": "2026-10-22T17:44:39.677199+00:00"
+}
