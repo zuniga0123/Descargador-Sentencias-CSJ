@@ -1,0 +1,26 @@
+{
+  "radicado": "SL512-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-11-06T16:08:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 8,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Decreto 528 de 1964",
+    "Ley 10 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 171 de 1961"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL512-2013.doc",
+  "fecha_descarga": "2026-10-22T18:46:13.998747+00:00"
+}

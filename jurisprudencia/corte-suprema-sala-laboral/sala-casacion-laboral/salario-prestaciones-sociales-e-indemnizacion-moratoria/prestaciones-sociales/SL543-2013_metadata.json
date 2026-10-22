@@ -1,0 +1,21 @@
+{
+  "radicado": "SL543-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-09-05T23:19:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Ley 43 de 1990",
+    "Ley 52 de 1975",
+    "Ley 550 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Carlos Ernesto Molina Monsalve/Sentencias/SL543-2013.doc",
+  "fecha_descarga": "2026-10-22T18:50:54.997489+00:00"
+}

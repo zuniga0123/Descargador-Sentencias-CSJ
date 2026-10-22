@@ -1,0 +1,33 @@
+{
+  "radicado": "SL889-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2014-01-29T14:56:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Renuncia y retiro voluntario",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1994",
+    "Decreto 1650 de 1977",
+    "Decreto 1848 de 1969",
+    "Decreto 224 de 1966",
+    "Decreto 3041 de 1966",
+    "Decreto 3135 de 1968",
+    "Decreto 431 de 1971",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 22 de 1967",
+    "Ley 33 de 1985",
+    "Ley 433 de 1971",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL889-2013.doc",
+  "fecha_descarga": "2026-10-22T18:40:00.732618+00:00"
+}

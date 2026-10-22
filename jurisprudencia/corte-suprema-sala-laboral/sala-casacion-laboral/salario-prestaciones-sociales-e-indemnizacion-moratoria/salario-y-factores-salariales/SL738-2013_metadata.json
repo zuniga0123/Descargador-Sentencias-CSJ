@@ -1,0 +1,22 @@
+{
+  "radicado": "SL738-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-12-13T16:02:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 43,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2351 de 1965",
+    "Ley 50 de 1990",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Rigoberto Echeverri Bueno/Sentencias/SL738-2013.doc",
+  "fecha_descarga": "2026-10-22T18:44:45.036219+00:00"
+}

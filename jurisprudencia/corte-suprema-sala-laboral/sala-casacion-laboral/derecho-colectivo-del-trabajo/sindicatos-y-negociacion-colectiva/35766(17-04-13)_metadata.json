@@ -1,0 +1,26 @@
+{
+  "radicado": "35766(17-04-13)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-05-10T16:33:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2164 de 1959",
+    "Decreto 2351 de 1965",
+    "Decreto 2651 de 1991",
+    "Ley 200 de 1995",
+    "Ley 446 de 1998",
+    "Ley 732 de 2002",
+    "Ley 734 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Luis Gabriel Miranda Buelvas/Sentencias/35766(17-04-13).doc",
+  "fecha_descarga": "2026-10-22T18:59:26.041204+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "radicado": "44025(13-02-13)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2014-01-15T00:23:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 141 de 1961",
+    "Ley 165 de 1941",
+    "Ley 1848 de 1969",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1985",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Carlos Ernesto Molina Monsalve/Sentencias/44025(13-02-13).doc",
+  "fecha_descarga": "2026-10-22T18:43:37.686275+00:00"
+}

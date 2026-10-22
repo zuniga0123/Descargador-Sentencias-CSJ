@@ -1,0 +1,27 @@
+{
+  "radicado": "SL815-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2014-01-24T21:56:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 1421 de 1993",
+    "Decreto 2615 de 1946",
+    "Decreto 2651 de 1991",
+    "Decreto 797 de 1949",
+    "Ley 1421 de 1993",
+    "Ley 1572 de 1998",
+    "Ley 181 de 1995",
+    "Ley 443 de 1998",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL815-2013.doc",
+  "fecha_descarga": "2026-10-22T18:40:09.560750+00:00"
+}

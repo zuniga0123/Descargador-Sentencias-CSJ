@@ -1,0 +1,23 @@
+{
+  "radicado": "SL423-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-11-06T16:06:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 35,
+  "leyes_o_articulos": [
+    "Decreto 204 de 1957",
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1993",
+    "Ley 50 de 1990",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL423-2013.doc",
+  "fecha_descarga": "2026-10-22T18:46:27.718504+00:00"
+}

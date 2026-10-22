@@ -1,0 +1,32 @@
+{
+  "radicado": "SL744-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-11-25T19:42:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 020 de 2001",
+    "Decreto 080 de 1976",
+    "Decreto 1050 de 1968",
+    "Decreto 130 de 1976",
+    "Decreto 1699 de 1997",
+    "Decreto 1730 de 1991",
+    "Decreto 2822 de 1991",
+    "Decreto 3130 de 1968",
+    "Decreto 3135 de 1968",
+    "Decreto 663 de 1993",
+    "Ley 2822 de 1991",
+    "Ley 33 de 1985",
+    "Ley 45 de 1990",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Carlos Ernesto Molina Monsalve/Sentencias/SL744-2013.doc",
+  "fecha_descarga": "2026-10-22T18:45:51.411059+00:00"
+}

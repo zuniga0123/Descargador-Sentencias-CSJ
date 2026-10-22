@@ -1,0 +1,24 @@
+{
+  "radicado": "SL804-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2014-01-24T21:42:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 2201 de 1987",
+    "Decreto 2661 de 1960",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 28 de 1943",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Rigoberto Echeverri Bueno/Sentencias/SL804-2013.doc",
+  "fecha_descarga": "2026-10-22T18:41:47.862047+00:00"
+}

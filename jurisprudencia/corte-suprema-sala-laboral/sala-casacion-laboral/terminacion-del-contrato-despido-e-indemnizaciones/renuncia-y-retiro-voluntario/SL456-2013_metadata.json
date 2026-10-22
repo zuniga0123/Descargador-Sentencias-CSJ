@@ -1,0 +1,19 @@
+{
+  "radicado": "SL456-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-07-22T16:50:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Renuncia y retiro voluntario",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Ley 640 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL456-2013.doc",
+  "fecha_descarga": "2026-10-22T18:55:41.188448+00:00"
+}

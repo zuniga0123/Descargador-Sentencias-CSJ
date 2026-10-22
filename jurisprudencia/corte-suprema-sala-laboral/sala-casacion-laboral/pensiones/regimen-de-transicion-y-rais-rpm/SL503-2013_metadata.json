@@ -1,0 +1,23 @@
+{
+  "radicado": "SL503-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-09-04T17:21:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 700 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Carlos Ernesto Molina Monsalve/Sentencias/SL503-2013.doc",
+  "fecha_descarga": "2026-10-22T18:51:05.947462+00:00"
+}

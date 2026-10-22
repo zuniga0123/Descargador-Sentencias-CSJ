@@ -1,0 +1,26 @@
+{
+  "radicado": "SL572-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-08-20T14:51:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1650 de 1977",
+    "Decreto 3041 de 1966",
+    "Decreto 433 de 1971",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 758 de 1990",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL572-2013.doc",
+  "fecha_descarga": "2026-10-22T18:53:20.698768+00:00"
+}

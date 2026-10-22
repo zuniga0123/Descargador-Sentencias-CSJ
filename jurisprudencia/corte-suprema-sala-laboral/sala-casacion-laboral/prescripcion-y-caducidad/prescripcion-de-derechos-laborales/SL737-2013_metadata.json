@@ -1,0 +1,24 @@
+{
+  "radicado": "SL737-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2014-01-15T01:33:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 165 de 1941",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1985",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Rigoberto Echeverri Bueno/Sentencias/SL737-2013.doc",
+  "fecha_descarga": "2026-10-22T18:43:23.446937+00:00"
+}

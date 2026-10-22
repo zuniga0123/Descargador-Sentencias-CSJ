@@ -1,0 +1,29 @@
+{
+  "radicado": "SL855-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2014-01-15T16:09:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Decreto 1044 de 1987",
+    "Decreto 1050 de 1968",
+    "Decreto 1242 de 1970",
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 3130 de 1968",
+    "Decreto 3135 de 1968",
+    "Decreto 877 de 1979",
+    "LEY 171 DE 1961",
+    "Ley 3135 de 1968",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Carlos Ernesto Molina Monsalve/Sentencias/SL855-2013.doc",
+  "fecha_descarga": "2026-10-22T18:42:52.927712+00:00"
+}

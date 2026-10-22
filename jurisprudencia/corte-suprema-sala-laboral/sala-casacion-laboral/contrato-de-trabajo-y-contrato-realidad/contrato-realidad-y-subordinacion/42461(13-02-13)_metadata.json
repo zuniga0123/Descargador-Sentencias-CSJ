@@ -1,0 +1,20 @@
+{
+  "radicado": "42461(13-02-13)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-03-18T16:51:26Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato realidad y subordinación",
+  "puntaje_clasificacion": 1,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/42461(13-02-13).pdf",
+  "fecha_descarga": "2026-10-22T19:02:24.874543+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "radicado": "SL828-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2014-01-24T21:51:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 3041 de 1966",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL828-2013.doc",
+  "fecha_descarga": "2026-10-22T18:40:32.961497+00:00"
+}

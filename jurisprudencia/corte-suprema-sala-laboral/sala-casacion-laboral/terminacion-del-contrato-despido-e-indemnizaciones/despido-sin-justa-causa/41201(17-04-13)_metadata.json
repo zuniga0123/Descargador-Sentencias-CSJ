@@ -1,0 +1,28 @@
+{
+  "radicado": "41201(17-04-13)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-05-08T22:34:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Despido sin justa causa",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 1651 de 1965",
+    "Decreto 1713 de 1960",
+    "Decreto 1848 de 1960",
+    "Decreto 1848 de 1969",
+    "Decreto 255 de 2000",
+    "Decreto 797 de 1949",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 4 de 1976",
+    "Ley 65 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/41201(17-04-13).doc",
+  "fecha_descarga": "2026-10-22T18:59:50.523711+00:00"
+}

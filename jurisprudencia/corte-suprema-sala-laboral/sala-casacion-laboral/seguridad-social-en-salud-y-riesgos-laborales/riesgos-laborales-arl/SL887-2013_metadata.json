@@ -1,0 +1,27 @@
+{
+  "radicado": "SL887-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2014-01-24T21:36:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 42,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1771 de 1994",
+    "Decreto 2282 de 1989",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 446 de 1998",
+    "Ley 712 de 2001",
+    "Ley 776 de 2002",
+    "Ley 776 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Carlos Ernesto Molina Monsalve/Sentencias/SL887-2013.doc",
+  "fecha_descarga": "2026-10-22T18:42:33.118601+00:00"
+}

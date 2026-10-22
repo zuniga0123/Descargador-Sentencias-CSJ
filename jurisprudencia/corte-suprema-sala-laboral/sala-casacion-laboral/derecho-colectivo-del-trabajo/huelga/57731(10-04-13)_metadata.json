@@ -1,0 +1,21 @@
+{
+  "radicado": "57731(10-04-13)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-05-22T14:54:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Huelga",
+  "puntaje_clasificacion": 121,
+  "leyes_o_articulos": [
+    "Ley 1210 de 2008",
+    "Ley 50 de 1990",
+    "Ley 78 de 1919"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Rigoberto Echeverri Bueno/Sentencias/57731(10-04-13).doc",
+  "fecha_descarga": "2026-10-22T18:59:06.880605+00:00"
+}

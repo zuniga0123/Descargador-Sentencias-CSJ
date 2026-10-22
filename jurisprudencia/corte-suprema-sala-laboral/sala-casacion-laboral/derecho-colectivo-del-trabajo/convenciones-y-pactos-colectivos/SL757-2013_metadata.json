@@ -1,0 +1,24 @@
+{
+  "radicado": "SL757-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-12-13T16:03:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1373 de 1966",
+    "Decreto 2351 de 1965",
+    "Decreto 2651 de 1991",
+    "Ley 2351 de 1965",
+    "Ley 446 de 1998",
+    "Ley 57 de 1887"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Rigoberto Echeverri Bueno/Sentencias/SL757-2013.doc",
+  "fecha_descarga": "2026-10-22T18:44:34.409911+00:00"
+}

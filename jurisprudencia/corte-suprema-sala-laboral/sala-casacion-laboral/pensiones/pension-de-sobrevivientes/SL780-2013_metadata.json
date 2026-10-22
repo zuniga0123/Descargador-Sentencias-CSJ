@@ -1,0 +1,24 @@
+{
+  "radicado": "SL780-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-12-02T15:51:00Z",
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 153 de 1987",
+    "Ley 25 de 1992",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Gustavo Hernando López Algarra/Sentencias/SL780-2013.doc",
+  "fecha_descarga": "2026-10-22T18:45:23.088642+00:00"
+}

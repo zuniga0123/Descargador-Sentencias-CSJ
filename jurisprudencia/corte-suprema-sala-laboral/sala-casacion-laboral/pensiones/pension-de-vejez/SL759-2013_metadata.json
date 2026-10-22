@@ -1,0 +1,30 @@
+{
+  "radicado": "SL759-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-12-13T16:03:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 1650 de 1977",
+    "Decreto 1848 de 1969",
+    "Decreto 3041 de 1966",
+    "Decreto 3063 de 1989",
+    "Decreto 3135 de 1968",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1985",
+    "Ley 433 de 1971",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Rigoberto Echeverri Bueno/Sentencias/SL759-2013.doc",
+  "fecha_descarga": "2026-10-22T18:44:32.582013+00:00"
+}

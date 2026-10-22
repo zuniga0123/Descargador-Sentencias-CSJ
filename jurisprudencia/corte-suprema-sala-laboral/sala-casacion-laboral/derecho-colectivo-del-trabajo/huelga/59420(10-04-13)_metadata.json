@@ -1,0 +1,21 @@
+{
+  "radicado": "59420(10-04-13)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-07-11T20:36:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Huelga",
+  "puntaje_clasificacion": 98,
+  "leyes_o_articulos": [
+    "Ley 1210 de 2008",
+    "Ley 50 de 1990",
+    "Ley 584 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Carlos Ernesto Molina Monsalve/Sentencias/59420(10-04-13).doc",
+  "fecha_descarga": "2026-10-22T18:56:09.774481+00:00"
+}

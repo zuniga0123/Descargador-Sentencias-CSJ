@@ -1,0 +1,28 @@
+{
+  "radicado": "SL844-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2014-01-15T01:40:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 64,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 2879 de 1985",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 1650 de 1977",
+    "Ley 4 de 1976",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 71 de 1988",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Rigoberto Echeverri Bueno/Sentencias/SL844-2013.doc",
+  "fecha_descarga": "2026-10-22T18:43:21.828380+00:00"
+}

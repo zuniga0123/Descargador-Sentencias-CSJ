@@ -1,0 +1,23 @@
+{
+  "radicado": "SL713-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-11-06T15:59:00Z",
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Gustavo Hernando López Algarra/Sentencias/SL713-2013.doc",
+  "fecha_descarga": "2026-10-22T18:47:36.812090+00:00"
+}

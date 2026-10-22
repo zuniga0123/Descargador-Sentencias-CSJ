@@ -1,0 +1,22 @@
+{
+  "radicado": "SL339-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-07-02T15:46:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 2375 de 1974",
+    "Ley 188 de 1959",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL339-2013.doc",
+  "fecha_descarga": "2026-10-22T18:56:27.409788+00:00"
+}

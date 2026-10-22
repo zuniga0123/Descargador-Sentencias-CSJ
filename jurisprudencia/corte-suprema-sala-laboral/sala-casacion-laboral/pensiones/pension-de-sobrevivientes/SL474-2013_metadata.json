@@ -1,0 +1,23 @@
+{
+  "radicado": "SL474-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-08-23T22:10:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 1333 de 1986",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Rigoberto Echeverri Bueno/Sentencias/SL474-2013.doc",
+  "fecha_descarga": "2026-10-22T18:51:47.931531+00:00"
+}

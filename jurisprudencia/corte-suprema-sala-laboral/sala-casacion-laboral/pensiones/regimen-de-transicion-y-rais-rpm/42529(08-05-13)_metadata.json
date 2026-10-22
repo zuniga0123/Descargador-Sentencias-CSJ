@@ -1,0 +1,29 @@
+{
+  "radicado": "42529(08-05-13)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-06-18T17:09:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 092 de 2000",
+    "Decreto 2331 de 1998",
+    "Decreto 2725 de 2000",
+    "Decreto 3130 de 1968",
+    "Decreto 3135 de 1968",
+    "Decreto 663 de 1993",
+    "Ley 100 de 1893",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 44 de 1985",
+    "Ley 510 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Carlos Ernesto Molina Monsalve/Sentencias/42529(08-05-13).doc",
+  "fecha_descarga": "2026-10-22T18:57:35.799982+00:00"
+}

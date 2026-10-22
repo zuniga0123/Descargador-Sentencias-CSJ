@@ -1,0 +1,26 @@
+{
+  "radicado": "40042(20-03-13)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-07-18T19:29:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1615 de 2003",
+    "Decreto 2127 de 1945",
+    "Decreto 2150 de 1995",
+    "Decreto 2201 de 1987",
+    "Decreto 2651 de 1991",
+    "Decreto 3130 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dra.Elsy del Pilar Cuello Calderón/Sentencias/40042(20-03-13).doc",
+  "fecha_descarga": "2026-10-22T18:55:51.509819+00:00"
+}

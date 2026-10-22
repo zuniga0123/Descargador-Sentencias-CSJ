@@ -1,0 +1,31 @@
+{
+  "radicado": "42943(30-04-13)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-05-27T17:24:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 0758 de 1990",
+    "Decreto 1260 de 2000",
+    "Decreto 2789 de 1985",
+    "Decreto 2920 de 1982",
+    "Decreto 3041 de 1966",
+    "Decreto 528 de 1964",
+    "Decreto 758 de 1990",
+    "Decreto 886 de 1969",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 4 de 1992",
+    "Ley 550 de 1999",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Rigoberto Echeverri Bueno/Sentencias/42943(30-04-13).doc",
+  "fecha_descarga": "2026-10-22T18:58:11.692581+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "radicado": "40792(20-02-13)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-07-02T20:10:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 3135 de 1968",
+    "Decreto 325 de 1954",
+    "Ley 11 de 1986",
+    "Ley 142 de 1994",
+    "Ley 344 de 1966"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dra.Elsy del Pilar Cuello Calderón/Sentencias/40792(20-02-13).doc",
+  "fecha_descarga": "2026-10-22T18:56:23.734747+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "radicado": "SL866-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2014-01-24T21:37:00Z",
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 917 de 1999",
+    "Ley 100 de 1993",
+    "Ley 270 de 1996",
+    "Ley 776 de 2002",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Gustavo Hernando López Algarra/Sentencias/SL866-2013.doc",
+  "fecha_descarga": "2026-10-22T18:42:29.574301+00:00"
+}

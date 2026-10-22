@@ -1,0 +1,20 @@
+{
+  "radicado": "SL830-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-12-13T15:52:00Z",
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Huelga",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Ley 1210 de 2008",
+    "Ley 584 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Gustavo Hernando López Algarra/Sentencias/SL830-2013.doc",
+  "fecha_descarga": "2026-10-22T18:44:58.873845+00:00"
+}

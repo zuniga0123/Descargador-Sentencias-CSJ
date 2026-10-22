@@ -1,0 +1,25 @@
+{
+  "radicado": "SL507-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-09-18T17:29:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Tipos de contrato y vinculación",
+  "puntaje_clasificacion": 8,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2400 de 2002",
+    "Decreto 356 de 1994",
+    "Decreto 468 de 1990",
+    "Ley 100 de 1993",
+    "Ley 79 de 1988",
+    "Ley 79 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Rigoberto Echeverri Bueno/Sentencias/SL507-2013.doc",
+  "fecha_descarga": "2026-10-22T18:50:08.532076+00:00"
+}

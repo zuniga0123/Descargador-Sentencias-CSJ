@@ -1,0 +1,31 @@
+{
+  "radicado": "SL862-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2014-05-07T19:37:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 43,
+  "leyes_o_articulos": [
+    "Decreto 1015 de 1956",
+    "Decreto 1282 de 1994",
+    "Decreto 1283 de 1994",
+    "Decreto 1295 de 1994",
+    "Decreto 2633 de 1994",
+    "Decreto 2665 de 1988",
+    "Decreto 60 de 1973",
+    "Decreto 824 de 2001",
+    "Ley 100 de 1993",
+    "Ley 32 de 1961",
+    "Ley 446 de 1998",
+    "Ley 797 de 2003",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL862-2013.doc",
+  "fecha_descarga": "2026-10-22T18:39:19.955363+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "radicado": "SL579-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2014-01-14T22:18:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 1045 de 1978",
+    "Ley 6 de 1945",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL579-2013.doc",
+  "fecha_descarga": "2026-10-22T18:43:46.268261+00:00"
+}

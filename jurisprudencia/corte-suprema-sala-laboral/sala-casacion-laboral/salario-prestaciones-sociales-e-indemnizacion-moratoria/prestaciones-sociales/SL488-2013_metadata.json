@@ -1,0 +1,24 @@
+{
+  "radicado": "SL488-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-08-22T22:11:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 102,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 2351 de 1965",
+    "Decreto 3135 de 1968",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Carlos Ernesto Molina Monsalve/Sentencias/SL488-2013.doc",
+  "fecha_descarga": "2026-10-22T18:53:00.950447+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "radicado": "SL833-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2014-01-24T21:43:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 9,
+  "leyes_o_articulos": [
+    "Decreto 1333 de 1986",
+    "Decreto 1421 de 1993",
+    "Decreto 2615 de 1946",
+    "Decreto 2651 de 1991",
+    "Decreto 797 de 1949",
+    "Ley 1421 de 1993",
+    "Ley 153 de 1887",
+    "Ley 181 de 1995",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL833-2013.doc",
+  "fecha_descarga": "2026-10-22T18:41:44.409038+00:00"
+}

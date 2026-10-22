@@ -1,0 +1,26 @@
+{
+  "radicado": "SL912-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2014-09-01T14:56:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 73,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 2651 de 1991",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 446 de 1998",
+    "Ley 48 de 1968",
+    "Ley 50 de 1990",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL912-2013.doc",
+  "fecha_descarga": "2026-10-22T18:39:10.860382+00:00"
+}

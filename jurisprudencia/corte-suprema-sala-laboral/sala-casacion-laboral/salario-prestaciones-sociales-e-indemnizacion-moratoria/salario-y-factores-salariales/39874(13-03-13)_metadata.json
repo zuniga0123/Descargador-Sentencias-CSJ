@@ -1,0 +1,29 @@
+{
+  "radicado": "39874(13-03-13)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-05-27T15:47:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 1651 de 1972",
+    "Decreto 2148 de 1992",
+    "Decreto 3041 de 1966",
+    "Decreto 692 de 1994",
+    "Decreto 758 de 1990",
+    "Decreto 962 de 1994",
+    "Ley 100 de 1993",
+    "Ley 16 de 1968",
+    "Ley 16 de 1969",
+    "Ley 1651 de 1977",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Carlos Ernesto Molina Monsalve/Sentencias/39874(13-03-13).doc",
+  "fecha_descarga": "2026-10-22T18:58:22.336490+00:00"
+}

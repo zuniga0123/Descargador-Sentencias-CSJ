@@ -1,0 +1,25 @@
+{
+  "radicado": "58702(10-04-13)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2015-05-19T20:47:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Huelga",
+  "puntaje_clasificacion": 60,
+  "leyes_o_articulos": [
+    "Decreto 1747 de 1999",
+    "Ley 105 de 1993",
+    "Ley 1210 de 2008",
+    "Ley 1444 de 2011",
+    "Ley 336 de 1996",
+    "Ley 366 de 1996",
+    "Ley 527 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Carlos Ernesto Molina Monsalve/Sentencias/58702(10-04-13).doc",
+  "fecha_descarga": "2026-10-22T18:39:05.367552+00:00"
+}

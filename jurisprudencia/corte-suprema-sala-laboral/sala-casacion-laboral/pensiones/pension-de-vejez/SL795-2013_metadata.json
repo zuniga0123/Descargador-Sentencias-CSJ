@@ -1,0 +1,24 @@
+{
+  "radicado": "SL795-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2014-01-24T21:41:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 1299 de 1994",
+    "Decreto 1465 de 1982",
+    "Decreto 3063 de 1989",
+    "Decreto 562 de 1990",
+    "Ley 100 de 1993",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Rigoberto Echeverri Bueno/Sentencias/SL795-2013.doc",
+  "fecha_descarga": "2026-10-22T18:42:02.058539+00:00"
+}

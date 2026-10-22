@@ -1,0 +1,28 @@
+{
+  "radicado": "SL829-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2014-01-24T21:51:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 1064 de 1999",
+    "Decreto 1160 de 1989",
+    "Decreto 1611 de 1962",
+    "Decreto 2218 de 1966",
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL829-2013.doc",
+  "fecha_descarga": "2026-10-22T18:40:36.518210+00:00"
+}

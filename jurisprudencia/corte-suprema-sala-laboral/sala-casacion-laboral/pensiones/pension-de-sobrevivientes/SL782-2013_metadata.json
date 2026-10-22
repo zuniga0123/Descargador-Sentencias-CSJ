@@ -1,0 +1,23 @@
+{
+  "radicado": "SL782-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-12-02T15:51:00Z",
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 1046 de 1999",
+    "Decreto 1642 de 1995",
+    "Decreto 1665 de 1968",
+    "Decreto 2365 de 1995",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Gustavo Hernando López Algarra/Sentencias/SL782-2013.doc",
+  "fecha_descarga": "2026-10-22T18:45:21.368614+00:00"
+}

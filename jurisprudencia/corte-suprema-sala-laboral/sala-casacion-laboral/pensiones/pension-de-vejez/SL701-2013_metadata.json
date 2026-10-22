@@ -1,0 +1,28 @@
+{
+  "radicado": "SL701-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-11-06T16:01:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 1935 de 1973",
+    "Decreto 2875 de 1985",
+    "Decreto 2879 de 1985",
+    "Decreto 3041 de 1966",
+    "Decreto 433 de 1971",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1650 de 1977",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL701-2013.doc",
+  "fecha_descarga": "2026-10-22T18:47:24.530262+00:00"
+}

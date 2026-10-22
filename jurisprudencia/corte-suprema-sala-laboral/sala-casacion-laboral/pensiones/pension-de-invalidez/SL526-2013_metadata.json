@@ -1,0 +1,26 @@
+{
+  "radicado": "SL526-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-11-08T14:00:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 2265 de 1988",
+    "Decreto 3170 de 1964",
+    "Decreto 4133 de 1948",
+    "Ley 100 de 1993",
+    "Ley 1295 de 1994",
+    "Ley 2158 de 1948",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL526-2013.doc",
+  "fecha_descarga": "2026-10-22T18:45:56.759368+00:00"
+}

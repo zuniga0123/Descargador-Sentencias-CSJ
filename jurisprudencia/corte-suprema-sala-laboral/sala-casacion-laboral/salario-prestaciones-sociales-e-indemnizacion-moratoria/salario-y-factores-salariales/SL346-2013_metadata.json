@@ -1,0 +1,22 @@
+{
+  "radicado": "SL346-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-06-18T18:28:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Ley 16 de 1969",
+    "Ley 446 de 1998",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Carlos Ernesto Molina Monsalve/Sentencias/SL346-2013.doc",
+  "fecha_descarga": "2026-10-22T18:57:23.188207+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL657-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-09-18T17:30:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 1835 de 1994",
+    "Decreto 2123 de 1992",
+    "Decreto 2261 de 1960",
+    "Decreto 2661 de 1960",
+    "Ley 100 de 1993",
+    "Ley 22 de 1945",
+    "Ley 28 de 1943"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL657-2013.doc",
+  "fecha_descarga": "2026-10-22T18:50:06.728767+00:00"
+}

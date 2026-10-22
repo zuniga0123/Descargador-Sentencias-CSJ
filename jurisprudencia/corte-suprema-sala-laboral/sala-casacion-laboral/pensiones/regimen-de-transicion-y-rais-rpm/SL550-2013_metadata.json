@@ -1,0 +1,33 @@
+{
+  "radicado": "SL550-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-12-13T16:06:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 1650 de 1977",
+    "Decreto 1650 de 1997",
+    "Decreto 3041 de 1966",
+    "Decreto 3063 de 1989",
+    "Decreto 3135 de 1968",
+    "Decreto 510 de 2003",
+    "Decreto 692 de 1994",
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 226 de 1995",
+    "Ley 33 de 1985",
+    "Ley 433 de 1971",
+    "Ley 797 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL550-2013.doc",
+  "fecha_descarga": "2026-10-22T18:44:07.300332+00:00"
+}

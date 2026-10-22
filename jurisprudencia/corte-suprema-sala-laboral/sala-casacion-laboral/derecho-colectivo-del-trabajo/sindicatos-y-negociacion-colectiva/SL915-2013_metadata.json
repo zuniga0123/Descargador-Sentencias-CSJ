@@ -1,0 +1,26 @@
+{
+  "radicado": "SL915-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2014-01-24T21:54:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 67,
+  "leyes_o_articulos": [
+    "Decreto 063 de 2002",
+    "Decreto 63 de 2000",
+    "Decreto 63 de 2002",
+    "Ley 145 de 1999",
+    "Ley 270 de 1996",
+    "Ley 50 de 1990",
+    "Ley 550 de 1990",
+    "Ley 550 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL915-2013.doc",
+  "fecha_descarga": "2026-10-22T18:40:14.920608+00:00"
+}

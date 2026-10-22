@@ -1,0 +1,21 @@
+{
+  "radicado": "SL363-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-06-19T15:41:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 3041 de 1966",
+    "Decreto 433 de 1971",
+    "Ley 433 de 1971"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Carlos Ernesto Molina Monsalve/Sentencias/SL363-2013.doc",
+  "fecha_descarga": "2026-10-22T18:57:10.731749+00:00"
+}

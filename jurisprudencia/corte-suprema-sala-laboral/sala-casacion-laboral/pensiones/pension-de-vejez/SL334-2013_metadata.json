@@ -1,0 +1,25 @@
+{
+  "radicado": "SL334-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-06-19T21:00:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 1448 de 1969",
+    "Decreto 1800 de 1983",
+    "Decreto 1848 de 1969",
+    "Decreto 3041 de 1966",
+    "Decreto 3135 de 1968",
+    "Decreto 758 de 1990",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Rigoberto Echeverri Bueno/Sentencias/SL334-2013.doc",
+  "fecha_descarga": "2026-10-22T18:56:44.748764+00:00"
+}

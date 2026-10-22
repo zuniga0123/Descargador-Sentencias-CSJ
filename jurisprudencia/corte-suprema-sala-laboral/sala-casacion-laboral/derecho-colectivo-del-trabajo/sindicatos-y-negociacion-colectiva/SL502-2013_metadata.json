@@ -1,0 +1,28 @@
+{
+  "radicado": "SL502-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-09-04T17:21:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 1161 de 1999",
+    "Decreto 1748 de 1995",
+    "Decreto 2127 de 1945",
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1993",
+    "Ley 11 de 1984",
+    "Ley 2351 de 1965",
+    "Ley 27 de 1976",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Carlos Ernesto Molina Monsalve/Sentencias/SL502-2013.doc",
+  "fecha_descarga": "2026-10-22T18:51:04.084457+00:00"
+}

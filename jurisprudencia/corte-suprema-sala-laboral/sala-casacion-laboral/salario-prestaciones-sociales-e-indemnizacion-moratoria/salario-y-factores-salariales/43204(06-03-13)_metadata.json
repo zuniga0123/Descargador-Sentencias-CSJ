@@ -1,0 +1,30 @@
+{
+  "radicado": "43204(06-03-13)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-05-22T17:09:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 66,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1223 de 1993",
+    "Decreto 2127 de 1945",
+    "Decreto 2153 de 1965",
+    "Decreto 2351 de 1964",
+    "Decreto 2351 de 1965",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 153 de 1887",
+    "Ley 27 de 1992",
+    "Ley 50 de 1990",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/43204(06-03-13).doc",
+  "fecha_descarga": "2026-10-22T18:58:50.415166+00:00"
+}

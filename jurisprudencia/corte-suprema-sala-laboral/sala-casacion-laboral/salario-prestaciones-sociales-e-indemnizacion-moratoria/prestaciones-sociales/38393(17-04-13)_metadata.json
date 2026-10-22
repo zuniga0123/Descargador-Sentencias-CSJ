@@ -1,0 +1,26 @@
+{
+  "radicado": "38393(17-04-13)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-05-08T21:54:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1160 de 1947",
+    "Decreto 2127 de 1945",
+    "Decreto 3118 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 244 de 1995",
+    "Ley 64 de 1946",
+    "Ley 65 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Rigoberto Echeverri Bueno/Sentencias/38393(17-04-13).doc",
+  "fecha_descarga": "2026-10-22T18:59:57.388976+00:00"
+}

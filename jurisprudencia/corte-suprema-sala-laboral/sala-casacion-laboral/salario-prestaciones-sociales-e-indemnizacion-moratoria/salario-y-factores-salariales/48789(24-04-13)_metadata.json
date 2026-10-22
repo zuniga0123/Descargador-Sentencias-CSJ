@@ -1,0 +1,28 @@
+{
+  "radicado": "48789(24-04-13)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-05-27T17:37:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Decreto 1586 de 1989",
+    "Decreto 2282 de 1989",
+    "Decreto 2282 de 2003",
+    "Decreto 255 de 2000",
+    "Decreto 2721 de 2008",
+    "Decreto 502 de 2009",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 21 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Rigoberto Echeverri Bueno/Sentencias/48789(24-04-13).doc",
+  "fecha_descarga": "2026-10-22T18:58:06.555693+00:00"
+}

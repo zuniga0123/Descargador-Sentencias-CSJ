@@ -1,0 +1,24 @@
+{
+  "radicado": "SL614-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2014-01-24T21:41:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Decreto 794 de 1949",
+    "Decreto 797 de 1949",
+    "Ley 1750 de 2003",
+    "Ley 6 de 1945",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Rigoberto Echeverri Bueno/Sentencias/SL614-2013.doc",
+  "fecha_descarga": "2026-10-22T18:42:00.211974+00:00"
+}

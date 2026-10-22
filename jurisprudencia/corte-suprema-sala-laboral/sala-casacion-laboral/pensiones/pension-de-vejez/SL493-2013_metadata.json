@@ -1,0 +1,23 @@
+{
+  "radicado": "SL493-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-07-26T17:18:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 2879 de 1985",
+    "Decreto 3135 de 1968",
+    "Ley 12 de 1975",
+    "Ley 6 de 1945",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL493-2013.doc",
+  "fecha_descarga": "2026-10-22T18:54:17.609377+00:00"
+}

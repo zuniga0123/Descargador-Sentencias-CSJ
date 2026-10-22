@@ -1,0 +1,32 @@
+{
+  "radicado": "SL702-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-11-06T16:01:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 25,
+  "leyes_o_articulos": [
+    "Decreto 1050 de 1968",
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 3041 de 1966",
+    "Decreto 3130 de 1968",
+    "Decreto 3135 de 1968",
+    "Ley 10 de 1972",
+    "Ley 100 de 1993",
+    "Ley 113 de 1985",
+    "Ley 12 de 1975",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 33 de 1985",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL702-2013.doc",
+  "fecha_descarga": "2026-10-22T18:47:22.789718+00:00"
+}

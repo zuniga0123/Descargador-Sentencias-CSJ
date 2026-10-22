@@ -1,0 +1,21 @@
+{
+  "radicado": "42050(27-02-13)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-04-15T13:53:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 21,
+  "leyes_o_articulos": [
+    "Decreto 1748 de 1995",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/42050(27-02-13).doc",
+  "fecha_descarga": "2026-10-22T19:01:47.614672+00:00"
+}

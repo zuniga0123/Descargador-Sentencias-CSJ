@@ -1,0 +1,21 @@
+{
+  "radicado": "SL444-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-07-23T20:52:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 656 de 1994",
+    "Ley 100 de 1993",
+    "Ley 717 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL444-2013.doc",
+  "fecha_descarga": "2026-10-22T18:55:20.240985+00:00"
+}

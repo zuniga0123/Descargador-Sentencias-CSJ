@@ -1,0 +1,25 @@
+{
+  "radicado": "SL551-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-10-25T22:05:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 813 de 1994",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 12 de 1975",
+    "Ley 153 de 1887",
+    "Ley 33 de 1985",
+    "Ley 446 de 1991"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Rigoberto Echeverri Bueno/Sentencias/SL551-2013.doc",
+  "fecha_descarga": "2026-10-22T18:48:21.083278+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "radicado": "SL608-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-09-13T21:10:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 97,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 2651 de 1991",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 10 de 1934",
+    "Ley 1042 de 1978",
+    "Ley 446 de 1998",
+    "Ley 6 de 1945",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL608-2013.doc",
+  "fecha_descarga": "2026-10-22T18:50:30.405999+00:00"
+}

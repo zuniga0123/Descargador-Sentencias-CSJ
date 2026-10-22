@@ -1,0 +1,26 @@
+{
+  "radicado": "SL715-2013",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2013,
+  "fecha_creacion": "2013-11-06T16:52:00Z",
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 63,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 228 de 1995",
+    "Decreto 2633 de 1994",
+    "Decreto 2665 de 1988",
+    "Decreto 656 de 1994",
+    "Ley 100 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2013/Dr.Gustavo Hernando López Algarra/Sentencias/SL715-2013.doc",
+  "fecha_descarga": "2026-10-22T18:46:02.061533+00:00"
+}
