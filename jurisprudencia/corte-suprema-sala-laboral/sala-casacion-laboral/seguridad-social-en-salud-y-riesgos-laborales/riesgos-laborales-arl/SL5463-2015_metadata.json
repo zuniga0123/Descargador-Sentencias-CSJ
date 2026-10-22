@@ -1,0 +1,28 @@
+{
+  "radicado": "SL5463-2015",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2015,
+  "fecha_creacion": "2015-05-29T14:58:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 82,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1695 de 1960",
+    "Decreto 1771 de 1994",
+    "Decreto 3170 de 1964",
+    "Ley 100 de 1993",
+    "Ley 1295 de 1994",
+    "Ley 433 de 1971",
+    "Ley 776 de 2002",
+    "Ley 776 de 2003",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2015/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL5463-2015.doc",
+  "fecha_descarga": "2026-10-22T17:46:49.683622+00:00"
+}
