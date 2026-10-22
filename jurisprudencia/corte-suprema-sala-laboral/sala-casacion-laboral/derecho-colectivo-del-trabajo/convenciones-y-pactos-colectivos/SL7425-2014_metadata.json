@@ -1,0 +1,23 @@
+{
+  "radicado": "SL7425-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-06-25T01:51:00Z",
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Decreto 2127 de 1945",
+    "Decreto 2651 de 1991",
+    "Ley 33 de 1985",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Gustavo Hernando López Algarra/Sentencias/SL7425-2014.doc",
+  "fecha_descarga": "2026-10-22T18:24:01.808879+00:00"
+}

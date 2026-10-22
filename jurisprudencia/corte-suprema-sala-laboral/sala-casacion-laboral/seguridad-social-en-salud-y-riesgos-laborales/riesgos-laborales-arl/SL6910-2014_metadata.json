@@ -1,0 +1,25 @@
+{
+  "radicado": "SL6910-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-08-28T21:43:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2282 de 1989",
+    "Decreto 2351 de 1965",
+    "Ley 16 de 1969",
+    "Ley 2351 de 1965",
+    "Ley 50 de 1990",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL6910-2014.doc",
+  "fecha_descarga": "2026-10-22T18:18:50.693311+00:00"
+}

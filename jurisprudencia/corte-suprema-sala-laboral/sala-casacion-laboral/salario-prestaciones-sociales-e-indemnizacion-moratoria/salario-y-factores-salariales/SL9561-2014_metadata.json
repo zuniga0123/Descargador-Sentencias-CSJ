@@ -1,0 +1,20 @@
+{
+  "radicado": "SL9561-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-08-01T15:11:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 62,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL9561-2014.doc",
+  "fecha_descarga": "2026-10-22T18:20:56.341650+00:00"
+}

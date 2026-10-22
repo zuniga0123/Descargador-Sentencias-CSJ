@@ -1,0 +1,25 @@
+{
+  "radicado": "SL5543-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-05-26T12:58:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 1335 de 1990",
+    "Decreto 2127 de 1945",
+    "Decreto 2148 de 1992",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 10 de 1990",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL5543-2014.doc",
+  "fecha_descarga": "2026-10-22T18:25:55.890982+00:00"
+}

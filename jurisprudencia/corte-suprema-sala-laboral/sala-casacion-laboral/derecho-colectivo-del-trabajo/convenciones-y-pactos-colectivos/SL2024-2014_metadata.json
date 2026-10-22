@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2024-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-03-06T20:40:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 2879 de 1985",
+    "Decreto 3135 de 1968",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL2024-2014.doc",
+  "fecha_descarga": "2026-10-22T18:33:40.308646+00:00"
+}

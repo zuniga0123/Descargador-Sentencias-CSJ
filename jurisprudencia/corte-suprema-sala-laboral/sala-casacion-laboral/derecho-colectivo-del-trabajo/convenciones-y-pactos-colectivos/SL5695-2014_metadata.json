@@ -1,0 +1,24 @@
+{
+  "radicado": "SL5695-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-05-26T12:53:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 29,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 4 de 1976",
+    "Ley 50 de 1990",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Carlos Ernesto Molina Monsalve/Sentencias/SL5695-2014.doc",
+  "fecha_descarga": "2026-10-22T18:26:40.480018+00:00"
+}

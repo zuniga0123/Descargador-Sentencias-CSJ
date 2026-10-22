@@ -1,0 +1,25 @@
+{
+  "radicado": "SL8929-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-08-05T10:01:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 84,
+  "leyes_o_articulos": [
+    "Decreto 062 de 1970",
+    "Decreto 1045 de 1978",
+    "Decreto 1050 de 1968",
+    "Decreto 1160 de 1947",
+    "Decreto 2027 de 1951",
+    "Ley 2027 de 1951",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL8929-2014.doc",
+  "fecha_descarga": "2026-10-22T18:20:52.009549+00:00"
+}

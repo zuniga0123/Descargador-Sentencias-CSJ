@@ -1,0 +1,24 @@
+{
+  "radicado": "SL2924-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-03-28T12:52:00Z",
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Decreto 876 de 1994",
+    "Ley 100 de 1993",
+    "Ley 270 de 1996",
+    "Ley 707 de 2003",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Gustavo Hernando López Algarra/Sentencias/SL2924-2014.doc",
+  "fecha_descarga": "2026-10-22T18:31:36.997401+00:00"
+}

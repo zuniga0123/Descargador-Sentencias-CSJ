@@ -1,0 +1,20 @@
+{
+  "radicado": "SL14433-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-11-13T15:33:55Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 361 de 1997"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL14433-2014.pdf",
+  "fecha_descarga": "2026-10-22T18:12:58.847663+00:00"
+}

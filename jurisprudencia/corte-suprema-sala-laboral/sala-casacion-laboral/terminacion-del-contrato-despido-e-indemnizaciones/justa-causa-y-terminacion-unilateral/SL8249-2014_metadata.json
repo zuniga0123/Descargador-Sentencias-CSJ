@@ -1,0 +1,25 @@
+{
+  "radicado": "SL8249-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": null,
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Decreto 1950 de 1973",
+    "Decreto 2127 de 1945",
+    "Decreto 2127 de 1946",
+    "Decreto 2351 de 1965",
+    "Decreto 2615 de 1946",
+    "Ley 797 de 1949"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Gustavo Hernando López Algarra/Sentencias/SL8249-2014.pdf",
+  "fecha_descarga": "2026-10-22T18:23:06.509282+00:00"
+}

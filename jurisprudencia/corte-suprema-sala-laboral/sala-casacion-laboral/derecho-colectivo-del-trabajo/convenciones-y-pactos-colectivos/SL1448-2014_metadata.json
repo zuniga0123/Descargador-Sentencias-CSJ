@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1448-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-06-13T22:07:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 31,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 1990",
+    "Decreto 1750 de 2003",
+    "Ley 1750 de 2003",
+    "Ley 443 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Rigoberto Echeverri Bueno/Sentencias/SL1448-2014.doc",
+  "fecha_descarga": "2026-10-22T18:24:17.769940+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "radicado": "SL7913-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": null,
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 16,
+  "leyes_o_articulos": [
+    "Decreto 092 de 2000",
+    "Decreto 130 de 1976",
+    "Decreto 2331 de 1998",
+    "Decreto 2527 de 2000",
+    "Decreto 2725 de 2000",
+    "Decreto 300 de 2003",
+    "Decreto 3041 de 1966",
+    "Decreto 3800 de 2003",
+    "Ley 10 de 1972",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 489 de 1998",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Gustavo Hernando López Algarra/Sentencias/SL7913-2014.pdf",
+  "fecha_descarga": "2026-10-22T18:23:18.831798+00:00"
+}

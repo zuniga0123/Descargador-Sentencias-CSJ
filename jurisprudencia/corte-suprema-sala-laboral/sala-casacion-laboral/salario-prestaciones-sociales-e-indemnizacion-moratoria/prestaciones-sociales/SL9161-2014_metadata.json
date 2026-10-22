@@ -1,0 +1,31 @@
+{
+  "radicado": "SL9161-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-07-28T03:08:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 49,
+  "leyes_o_articulos": [
+    "Decreto 1406 de 1999",
+    "Decreto 2351 de 1965",
+    "Decreto 2795 de 1991",
+    "Decreto 3457 de 2004",
+    "Ley 100 de 1993",
+    "Ley 141 de 1961",
+    "Ley 2351 de 1965",
+    "Ley 270 de 1996",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975",
+    "Ley 712 de 2001",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL9161-2014.doc",
+  "fecha_descarga": "2026-10-22T18:21:35.271014+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL11042-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-09-06T13:39:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 49,
+  "leyes_o_articulos": [
+    "Decreto 1730 de 2001",
+    "Decreto 2013 de 2012",
+    "Decreto 510 de 2003",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL11042-2014.doc",
+  "fecha_descarga": "2026-10-22T18:17:34.560329+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "radicado": "SL8488-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-07-15T18:07:00Z",
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Decreto 104 de 1994",
+    "Decreto 1045 de 1978",
+    "Decreto 1158 de 1994",
+    "Decreto 1359 de 1993",
+    "Decreto 1743 de 1966",
+    "Decreto 691 de 1994",
+    "Decreto 717 de 1978",
+    "Ley 100 de 1993",
+    "Ley 153 de 1987",
+    "Ley 171 de 1961",
+    "Ley 33 de 1985",
+    "Ley 446 de 1998",
+    "Ley 62 de 1985",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Gustavo Hernando López Algarra/Sentencias/SL8488-2014.doc",
+  "fecha_descarga": "2026-10-22T18:22:15.532718+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "radicado": "SL590-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-05-05T20:08:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1064 de 1999",
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 50 de 1990",
+    "Ley 57 de 1887"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL590-2014.doc",
+  "fecha_descarga": "2026-10-22T18:28:14.237754+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "radicado": "SL12938-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-10-17T17:19:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1158 de 1994",
+    "Decreto 2196 de 2009",
+    "Decreto 2651 de 1991",
+    "Decreto 3135 de 1968",
+    "Decreto 691 de 1994",
+    "Decreto 911 de 1978",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 446 de 1998",
+    "Ley 6 de 1945",
+    "Ley 62 de 1985",
+    "Ley 717 de 1978"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL12938-2014.doc",
+  "fecha_descarga": "2026-10-22T18:14:15.892911+00:00"
+}

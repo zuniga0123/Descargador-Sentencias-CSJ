@@ -1,0 +1,21 @@
+{
+  "radicado": "SL7392-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": null,
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Estabilidad Laboral Reforzada y Fuero",
+  "subtema": "Fuero sindical",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 1615 de 2003",
+    "Decreto 254 de 2000",
+    "Decreto 254 de 2004"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL7392-2014.pdf",
+  "fecha_descarga": "2026-10-22T18:23:22.500608+00:00"
+}

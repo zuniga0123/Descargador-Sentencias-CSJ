@@ -1,0 +1,23 @@
+{
+  "radicado": "SL9394-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-08-15T22:37:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989",
+    "Decreto 2458 de 1988",
+    "Ley 1 de 1976",
+    "Ley 100 de 1993",
+    "Ley 25 de 1992"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL9394-2014.doc",
+  "fecha_descarga": "2026-10-22T18:19:04.649711+00:00"
+}

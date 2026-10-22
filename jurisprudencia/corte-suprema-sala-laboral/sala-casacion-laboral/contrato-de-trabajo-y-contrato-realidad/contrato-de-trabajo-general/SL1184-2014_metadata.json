@@ -1,0 +1,21 @@
+{
+  "radicado": "SL1184-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-03-28T13:00:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Ley 153 de 1887",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Rigoberto Echeverri Bueno/Sentencias/SL1184-2014.doc",
+  "fecha_descarga": "2026-10-22T18:30:49.221273+00:00"
+}

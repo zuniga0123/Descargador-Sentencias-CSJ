@@ -1,0 +1,23 @@
+{
+  "radicado": "SL9174-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-07-28T03:08:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Ley 113 de 1985",
+    "Ley 12 de 1975",
+    "Ley 133 de 1985",
+    "Ley 33 de 1973",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL9174-2014.doc",
+  "fecha_descarga": "2026-10-22T18:21:38.699296+00:00"
+}

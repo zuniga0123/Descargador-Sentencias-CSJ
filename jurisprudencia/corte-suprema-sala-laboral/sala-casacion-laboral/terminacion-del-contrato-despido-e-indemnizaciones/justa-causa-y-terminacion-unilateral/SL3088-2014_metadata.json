@@ -1,0 +1,30 @@
+{
+  "radicado": "SL3088-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-05-26T12:56:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 80,
+  "leyes_o_articulos": [
+    "Decreto 2331 de 1998",
+    "Decreto 2351 de 1965",
+    "Decreto 3041 de 1966",
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 2351 de 1965",
+    "Ley 33 de 1985",
+    "Ley 33 de 1993",
+    "Ley 33 de 1995",
+    "Ley 48 de 1968",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL3088-2014.doc",
+  "fecha_descarga": "2026-10-22T18:26:20.912686+00:00"
+}

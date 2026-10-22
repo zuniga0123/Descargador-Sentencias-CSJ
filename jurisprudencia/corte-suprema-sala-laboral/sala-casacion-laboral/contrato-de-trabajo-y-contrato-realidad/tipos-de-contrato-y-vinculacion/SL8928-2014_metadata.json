@@ -1,0 +1,27 @@
+{
+  "radicado": "SL8928-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-08-05T09:56:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Tipos de contrato y vinculación",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 2127 de 1945",
+    "Decreto 2651 de 1991",
+    "Decreto 468 de 1990",
+    "Ley 153 de 1887",
+    "Ley 2127 de 1945",
+    "Ley 50 de 1990",
+    "Ley 64 de 1946",
+    "Ley 712 de 2001",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL8928-2014.doc",
+  "fecha_descarga": "2026-10-22T18:20:54.518629+00:00"
+}

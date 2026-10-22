@@ -1,0 +1,24 @@
+{
+  "radicado": "SL8623-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-07-15T18:14:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 80,
+  "leyes_o_articulos": [
+    "Decreto 244 de 1995",
+    "Decreto 255 de 2000",
+    "Decreto 2721 de 2008",
+    "Decreto 747 de 1949",
+    "Decreto 797 de 1949",
+    "Ley 244 de 1995"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL8623-2014.doc",
+  "fecha_descarga": "2026-10-22T18:22:12.118912+00:00"
+}

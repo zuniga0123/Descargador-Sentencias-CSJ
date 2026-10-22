@@ -1,0 +1,23 @@
+{
+  "radicado": "SL8165-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-07-10T18:14:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 356 de 1994",
+    "Ley 50 de 1990",
+    "Ley 776 de 2002",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL8165-2014.doc",
+  "fecha_descarga": "2026-10-22T18:22:48.798304+00:00"
+}

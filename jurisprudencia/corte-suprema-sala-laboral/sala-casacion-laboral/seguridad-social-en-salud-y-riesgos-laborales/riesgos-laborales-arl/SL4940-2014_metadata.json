@@ -1,0 +1,28 @@
+{
+  "radicado": "SL4940-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-05-05T20:07:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 110,
+  "leyes_o_articulos": [
+    "Decreto 10 de 1992",
+    "Decreto 116 de 1976",
+    "Decreto 1373 de 1966",
+    "Decreto 2351 de 1965",
+    "Decreto 617 de 1954",
+    "Ley 171 de 1961",
+    "Ley 222 de 1995",
+    "Ley 48 de 1968",
+    "Ley 50 de 1990",
+    "Ley 52 de 1975"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL4940-2014.doc",
+  "fecha_descarga": "2026-10-22T18:28:21.385870+00:00"
+}

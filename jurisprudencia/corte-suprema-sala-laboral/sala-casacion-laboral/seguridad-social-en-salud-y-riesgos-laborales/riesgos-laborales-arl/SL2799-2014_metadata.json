@@ -1,0 +1,26 @@
+{
+  "radicado": "SL2799-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-05-09T13:24:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 47,
+  "leyes_o_articulos": [
+    "Decreto 1295 de 1994",
+    "Decreto 1695 de 1960",
+    "Decreto 1771 de 1994",
+    "Decreto 2351 de 1965",
+    "Decreto 3160 de 1964",
+    "Ley 433 de 1971",
+    "Ley 776 de 2002",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Rigoberto Echeverri Bueno/Sentencias/SL2799-2014.doc",
+  "fecha_descarga": "2026-10-22T18:27:07.986412+00:00"
+}

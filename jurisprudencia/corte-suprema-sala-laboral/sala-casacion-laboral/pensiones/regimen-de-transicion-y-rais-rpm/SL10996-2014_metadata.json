@@ -1,0 +1,26 @@
+{
+  "radicado": "SL10996-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-09-06T13:34:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 14,
+  "leyes_o_articulos": [
+    "Decreto 092 de 2000",
+    "Decreto 2331 de 1998",
+    "Decreto 3130 de 1968",
+    "Decreto 3135 de 1968",
+    "Decreto 663 de 1993",
+    "Ley 10 de 1972",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL10996-2014.doc",
+  "fecha_descarga": "2026-10-22T18:17:43.207194+00:00"
+}

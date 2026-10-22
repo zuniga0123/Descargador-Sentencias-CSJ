@@ -1,0 +1,28 @@
+{
+  "radicado": "SL994-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-06-08T22:54:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1947",
+    "Decreto 1750 de 2003",
+    "Decreto 2127 de 1945",
+    "Decreto 2567 de 1946",
+    "Decreto 3148 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 2351 de 1965",
+    "Ley 3135 de 1968",
+    "Ley 64 de 1946",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL994-2014.doc",
+  "fecha_descarga": "2026-10-22T18:25:26.127616+00:00"
+}

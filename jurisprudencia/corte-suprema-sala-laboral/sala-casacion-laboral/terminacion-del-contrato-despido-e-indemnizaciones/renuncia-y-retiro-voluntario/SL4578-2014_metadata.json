@@ -1,0 +1,31 @@
+{
+  "radicado": "SL4578-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-05-26T12:56:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Renuncia y retiro voluntario",
+  "puntaje_clasificacion": 54,
+  "leyes_o_articulos": [
+    "Decreto 1824 de 1965",
+    "Decreto 2282 de 1989",
+    "Decreto 3041 de 1966",
+    "Ley 10 de 1972",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 171 de 1961",
+    "Ley 171 de 1966",
+    "Ley 22 de 1967",
+    "Ley 445 de 1998",
+    "Ley 50 de 1990",
+    "Ley 712 de 2001",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL4578-2014.doc",
+  "fecha_descarga": "2026-10-22T18:26:17.158599+00:00"
+}

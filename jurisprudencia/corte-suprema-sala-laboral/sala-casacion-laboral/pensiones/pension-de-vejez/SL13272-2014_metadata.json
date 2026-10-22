@@ -1,0 +1,26 @@
+{
+  "radicado": "SL13272-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-10-14T21:35:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1650 de 1977",
+    "Decreto 1848 de 1969",
+    "Decreto 433 de 1971",
+    "Ley 100 de 1993",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1985",
+    "Ley 71 de 1988",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL13272-2014.doc",
+  "fecha_descarga": "2026-10-22T18:15:00.547804+00:00"
+}

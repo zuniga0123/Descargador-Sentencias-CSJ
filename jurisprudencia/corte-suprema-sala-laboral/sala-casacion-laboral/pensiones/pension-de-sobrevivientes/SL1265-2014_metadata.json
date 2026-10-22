@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1265-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-03-10T21:21:00Z",
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 758 de 1990",
+    "Ley 100 de 1003",
+    "Ley 100 de 1993",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 550 de 1999",
+    "Ley 71 de 1993",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Gustavo Hernando López Algarra/Sentencias/SL1265-2014.doc",
+  "fecha_descarga": "2026-10-22T18:33:20.869545+00:00"
+}

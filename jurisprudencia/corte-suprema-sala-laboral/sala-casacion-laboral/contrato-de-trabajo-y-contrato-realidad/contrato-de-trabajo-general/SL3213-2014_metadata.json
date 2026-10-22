@@ -1,0 +1,21 @@
+{
+  "radicado": "SL3213-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-03-28T12:53:00Z",
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 2879 de 1985",
+    "Decreto 758 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Gustavo Hernando López Algarra/Sentencias/SL3213-2014.doc",
+  "fecha_descarga": "2026-10-22T18:31:24.666284+00:00"
+}

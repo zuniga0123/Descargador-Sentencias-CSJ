@@ -1,0 +1,24 @@
+{
+  "radicado": "SL5546-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-05-26T12:58:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Decreto 2127 de 1945",
+    "Decreto 528 de 1964",
+    "Decreto 749 de 1949",
+    "Decreto 797 de 1949",
+    "Ley 789 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL5546-2014.doc",
+  "fecha_descarga": "2026-10-22T18:26:02.833233+00:00"
+}

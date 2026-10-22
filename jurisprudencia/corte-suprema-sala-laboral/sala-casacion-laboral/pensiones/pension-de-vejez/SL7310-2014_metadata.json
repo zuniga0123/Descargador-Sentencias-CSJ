@@ -1,0 +1,33 @@
+{
+  "radicado": "SL7310-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-06-25T02:34:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Decreto 1068 de 1995",
+    "Decreto 1098 de 1995",
+    "Decreto 1150 de 1977",
+    "Decreto 1748 de 1995",
+    "Decreto 1824 de 1965",
+    "Decreto 1935 de 1973",
+    "Decreto 3041 de 1966",
+    "Decreto 433 de 1971",
+    "Decreto 692 de 1994",
+    "Decreto 758 de 1990",
+    "Decreto 770 de 1975",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 50 de 1990",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL7310-2014.doc",
+  "fecha_descarga": "2026-10-22T18:23:41.758071+00:00"
+}

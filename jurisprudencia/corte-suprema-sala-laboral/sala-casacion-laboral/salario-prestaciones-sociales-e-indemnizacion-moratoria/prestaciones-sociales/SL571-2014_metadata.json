@@ -1,0 +1,21 @@
+{
+  "radicado": "SL571-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-04-10T23:39:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 41,
+  "leyes_o_articulos": [
+    "Decreto 062 de 1970",
+    "Decreto 1160 de 1947",
+    "Ley 48 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL571-2014.doc",
+  "fecha_descarga": "2026-10-22T18:29:07.102422+00:00"
+}

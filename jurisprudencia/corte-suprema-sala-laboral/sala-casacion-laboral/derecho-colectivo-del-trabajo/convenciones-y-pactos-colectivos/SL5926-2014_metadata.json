@@ -1,0 +1,23 @@
+{
+  "radicado": "SL5926-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-05-26T12:58:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 3041 de 1966",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 48 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL5926-2014.doc",
+  "fecha_descarga": "2026-10-22T18:26:01.127281+00:00"
+}

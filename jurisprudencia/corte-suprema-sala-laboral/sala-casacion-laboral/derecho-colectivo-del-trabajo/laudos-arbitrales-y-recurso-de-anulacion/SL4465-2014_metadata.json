@@ -1,0 +1,28 @@
+{
+  "radicado": "SL4465-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-05-09T13:19:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Laudos arbitrales y recurso de anulación",
+  "puntaje_clasificacion": 34,
+  "leyes_o_articulos": [
+    "Decreto 1373 de 1966",
+    "Decreto 1373 de 1996",
+    "Decreto 2351 de 1965",
+    "Decreto 2651 de 1991",
+    "Ley 11 de 1984",
+    "Ley 27 de 1976",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 789 de 2002",
+    "Ley 797 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL4465-2014.doc",
+  "fecha_descarga": "2026-10-22T18:27:41.179902+00:00"
+}

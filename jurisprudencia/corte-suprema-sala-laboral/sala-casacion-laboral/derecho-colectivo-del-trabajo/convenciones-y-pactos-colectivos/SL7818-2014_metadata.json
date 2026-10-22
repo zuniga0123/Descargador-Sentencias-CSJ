@@ -1,0 +1,24 @@
+{
+  "radicado": "SL7818-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-09-01T14:30:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Ley 100 de 1993",
+    "Ley 26 de 1976",
+    "Ley 33 de 1985",
+    "Ley 446 de 1998",
+    "Ley 53 de 1887"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL7818-2014.doc",
+  "fecha_descarga": "2026-10-22T18:18:38.477496+00:00"
+}

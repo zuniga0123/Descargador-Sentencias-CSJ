@@ -1,0 +1,24 @@
+{
+  "radicado": "SL4843-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-05-05T20:07:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Decreto 690 de 1974",
+    "Ley 113 de 1985",
+    "Ley 33 de 1973",
+    "Ley 71 de 1988",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL4843-2014.doc",
+  "fecha_descarga": "2026-10-22T18:28:19.390103+00:00"
+}

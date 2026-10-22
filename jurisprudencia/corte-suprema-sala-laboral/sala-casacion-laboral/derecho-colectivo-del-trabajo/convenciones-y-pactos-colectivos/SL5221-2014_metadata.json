@@ -1,0 +1,24 @@
+{
+  "radicado": "SL5221-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-05-26T12:53:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Decreto 2013 de 2012",
+    "Decreto 2351 de 1965",
+    "Ley 1042 de 1978",
+    "Ley 1050 de 1968",
+    "Ley 3130 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Carlos Ernesto Molina Monsalve/Sentencias/SL5221-2014.doc",
+  "fecha_descarga": "2026-10-22T18:26:48.445270+00:00"
+}

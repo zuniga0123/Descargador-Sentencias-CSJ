@@ -1,0 +1,27 @@
+{
+  "radicado": "SL6094-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-05-26T13:01:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Decreto 2013 de 2012",
+    "Decreto 2351 de 1965",
+    "Ley 1042 de 1978",
+    "Ley 1050 de 1968",
+    "Ley 1750 de 2003",
+    "Ley 3130 de 1968",
+    "Ley 790 de 2002",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL6094-2014.doc",
+  "fecha_descarga": "2026-10-22T18:25:34.902557+00:00"
+}

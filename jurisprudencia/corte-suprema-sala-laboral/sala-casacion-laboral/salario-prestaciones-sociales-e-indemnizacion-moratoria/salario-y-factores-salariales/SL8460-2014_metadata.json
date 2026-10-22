@@ -1,0 +1,24 @@
+{
+  "radicado": "SL8460-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-07-10T19:24:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 36,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 2344 de 1971",
+    "Decreto 2701 de 1988",
+    "Decreto 2701 de 1998",
+    "Decreto 528 de 1964",
+    "Ley 16 de 1969"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL8460-2014.doc",
+  "fecha_descarga": "2026-10-22T18:22:45.136063+00:00"
+}

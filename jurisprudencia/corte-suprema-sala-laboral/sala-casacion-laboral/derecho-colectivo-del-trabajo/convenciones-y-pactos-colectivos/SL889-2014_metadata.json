@@ -1,0 +1,23 @@
+{
+  "radicado": "SL889-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-03-10T21:20:00Z",
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 44,
+  "leyes_o_articulos": [
+    "Decreto 2282 de 1989",
+    "Decreto 692 de 1994",
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993",
+    "Ley 2351 de 1965"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Gustavo Hernando López Algarra/Sentencias/SL889-2014.doc",
+  "fecha_descarga": "2026-10-22T18:33:24.414639+00:00"
+}

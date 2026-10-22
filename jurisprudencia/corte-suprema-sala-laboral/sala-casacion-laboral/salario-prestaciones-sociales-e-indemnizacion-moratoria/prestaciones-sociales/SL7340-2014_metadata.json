@@ -1,0 +1,23 @@
+{
+  "radicado": "SL7340-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-06-25T02:39:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 1222 de 1986",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 1848 de 1969",
+    "Ley 3135 de 1968"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL7340-2014.doc",
+  "fecha_descarga": "2026-10-22T18:23:38.236540+00:00"
+}

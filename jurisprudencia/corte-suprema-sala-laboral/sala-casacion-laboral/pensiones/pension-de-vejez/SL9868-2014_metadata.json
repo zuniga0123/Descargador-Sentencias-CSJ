@@ -1,0 +1,25 @@
+{
+  "radicado": "SL9868-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-10-14T22:00:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 1650 de 1977",
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 1650 de 1977",
+    "Ley 33 de 1985",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL9868-2014.doc",
+  "fecha_descarga": "2026-10-22T18:14:58.168837+00:00"
+}

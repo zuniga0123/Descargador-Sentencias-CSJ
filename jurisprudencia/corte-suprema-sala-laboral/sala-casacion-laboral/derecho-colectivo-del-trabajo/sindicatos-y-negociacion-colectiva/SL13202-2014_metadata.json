@@ -1,0 +1,23 @@
+{
+  "radicado": "SL13202-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-10-17T17:27:00Z",
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 45,
+  "leyes_o_articulos": [
+    "Decreto 2651 de 1991",
+    "Decreto 63 de 2002",
+    "Ley 446 de 1998",
+    "Ley 550 de 1999",
+    "Ley 590 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Gustavo Hernando López Algarra/Sentencias/SL13202-2014.doc",
+  "fecha_descarga": "2026-10-22T18:14:04.020785+00:00"
+}

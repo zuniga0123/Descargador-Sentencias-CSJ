@@ -1,0 +1,28 @@
+{
+  "radicado": "SL7688-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-09-01T15:18:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 1773 de 2004",
+    "Decreto 2127 de 1945",
+    "Decreto 2127 de 1994",
+    "Decreto 2351 de 1965",
+    "Decreto 2651 de 1991",
+    "Ley 171 de 1961",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 6 de 1945",
+    "Ley 71 de 1961"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL7688-2014.doc",
+  "fecha_descarga": "2026-10-22T18:18:29.796561+00:00"
+}

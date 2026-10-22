@@ -1,0 +1,24 @@
+{
+  "radicado": "SL4110-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-04-10T23:39:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 2304 de 1989",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 165 de 1941",
+    "Ley 446 de 1998",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL4110-2014.doc",
+  "fecha_descarga": "2026-10-22T18:29:14.138988+00:00"
+}

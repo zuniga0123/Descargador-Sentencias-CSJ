@@ -1,0 +1,32 @@
+{
+  "radicado": "SL1081-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-03-28T12:51:00Z",
+  "magistrado_ponente": "Dr.Gustavo Hernando López Algarra",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 4,
+  "leyes_o_articulos": [
+    "Decreto 111 de 1996",
+    "Decreto 1160 de 1989",
+    "Decreto 1221 de 1975",
+    "Decreto 1591 de 1989",
+    "Decreto 236 de 1999",
+    "Decreto 2651 de 1991",
+    "Ley 100 de 1993",
+    "Ley 17 de 1988",
+    "Ley 21 de 1988",
+    "Ley 22 de 1988",
+    "Ley 445 de 1998",
+    "Ley 446 de 1998",
+    "Ley 71 de 1988",
+    "Ley 71 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Gustavo Hernando López Algarra/Sentencias/SL1081-2014.doc",
+  "fecha_descarga": "2026-10-22T18:31:49.180278+00:00"
+}

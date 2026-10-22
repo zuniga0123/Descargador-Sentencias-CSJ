@@ -1,0 +1,29 @@
+{
+  "radicado": "SL2136-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-03-10T21:26:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 5,
+  "leyes_o_articulos": [
+    "Decreto 1359 de 1993",
+    "Decreto 1848 de 1969",
+    "Decreto 240 de 1968",
+    "Decreto 2400 de 1968",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 16 de 1968",
+    "Ley 19 de 1987",
+    "Ley 33 de 1985",
+    "Ley 446 de 1998",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL2136-2014.doc",
+  "fecha_descarga": "2026-10-22T18:32:26.340423+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "radicado": "SL930-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-03-10T21:24:00Z",
+  "magistrado_ponente": "Dr.Luis Gabriel Miranda Buelvas",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 2651 de 1991",
+    "Ley 33 de 1985",
+    "Ley 446 de 1998",
+    "Ley 71 de 1988",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Luis Gabriel Miranda Buelvas/Sentencias/SL930-2014.doc",
+  "fecha_descarga": "2026-10-22T18:32:47.804390+00:00"
+}

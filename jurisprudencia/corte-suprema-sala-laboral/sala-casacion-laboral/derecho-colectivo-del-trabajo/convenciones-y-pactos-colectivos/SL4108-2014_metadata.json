@@ -1,0 +1,24 @@
+{
+  "radicado": "SL4108-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-05-05T20:04:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 19,
+  "leyes_o_articulos": [
+    "Decreto 1653 de 1977",
+    "Decreto 1750 de 2003",
+    "Ley 10 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1750 de 2003",
+    "Ley 33 de 1985"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL4108-2014.doc",
+  "fecha_descarga": "2026-10-22T18:28:40.741267+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3872-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-07-28T13:23:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 2511 de 1998",
+    "Ley 100 de 1993",
+    "Ley 278 de 1996",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 62 de 1985",
+    "Ley 640 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Rigoberto Echeverri Bueno/Sentencias/SL3872-2014.doc",
+  "fecha_descarga": "2026-10-22T18:21:03.497700+00:00"
+}

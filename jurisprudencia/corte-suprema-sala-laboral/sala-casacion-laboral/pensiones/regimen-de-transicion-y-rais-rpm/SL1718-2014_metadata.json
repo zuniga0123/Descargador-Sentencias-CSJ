@@ -1,0 +1,26 @@
+{
+  "radicado": "SL1718-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-09-01T14:57:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Decreto 1406 de 1999",
+    "Decreto 1642 de 1995",
+    "Decreto 1818 de 1996",
+    "Decreto 2665 de 1988",
+    "Decreto 3063 de 1989",
+    "Decreto 326 de 1996",
+    "Ley 100 de 1993",
+    "Ley 1650 de 1977"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dra.Elsy del Pilar Cuello Calderón/Sentencias/SL1718-2014.doc",
+  "fecha_descarga": "2026-10-22T18:18:34.948637+00:00"
+}

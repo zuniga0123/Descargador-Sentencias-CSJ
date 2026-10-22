@@ -1,0 +1,25 @@
+{
+  "radicado": "SL12348-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-10-17T17:42:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 1750 de 2003",
+    "Ley 153 de 1887",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1985",
+    "Ley 4 de 1976",
+    "Ley 4 de 1992",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Rigoberto Echeverri Bueno/Sentencias/SL12348-2014.doc",
+  "fecha_descarga": "2026-10-22T18:13:39.088109+00:00"
+}

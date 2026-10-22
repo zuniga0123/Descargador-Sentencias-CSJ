@@ -1,0 +1,32 @@
+{
+  "radicado": "SL12939-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-10-17T17:20:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1703 de 2002",
+    "Decreto 1889 de 1994",
+    "Decreto 2127 de 1945",
+    "Decreto 692 de 1994",
+    "Decreto 806 de 1998",
+    "Ley 100 de 1993",
+    "Ley 100 de 2003",
+    "Ley 1204 de 2004",
+    "Ley 1204 de 2008",
+    "Ley 153 de 1887",
+    "Ley 169 de 1896",
+    "Ley 44 de 1980",
+    "Ley 6 de 1945",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL12939-2014.doc",
+  "fecha_descarga": "2026-10-22T18:14:13.265222+00:00"
+}

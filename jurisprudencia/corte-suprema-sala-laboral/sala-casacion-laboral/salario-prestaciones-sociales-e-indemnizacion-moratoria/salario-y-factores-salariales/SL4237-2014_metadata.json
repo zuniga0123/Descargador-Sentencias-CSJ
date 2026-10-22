@@ -1,0 +1,29 @@
+{
+  "radicado": "SL4237-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-07-29T14:13:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 092 de 2000",
+    "Decreto 1748 de 1991",
+    "Decreto 2331 de 1998",
+    "Decreto 2651 de 1991",
+    "Decreto 610 de 2005",
+    "Decreto 663 de 1993",
+    "Decreto 797 de 1949",
+    "Ley 278 de 1996",
+    "Ley 4 de 1992",
+    "Ley 446 de 1998",
+    "Ley 510 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Rigoberto Echeverri Bueno/Sentencias/SL4237-2014.doc",
+  "fecha_descarga": "2026-10-22T18:20:58.059790+00:00"
+}

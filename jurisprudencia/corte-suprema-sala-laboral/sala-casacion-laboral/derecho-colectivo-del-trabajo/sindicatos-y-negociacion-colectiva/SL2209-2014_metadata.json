@@ -1,0 +1,22 @@
+{
+  "radicado": "SL2209-2014",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2014,
+  "fecha_creacion": "2014-03-25T14:41:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 84,
+  "leyes_o_articulos": [
+    "Decreto 63 de 2002",
+    "Ley 145 de 1999",
+    "Ley 550 de 1990",
+    "Ley 550 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2014/Dr.Carlos Ernesto Molina Monsalve/Sentencias/SL2209-2014.doc",
+  "fecha_descarga": "2026-10-22T18:32:05.003512+00:00"
+}
