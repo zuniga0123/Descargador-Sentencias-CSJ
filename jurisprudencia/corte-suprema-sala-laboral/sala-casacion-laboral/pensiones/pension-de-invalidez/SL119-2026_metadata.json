@@ -1,0 +1,27 @@
+{
+  "radicado": "SL119-2026",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-03-19T18:37:28Z",
+  "magistrado_ponente": "Dra. Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 24,
+  "leyes_o_articulos": [
+    "Decreto 692 de 1994",
+    "Ley 100 de 1993",
+    "Ley 1346 de 2009",
+    "Ley 1564 de 2012",
+    "Ley 22 de 1967",
+    "Ley 361 de 1997",
+    "Ley 527 de 1999",
+    "Ley 762 de 2002",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2026/Dra. Marjorie Zuñiga Romero/Sentencias/SL119-2026.pdf",
+  "fecha_descarga": "2026-10-22T19:51:17.204831+00:00"
+}

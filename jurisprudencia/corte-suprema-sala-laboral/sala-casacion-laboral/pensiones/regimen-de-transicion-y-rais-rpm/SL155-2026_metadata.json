@@ -1,0 +1,24 @@
+{
+  "radicado": "SL155-2026",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-04-07T18:14:13Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 47,
+  "leyes_o_articulos": [
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 2430 de 2024",
+    "Ley 270 de 1996",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2026/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL155-2026.pdf",
+  "fecha_descarga": "2026-10-22T19:50:49.974671+00:00"
+}

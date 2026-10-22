@@ -1,0 +1,20 @@
+{
+  "radicado": "SL161-2026",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-04-06T19:01:20Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Ley 50 de 1990",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2026/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL161-2026.pdf",
+  "fecha_descarga": "2026-10-22T19:50:53.628389+00:00"
+}

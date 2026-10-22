@@ -1,0 +1,21 @@
+{
+  "radicado": "SL162-2026",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-03-27T17:24:18Z",
+  "magistrado_ponente": "Dr. Victor Julio Usme Perea",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 22,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2026/Dr. Victor Julio Usme Perea/Sentencias/SL162-2026.pdf",
+  "fecha_descarga": "2026-10-22T19:51:06.242482+00:00"
+}

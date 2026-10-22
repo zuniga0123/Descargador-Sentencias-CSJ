@@ -1,0 +1,25 @@
+{
+  "radicado": "SL157-2026",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-03-27T20:00:34Z",
+  "magistrado_ponente": "Dr. Luis Benedicto Herrera Diaz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 0298 de 1989",
+    "Decreto 1572 de 1998",
+    "Decreto 1617 de 1977",
+    "Decreto 1867 de 1999",
+    "Ley 1437 de 2011",
+    "Ley 443 de 1998",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2026/Dr. Luis Benedicto Herrera Diaz/Sentencias/SL157-2026.pdf",
+  "fecha_descarga": "2026-10-22T19:50:55.526741+00:00"
+}

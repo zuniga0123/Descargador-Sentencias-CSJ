@@ -1,0 +1,25 @@
+{
+  "radicado": "SL107-2026",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-03-12T17:48:03Z",
+  "magistrado_ponente": "Dra. Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 18,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 1642 de 1995",
+    "Decreto 2280 de 1994",
+    "Ley 100 de 1993",
+    "Ley 488 de 1998",
+    "Ley 527 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2026/Dra. Marjorie Zuñiga Romero/Sentencias/SL107-2026.pdf",
+  "fecha_descarga": "2026-10-22T19:51:20.861360+00:00"
+}

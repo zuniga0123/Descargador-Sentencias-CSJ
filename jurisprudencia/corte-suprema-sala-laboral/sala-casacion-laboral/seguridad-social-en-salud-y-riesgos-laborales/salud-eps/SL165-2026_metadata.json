@@ -1,0 +1,25 @@
+{
+  "radicado": "SL165-2026",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-03-27T17:31:49Z",
+  "magistrado_ponente": "Dr. Victor Julio Usme Perea",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Salud (EPS)",
+  "puntaje_clasificacion": 40,
+  "leyes_o_articulos": [
+    "Decreto 1072 de 2015",
+    "Decreto 1079 de 2015",
+    "Ley 100 de 1993",
+    "Ley 1562 de 2012",
+    "Ley 50 de 1990",
+    "Ley 527 de 1999",
+    "Ley 776 de 2002"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2026/Dr. Victor Julio Usme Perea/Sentencias/SL165-2026.pdf",
+  "fecha_descarga": "2026-10-22T19:50:57.279960+00:00"
+}

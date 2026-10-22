@@ -1,0 +1,25 @@
+{
+  "radicado": "SL133-2026",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2026,
+  "fecha_creacion": "2026-03-19T17:49:00Z",
+  "magistrado_ponente": "Dra. Marjorie Zuñiga Romero",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 96,
+  "leyes_o_articulos": [
+    "Decreto 3995 de 2008",
+    "Decreto 720 de 1994",
+    "Ley 100 de 1193",
+    "Ley 100 de 1993",
+    "Ley 2430 de 2024",
+    "Ley 527 de 1999",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2026/Dra. Marjorie Zuñiga Romero/Sentencias/SL133-2026.pdf",
+  "fecha_descarga": "2026-10-22T19:51:19.060190+00:00"
+}
