@@ -1,0 +1,31 @@
+{
+  "radicado": "40514(21-02-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-02-28T17:17:00Z",
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Aspectos Procesales del Recurso de Casación Laboral",
+  "subtema": "Técnica de casación",
+  "puntaje_clasificacion": 7,
+  "leyes_o_articulos": [
+    "Decreto 1333 de 1986",
+    "Decreto 1421 de 1993",
+    "Decreto 2127 de 1945",
+    "Decreto 2615 de 1946",
+    "Decreto 2651 de 1991",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 1421 de 1993",
+    "Ley 153 de 1887",
+    "Ley 181 de 1995",
+    "Ley 446 de 1998",
+    "Ley 489 de 1998",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Carlos Ernesto Molina Monsalve/Sentencias/40514(21-02-12).doc",
+  "fecha_descarga": "2026-10-22T19:41:25.377049+00:00"
+}

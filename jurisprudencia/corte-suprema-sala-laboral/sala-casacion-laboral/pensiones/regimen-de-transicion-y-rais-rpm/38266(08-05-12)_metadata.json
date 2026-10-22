@@ -1,0 +1,31 @@
+{
+  "radicado": "38266(08-05-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": null,
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 38,
+  "leyes_o_articulos": [
+    "Decreto 1015 de 1956",
+    "Decreto 1053 de 1958",
+    "Decreto 1282 de 1994",
+    "Decreto 1283 de 1994",
+    "Decreto 1302 de 1994",
+    "Decreto 2210 de 2004",
+    "Decreto 60 de 1973",
+    "Decreto 824 de 2001",
+    "Ley 100 de 1993",
+    "Ley 171 de 1961",
+    "Ley 22 de 1967",
+    "Ley 32 de 1961",
+    "Ley 860 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Carlos Ernesto Molina Monsalve/Sentencias/38266(08-05-12).PDF",
+  "fecha_descarga": "2026-10-22T19:35:30.579208+00:00"
+}

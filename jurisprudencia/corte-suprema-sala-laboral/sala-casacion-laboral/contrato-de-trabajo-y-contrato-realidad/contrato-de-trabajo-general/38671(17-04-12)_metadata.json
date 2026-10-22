@@ -1,0 +1,29 @@
+{
+  "radicado": "38671(17-04-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-04-26T15:33:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 81,
+  "leyes_o_articulos": [
+    "Decreto 0468 de 1990",
+    "Decreto 2351 de 1965",
+    "Decreto 468 de 1990",
+    "Decreto 617 de 1954",
+    "Ley 2 de 1984",
+    "Ley 454 de 1998",
+    "Ley 468 de 1990",
+    "Ley 50 de 1990",
+    "Ley 712 de 2001",
+    "Ley 789 de 2002",
+    "Ley 79 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/38671(17-04-12).doc",
+  "fecha_descarga": "2026-10-22T19:37:10.099184+00:00"
+}

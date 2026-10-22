@@ -1,0 +1,27 @@
+{
+  "radicado": "42112(07-02-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-05-29T21:01:00Z",
+  "magistrado_ponente": "Dra.Elsy del Pilar Cuello Calderón",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 171 de 1961",
+    "Ley 33 de 1985",
+    "Ley 54 de 1990",
+    "Ley 71 de 1988",
+    "Ley 712 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dra.Elsy del Pilar Cuello Calderón/Sentencias/42112(07-02-12).doc",
+  "fecha_descarga": "2026-10-22T19:34:00.521806+00:00"
+}

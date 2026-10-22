@@ -1,0 +1,29 @@
+{
+  "radicado": "43620(06-03-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-03-01T17:44:00Z",
+  "magistrado_ponente": "Dr.Francisco Javier Ricaurte Gómez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "DECRETO 813 DE 1994",
+    "Decreto 1068 de 1995",
+    "Decreto 1748 de 1995",
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Decreto 3798 de 2003",
+    "Decreto 813 de 1994",
+    "LEY 3135 DE 1968",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 549 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Francisco Javier Ricaurte Gómez/Sentencias/43620(06-03-12).doc",
+  "fecha_descarga": "2026-10-22T19:41:13.074792+00:00"
+}

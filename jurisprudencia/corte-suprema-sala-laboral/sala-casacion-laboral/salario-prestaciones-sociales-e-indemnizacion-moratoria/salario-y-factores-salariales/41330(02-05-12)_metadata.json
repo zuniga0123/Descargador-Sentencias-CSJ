@@ -1,0 +1,29 @@
+{
+  "radicado": "41330(02-05-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-05-09T14:19:00Z",
+  "magistrado_ponente": "Dr.Camilo  Humberto Tarquino Gallego",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Decreto 1050 de 1968",
+    "Decreto 1421 de 1993",
+    "Decreto 2127 de 1945",
+    "Decreto 2615 de 1946",
+    "Decreto 2651 de 1991",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 153 de 1887",
+    "Ley 181 de 1995",
+    "Ley 446 de 1998",
+    "Ley 489 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Camilo  Humberto Tarquino Gallego/Sentencias/41330(02-05-12).doc",
+  "fecha_descarga": "2026-10-22T19:36:14.389329+00:00"
+}

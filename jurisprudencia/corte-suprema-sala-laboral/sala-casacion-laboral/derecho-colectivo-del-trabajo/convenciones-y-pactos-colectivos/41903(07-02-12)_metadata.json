@@ -1,0 +1,27 @@
+{
+  "radicado": "41903(07-02-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-03-26T14:11:00Z",
+  "magistrado_ponente": "Dr.Camilo  Humberto Tarquino Gallego",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 26,
+  "leyes_o_articulos": [
+    "Decreto 2351 de 1965",
+    "Decreto 2651 de 1991",
+    "Decreto 528 de 1964",
+    "Ley 100 de 1993",
+    "Ley 16 de 1969",
+    "Ley 4 de 1976",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 71 de 1988"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Camilo  Humberto Tarquino Gallego/Sentencias/41903(07-02-12).doc",
+  "fecha_descarga": "2026-10-22T19:39:02.250254+00:00"
+}

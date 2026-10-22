@@ -1,0 +1,22 @@
+{
+  "radicado": "54505(17-04-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-05-23T19:34:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Huelga",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Ley 1010 de 2006",
+    "Ley 1210 de 2008",
+    "Ley 1444 de 2011",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/54505(17-04-12).doc",
+  "fecha_descarga": "2026-10-22T19:34:17.358927+00:00"
+}

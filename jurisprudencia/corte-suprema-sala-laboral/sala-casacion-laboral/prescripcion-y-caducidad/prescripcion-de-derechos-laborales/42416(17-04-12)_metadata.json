@@ -1,0 +1,21 @@
+{
+  "radicado": "42416(17-04-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-04-23T21:03:00Z",
+  "magistrado_ponente": "Dr.Camilo  Humberto Tarquino Gallego",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Prescripción y Caducidad",
+  "subtema": "Prescripción de derechos laborales",
+  "puntaje_clasificacion": 39,
+  "leyes_o_articulos": [
+    "Decreto 1281 de 1994",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Camilo  Humberto Tarquino Gallego/Sentencias/42416(17-04-12).doc",
+  "fecha_descarga": "2026-10-22T19:37:31.300741+00:00"
+}

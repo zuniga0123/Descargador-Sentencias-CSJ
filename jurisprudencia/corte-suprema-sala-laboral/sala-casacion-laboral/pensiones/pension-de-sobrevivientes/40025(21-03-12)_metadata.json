@@ -1,0 +1,27 @@
+{
+  "radicado": "40025(21-03-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": null,
+  "magistrado_ponente": "Dr. Camilo Humberto Tarquino Gallego",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1650 de 1976",
+    "Decreto 2651 de 1991",
+    "Decreto 3063 de 1989",
+    "Decreto 758 de 1980",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 12 de 1975",
+    "Ley 153 de 1887",
+    "Ley 446 de 1998"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr. Camilo Humberto Tarquino Gallego/Sentencias/40025(21-03-12).PDF",
+  "fecha_descarga": "2026-10-22T19:36:39.164787+00:00"
+}

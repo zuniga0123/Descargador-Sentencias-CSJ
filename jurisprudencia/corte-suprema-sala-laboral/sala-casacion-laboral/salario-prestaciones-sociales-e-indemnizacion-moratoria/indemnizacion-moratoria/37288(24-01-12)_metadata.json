@@ -1,0 +1,25 @@
+{
+  "radicado": "37288(24-01-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-02-08T19:39:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 110,
+  "leyes_o_articulos": [
+    "Ley 1116 de 2006",
+    "Ley 222 de 1995",
+    "Ley 50 de 1990",
+    "Ley 50 de 1999",
+    "Ley 52 de 1975",
+    "Ley 550 de 1990",
+    "Ley 550 de 1999"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/37288(24-01-12).doc",
+  "fecha_descarga": "2026-10-22T19:43:07.138878+00:00"
+}

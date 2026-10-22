@@ -1,0 +1,27 @@
+{
+  "radicado": "40510(21-03-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-06-12T20:10:00Z",
+  "magistrado_ponente": "Dr.Camilo  Humberto Tarquino Gallego",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 6,
+  "leyes_o_articulos": [
+    "Decreto 1889 de 1994",
+    "Decreto 2282 de 1989",
+    "Decreto 2651 de 1991",
+    "Ley 100 de 1993",
+    "Ley 100 de 1997",
+    "Ley 44 de 1980",
+    "Ley 446 de 1998",
+    "Ley 54 de 1990",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Camilo  Humberto Tarquino Gallego/Sentencias/40510(21-03-12).doc",
+  "fecha_descarga": "2026-10-22T19:33:06.795401+00:00"
+}

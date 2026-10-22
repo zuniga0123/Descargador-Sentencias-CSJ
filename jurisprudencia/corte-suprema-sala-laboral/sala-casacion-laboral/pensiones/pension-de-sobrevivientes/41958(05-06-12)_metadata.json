@@ -1,0 +1,30 @@
+{
+  "radicado": "41958(05-06-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-07-23T20:04:00Z",
+  "magistrado_ponente": "Dr.Camilo  Humberto Tarquino Gallego",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 12,
+  "leyes_o_articulos": [
+    "Decreto 1161 de 1994",
+    "Decreto 1295 de 1994",
+    "Decreto 1406 de 1999",
+    "Decreto 1642 de 1995",
+    "Decreto 1818 de 1996",
+    "Decreto 2633 de 1994",
+    "Decreto 2665 de 1988",
+    "Decreto 3063 de 1989",
+    "Decreto 326 de 1996",
+    "Ley 100 de 1993",
+    "Ley 1650 de 1977",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Camilo  Humberto Tarquino Gallego/Sentencias/41958(05-06-12).doc",
+  "fecha_descarga": "2026-10-22T19:29:45.372249+00:00"
+}

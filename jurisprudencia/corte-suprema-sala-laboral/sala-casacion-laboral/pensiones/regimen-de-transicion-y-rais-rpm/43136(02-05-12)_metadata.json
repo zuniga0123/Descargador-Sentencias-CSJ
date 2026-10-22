@@ -1,0 +1,26 @@
+{
+  "radicado": "43136(02-05-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": null,
+  "magistrado_ponente": "Dr. Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 15,
+  "leyes_o_articulos": [
+    "Ley 100 de 1993",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1985",
+    "Ley 45 de 1933",
+    "Ley 54 de 1962",
+    "Ley 62 de 1985",
+    "Ley 63 de 1943",
+    "Ley 65 de 1967"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr. Jorge Mauricio Burgos Ruiz/Sentencias/43136(02-05-12).PDF",
+  "fecha_descarga": "2026-10-22T19:35:08.814599+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "radicado": "44686(02-05-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": null,
+  "magistrado_ponente": "Dr.Carlos Ernesto Molina Monsalve",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 17,
+  "leyes_o_articulos": [
+    "Decreto 1650 de 1976",
+    "Decreto 1650 de 1977",
+    "Decreto 1848 de 1969",
+    "Decreto 433 de 1971",
+    "Ley 100 de 1993",
+    "Ley 1650 de 1977",
+    "Ley 33 de 1985",
+    "Ley 71 de 1988",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Carlos Ernesto Molina Monsalve/Sentencias/44686(02-05-12).PDF",
+  "fecha_descarga": "2026-10-22T19:35:34.048187+00:00"
+}

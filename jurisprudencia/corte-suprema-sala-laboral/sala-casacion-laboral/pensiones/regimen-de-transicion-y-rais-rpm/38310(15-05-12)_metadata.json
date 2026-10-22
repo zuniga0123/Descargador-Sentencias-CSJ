@@ -1,0 +1,30 @@
+{
+  "radicado": "38310(15-05-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": null,
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 1237 de 1946",
+    "Decreto 1848 de 1969",
+    "Decreto 2123 de 1992",
+    "Decreto 2201 de 1987",
+    "Decreto 2661 de 1960",
+    "Decreto 510 de 2003",
+    "Decreto 691 de 1994",
+    "Ley 100 de 1993",
+    "Ley 2661 de 1960",
+    "Ley 33 de 1985",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Rigoberto Echeverri Bueno/Sentencias/38310(15-05-12).PDF",
+  "fecha_descarga": "2026-10-22T19:35:18.000951+00:00"
+}

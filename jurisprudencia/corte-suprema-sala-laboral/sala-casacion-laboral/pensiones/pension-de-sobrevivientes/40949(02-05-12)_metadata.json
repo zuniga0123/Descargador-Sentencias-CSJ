@@ -1,0 +1,26 @@
+{
+  "radicado": "40949(02-05-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": null,
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 797 de 1949",
+    "Ley 10 de 1972",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 446 de 1998",
+    "Ley 700 de 2001",
+    "Ley 712 de 2001",
+    "Ley 717 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Rigoberto Echeverri Bueno/Sentencias/40949(02-05-12).PDF",
+  "fecha_descarga": "2026-10-22T19:35:55.169792+00:00"
+}

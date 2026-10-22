@@ -1,0 +1,31 @@
+{
+  "radicado": "41588(31-01-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-02-02T19:42:00Z",
+  "magistrado_ponente": "Dr.Francisco Javier Ricaurte Gómez",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 1158 de 1994",
+    "Decreto 1835 de 1984",
+    "Decreto 1835 de 1994",
+    "Decreto 247 de 1996",
+    "Decreto 247 de 1997",
+    "Decreto 546 de 1971",
+    "Decreto 717 de 1978",
+    "Ley 100 de 1993",
+    "Ley 1042 de 1978",
+    "Ley 33 de 1985",
+    "Ley 712 de 2001",
+    "Ley 717 de 1978",
+    "Ley 72 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Francisco Javier Ricaurte Gómez/Sentencias/41588(31-01-12).doc",
+  "fecha_descarga": "2026-10-22T19:43:43.783212+00:00"
+}

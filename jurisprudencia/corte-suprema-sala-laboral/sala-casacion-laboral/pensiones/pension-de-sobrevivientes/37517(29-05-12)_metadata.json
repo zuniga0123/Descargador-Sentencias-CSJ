@@ -1,0 +1,26 @@
+{
+  "radicado": "37517(29-05-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-07-19T13:52:00Z",
+  "magistrado_ponente": "Dr.Camilo  Humberto Tarquino Gallego",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 20,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Decreto 11690 de 1989",
+    "Decreto 2651 de 1991",
+    "Ley 100 de 1993",
+    "Ley 446 de 1998",
+    "Ley 71 de 1988",
+    "Ley 794 de 2003",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Camilo  Humberto Tarquino Gallego/Sentencias/37517(29-05-12).doc",
+  "fecha_descarga": "2026-10-22T19:29:52.498203+00:00"
+}

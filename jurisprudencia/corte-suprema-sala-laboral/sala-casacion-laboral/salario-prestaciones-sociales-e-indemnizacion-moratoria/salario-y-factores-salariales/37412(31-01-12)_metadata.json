@@ -1,0 +1,31 @@
+{
+  "radicado": "37412(31-01-12)",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2012,
+  "fecha_creacion": "2012-02-08T16:07:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 23,
+  "leyes_o_articulos": [
+    "Decreto 1045 de 1978",
+    "Decreto 1158 de 1994",
+    "Decreto 1848 de 1969",
+    "Decreto 2661 de 1960",
+    "Decreto 3130 de 1968",
+    "Ley 100 de 1993",
+    "Ley 3135 de 1968",
+    "Ley 33 de 1985",
+    "Ley 45 de 1933",
+    "Ley 54 de 1962",
+    "Ley 62 de 1985",
+    "Ley 63 de 1943",
+    "Ley 65 de 1967"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2012/Dr.Rigoberto Echeverri Bueno/Sentencias/37412(31-01-12).DOC",
+  "fecha_descarga": "2026-10-22T19:43:14.014318+00:00"
+}
