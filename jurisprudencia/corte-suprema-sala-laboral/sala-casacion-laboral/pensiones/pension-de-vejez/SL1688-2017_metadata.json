@@ -1,0 +1,22 @@
+{
+  "radicado": "SL1688-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-02-15T13:43:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Ley 100 de 1993",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL1688-2017.doc",
+  "fecha_descarga": "2026-10-22T16:43:41.798442+00:00"
+}

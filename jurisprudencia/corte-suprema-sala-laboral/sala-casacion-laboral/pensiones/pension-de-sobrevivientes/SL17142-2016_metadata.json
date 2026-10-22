@@ -1,0 +1,24 @@
+{
+  "radicado": "SL17142-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2017-01-11T21:08:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de sobrevivientes",
+  "puntaje_clasificacion": 48,
+  "leyes_o_articulos": [
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 1149 de 2007",
+    "Ley 57 de 1887",
+    "Ley 717 de 2001",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Rigoberto Echeverri Bueno/Sentencias/SL17142-2016.doc",
+  "fecha_descarga": "2026-10-22T16:52:36.535842+00:00"
+}

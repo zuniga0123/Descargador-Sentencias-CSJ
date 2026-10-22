@@ -1,0 +1,24 @@
+{
+  "radicado": "SL6232-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2017-01-16T16:07:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 73,
+  "leyes_o_articulos": [
+    "Decreto 1042 de 1978",
+    "Decreto 2013 de 2012",
+    "Decreto 2127 de 1945",
+    "Decreto 747 de 1949",
+    "Decreto 797 de 1949",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Gerardo Botero Zuluaga/Sentencias/SL6232-2016.doc",
+  "fecha_descarga": "2026-10-22T16:51:47.343312+00:00"
+}

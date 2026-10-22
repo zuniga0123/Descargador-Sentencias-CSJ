@@ -1,0 +1,30 @@
+{
+  "radicado": "SL17728-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2017-01-11T17:10:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Laudos arbitrales y recurso de anulación",
+  "puntaje_clasificacion": 34,
+  "leyes_o_articulos": [
+    "Decreto 1469 de 1978",
+    "Decreto 1818 de 1981",
+    "Decreto 2351 de 1965",
+    "Decreto 616 de 1954",
+    "Ley 100 de 1993",
+    "Ley 169 de 1896",
+    "Ley 270 de 1996",
+    "Ley 33 de 1985",
+    "Ley 50 de 1990",
+    "Ley 584 de 2000",
+    "Ley 71 de 1988",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Fernando Castillo Cadena/Sentencias/SL17728-2016.doc",
+  "fecha_descarga": "2026-10-22T16:53:33.035265+00:00"
+}

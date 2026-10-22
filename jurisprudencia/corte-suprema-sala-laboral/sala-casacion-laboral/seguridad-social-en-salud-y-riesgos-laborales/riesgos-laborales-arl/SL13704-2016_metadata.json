@@ -1,0 +1,29 @@
+{
+  "radicado": "SL13704-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2017-01-11T15:44:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Seguridad Social en Salud y Riesgos Laborales",
+  "subtema": "Riesgos laborales / ARL",
+  "puntaje_clasificacion": 11,
+  "leyes_o_articulos": [
+    "Decreto 1132 de 1994",
+    "Decreto 1638 de 1995",
+    "Decreto 1689 de 1997",
+    "Decreto 1814 de 1994",
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Decreto 692 de 1994",
+    "Decreto 695 de 1994",
+    "Ley 01 de 1991",
+    "Ley 100 de 1993",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Fernando Castillo Cadena/Sentencias/SL13704-2016.doc",
+  "fecha_descarga": "2026-10-22T16:54:07.464214+00:00"
+}

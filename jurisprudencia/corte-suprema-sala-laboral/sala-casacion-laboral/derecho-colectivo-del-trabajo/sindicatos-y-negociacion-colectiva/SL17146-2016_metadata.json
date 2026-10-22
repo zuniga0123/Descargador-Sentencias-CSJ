@@ -1,0 +1,20 @@
+{
+  "radicado": "SL17146-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2017-01-13T14:52:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 65,
+  "leyes_o_articulos": [
+    "Ley 1755 de 2015",
+    "Ley 64 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Rigoberto Echeverri Bueno/Sentencias/SL17146-2016.doc",
+  "fecha_descarga": "2026-10-22T16:51:59.778271+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "radicado": "SL1073-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-02-14T21:18:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 39,
+  "leyes_o_articulos": [
+    "Decreto 1160 de 1989",
+    "Decreto 2709 de 1994",
+    "Ley 100 de 1993",
+    "Ley 344 de 1996",
+    "Ley 71 de 1988",
+    "Ley 797 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL1073-2017.doc",
+  "fecha_descarga": "2026-10-22T16:43:57.418756+00:00"
+}

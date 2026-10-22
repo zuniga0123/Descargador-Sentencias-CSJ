@@ -1,0 +1,29 @@
+{
+  "radicado": "SL15024-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-12-16T22:21:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Régimen de transición y RAIS/RPM",
+  "puntaje_clasificacion": 13,
+  "leyes_o_articulos": [
+    "Decreto 1653 de 1977",
+    "Decreto 1848 de 1969",
+    "Decreto 2158 de 1948",
+    "Decreto 4269 de 2011",
+    "Ley 100 de 1993",
+    "Ley 153 de 1887",
+    "Ley 33 de 1985",
+    "Ley 33 de 1986",
+    "Ley 446 de 1998",
+    "Ley 62 de 1985",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL15024-2016.doc",
+  "fecha_descarga": "2026-10-22T16:54:37.107500+00:00"
+}

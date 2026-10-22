@@ -1,0 +1,23 @@
+{
+  "radicado": "SL1626-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-04-04T13:33:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 52,
+  "leyes_o_articulos": [
+    "Decreto 1818 de 1998",
+    "Decreto 4108 de 2011",
+    "Ley 153 de 1887",
+    "Ley 1563 de 2012",
+    "Ley 584 de 2000"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Rigoberto Echeverri Bueno/Sentencias/SL1626-2017.doc",
+  "fecha_descarga": "2026-10-22T16:39:16.687395+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "radicado": "SL3271-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-03-21T13:43:00Z",
+  "magistrado_ponente": "Dr.Jorge Mauricio Burgos Ruiz",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Terminación del Contrato, Despido e Indemnizaciones",
+  "subtema": "Justa causa y terminación unilateral",
+  "puntaje_clasificacion": 28,
+  "leyes_o_articulos": [
+    "Decreto 1675 de 1997",
+    "Decreto 1848 de 1969",
+    "Decreto 2127 de 1945",
+    "Decreto 2135 de 1992",
+    "Ley 100 de 1993",
+    "Ley 1675 de 1997",
+    "Ley 6 de 1945"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Jorge Mauricio Burgos Ruiz/Sentencias/SL3271-2017.doc",
+  "fecha_descarga": "2026-10-22T16:42:04.947972+00:00"
+}

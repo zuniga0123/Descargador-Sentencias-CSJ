@@ -1,0 +1,26 @@
+{
+  "radicado": "SL6229-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2017-10-19T15:20:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Sindicatos y negociación colectiva",
+  "puntaje_clasificacion": 27,
+  "leyes_o_articulos": [
+    "Decreto 1469 de 1978",
+    "Decreto 2282 de 1989",
+    "Decreto 2351 de 1965",
+    "Decreto 2651 de 1991",
+    "Decreto 960 de 1970",
+    "Ley 446 de 1998",
+    "Ley 50 de 1990",
+    "Ley 794 de 2003"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Gerardo Botero Zuluaga/Sentencias/SL6229-2016.doc",
+  "fecha_descarga": "2026-10-22T16:50:30.625187+00:00"
+}

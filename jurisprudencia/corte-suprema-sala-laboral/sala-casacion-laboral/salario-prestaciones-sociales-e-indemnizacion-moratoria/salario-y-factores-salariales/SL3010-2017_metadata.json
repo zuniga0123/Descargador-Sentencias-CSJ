@@ -1,0 +1,30 @@
+{
+  "radicado": "SL3010-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-03-31T20:08:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Salario y factores salariales",
+  "puntaje_clasificacion": 41,
+  "leyes_o_articulos": [
+    "Decreto 1848 de 1969",
+    "Decreto 3135 de 1968",
+    "Decreto 813 de 1994",
+    "Ley 10 de 1972",
+    "Ley 100 de 1991",
+    "Ley 100 de 1992",
+    "Ley 100 de 1993",
+    "Ley 100 de 1994",
+    "Ley 183 de 1887",
+    "Ley 33 de 1985",
+    "Ley 700 de 2001",
+    "Ley 712 de 2001"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Gerardo Botero Zuluaga/Sentencias/SL3010-2017.doc",
+  "fecha_descarga": "2026-10-22T16:40:14.750955+00:00"
+}

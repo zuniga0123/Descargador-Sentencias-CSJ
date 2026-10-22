@@ -1,0 +1,19 @@
+{
+  "radicado": "SL4024-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-03-31T20:34:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Prestaciones sociales",
+  "puntaje_clasificacion": 30,
+  "leyes_o_articulos": [
+    "Decreto 2027 de 1951"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Gerardo Botero Zuluaga/Sentencias/SL4024-2017.doc",
+  "fecha_descarga": "2026-10-22T16:40:07.454170+00:00"
+}

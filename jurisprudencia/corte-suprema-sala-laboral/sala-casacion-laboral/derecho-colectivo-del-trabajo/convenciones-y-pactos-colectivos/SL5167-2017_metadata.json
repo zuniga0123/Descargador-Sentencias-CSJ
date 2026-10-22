@@ -1,0 +1,20 @@
+{
+  "radicado": "SL5167-2017",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2017,
+  "fecha_creacion": "2017-04-28T14:02:00Z",
+  "magistrado_ponente": "Dr.Gerardo Botero Zuluaga",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Derecho Colectivo del Trabajo",
+  "subtema": "Convenciones y pactos colectivos",
+  "puntaje_clasificacion": 38,
+  "leyes_o_articulos": [
+    "Decreto 3135 de 1968",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2017/Dr.Gerardo Botero Zuluaga/Sentencias/SL5167-2017.doc",
+  "fecha_descarga": "2026-10-22T16:36:19.498361+00:00"
+}

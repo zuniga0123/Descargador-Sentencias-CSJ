@@ -1,0 +1,27 @@
+{
+  "radicado": "SL17898-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2016-12-16T20:49:00Z",
+  "magistrado_ponente": "Dra.Clara Cecilia Dueñas Quevedo",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de vejez",
+  "puntaje_clasificacion": 61,
+  "leyes_o_articulos": [
+    "Decreto 190 de 2003",
+    "Decreto 2150 de 1995",
+    "Ley 100 de 1993",
+    "Ley 1098 de 2006",
+    "Ley 1413 de 2010",
+    "Ley 762 de 2002",
+    "Ley 790 de 2002",
+    "Ley 797 de 2003",
+    "Ley 82 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dra.Clara Cecilia Dueñas Quevedo/Sentencias/SL17898-2016.doc",
+  "fecha_descarga": "2026-10-22T16:54:54.691218+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "radicado": "SL13708-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2017-01-17T17:48:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Contrato de Trabajo y Contrato Realidad",
+  "subtema": "Contrato de trabajo (general)",
+  "puntaje_clasificacion": 10,
+  "leyes_o_articulos": [
+    "Ley 1395 de 2010",
+    "Ley 16 de 1969",
+    "Ley 50 de 1990"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Fernando Castillo Cadena/Sentencias/SL13708-2016.doc",
+  "fecha_descarga": "2026-10-22T16:51:33.241482+00:00"
+}

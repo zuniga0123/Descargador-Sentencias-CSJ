@@ -1,0 +1,27 @@
+{
+  "radicado": "SL18072-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2017-01-11T17:14:00Z",
+  "magistrado_ponente": "Dr.Fernando Castillo Cadena",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Pensiones",
+  "subtema": "Pensión de invalidez",
+  "puntaje_clasificacion": 42,
+  "leyes_o_articulos": [
+    "Decreto 2665 de 1988",
+    "Decreto 3041 de 1966",
+    "Decreto 3170 de 1964",
+    "Decreto 758 de 1990",
+    "Ley 100 de 1993",
+    "Ley 33 de 1985",
+    "Ley 433 de 1971",
+    "Ley 776 de 2002",
+    "Ley 90 de 1946"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Fernando Castillo Cadena/Sentencias/SL18072-2016.doc",
+  "fecha_descarga": "2026-10-22T16:53:27.610221+00:00"
+}

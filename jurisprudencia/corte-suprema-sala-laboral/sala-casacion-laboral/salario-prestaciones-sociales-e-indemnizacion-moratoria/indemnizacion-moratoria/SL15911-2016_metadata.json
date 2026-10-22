@@ -1,0 +1,26 @@
+{
+  "radicado": "SL15911-2016",
+  "corte": "Corte Suprema de Justicia",
+  "sala": "LABORAL",
+  "sub_sala": "PERMANENTE",
+  "tipo_providencia": "SENTENCIA",
+  "ano": 2016,
+  "fecha_creacion": "2017-04-05T22:47:00Z",
+  "magistrado_ponente": "Dr.Rigoberto Echeverri Bueno",
+  "area": "Derecho Laboral y Seguridad Social",
+  "tema": "Salario, Prestaciones Sociales e Indemnización Moratoria",
+  "subtema": "Indemnización moratoria",
+  "puntaje_clasificacion": 33,
+  "leyes_o_articulos": [
+    "Decreto 1335 de 1990",
+    "Decreto 1750 de 2003",
+    "Decreto 2127 de 1945",
+    "Decreto 2148 de 1992",
+    "Decreto 3135 de 1968",
+    "Decreto 797 de 1949",
+    "Ley 10 de 1990",
+    "Ley 80 de 1993"
+  ],
+  "doc_id_origen": "/var/www/html/Index/LABORAL/PERMANENTE/2016/Dr.Rigoberto Echeverri Bueno/Sentencias/SL15911-2016.doc",
+  "fecha_descarga": "2026-10-22T16:50:49.973270+00:00"
+}
