@@ -13,7 +13,7 @@ BUSCADOR_INDEX = "https://www.corteconstitucional.gov.co/relatoria/buscador_new/
 
 # El WAF del sitio rechaza (HTTP 500) user-agents que no empiecen por un token
 # de navegador o que contengan "CCBot" (ver README del repo de la CC).
-USER_AGENT = "Mozilla/5.0 (compatible; DescargadorJurisprudencia/0.1; investigacion academica; contacto: cz122402@gmail.com)"
+USER_AGENT = "Mozilla/5.0 (compatible; DescargadorJurisprudencia/0.1; investigacion academica)"
 
 REQUEST_DELAY_SECONDS = 1.5
 MAX_RETRIES = 5

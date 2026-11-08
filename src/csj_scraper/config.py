@@ -10,7 +10,7 @@ FILE_EXISTS_URL = "https://consultaprovidenciasbk.cortesuprema.gov.co/fileExists
 
 USER_AGENT = (
     "DescargadorSentenciasCSJ/0.1 "
-    "(uso academico/personal; contacto: cz122402@gmail.com)"
+    "(uso academico/personal)"
 )
 
 # Pausa entre solicitudes HTTP (segundos). Scraping respetuoso sobre un

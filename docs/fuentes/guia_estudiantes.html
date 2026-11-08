@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Guía para estudiantes — Descargador de jurisprudencia con IA</title>
+<style>
+  :root {
+    --ink: #1c2430;
+    --muted: #5b6676;
+    --accent: #1f4e79;
+    --accent-2: #2e7d6b;
+    --soft: #eef3f8;
+    --soft-2: #eaf5f1;
+    --warn: #fff6e5;
+    --warn-ink: #8a5a00;
+    --line: #d6dde6;
+  }
+  @page {
+    size: A4;
+    margin: 20mm 18mm 20mm 18mm;
+    @bottom-center { content: counter(page); font-family: Inter, sans-serif; font-size: 9pt; color: #8a94a3; }
+  }
+  @page :first { @bottom-center { content: none; } }
+  * { box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body { font-family: Inter, "DejaVu Sans", sans-serif; color: var(--ink); font-size: 10.5pt; line-height: 1.55; margin: 0; }
+  h1, h2, h3 { font-family: "Inter Display", Inter, sans-serif; color: var(--accent); line-height: 1.2; }
+  h2 { font-size: 17pt; margin: 0 0 6pt; padding-top: 2pt; break-after: avoid; }
+  h2 .num { color: var(--accent-2); margin-right: 6pt; }
+  h3 { font-size: 12pt; margin: 14pt 0 4pt; break-after: avoid; }
+  p { margin: 0 0 7pt; }
+  ul, ol { margin: 0 0 8pt; padding-left: 16pt; }
+  li { margin-bottom: 3pt; }
+  .section { margin-top: 18pt; }
+  .section.brk { break-before: page; margin-top: 0; }
+  .lead { font-size: 11.5pt; color: var(--muted); }
+  .cover { height: 247mm; display: flex; flex-direction: column; justify-content: space-between; }
+  .cover .band { background: var(--accent); color: #fff; border-radius: 6pt; padding: 26pt 24pt; }
+  .cover .kicker { text-transform: uppercase; letter-spacing: 1.5pt; font-size: 9pt; opacity: .85; }
+  .cover h1 { color: #fff; font-size: 28pt; margin: 8pt 0 10pt; }
+  .cover .sub { font-size: 13pt; opacity: .95; }
+  .cover .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10pt; margin-top: 18pt; }
+  .stat { background: var(--soft); border-radius: 6pt; padding: 12pt; }
+  .stat b { display: block; font-size: 20pt; color: var(--accent); font-family: "Inter Display", Inter, sans-serif; }
+  .stat span { font-size: 9pt; color: var(--muted); }
+  .cover .toc { border-top: 1px solid var(--line); padding-top: 10pt; font-size: 9.5pt; color: var(--muted); columns: 2; }
+  .cover .toc div { margin-bottom: 3pt; }
+  .box { border-radius: 6pt; padding: 10pt 12pt; margin: 8pt 0 10pt; break-inside: avoid; }
+  .box.info { background: var(--soft); border-left: 4pt solid var(--accent); }
+  .box.ok { background: var(--soft-2); border-left: 4pt solid var(--accent-2); }
+  .box.warn { background: var(--warn); border-left: 4pt solid #e0a020; }
+  .box.warn b.t { color: var(--warn-ink); }
+  .box b.t { display: block; margin-bottom: 3pt; }
+  table { width: 100%; border-collapse: collapse; margin: 6pt 0 10pt; font-size: 9.5pt; break-inside: auto; }
+  th { background: var(--accent); color: #fff; text-align: left; padding: 5pt 6pt; font-weight: 600; }
+  td { border-bottom: 1px solid var(--line); padding: 5pt 6pt; vertical-align: top; }
+  tr { break-inside: avoid; }
+  tr:nth-child(even) td { background: #f7f9fb; }
+  .tag { display: inline-block; font-size: 8pt; font-weight: 600; padding: 1pt 5pt; border-radius: 8pt; white-space: nowrap; }
+  .tag.g { background: #d9efe7; color: #1d5e4f; }
+  .tag.y { background: #fdecc8; color: #7a5200; }
+  .tag.b { background: #dbe7f3; color: #1f4e79; }
+  .flow { display: flex; gap: 6pt; align-items: stretch; margin: 10pt 0 12pt; }
+  .flow .step { flex: 1; background: var(--soft); border-radius: 6pt; padding: 8pt; font-size: 9pt; text-align: center; }
+  .flow .step b { display: block; color: var(--accent); font-size: 9.5pt; margin-bottom: 2pt; }
+  .flow .arrow { align-self: center; color: var(--accent-2); font-weight: 700; }
+  .steps { counter-reset: s; list-style: none; padding: 0; }
+  .steps > li { counter-increment: s; position: relative; padding-left: 28pt; margin-bottom: 9pt; break-inside: avoid; }
+  .steps > li::before { content: counter(s); position: absolute; left: 0; top: 0; width: 19pt; height: 19pt; border-radius: 50%; background: var(--accent); color: #fff; text-align: center; font-weight: 700; font-size: 9.5pt; line-height: 19pt; }
+  .prompt { background: #f4f6f9; border: 1px solid var(--line); border-radius: 6pt; padding: 10pt 12pt; font-size: 9.5pt; white-space: pre-wrap; font-family: "JetBrains Mono", "DejaVu Sans Mono", monospace; break-inside: avoid; margin: 6pt 0 10pt; }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 8pt; }
+  .card { border: 1px solid var(--line); border-radius: 6pt; padding: 8pt 10pt; break-inside: avoid; }
+  .card b.t { color: var(--accent); display: block; margin-bottom: 2pt; }
+  .small { font-size: 9pt; color: var(--muted); }
+  code { font-family: "JetBrains Mono", "DejaVu Sans Mono", monospace; font-size: 9pt; background: #eef1f5; padding: 0 3pt; border-radius: 3pt; }
+  dl { margin: 0; }
+  dt { font-weight: 700; color: var(--accent); margin-top: 6pt; break-after: avoid; }
+  dl.glos { columns: 2; column-gap: 16pt; }
+  dl.glos dt, dl.glos dd { break-inside: avoid; }
+  dl.glos dt:first-child { margin-top: 0; }
+  dd { margin: 0 0 2pt 0; }
+</style>
+</head>
+<body>
+
+<!-- PORTADA -->
+<div class="cover">
+  <div>
+    <div class="band">
+      <div class="kicker">Guía para estudiantes</div>
+      <h1>Cómo construir tu propio descargador de jurisprudencia con IA</h1>
+      <div class="sub">Qué es el proyecto, qué decidir antes de empezar y cómo trabajar con una IA que programe para adaptarlo a tu área del derecho.</div>
+    </div>
+    <div class="stats">
+      <div class="stat"><b>69.098</b><span>sentencias descargadas y organizadas en el proyecto de referencia</span></div>
+      <div class="stat"><b>39.644</b><span>Sala Laboral de la Corte Suprema de Justicia, 2012–2026</span></div>
+      <div class="stat"><b>29.454</b><span>Corte Constitucional, 1992–2026 (tutelas, C y SU)</span></div>
+    </div>
+  </div>
+  <div class="box info" style="margin: 0 0 14pt;"><b class="t">Cómo usar esta guía</b>
+    Léela antes de abrir la herramienta de IA. Las secciones 1 a 4 explican el proyecto; la 5 y la 6 te ayudan a decidir qué construir para tu área; la 7 reúne lo que debes tener en cuenta, y la 8 es el paso a paso para trabajar con la IA, con un mensaje inicial listo para copiar. Junto con esta guía recibes el archivo <code>GUIA_REPLICACION_PARA_IA.md</code>, que es el que se le entrega a la IA.
+  </div>
+  <div class="toc">
+    <div>1. Qué es el proyecto</div>
+    <div>2. Para qué sirve (y para qué no)</div>
+    <div>3. Cómo funciona, en palabras sencillas</div>
+    <div>4. Qué necesitas</div>
+    <div>5. Las decisiones que debes tomar antes de empezar</div>
+    <div>6. Qué fuentes sirven para tu área</div>
+    <div>7. Elementos a tener en cuenta</div>
+    <div>8. Cómo compartir el archivo .md con la IA, paso a paso</div>
+    <div>9. Ruta sugerida y tiempos</div>
+    <div>10. Preguntas frecuentes</div>
+    <div>11. Glosario</div>
+  </div>
+</div>
+
+<!-- 1 -->
+<div class="section brk">
+  <h2><span class="num">1</span>Qué es el proyecto</h2>
+  <p class="lead">Es un programa que <b>entra a los buscadores oficiales de las altas cortes, descarga automáticamente el texto completo de las sentencias y las organiza por tema</b>, en un formato que después puede usar un buscador propio o un asistente de inteligencia artificial.</p>
+  <p>Lo que hoy haces a mano (entrar a la relatoría, buscar, abrir sentencia por sentencia, copiar y guardar) el programa lo hace solo, decenas de miles de veces, y deja el resultado ordenado:</p>
+  <ul>
+    <li>Una <b>carpeta por tema y subtema</b> (por ejemplo <i>Pensiones → Pensión de sobrevivientes</i>).</li>
+    <li>Por cada sentencia, un archivo de texto con su <b>contenido completo</b> y un encabezado con radicado, magistrado ponente, fecha, tema y normas citadas.</li>
+    <li>Un <b>índice</b> que permite buscar palabras en todas las sentencias a la vez.</li>
+    <li>Todo guardado en <b>GitHub</b>, un servicio gratuito de almacenamiento en internet, para que no se pierda.</li>
+  </ul>
+  <p>El proyecto se construyó <b>sin que la persona usuaria escribiera una sola línea de código</b>: una IA que programa (Claude Code) hizo el trabajo técnico, y la abogada o el abogado tomó las decisiones jurídicas: qué cortes, qué años, qué temas, qué descartar.</p>
+  <div class="box ok"><b class="t">Lo que vas a recibir para tu proyecto</b>
+    Un archivo llamado <code>GUIA_REPLICACION_PARA_IA.md</code>. No está escrito para ti, sino para la IA: es una especificación técnica completa del proyecto, con todo lo que se averiguó sobre las fuentes y los errores que ya se cometieron, para que la IA construya <b>tu versión</b> sin empezar de cero. Tu trabajo es entregárselo y responderle bien (sección 8).
+  </div>
+
+  <h2 style="margin-top:16pt"><span class="num">2</span>Para qué sirve (y para qué no)</h2>
+  <div class="grid2">
+    <div class="card"><b class="t">Sirve para…</b>
+      <ul>
+        <li>Tener <b>tu propia base de precedente</b> de un área, actualizable.</li>
+        <li>Alimentar un <b>asistente de IA</b> que busque sentencias análogas a tu caso.</li>
+        <li>Preparar <b>fichas y líneas jurisprudenciales</b> partiendo de un corpus completo.</li>
+        <li>Hacer <b>análisis cuantitativos</b>: cuántas sentencias por tema, por año, por magistrado.</li>
+      </ul>
+    </div>
+    <div class="card"><b class="t">No sirve para…</b>
+      <ul>
+        <li>Reemplazar la <b>lectura</b> de la sentencia: la clasificación automática es orientativa.</li>
+        <li>Obtener providencias que la corte <b>no publica</b> en su buscador.</li>
+        <li>Citar en una actuación algo extraído automáticamente <b>sin verificarlo</b> en el texto original.</li>
+      </ul>
+    </div>
+  </div>
+
+  <h2 style="margin-top:16pt"><span class="num">3</span>Cómo funciona, en palabras sencillas</h2>
+  <div class="flow">
+    <div class="step"><b>1. Lista</b>Le pide al buscador oficial la lista de sentencias de un año</div>
+    <div class="arrow">→</div>
+    <div class="step"><b>2. Texto</b>Descarga el texto completo de cada una</div>
+    <div class="arrow">→</div>
+    <div class="step"><b>3. Clasifica</b>Asigna tema y subtema (oficial o por palabras clave)</div>
+    <div class="arrow">→</div>
+    <div class="step"><b>4. Guarda</b>Crea el archivo de texto y la ficha de datos</div>
+    <div class="arrow">→</div>
+    <div class="step"><b>5. Respalda</b>Sube el lote a GitHub para que no se pierda</div>
+  </div>
+  <p>El programa trabaja <b>por tandas de unos 25 minutos</b>: en cada una descarga entre 400 y 800 sentencias, las sube a GitHub y la IA lanza la siguiente. Si algo se interrumpe, retoma donde quedó sin repetir lo ya descargado.</p>
+  <p>Hay dos formas de clasificar, según lo que ofrezca la corte:</p>
+  <ul>
+    <li><b>Con temas oficiales</b>: la Corte Constitucional publica los temas y subtemas que asigna su Relatoría, y el programa los usa tal cual.</li>
+    <li><b>Con reglas de palabras clave</b>: la Corte Suprema no publica temas, así que el programa busca expresiones típicas de cada tema (por ejemplo, «pensión de sobrevivientes» o «compañero permanente»). Con reglas bien pensadas, en la Sala Laboral solo 43 de 39.644 sentencias quedaron sin clasificar.</li>
+  </ul>
+</div>
+
+<!-- 4 -->
+<div class="section">
+  <h2><span class="num">4</span>Qué necesitas</h2>
+  <table>
+    <tr><th style="width:28%">Requisito</th><th>Detalle</th></tr>
+    <tr><td><b>Una cuenta de GitHub</b></td><td>Gratuita (github.com). Ahí quedarán guardadas tus sentencias. Puedes crear el repositorio como <b>privado</b> si no quieres que sea visible para otros.</td></tr>
+    <tr><td><b>Una IA que programe</b></td><td>Debe poder <b>ejecutar código, conectarse a internet y usar GitHub</b> por sí misma. El proyecto de referencia se hizo con <b>Claude Code en la web</b> (claude.ai/code), que requiere un plan de pago de Claude que lo incluya; consulta los planes vigentes. Un chat común de IA (que solo conversa) <b>no basta</b>: podría escribir el código, pero tendrías que ejecutarlo tú en tu computador.</td></tr>
+    <tr><td><b>Tiempo</b></td><td>La primera hora: entrevista con la IA, revisión de una muestra y decisiones. Después la descarga corre por tandas durante horas o días, según el volumen. No tienes que vigilarla, pero <b>la conversación debe seguir abierta</b> para que la IA continúe.</td></tr>
+    <tr><td><b>Conocimiento jurídico</b></td><td>Es lo más importante: tú defines qué fuentes, qué temas y qué descartar. <b>No necesitas saber programar.</b></td></tr>
+    <tr><td><b>El archivo .md</b></td><td><code>GUIA_REPLICACION_PARA_IA.md</code>, que te comparte tu docente.</td></tr>
+  </table>
+  <div class="box info"><b class="t">Antes de construir nada: revisa si ya existe lo que necesitas</b>
+    El proyecto de referencia ya descargó <b>toda la Corte Constitucional</b> (todas las áreas, 1992–2026, sin autos) y la <b>Sala Laboral de la Corte Suprema</b> (2012–2026). Si tu área está ahí (por ejemplo familia y niñez, salud, laboral, administrativo o consulta previa en la Corte Constitucional), quizá solo necesites <b>filtrar lo que ya existe</b> y construir encima, en vez de descargar de nuevo.
+  </div>
+
+  <h2 style="margin-top:14pt"><span class="num">5</span>Las decisiones que debes tomar antes de empezar</h2>
+  <p>La IA te hará estas preguntas. Llévalas pensadas: de ellas depende el tiempo, el tamaño y la utilidad del resultado.</p>
+  <table>
+    <tr><th style="width:30%">Pregunta</th><th style="width:36%">Ejemplo</th><th>Recomendación</th></tr>
+    <tr><td><b>¿Qué corte y qué sala?</b></td><td>Corte Constitucional; Corte Suprema, Sala Civil; Consejo de Estado</td><td>Empieza por una sola fuente. Ver sección 6.</td></tr>
+    <tr><td><b>¿Sentencias, autos o ambos?</b></td><td>«Solo sentencias»</td><td>En el proyecto de referencia, los autos eran más de la mitad del volumen y casi siempre de trámite; se descartaron. <b>Decídelo al principio</b>: borrarlos después cuesta trabajo.</td></tr>
+    <tr><td><b>¿Qué años?</b></td><td>«Desde 2015»</td><td>Más años, más tiempo. Una sala grande puede tener 5.000 sentencias por año.</td></tr>
+    <tr><td><b>¿Qué temas y subtemas?</b></td><td>Familia: custodia, alimentos, visitas, filiación, adopción…</td><td>Prepara 8–12 temas con 2–4 subtemas cada uno, usando <b>las expresiones que usan los jueces</b>.</td></tr>
+    <tr><td><b>¿Para qué lo vas a usar?</b></td><td>Buscar precedente; alimentar un asistente; fichas</td><td>Para uso con IA, el formato recomendado es texto (Markdown) + ficha de datos (JSON).</td></tr>
+    <tr><td><b>¿Necesitas el PDF original?</b></td><td>«No, basta el texto»</td><td>El PDF duplica tiempo y espacio. Se puede pedir después, puntualmente.</td></tr>
+    <tr><td><b>¿Repositorio público o privado?</b></td><td>«Privado»</td><td>Las sentencias son públicas, pero tú decides si tu base lo es.</td></tr>
+    <tr><td><b>¿Presupuesto para IA de pago?</b></td><td>«No»</td><td>No es necesario: la clasificación por reglas funciona sin costo adicional.</td></tr>
+  </table>
+</div>
+
+<!-- 6 -->
+<div class="section">
+  <h2><span class="num">6</span>Qué fuentes sirven para tu área</h2>
+  <p>La tabla relaciona los perfiles del grupo con las fuentes más útiles y con su estado en el proyecto de referencia.</p>
+  <p class="small">
+    <span class="tag g">Ya descargada</span> los datos ya existen y se pueden reutilizar ·
+    <span class="tag b">Verificada</span> la fuente funciona con el mismo método, pero hay que adaptar el programa ·
+    <span class="tag y">Explorar</span> la IA debe investigar primero si se puede automatizar
+  </p>
+  <table>
+    <tr><th style="width:24%">Área / perfil</th><th style="width:44%">Fuentes sugeridas</th><th>Temas para la clasificación (ejemplos)</th></tr>
+    <tr><td><b>Familia, niñez y adolescencia</b> (p. ej. ICBF)</td>
+      <td><span class="tag g">Ya descargada</span> Corte Constitucional: área «Familia y NNA», 801 sentencias<br><span class="tag b">Verificada</span> Corte Suprema, Sala Civil (casación en procesos de familia)</td>
+      <td>Custodia, alimentos, visitas, filiación, adopción, restablecimiento de derechos, violencia intrafamiliar, unión marital</td></tr>
+    <tr><td><b>Laboral y seguridad y salud en el trabajo</b></td>
+      <td><span class="tag g">Ya descargada</span> Corte Suprema, Sala Laboral (39.644)<br><span class="tag g">Ya descargada</span> Corte Constitucional: laboral (5.697) y salud (3.981)</td>
+      <td>Riesgos laborales/ARL, estabilidad reforzada, pensiones, contrato realidad, despido, calificación de pérdida de capacidad</td></tr>
+    <tr><td><b>Litigio privado, responsabilidad civil, inmobiliario</b></td>
+      <td><span class="tag b">Verificada</span> Corte Suprema, Sala Civil (~200 sentencias por año: volumen manejable)<br><span class="tag g">Ya descargada</span> Corte Constitucional (tutelas contra providencias)</td>
+      <td>Responsabilidad contractual, extracontractual y médica; daño; seguros; compraventa, arrendamiento, propiedad horizontal, posesión</td></tr>
+    <tr><td><b>Administrativo, entidades estatales, municipios, contratación estatal</b></td>
+      <td><span class="tag y">Explorar</span> Consejo de Estado (fuente principal; no se ha automatizado aún)<br><span class="tag g">Ya descargada</span> Corte Constitucional: área «Administrativo y Función Pública» (992)</td>
+      <td>Nulidad y restablecimiento, reparación directa, controversias contractuales, carrera administrativa, responsabilidad del Estado</td></tr>
+    <tr><td><b>Ambiental y restitución de tierras</b></td>
+      <td><span class="tag g">Ya descargada</span> Corte Constitucional: consulta previa y derechos étnicos (396), además de tutelas ambientales<br><span class="tag y">Explorar</span> Consejo de Estado; jueces y tribunales especializados en restitución de tierras</td>
+      <td>Licencias ambientales, consulta previa, Ley 1448 de 2011, baldíos, derecho al agua, áreas protegidas</td></tr>
+    <tr><td><b>Migratorio</b></td>
+      <td><span class="tag g">Ya descargada</span> Corte Constitucional (tutelas sobre migrantes)<br><span class="tag y">Explorar</span> Consejo de Estado (actos de la autoridad migratoria)</td>
+      <td>Nacionalidad, PEP/PPT, expulsión, refugio, salud de migrantes, apatridia</td></tr>
+    <tr><td><b>Penal</b></td>
+      <td><span class="tag b">Verificada</span> Corte Suprema, Sala Penal (~800 sentencias por año)</td>
+      <td>Según la especialidad</td></tr>
+  </table>
+  <div class="box warn"><b class="t">Si tu fuente dice «Explorar»</b>
+    No es imposible, pero el primer trabajo de la IA será <b>investigar</b> cómo funciona ese buscador y decirte si se puede automatizar. El archivo .md le explica cómo hacerlo (sección 12 del .md). Pídele un informe de viabilidad antes de que construya nada.
+  </div>
+  <div class="box warn"><b class="t">Cuidado con las tutelas de la Corte Suprema</b>
+    Son muchísimas (más de 28.000 registros solo en 2024). Si las necesitas, acota por sala y por años.
+  </div>
+</div>
+
+<!-- 7 -->
+<div class="section">
+  <h2><span class="num">7</span>Elementos a tener en cuenta</h2>
+  <div class="grid2">
+    <div class="card"><b class="t">Volumen y tiempo</b>Pide a la IA que <b>cuente</b> cuántas sentencias hay antes de descargar. En el proyecto de referencia, la primera estimación «a ojo» se quedó muy corta.</div>
+    <div class="card"><b class="t">El entorno de la IA es temporal</b>La IA trabaja en un computador prestado en la nube que se reinicia sin aviso. Por eso <b>todo debe subirse a GitHub después de cada tanda</b>. Si se reinicia, no se pierde nada de lo ya subido.</div>
+    <div class="card"><b class="t">La clasificación es orientativa</b>Las reglas de palabras clave fallan en los casos mixtos: una sentencia de pensiones que también trata prescripción queda en un solo tema. Úsala para encontrar, no para concluir.</div>
+    <div class="card"><b class="t">Verificación humana</b>Si después usas IA para extraer hechos o la <i>ratio decidendi</i>, puede confundir <i>obiter dicta</i> con regla de decisión. Nada extraído automáticamente se cita sin leer la sentencia.</div>
+    <div class="card"><b class="t">Datos personales</b>Las sentencias son públicas, pero pueden contener datos personales (Ley 1581 de 2012). Las tutelas sensibles vienen anonimizadas por la Corte; no intentes revertirlo. Si dudas, deja el repositorio privado.</div>
+    <div class="card"><b class="t">Respeto por las fuentes</b>El programa hace una consulta cada 1,5 segundos para no saturar los servidores públicos. No pidas a la IA que lo acelere ni que evada bloqueos.</div>
+    <div class="card"><b class="t">Las fuentes cambian</b>Los buscadores oficiales se rediseñan. Lo descrito en el .md funcionaba en noviembre de 2026; la IA debe probarlo antes de construir.</div>
+    <div class="card"><b class="t">Costos</b>La descarga y la clasificación por reglas no tienen costo adicional al de la herramienta de IA. Usar una IA de pago para resumir cada sentencia sí cuesta por documento: estímalo con una muestra.</div>
+    <div class="card"><b class="t">Publicación con retraso</b>Las cortes publican sus sentencias meses después de proferidas. El año en curso siempre se verá incompleto; se actualiza más adelante con un comando.</div>
+    <div class="card"><b class="t">Calidad de la fuente</b>Hay errores de origen: sentencias con el año equivocado, duplicadas o con el texto incompleto. El programa los detecta y los marca, pero conviene conocerlos.</div>
+  </div>
+
+  <h3>Cómo pensar la adaptación a tu necesidad</h3>
+  <ol>
+    <li><b>Parte del uso final.</b> ¿Qué pregunta quieres poder responder con la base? Por ejemplo: «¿cómo ha resuelto la Corte la custodia compartida?». Esa pregunta define la corte, los años y los temas.</li>
+    <li><b>Prefiere poco y bueno.</b> Una sala, un rango de años y una taxonomía clara valen más que «todo». Se puede ampliar después con el mismo programa.</li>
+    <li><b>Diseña tu taxonomía como abogado.</b> Los temas deben corresponder a cómo buscas jurisprudencia en tu práctica, con las palabras que usan los jueces.</li>
+    <li><b>Revisa la muestra con ojo crítico.</b> Abre 3 o 4 sentencias clasificadas y pregúntate: ¿quedaron en el tema correcto? Si no, pide ajustar las reglas antes de la descarga masiva.</li>
+    <li><b>Piensa en el paso siguiente.</b> El objetivo final es un buscador o asistente. Mantén el formato común del .md (texto + ficha de datos) para que después puedas unir tu base con la de tus compañeros.</li>
+  </ol>
+</div>
+
+<!-- 8 -->
+<div class="section brk">
+  <h2><span class="num">8</span>Cómo compartir el archivo .md con la IA, paso a paso</h2>
+  <p>Este procedimiento usa Claude Code en la web. Con otra IA que programe, los pasos son equivalentes: crear el repositorio, abrir una sesión conectada a él y entregar el archivo.</p>
+  <ol class="steps">
+    <li><b>Crea un repositorio vacío en GitHub.</b> En github.com, botón <i>New repository</i>. Ponle un nombre claro (por ejemplo <code>jurisprudencia-familia</code>), elige <i>Private</i> o <i>Public</i> y créalo. Puede quedar vacío.</li>
+    <li><b>Abre la herramienta y conéctala a tu repositorio.</b> Entra a claude.ai/code, conecta tu cuenta de GitHub si te lo pide e inicia una sesión nueva seleccionando el repositorio que acabas de crear.</li>
+    <li><b>Entrega el archivo .md.</b> Adjunta <code>GUIA_REPLICACION_PARA_IA.md</code> en el primer mensaje, con el ícono de clip o arrastrándolo al chat. Otra opción es subirlo antes al repositorio, en una carpeta <code>docs/</code>, y decirle a la IA dónde está.</li>
+    <li><b>Escribe el mensaje inicial.</b> Usa la plantilla de abajo, cambiando lo que está entre corchetes.</li>
+    <li><b>Responde la entrevista.</b> La IA te hará las preguntas de la sección 5. Si no sabes algo, dile «propón tú una opción y explícame la consecuencia».</li>
+    <li><b>Revisa el informe de la fuente y el conteo.</b> La IA debe decirte si la fuente funciona, cuántas sentencias hay y cuánto tardará. Si algo no te convence, pregunta antes de aprobar.</li>
+    <li><b>Revisa la prueba pequeña.</b> Abre 2 o 3 sentencias descargadas en GitHub: ¿el texto está completo?, ¿el tema es el correcto? Pide ajustes si hace falta.</li>
+    <li><b>Aprueba la descarga.</b> Pide que trabaje por tandas y suba a GitHub después de cada una. La IA te irá reportando el avance; tú solo mantienes la conversación abierta.</li>
+    <li><b>Cierra con la verificación.</b> Al final pide el informe de verificación (cuántas descargó, cuántas faltan, cuántas quedaron sin clasificar) y un README que explique dónde están los datos y cómo actualizarlos.</li>
+  </ol>
+
+  <h3>Plantilla de mensaje inicial</h3>
+  <div class="prompt">Hola. Te adjunto el archivo GUIA_REPLICACION_PARA_IA.md: es la especificación de un proyecto que ya funcionó para descargar y organizar jurisprudencia colombiana. Quiero que construyas una versión adaptada a mi necesidad, en este repositorio.
+
+Mi perfil: [abogado/a en ... ; poca experiencia con IA y sin conocimientos de programación].
+Lo que necesito: [sentencias de ... (corte y sala), desde el año ..., sobre ... (tema)].
+Las usaré para: [buscar precedente / alimentar un asistente de IA / hacer fichas].
+
+Antes de programar, sigue la sección 0 del archivo: entrevístame con las preguntas de la sección 1, explora la fuente, cuenta el volumen y muéstrame una muestra pequeña. Explícame todo en lenguaje sencillo y sube los datos a GitHub por lotes.</div>
+
+  <h3>Frases útiles durante el trabajo</h3>
+  <table>
+    <tr><th style="width:42%">Situación</th><th>Qué decirle a la IA</th></tr>
+    <tr><td>No entiendes una explicación</td><td>«Explícamelo sin términos técnicos y dime qué decisión necesitas de mí.»</td></tr>
+    <tr><td>Quieres saber el avance</td><td>«¿Cuántas sentencias van, cuántas faltan y hubo errores?»</td></tr>
+    <tr><td>Aparece un aviso de que el contenedor se reinició</td><td>«El entorno se reinició: recupera todo desde GitHub y continúa donde quedaste.»</td></tr>
+    <tr><td>La clasificación no te convence</td><td>«Muéstrame 5 sentencias de "Otros - Sin clasificar" y propón ajustes a las reglas; luego reclasifica sin volver a descargar.»</td></tr>
+    <tr><td>Quieres cambiar el alcance (p. ej. quitar autos)</td><td>«Detén la descarga. Quiero [cambio]. ¿Qué implica para lo ya descargado?»</td></tr>
+    <tr><td>Quieres actualizar más adelante</td><td>«Trae solo las sentencias nuevas de los dos últimos años.»</td></tr>
+  </table>
+  <div class="box warn"><b class="t">Nunca pegues contraseñas ni claves en el chat</b>
+    Si la IA necesita una clave (por ejemplo, de una API de pago), la herramienta tiene formularios seguros para eso. Tampoco hace falta poner tu correo ni tus datos personales dentro del programa.
+  </div>
+</div>
+
+<!-- 9 -->
+<div class="section">
+  <h2><span class="num">9</span>Ruta sugerida y tiempos</h2>
+  <table>
+    <tr><th style="width:22%">Momento</th><th style="width:48%">Qué pasa</th><th>Tu papel</th></tr>
+    <tr><td><b>Sesión 1</b> (1–2 horas)</td><td>Entrevista, exploración de la fuente, conteo y prueba con 5–20 sentencias</td><td>Responder, decidir el alcance, revisar la muestra</td></tr>
+    <tr><td><b>Descarga</b> (horas a días)</td><td>Tandas de 25 minutos: unas 400–800 sentencias por tanda, cada una subida a GitHub</td><td>Mantener la conversación abierta; leer los reportes</td></tr>
+    <tr><td><b>Cierre</b> (30 minutos)</td><td>Verificación, informe y README</td><td>Revisar el informe y unas cuantas sentencias</td></tr>
+  </table>
+  <p class="small">Referencia: la Sala Civil de la Corte Suprema (~200 sentencias por año) cabe en pocas tandas; la Sala Laboral completa 2012–2026 tomó unas 50 tandas; la Corte Constitucional completa, unas 75.</p>
+
+  <h2 style="margin-top:14pt"><span class="num">10</span>Preguntas frecuentes</h2>
+  <dl>
+    <dt>¿Tengo que saber programar?</dt><dd>No. Tu aporte es jurídico: fuentes, temas y criterios. La IA hace el código y te explica en lenguaje sencillo.</dd>
+    <dt>¿Puedo hacerlo con ChatGPT, Gemini u otra IA?</dt><dd>Sí, siempre que la herramienta pueda ejecutar código, navegar por internet y usar GitHub por sí misma. Si solo conversa, te dará el código pero tendrás que ejecutarlo tú.</dd>
+    <dt>¿Qué pasa si cierro la conversación a mitad de la descarga?</dt><dd>Lo ya subido a GitHub queda a salvo. Para seguir, abre una sesión nueva en el mismo repositorio y pídele que retome la descarga: el programa salta lo que ya existe.</dd>
+    <dt>¿Dónde veo mis sentencias?</dt><dd>En tu repositorio de GitHub, carpeta <code>jurisprudencia/</code>. Los archivos <code>.md</code> se ven formateados al hacer clic. Ojo con la <b>rama</b>: la IA puede trabajar en una rama distinta de la principal; pregúntale cuál es.</dd>
+    <dt>¿Puedo combinar mi base con la de mis compañeros?</dt><dd>Sí, si todos respetan el formato común descrito en el .md (sección 7 del .md). Esa es la base del paso siguiente: un buscador o asistente con varias áreas.</dd>
+    <dt>¿Es legal descargar sentencias así?</dt><dd>Las sentencias son documentos públicos y el programa usa los buscadores oficiales a un ritmo respetuoso. Cuida los datos personales que puedan contener y cita siempre la fuente oficial.</dd>
+  </dl>
+
+  <h2 style="margin-top:14pt"><span class="num">11</span>Glosario</h2>
+  <dl class="glos">
+    <dt>Scraper o descargador</dt><dd>Programa que consulta un sitio web y extrae su información de forma automática.</dd>
+    <dt>API</dt><dd>«Puerta» técnica por la que un programa pide datos a un sitio. La Corte Suprema tiene una que no está documentada pero es pública.</dd>
+    <dt>Repositorio (GitHub)</dt><dd>Carpeta en internet que guarda tus archivos y el historial de cambios.</dd>
+    <dt>Rama</dt><dd>Versión paralela dentro de un repositorio. Tus datos pueden estar en una rama distinta de la principal.</dd>
+    <dt>Commit / push</dt><dd>Guardar un lote de cambios (<i>commit</i>) y subirlo a GitHub (<i>push</i>).</dd>
+    <dt>Markdown (.md)</dt><dd>Texto simple con marcas mínimas de formato; ideal para que una IA lo lea.</dd>
+    <dt>JSON</dt><dd>Formato de «ficha de datos» (radicado, fecha, tema…) que leen los programas.</dd>
+    <dt>Índice</dt><dd>Base de datos local que permite buscar palabras en todas las sentencias a la vez; se reconstruye a partir de los archivos.</dd>
+    <dt>Tanda</dt><dd>Bloque de trabajo de unos 25 minutos; el programa se detiene solo, guarda y la IA lanza el siguiente.</dd>
+    <dt>Taxonomía</dt><dd>Lista ordenada de temas y subtemas con la que se clasifican las sentencias.</dd>
+  </dl>
+  <p class="small" style="margin-top:12pt">Material de apoyo del proyecto «Descargador de jurisprudencia» (Corte Suprema de Justicia, Sala Laboral, y Corte Constitucional). Las cifras corresponden a la descarga realizada entre septiembre y noviembre de 2026.</p>
+</div>
+
+</body>
+</html>
