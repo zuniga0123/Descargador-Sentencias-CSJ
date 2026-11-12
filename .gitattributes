@@ -1,0 +1,2 @@
+# Los .bat se guardan tal cual con CRLF (también al bajarlos "raw" desde GitHub).
+*.bat -text

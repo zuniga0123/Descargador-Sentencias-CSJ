@@ -15,3 +15,8 @@ venv/
 /jurisprudencia/indice.sqlite-wal
 /jurisprudencia/indice.sqlite-shm
 /estado_enumeracion/*.tmp
+
+# App de búsqueda: base y descargas locales (se generan en cada equipo)
+datos/
+descargas/
+.venv/

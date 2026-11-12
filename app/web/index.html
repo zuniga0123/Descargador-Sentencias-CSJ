@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Buscador de Jurisprudencia</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22%3E%3Crect width=%2232%22 height=%2232%22 rx=%226%22 fill=%22%231f4e79%22/%3E%3Ctext x=%2216%22 y=%2223%22 font-size=%2219%22 text-anchor=%22middle%22 fill=%22white%22 font-family=%22Georgia%22%3EJ%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+<header class="barra">
+  <a class="marca" href="./" title="Inicio">Buscador de <b>Jurisprudencia</b></a>
+  <form id="form-busqueda" class="busqueda" role="search">
+    <input id="q" name="q" type="search" autocomplete="off"
+      placeholder='Ej.: estabilidad laboral reforzada "debilidad manifiesta" -tutela' aria-label="Buscar">
+    <button type="submit">Buscar</button>
+  </form>
+  <button id="btn-ayuda" class="enlace" type="button">Cómo buscar</button>
+</header>
+
+<div id="ayuda" class="ayuda" hidden>
+  <p><b>Palabras sueltas</b>: trae las sentencias que contienen todas (<code>pensión sobrevivientes compañera</code>).</p>
+  <p><b>"Frase exacta"</b> entre comillas: <code>"contrato realidad"</code>.</p>
+  <p><b>Excluir</b> con guion: <code>despido -sindical</code>. <b>Alternativas</b> con O: <code>fuero O estabilidad</code>.</p>
+  <p><b>Prefijo</b> con asterisco: <code>pensiona*</code> encuentra pensional, pensionado… Las tildes no importan.</p>
+  <p><b>Radicado</b>: escribe <code>T-760/08</code>, <code>SU-214/16</code> o <code>SL1234-2020</code> para ir directo.</p>
+</div>
+
+<main class="contenedor">
+  <aside id="filtros" class="filtros" aria-label="Filtros">
+    <div class="filtros-cabeza">
+      <h2>Filtros</h2>
+      <button id="limpiar" class="enlace" type="button">Limpiar</button>
+    </div>
+    <section>
+      <h3>Años</h3>
+      <div class="anos">
+        <input id="desde" type="number" min="1992" max="2100" placeholder="Desde" aria-label="Desde el año">
+        <span>–</span>
+        <input id="hasta" type="number" min="1992" max="2100" placeholder="Hasta" aria-label="Hasta el año">
+      </div>
+      <div id="histograma" class="histograma" aria-hidden="true"></div>
+    </section>
+    <section data-faceta="corte"><h3>Corte</h3><div class="opciones"></div></section>
+    <section data-faceta="sala"><h3>Sala</h3><div class="opciones"></div></section>
+    <section data-faceta="tipo"><h3>Tipo</h3><div class="opciones"></div></section>
+    <section data-faceta="tema"><h3>Tema</h3><input class="filtrar" placeholder="Filtrar temas…"><div class="opciones largas"></div></section>
+    <section data-faceta="ponente"><h3>Magistrado ponente</h3><input class="filtrar" placeholder="Filtrar ponentes…"><div class="opciones largas"></div></section>
+  </aside>
+
+  <section class="resultados" aria-live="polite">
+    <div class="resumen-busqueda">
+      <span id="conteo"></span>
+      <label>Ordenar
+        <select id="orden">
+          <option value="relevancia">Más pertinentes</option>
+          <option value="recientes">Más recientes</option>
+          <option value="antiguas">Más antiguas</option>
+        </select>
+      </label>
+      <button id="btn-filtros" class="enlace solo-movil" type="button">Filtros</button>
+    </div>
+    <div id="exactas"></div>
+    <ol id="lista" class="lista"></ol>
+    <nav id="paginacion" class="paginacion"></nav>
+    <div id="bienvenida" class="bienvenida" hidden></div>
+  </section>
+</main>
+
+<div id="lector" class="lector" hidden>
+  <div class="lector-caja" role="dialog" aria-modal="true" aria-labelledby="lector-titulo">
+    <header class="lector-cabeza">
+      <div>
+        <h2 id="lector-titulo"></h2>
+        <p id="lector-sub" class="sub"></p>
+      </div>
+      <div class="acciones">
+        <button id="btn-citar" type="button">Copiar cita</button>
+        <a id="btn-md" class="boton" href="#" download>Descargar .md</a>
+        <a id="btn-fuente" class="boton" href="#" target="_blank" rel="noopener" hidden>Ver en la Corte</a>
+        <button id="btn-cerrar" type="button" aria-label="Cerrar">✕</button>
+      </div>
+    </header>
+    <div class="lector-cuerpo">
+      <nav id="indice" class="indice" aria-label="Secciones"></nav>
+      <article id="texto" class="texto"></article>
+    </div>
+    <div id="buscar-en-texto" class="buscar-en-texto">
+      <input id="q-texto" placeholder="Buscar en esta sentencia…" aria-label="Buscar en esta sentencia">
+      <span id="q-texto-conteo"></span>
+      <button id="q-ant" type="button" aria-label="Anterior">↑</button>
+      <button id="q-sig" type="button" aria-label="Siguiente">↓</button>
+    </div>
+  </div>
+</div>
+
+<div id="aviso" class="aviso" role="status" hidden></div>
+<script src="app.js"></script>
+</body>
+</html>
