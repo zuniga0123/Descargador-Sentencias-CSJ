@@ -14,7 +14,7 @@ echo    Buscador de Jurisprudencia - instalacion / actualizacion
 echo  ==========================================================
 echo.
 echo  Se instalara en: %DESTINO%
-echo  Necesita unos 4 GB libres durante la instalacion y conexion a internet.
+echo  Necesita unos 5 GB libres durante la instalacion (luego ocupa 3 GB) e internet.
 echo  La primera vez tarda entre 15 y 30 minutos.
 echo.
 pause

@@ -17,8 +17,8 @@ internet y sin pagar ninguna API. Todo corre en tu computador.
 4. Al terminar queda un acceso directo **Buscador de Jurisprudencia** en el
    escritorio. Todo se guarda en `C:\Users\<tu usuario>\BuscadorJurisprudencia`.
 
-Requisitos: Windows 10 u 11, unos 4 GB libres durante la instalación
-(después ocupa menos: los ZIP descargados se borran).
+Requisitos: Windows 10 u 11 y unos 5 GB libres durante la instalación
+(después ocupa unos 3 GB: los ZIP descargados se borran al terminar).
 
 ## Usar
 
