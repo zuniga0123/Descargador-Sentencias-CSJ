@@ -54,14 +54,45 @@ Requisitos: Windows 10 u 11 y unos 5 GB libres durante la instalación
 Cierra el buscador y ejecuta `actualizar.bat` en la carpeta del buscador.
 Vuelve a bajar los datos de GitHub y reconstruye la base (10–20 minutos).
 
-## IA (opcional, más adelante)
+## Casos y búsqueda de precedentes
 
-El buscador no necesita IA. Está preparado para conectar **DeepSeek** cuando se
-quiera (`app/ia.py`): la búsqueda local escoge las sentencias pertinentes y solo
-se envían fragmentos de ellas al modelo, que responde citando radicados. Para
-activarlo bastará con guardar la clave de DeepSeek en la variable de entorno
-`DEEPSEEK_API_KEY` y reiniciar el buscador; la interfaz para preguntarle a la IA
-es la siguiente fase.
+En **Mis casos** cada persona crea sus casos (al entrar elige su nombre; no
+hay contraseña, sirve para separar el trabajo).
+
+1. **Nuevo caso** → escribe los hechos y particularidades como se los
+   contarías a un colega, y lo que se pide o se discute. Se guarda solo.
+2. **Buscar precedentes**. El buscador propone sentencias con antecedentes
+   parecidos que resuelven el mismo asunto de fondo. Cada una trae un puntaje
+   de 0 a 100, si resuelve el fondo, si es favorable o desfavorable a lo que se
+   pide, la decisión, la regla aplicable y en qué se parece o se diferencia.
+3. **☆ Guardar en el caso** las que sirven (con tus notas) y **No sirve** las
+   que no: estas ya no vuelven a aparecer en las búsquedas de ese caso.
+4. **Exportar informe**: un archivo .md con los hechos, el problema jurídico,
+   la síntesis y los precedentes elegidos con su cita, listo para Word.
+5. El **Historial** registra quién hizo qué y cuándo. Desde el buscador general
+   también se puede guardar una sentencia en un caso (botón en el lector).
+
+### Con DeepSeek (recomendado) o sin IA
+
+- **Sin IA** funciona por palabras clave del caso: útil, pero sin explicaciones.
+- **Con DeepSeek** la IA identifica el problema jurídico y el asunto de fondo,
+  arma varias búsquedas, lee extractos de 40 (u 80) sentencias candidatas
+  (antecedentes, pasajes pertinentes y decisión), califica cada una y redacta
+  una síntesis de la jurisprudencia con citas. Tarda entre 30 segundos y 2
+  minutos y usa unos 40.000 tokens por búsqueda (el costo depende de las
+  tarifas vigentes de DeepSeek; es prepago).
+- Para activarlo: **Configuración** → pega la clave de API de DeepSeek
+  (platform.deepseek.com → API keys) → **Guardar**. Se prueba sola. La clave
+  se guarda únicamente en ese computador; quienes usan el buscador en red
+  aprovechan la misma clave, pero no pueden verla ni cambiarla.
+- **Privacidad**: a DeepSeek se envían los hechos y pretensiones del caso y
+  extractos de sentencias públicas, nunca la base completa. No escribas en los
+  casos nombres, cédulas ni datos que identifiquen a las personas.
+- Las calificaciones y la síntesis son orientativas: verifica cada sentencia
+  antes de citarla.
+
+Los casos se guardan en `datos/casos.sqlite`, aparte de las sentencias:
+actualizar el buscador no los borra. Para respaldarlos, copia ese archivo.
 
 ## Para quien programa
 
@@ -72,8 +103,13 @@ app/
   busqueda.py       motor: FTS5 + filtros + facetas + fragmentos
   servidor.py       API (FastAPI) y páginas; documentación en /api/docs
   ia.py             conexión opcional con DeepSeek (formato OpenAI)
+  precedentes.py    buscador de precedentes: planteamiento, candidatas,
+                    extractos, evaluación y síntesis (o modo sin IA)
+  casos.py          usuarios, casos, análisis, guardadas e historial
+  informes.py       informe del caso en Markdown
+  texto.py          limpieza del texto (PDF de la Corte Suprema, secciones)
   instalar.py       pasos de instalación con Python
-  web/              interfaz (HTML + CSS + JS, sin dependencias)
+  web/              interfaz (HTML + CSS + JS, sin dependencias; casos.js)
   windows/          instalador y lanzadores .bat
 ```
 

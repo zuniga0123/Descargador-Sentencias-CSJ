@@ -13,13 +13,16 @@ let datosEstado = null;
 function leerURL() {
   const p = new URLSearchParams(location.search);
   const e = { q: p.get("q") || "", orden: p.get("orden") || "relevancia", pagina: +p.get("pagina") || 1,
-              desde: p.get("desde") || "", hasta: p.get("hasta") || "", ver: p.get("ver") || "" };
+              desde: p.get("desde") || "", hasta: p.get("hasta") || "", ver: p.get("ver") || "",
+              vista: p.get("vista") || "", caso: p.get("caso") || "" };
   FACETAS.forEach(f => (e[f] = p.getAll(f)));
   return e;
 }
 
 function aParams(e, conVer = true) {
   const p = new URLSearchParams();
+  if (e.vista) p.set("vista", e.vista);
+  if (e.vista === "caso" && e.caso) p.set("caso", e.caso);
   if (e.q) p.set("q", e.q);
   FACETAS.forEach(f => e[f].forEach(v => p.append(f, v)));
   ["desde", "hasta"].forEach(k => e[k] && p.set(k, e[k]));
@@ -54,6 +57,14 @@ async function api(ruta) {
   return r.json();
 }
 
+// ---------- Vistas ----------
+
+function mostrarVista(vista) {
+  $("main.contenedor").hidden = !!vista;
+  $$(".vista").forEach(v => (v.hidden = v.id !== "vista-" + vista));
+  $$(".menu [data-vista]").forEach(a => a.classList.toggle("activo", a.dataset.vista === (vista === "caso" ? "casos" : vista)));
+}
+
 // ---------- Búsqueda ----------
 
 const hayBusqueda = () => estado.q || estado.desde || estado.hasta || FACETAS.some(f => estado[f].length);
@@ -65,9 +76,11 @@ async function render() {
   $("#desde").value = estado.desde;
   $("#hasta").value = estado.hasta;
   document.title = estado.q ? `${estado.q} · Buscador de Jurisprudencia` : "Buscador de Jurisprudencia";
-
+  mostrarVista(estado.vista);
   const clave = aParams(estado, false).toString();
-  if (!hayBusqueda()) {
+  if (estado.vista) {
+    renderVista(estado.vista);  // casos.js
+  } else if (!hayBusqueda()) {
     mostrarBienvenida();
   } else if (clave !== ultimo?.clave) {
     const turno = ++pendiente;
@@ -266,7 +279,8 @@ async function abrirLector(id) {
   $("#texto").innerHTML = "";
   $("#indice").innerHTML = "";
   let p;
-  try { p = await api(`api/providencia/${id}?q=${encodeURIComponent(estado.q)}`); }
+  const resaltar = estado.vista ? (window.terminosLector || "") : estado.q;
+  try { p = await api(`api/providencia/${id}?q=${encodeURIComponent(resaltar)}`); }
   catch (err) { $("#lector-titulo").textContent = "No se pudo abrir"; $("#texto").textContent = err.message; return; }
   abierta = p;
   const fecha = p.fecha ? new Date(p.fecha + "T12:00").toLocaleDateString("es-CO", { day: "numeric", month: "long", year: "numeric" }) : p.ano;
@@ -354,11 +368,12 @@ document.addEventListener("keydown", ev => {
 
 // ---------- Controles ----------
 
-$("#form-busqueda").onsubmit = ev => { ev.preventDefault(); navegar({ q: $("#q").value.trim(), pagina: 1, ver: "" }); };
+$("#form-busqueda").onsubmit = ev => { ev.preventDefault(); navegar({ q: $("#q").value.trim(), pagina: 1, ver: "", vista: "", caso: "" }); };
 $("#orden").onchange = () => navegar({ orden: $("#orden").value, pagina: 1 });
 ["desde", "hasta"].forEach(k => $("#" + k).onchange = () => navegar({ [k]: $("#" + k).value, pagina: 1 }));
 $("#limpiar").onclick = () => navegar({ ...Object.fromEntries(FACETAS.map(f => [f, []])), desde: "", hasta: "", pagina: 1 });
 $("#btn-ayuda").onclick = () => ($("#ayuda").hidden = !$("#ayuda").hidden);
 $("#btn-filtros").onclick = () => $("#filtros").classList.toggle("abierto");
 
-render();
+// Se espera a que carguen todos los scripts (casos.js) antes del primer render.
+document.addEventListener("DOMContentLoaded", render);

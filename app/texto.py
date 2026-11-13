@@ -83,6 +83,8 @@ def marcar_secciones(texto: str) -> str:
 def a_html(texto: str) -> tuple[str, list[dict]]:
     md = markdown.Markdown(extensions=["tables", "toc", "sane_lists"], extension_configs={"toc": {"toc_depth": "2-5"}})
     # El texto viene de la fuente: se escapa cualquier HTML incrustado.
+    # Las imágenes de la fuente no se descargaron: se quitan sus referencias.
+    texto = re.sub(r"!\[[^\]]*\]\([^)]*\)", "", texto)
     html = md.convert(marcar_secciones(texto.replace("<", "&lt;")))
     indice: list[dict] = []
 
