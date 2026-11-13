@@ -81,7 +81,20 @@ def a_consulta_fts(texto: str) -> str | None:
     # FTS5 no admite NOT al inicio: mover los negados al final.
     positivos = [p for p in limpio if not p.startswith("NOT ")]
     negativos = [p for p in limpio if p.startswith("NOT ")]
-    return " ".join(positivos + negativos)
+    # Agrupar alternativas: "a O b c" debe ser (a O b) Y c, no a O (b Y c).
+    grupos: list[list[str]] = []
+    unir = False
+    for p in positivos:
+        if p == "OR":
+            unir = bool(grupos)
+            continue
+        if unir:
+            grupos[-1].append(p)
+        else:
+            grupos.append([p])
+        unir = False
+    piezas = [g[0] if len(g) == 1 else "(" + " OR ".join(g) + ")" for g in grupos]
+    return " ".join(piezas + negativos)
 
 
 @dataclass
@@ -267,3 +280,50 @@ def estadisticas() -> dict:
         )
     ]
     return {"construida": meta.get("construida"), "cortes": por_corte, "total": sum(c["n"] for c in por_corte)}
+
+
+# ---------- Apoyo al buscador de precedentes ----------
+
+def candidatos(consulta_fts: str, cortes: list[str] | None = None, desde: int | None = None,
+               hasta: int | None = None, limite: int = 40) -> list[int]:
+    """Ids de las sentencias más pertinentes para una consulta FTS ya armada."""
+    b = Busqueda(corte=cortes or [], desde=desde, hasta=hasta)
+    where, params = _where(b)
+    filas = conexion().execute(
+        f"SELECT p.id FROM fts JOIN providencias p ON p.id = fts.rowid WHERE fts MATCH ? AND {where} "
+        "ORDER BY bm25(fts, 10.0, 5.0, 3.0, 1.0) LIMIT ?",
+        [consulta_fts, *params, limite],
+    ).fetchall()
+    return [f[0] for f in filas]
+
+
+def frecuencias(terminos: list[str]) -> dict[str, int]:
+    """En cuántas sentencias aparece cada término (ya normalizado: minúsculas, sin tildes)."""
+    conn = conexion()
+    if not getattr(_local, "vocab", False):
+        conn.execute("CREATE VIRTUAL TABLE IF NOT EXISTS temp.vocab USING fts5vocab(main, 'fts', 'row')")
+        _local.vocab = True
+    salida = {}
+    for t in set(terminos):
+        fila = conn.execute("SELECT doc FROM temp.vocab WHERE term = ?", (t,)).fetchone()
+        salida[t] = fila[0] if fila else 0
+    return salida
+
+
+def total_sentencias() -> int:
+    return conexion().execute("SELECT count(*) FROM providencias").fetchone()[0]
+
+
+def id_por_radicado(corte_clave: str, radicado: str) -> int | None:
+    fila = conexion().execute(
+        "SELECT id FROM providencias WHERE corte_clave = ? AND radicado = ? ORDER BY id LIMIT 1", (corte_clave, radicado)
+    ).fetchone()
+    return fila[0] if fila else None
+
+
+def ficha(pid: int) -> dict | None:
+    fila = conexion().execute(
+        "SELECT id, corte, corte_clave, sala, tipo, radicado, numero, ano, fecha, ponente, tema, subtema, resumen, "
+        "radicacion FROM providencias WHERE id = ?", (pid,)
+    ).fetchone()
+    return dict(fila) if fila else None

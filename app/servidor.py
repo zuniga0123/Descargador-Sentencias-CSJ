@@ -13,102 +13,16 @@ import threading
 import webbrowser
 from typing import Annotated
 
-import markdown
-from fastapi import FastAPI, HTTPException, Query
+from fastapi import FastAPI, HTTPException, Query, Request
 from fastapi.responses import FileResponse, PlainTextResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
-from . import busqueda, config, ia
+from . import busqueda, casos, config, ia, informes, precedentes
+from .texto import a_html, reflujo_pdf
 
 WEB_DIR = config.APP_DIR / "web"
 app = FastAPI(title="Buscador de jurisprudencia", docs_url="/api/docs", redoc_url=None)
-
-# Párrafos cortos que en la práctica son títulos de sección aunque la fuente
-# no los marque como tales (frecuente en la Corte Constitucional).
-_PALABRAS_SECCION = (
-    "ANTECEDENTES|HECHOS|LA DEMANDA|CONTESTACI[OÓ]N|PRETENSIONES|PRUEBAS|"
-    "CONSIDERACIONES|FUNDAMENTOS|PROBLEMA JUR[IÍ]DICO|COMPETENCIA|DECISI[OÓ]N|RESUELVE|"
-    "S[IÍ]NTESIS|CASO CONCRETO|EL CASO|SALVAMENTO DE VOTO|ACLARACI[OÓ]N DE VOTO|"
-    "INTERVENCIONES|CONCEPTO DEL PROCURADOR|NORMA DEMANDADA|TEXTO DE LA NORMA|"
-    "SENTENCIA (?:DE PRIMERA|DE SEGUNDA|IMPUGNADA|RECURRIDA)|EL RECURSO|LA OPOSICI[OÓ]N|"
-    "CARGO|ACTUACI[OÓ]N|TR[AÁ]MITE|DECISIONES? (?:JUDICIALES|DE INSTANCIA)|ALCANCE DE LA IMPUGNACI[OÓ]N|"
-    "DEMANDA DE CASACI[OÓ]N|ASUNTO|REFERENCIA"
-)
-_RE_TITULO = re.compile(
-    r"^(?:\*\*)?\s*(?:(?:[IVXL]{1,6}|\d{1,2}|[A-H])[\.\-\)]\s*)?(?:" + _PALABRAS_SECCION + r")\b[^\n]{0,80}$",
-    re.I,
-)
-_RE_MAYUS = re.compile(r"^(?:\*\*)?\s*(?:[IVXL]{1,6}[\.\-]\s+)[A-ZÁÉÍÓÚÑ ,\.:;\-]{4,90}(?:\*\*)?$")
-
-
-_RE_ESPECIAL = re.compile(r"^(?:#|\||>|[-*+]\s|\d{1,3}[.)]\s|[IVXL]{1,6}[.)]\s)")
-_FIN_ORACION = tuple(".:;?!»\"”)")
-
-
-def _clave_linea(linea: str) -> str:
-    return re.sub(r"\d+\s*$", "#", linea.strip())
-
-
-def reflujo_pdf(texto: str) -> str:
-    """Las sentencias de la Corte Suprema vienen de PDF: cada renglón quedó
-    como párrafo y se intercalan encabezados de página. Aquí se quitan esos
-    encabezados repetidos y se unen los renglones de un mismo párrafo."""
-    from collections import Counter
-
-    bloques = [b.strip() for b in texto.split("\n\n")]
-    cortos = Counter(_clave_linea(b) for b in bloques if b and len(b) < 70 and "\n" not in b)
-    repetidos = {k for k, n in cortos.items() if n >= 3 and not k.startswith("#") and len(k) > 2}
-    salida: list[str] = []
-    for b in bloques:
-        if not b or _clave_linea(b) in repetidos or re.fullmatch(r"\d{1,3}", b):
-            continue
-        previo = salida[-1] if salida else ""
-        es_mayus = lambda x: sum(c.isalpha() for c in x) >= 4 and x.upper() == x
-        unir = (
-            previo
-            and "\n" not in previo
-            and "\n" not in b
-            and not _RE_ESPECIAL.match(previo)
-            and not _RE_ESPECIAL.match(b)
-            and not es_mayus(previo)
-            and not (es_mayus(b) and len(b) < 90)
-            and (not previo.endswith(_FIN_ORACION) or b[:1].islower())
-        )
-        if unir:
-            salida[-1] = previo[:-1] + b if previo.endswith("-") and b[:1].islower() else previo + " " + b
-        else:
-            salida.append(b)
-    return "\n\n".join(salida)
-
-
-def marcar_secciones(texto: str) -> str:
-    bloques = texto.split("\n\n")
-    for i, bloque in enumerate(bloques):
-        b = bloque.strip()
-        if not b or b.startswith("#") or "\n" in b or len(b) > 110:
-            continue
-        limpio = re.sub(r"\*+|\s*\(\d+\)$", "", b).strip(" #").rstrip(":.")
-        es_mayus = limpio.upper() == limpio and sum(c.isalpha() for c in limpio) >= 5
-        if _RE_MAYUS.match(b) or (es_mayus and _RE_TITULO.match(limpio)):
-            bloques[i] = "### " + limpio
-    return "\n\n".join(bloques)
-
-
-def a_html(texto: str) -> tuple[str, list[dict]]:
-    md = markdown.Markdown(extensions=["tables", "toc", "sane_lists"], extension_configs={"toc": {"toc_depth": "2-5"}})
-    # El texto viene de la fuente: se escapa cualquier HTML incrustado.
-    html = md.convert(marcar_secciones(texto.replace("<", "&lt;")))
-    indice: list[dict] = []
-
-    def aplanar(tokens):
-        for t in tokens:
-            indice.append({"id": t["id"], "titulo": t["name"], "nivel": t["level"]})
-            aplanar(t["children"])
-
-    aplanar(md.toc_tokens)
-    return html, indice
-
 
 def _lista(valor: list[str] | None) -> list[str]:
     return [v for v in (valor or []) if v]
@@ -174,25 +88,183 @@ def descargar_md(pid: int):
     )
 
 
-class Pregunta(BaseModel):
-    pregunta: str
-    ids: list[int] = []
+# ---------- IA (configuración: solo desde este mismo computador) ----------
+
+def _solo_local(request: Request) -> None:
+    if request.client and request.client.host not in ("127.0.0.1", "::1", "localhost", "testclient"):
+        raise HTTPException(403, "La configuración de la IA solo se puede cambiar en el computador donde corre el buscador.")
 
 
-@app.post("/api/ia/preguntar")
-def preguntar(datos: Pregunta):
-    if not ia.estado()["activa"]:
-        raise HTTPException(400, "La IA no está configurada.")
-    if datos.ids:
-        contexto = []
-        for pid in datos.ids[:8]:
-            p = busqueda.providencia(pid)
-            if p:
-                contexto.append({**p, "fragmento": busqueda.fragmento(p["texto"], busqueda.terminos_resaltado(datos.pregunta), 3000)})
-    else:
-        r = busqueda.buscar(busqueda.Busqueda(q=datos.pregunta, por_pagina=6))
-        contexto = r["resultados"]
-    return {"respuesta": ia.preguntar(datos.pregunta, contexto), "fuentes": [c["radicado"] for c in contexto]}
+class ConfigIA(BaseModel):
+    clave: str | None = None
+    modelo: str | None = None
+    borrar_clave: bool = False
+
+
+@app.get("/api/ia/estado")
+def ia_estado(request: Request):
+    host = request.client.host if request.client else ""
+    return {**ia.estado(), "puede_configurar": host in ("127.0.0.1", "::1", "localhost", "testclient")}
+
+
+@app.post("/api/ia/config")
+def ia_config(datos: ConfigIA, request: Request):
+    _solo_local(request)
+    try:
+        return ia.guardar_config(datos.clave, datos.modelo, datos.borrar_clave)
+    except ia.ErrorIA as exc:
+        raise HTTPException(400, str(exc)) from exc
+
+
+@app.post("/api/ia/probar")
+def ia_probar(request: Request):
+    _solo_local(request)
+    try:
+        return ia.probar()
+    except ia.ErrorIA as exc:
+        raise HTTPException(400, str(exc)) from exc
+
+
+# ---------- Usuarios y casos ----------
+
+class NuevoUsuario(BaseModel):
+    nombre: str
+
+
+class DatosCaso(BaseModel):
+    usuario_id: int
+    titulo: str | None = None
+    descripcion: str | None = None
+    pretensiones: str | None = None
+    cortes: list[str] | None = None
+    desde: int | None = None
+    hasta: int | None = None
+    archivado: int | None = None
+
+
+class Analizar(BaseModel):
+    usuario_id: int
+    amplitud: str = "normal"
+
+
+class Guardar(BaseModel):
+    usuario_id: int
+    corte_clave: str
+    radicado: str
+    estado: str = "precedente"
+    nota: str | None = None
+    datos: dict | None = None
+
+
+def _caso_o_404(caso_id: int) -> dict:
+    caso = casos.obtener_caso(caso_id)
+    if not caso:
+        raise HTTPException(404, "No existe ese caso.")
+    return caso
+
+
+@app.get("/api/usuarios")
+def listar_usuarios():
+    return casos.usuarios()
+
+
+@app.post("/api/usuarios")
+def nuevo_usuario(datos: NuevoUsuario):
+    try:
+        return casos.crear_usuario(datos.nombre)
+    except ValueError as exc:
+        raise HTTPException(400, str(exc)) from exc
+
+
+@app.get("/api/casos")
+def listar_casos(usuario: int, archivados: bool = False):
+    return casos.listar_casos(usuario, archivados)
+
+
+@app.post("/api/casos")
+def nuevo_caso(datos: DatosCaso):
+    if not casos.usuario(datos.usuario_id):
+        raise HTTPException(400, "Usuario desconocido.")
+    return casos.crear_caso(datos.usuario_id, datos.model_dump(exclude={"usuario_id"}))
+
+
+def _guardadas_con_fichas(caso_id: int) -> list[dict]:
+    salida = []
+    for g in casos.guardadas(caso_id):
+        pid = busqueda.id_por_radicado(g["corte_clave"], g["radicado"])
+        ficha = busqueda.ficha(pid) if pid else None
+        salida.append({**g, "id": pid, "ficha": ficha})
+    return salida
+
+
+@app.get("/api/casos/{caso_id}")
+def ver_caso(caso_id: int):
+    caso = _caso_o_404(caso_id)
+    lista = casos.analisis_del_caso(caso_id)
+    ultimo = next((a for a in lista if a["estado"] != "error"), lista[0] if lista else None)
+    return {
+        "caso": caso,
+        "usuario": casos.usuario(caso["usuario_id"]),
+        "guardadas": _guardadas_con_fichas(caso_id),
+        "analisis": lista,
+        "ultimo": precedentes.con_ids(casos.obtener_analisis(ultimo["id"])) if ultimo else None,
+        "historial": casos.historial(caso_id),
+    }
+
+
+@app.put("/api/casos/{caso_id}")
+def editar_caso(caso_id: int, datos: DatosCaso):
+    _caso_o_404(caso_id)
+    return casos.actualizar_caso(caso_id, datos.usuario_id, datos.model_dump(exclude={"usuario_id"}, exclude_none=True))
+
+
+@app.delete("/api/casos/{caso_id}")
+def borrar_caso(caso_id: int):
+    _caso_o_404(caso_id)
+    casos.eliminar_caso(caso_id)
+    return {"ok": True}
+
+
+@app.post("/api/casos/{caso_id}/analizar")
+def analizar(caso_id: int, datos: Analizar):
+    _caso_o_404(caso_id)
+    try:
+        return {"analisis_id": precedentes.iniciar(caso_id, datos.usuario_id, datos.amplitud)}
+    except ValueError as exc:
+        raise HTTPException(400, str(exc)) from exc
+
+
+@app.get("/api/analisis/{analisis_id}")
+def ver_analisis(analisis_id: int):
+    a = casos.obtener_analisis(analisis_id)
+    if not a:
+        raise HTTPException(404, "No existe ese análisis.")
+    return precedentes.con_ids(a)
+
+
+@app.put("/api/casos/{caso_id}/guardadas")
+def guardar(caso_id: int, datos: Guardar):
+    _caso_o_404(caso_id)
+    if datos.estado not in ("precedente", "descartada"):
+        raise HTTPException(400, "Estado no válido.")
+    casos.guardar_sentencia(caso_id, datos.usuario_id, datos.corte_clave, datos.radicado, datos.estado, datos.nota, datos.datos)
+    return {"ok": True, "guardadas": _guardadas_con_fichas(caso_id)}
+
+
+@app.delete("/api/casos/{caso_id}/guardadas")
+def quitar(caso_id: int, usuario_id: int, corte_clave: str, radicado: str):
+    _caso_o_404(caso_id)
+    casos.quitar_sentencia(caso_id, usuario_id, corte_clave, radicado)
+    return {"ok": True, "guardadas": _guardadas_con_fichas(caso_id)}
+
+
+@app.get("/api/casos/{caso_id}/informe")
+def informe(caso_id: int):
+    caso = _caso_o_404(caso_id)
+    texto = informes.informe_md(caso, _guardadas_con_fichas(caso_id), casos.analisis_del_caso(caso_id))
+    nombre = re.sub(r"[^\w\-]+", "_", caso["titulo"])[:60] or "caso"
+    return PlainTextResponse(texto, media_type="text/markdown; charset=utf-8",
+                             headers={"Content-Disposition": f'attachment; filename="{nombre}.md"'})
 
 
 @app.get("/")
@@ -221,6 +293,7 @@ def main() -> None:
     parser.add_argument("--no-abrir", action="store_true", help="No abrir el navegador automáticamente.")
     args = parser.parse_args()
 
+    casos.marcar_interrumpidos()
     if not config.DB_PATH.exists():
         print("\nTodavía no está la base de datos. Ejecuta primero actualizar.bat\n")
     host = "0.0.0.0" if args.red else config.HOST
