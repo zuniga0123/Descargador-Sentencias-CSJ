@@ -7,11 +7,15 @@ internet y sin pagar ninguna API. Todo corre en tu computador.
 
 ## Instalar en Windows (una sola vez)
 
-1. Descarga el instalador: abre
-   <https://raw.githubusercontent.com/zuniga0123/Descargador-Sentencias-CSJ/claude/csj-colombia-sentencias-app-7eisz7/app/windows/instalar_buscador.bat>
-   y guárdalo con **Ctrl + S** (por ejemplo en Descargas).
-2. Haz doble clic en `instalar_buscador.bat`. Si Windows muestra
-   "Windows protegió su PC", pulsa **Más información → Ejecutar de todas formas**.
+1. Descarga el instalador (un ZIP pequeño):
+   <https://raw.githubusercontent.com/zuniga0123/Descargador-Sentencias-CSJ/claude/csj-colombia-sentencias-app-7eisz7/app/windows/instalador_buscador.zip>
+2. Abre la carpeta Descargas, clic derecho sobre `instalador_buscador.zip` →
+   **Extraer todo** → **Extraer**. En la carpeta que se abre, doble clic en
+   `instalar_buscador.bat`. Si Windows muestra "Windows protegió su PC", pulsa
+   **Más información → Ejecutar de todas formas**.
+
+   (No guardes el `.bat` desde el navegador con Ctrl + S: el navegador lo guarda
+   como `.txt` y al abrirlo solo aparece el Bloc de notas.)
 3. Espera: instala Python si hace falta, baja las sentencias (≈1,4 GB) y arma la
    base de búsqueda. La primera vez tarda entre 15 y 30 minutos.
 4. Al terminar queda un acceso directo **Buscador de Jurisprudencia** en el
