@@ -262,7 +262,7 @@ def elaborar(pid: int, uso_cb=None) -> dict:
     texto = busqueda.leer_texto(pid)
     e = extracto_amplio(texto, f["corte_clave"])
     datos, uso = ia.chat_json(
-        [{"role": "system", "content": SISTEMA}, {"role": "user", "content": _prompt(f, e)}], max_tokens=1800
+        [{"role": "system", "content": SISTEMA}, {"role": "user", "content": _prompt(f, e)}], max_tokens=3000
     )
     if uso_cb:
         uso_cb(uso)

@@ -58,6 +58,7 @@ function htmlAnalisisV2(a) {
         <span class="meta">· ${c.precedentes.length} precedente${c.precedentes.length === 1 ? "" : "s"}</span></summary>
       <div class="cuestion-cuerpo">
         ${c.por_que ? `<p class="meta">${esc(c.por_que)}</p>` : ""}
+        ${an.incompleto ? `<p class="revision">La respuesta de la IA para este tema llegó incompleta y se rescató lo que se pudo. Vuelva a buscar si falta algo.</p>` : ""}
         <h4>Qué dice la jurisprudencia encontrada</h4>
         <p class="estado-jurisprudencia">${conCitas(an.estado, porRadicado)}</p>
         ${argumentos ? `<h4>Argumentos ${posicion === "neutral" ? "de la parte trabajadora" : "para " + PARTE[posicion]}</h4><ol class="argumentos">${argumentos}</ol>` : ""}
@@ -79,7 +80,8 @@ function htmlAnalisisV2(a) {
     <div class="planteamiento">
       <h3>Problema jurídico</h3><p>${esc(plan.problema_juridico)}</p>
       ${hechos.length ? `<p><b>Hechos determinantes:</b></p><ol class="hechos-caso">${hechos.map(h => `<li>${esc(h)}</li>`).join("")}</ol>` : ""}
-      ${(plan.hechos_por_precisar || []).length ? `<p class="por-precisar"><b>Conviene precisar en la descripción:</b> ${plan.hechos_por_precisar.map(esc).join("; ")}</p>` : ""}
+      ${(plan.hechos_por_precisar || []).length ? `<div class="por-precisar"><b>Conviene precisar en la descripción del caso:</b>
+        <ul>${plan.hechos_por_precisar.map(h => `<li>${esc(h)}</li>`).join("")}</ul></div>` : ""}
       <details><summary>Búsquedas que hizo${(plan.consultas_fallidas || []).length ? ` <span class="cita-dudosa">⚠ ${plan.consultas_fallidas.length} no se pudieron ejecutar</span>` : ""}</summary><ul class="consultas">${(plan.consultas || []).map(c =>
         `<li><a href="?q=${encodeURIComponent(c.consulta)}" target="_blank" rel="noopener"><code>${esc(c.consulta)}</code></a> ${c.proposito ? `<span class="meta">— ${esc(c.proposito)}</span>` : ""}
          ${(plan.consultas_fallidas || []).includes(c.consulta) ? `<span class="cita-dudosa">⚠ no se pudo ejecutar</span>` : ""}</li>`).join("")}</ul></details>

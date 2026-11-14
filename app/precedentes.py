@@ -359,33 +359,48 @@ Reglas:
 {recientes}- Si no hay precedentes, "estado" debe decir "No se encontraron precedentes sobre esta cuestión en la base"."""
 
 
-def _prompt_revision(caso: dict, plan: dict, cuestiones: list[dict], reglas_por_rad: dict[str, list[str]]) -> str:
-    partes = []
-    for c in cuestiones:
-        a = c.get("analisis") or {}
-        args = "\n".join(f"  A{i}. {x['tesis']} — {x['desarrollo']} Apoyo: {', '.join(x['apoyo']) or 'ninguno'}"
-                         for i, x in enumerate(a.get("argumentos") or [], 1))
-        partes.append(f"{c['id']}. {c['cuestion']}\n{args or '  (sin argumentos)'}")
-    reglas = "\n".join(f"[{rad}] " + " / ".join(r) for rad, r in reglas_por_rad.items())
-    return f"""Revisa, como abogado litigante experimentado, los argumentos preparados para este caso.
+def _prompt_revision_tema(caso: dict, c: dict, reglas_por_rad: dict[str, list[str]]) -> str:
+    a = c.get("analisis") or {}
+    args = "\n".join(f"A{i}. {x['tesis']} — {x.get('desarrollo', '')} Apoyo: {', '.join(x['apoyo']) or 'ninguno'}"
+                     for i, x in enumerate(a.get("argumentos") or [], 1))
+    citados = {rad for x in a.get("argumentos") or [] for rad in x["apoyo"]}
+    reglas = "\n".join(f"[{rad}] " + " / ".join(r) for rad, r in reglas_por_rad.items() if rad in citados)
+    return f"""Revisa, como abogado litigante experimentado, los argumentos preparados para UNA cuestión de este caso.
 
 {_texto_caso(caso)}
 
-ARGUMENTOS POR CUESTIÓN
-{chr(10).join(partes)}
+CUESTIÓN {c['id']}: {c['cuestion']}
+ARGUMENTOS
+{args or '(sin argumentos)'}
 
-LO QUE REALMENTE DICEN LOS PRECEDENTES CITADOS (reglas de sus fichas)
+LO QUE REALMENTE DICEN LOS PRECEDENTES CITADOS (reglas y resultado de sus fichas)
 {reglas or '(ninguno)'}
 
-Busca solo problemas reales:
-(a) un argumento cuya conclusión perjudica a la parte representada o contradice otro argumento (p. ej., una lectura de los hechos que ayuda en una cuestión pero hace caer la pretensión en otra);
-(b) un argumento que atribuye a un precedente algo que sus reglas no dicen;
-(c) un argumento que da por probado algo que no está en los hechos.
+Busca solo problemas reales en cada argumento:
+(a) "contradiccion": su conclusión perjudica a la parte representada o choca con otro argumento de esta cuestión;
+(b) "cita_indebida": atribuye a un precedente algo que sus reglas o su resultado no dicen;
+(c) "hecho_no_probado": da por probado algo que no está en los hechos del caso.
+
+Devuelve este JSON (lista vacía si no hay problemas):
+{{"revision": [{{"argumento": 1, "tipo": "contradiccion | cita_indebida | hecho_no_probado", "problema": "explicación breve", "gravedad": "alta | media | baja"}}]}}"""
+
+
+def _prompt_coherencia(caso: dict, cuestiones: list[dict]) -> str:
+    tesis = "\n".join(f"{c['id']}-A{i}. {x['tesis']}" for c in cuestiones
+                      for i, x in enumerate((c.get("analisis") or {}).get("argumentos") or [], 1))
+    return f"""Estas son las tesis que se proponen para defender a una parte en este caso, agrupadas por cuestión.
+
+{_texto_caso(caso)}
+
+TESIS
+{tesis or '(ninguna)'}
+
+Revisa la coherencia de la estrategia EN CONJUNTO: ¿alguna tesis, si se acepta, hace caer la pretensión o la defensa de la parte representada en otra cuestión? (Por ejemplo: sostener que una comunicación no fue el despido puede ayudar con la prescripción pero hacer que no haya despido sin permiso.)
 
 Devuelve este JSON:
-{{"revision": [{{"cuestion": "C1", "argumento": 1, "tipo": "contradiccion | cita_indebida | hecho_no_probado", "problema": "explicación breve", "gravedad": "alta | media | baja"}}],
+{{"contradicciones": [{{"tesis": "C1-A1", "choca_con": "C2-A1", "problema": "explicación breve", "gravedad": "alta | media | baja"}}],
   "observaciones_generales": ["0 a 3 observaciones sobre la estrategia del caso en conjunto"]}}
-Si no hay problemas, "revision" es una lista vacía."""
+Si no hay contradicciones, "contradicciones" es una lista vacía."""
 
 
 # ---------- Validaciones deterministas ----------
@@ -419,6 +434,15 @@ def _similitud(comparacion: list[dict], n_hechos: int) -> int:
 
 
 # ---------- Análisis con IA ----------
+
+def _falla(errores: list[str], que: str, exc: Exception) -> None:
+    """Mensaje neutro para la persona; el detalle técnico va a datos/registro_ia.log."""
+    ia.registrar(f"{que}: {exc}")
+    if getattr(exc, "accionable", False):
+        errores.append(str(exc))
+    else:
+        errores.append(f"No se pudo completar {que}. Intente de nuevo.")
+
 
 def _llamar(prompt: str, uso: _Uso, max_tokens: int) -> dict:
     datos, u = ia.chat_json([{"role": "system", "content": SISTEMA}, {"role": "user", "content": prompt}],
@@ -456,7 +480,7 @@ def _normalizar_plan(plan: dict, caso: dict) -> dict:
 def analizar_ia(aid: int, caso: dict, amplitud: str) -> None:
     uso = _Uso()
     _avance(aid, "La IA está identificando el problema jurídico y los temas a resolver", 4)
-    plan = _normalizar_plan(_llamar(_prompt_planteamiento(caso), uso, 2500), caso)
+    plan = _normalizar_plan(_llamar(_prompt_planteamiento(caso), uso, 3500), caso)
     texto_caso = f"{caso['titulo']} {caso['descripcion']} {caso.get('pretensiones', '')}"
     claves = palabras_clave(texto_caso, 12)
     grupos = {c["id"]: [q["consulta"] for q in c["consultas"]] for c in plan["cuestiones"]}
@@ -483,9 +507,13 @@ def analizar_ia(aid: int, caso: dict, amplitud: str) -> None:
         _avance(aid, f"La IA está leyendo las sentencias sin conocer el caso ({hechas} de {total})",
                 12 + int(46 * hechas / total), uso)
 
-    fichas_por_id, errores = fichas.elaborar_varias(ids, uso.sumar, avance_fichas)
+    fichas_por_id, errores_fichas = fichas.elaborar_varias(ids, uso.sumar, avance_fichas)
     if not fichas_por_id:
-        raise ia.ErrorIA(errores[0] if errores else "No se pudo leer ninguna sentencia.")
+        raise ia.ErrorIA(errores_fichas[0] if errores_fichas else "No se pudo leer ninguna sentencia.")
+    errores: list[str] = []
+    if errores_fichas:
+        ia.registrar("Fichas: " + " | ".join(errores_fichas[:5]))
+        errores.append(f"No se pudieron leer {len(errores_fichas)} de las sentencias candidatas; el análisis sigue con las demás.")
     ids = [pid for pid in ids if pid in fichas_por_id]
     datos = {pid: busqueda.ficha(pid) for pid in ids}
 
@@ -495,10 +523,17 @@ def analizar_ia(aid: int, caso: dict, amplitud: str) -> None:
     comparaciones: dict[int, dict] = {}
     hechos_lotes = 0
 
-    def comparar(lote):
+    def comparar(lote, intento=1):
         bloques = [_texto_ficha(ref, datos[pid], fichas_por_id[pid]) for ref, pid in lote]
-        respuesta = _llamar(_prompt_comparacion(caso, plan, bloques), uso, 450 * len(lote) + 300)
-        return lote, respuesta.get("comparaciones") or []
+        respuesta = _llamar(_prompt_comparacion(caso, plan, bloques), uso, 750 * len(lote) + 600)
+        completas = [c for c in respuesta.get("comparaciones") or []
+                     if isinstance(c, dict) and "pertinencia" in c and "utilidad" in c and c.get("ref")]
+        hechas = {str(c["ref"]).strip("[] ") for c in completas}
+        faltan = [(ref, pid) for ref, pid in lote if ref not in hechas]
+        if faltan and intento == 1:  # respuesta cortada o incompleta: se piden las que faltan
+            _, extra = comparar(faltan, 2)
+            completas += extra
+        return lote, completas
 
     _avance(aid, f"Comparando {len(ids)} sentencias con los hechos del caso", 60, uso)
     with ThreadPoolExecutor(max_workers=HILOS) as grupo:
@@ -506,7 +541,7 @@ def analizar_ia(aid: int, caso: dict, amplitud: str) -> None:
             try:
                 lote, lista = futuro.result()
             except ia.ErrorIA as exc:
-                errores.append(str(exc))
+                _falla(errores, "la comparación de algunas sentencias con el caso", exc)
                 continue
             validos = dict(lote)
             for comp in lista:
@@ -562,7 +597,7 @@ def analizar_ia(aid: int, caso: dict, amplitud: str) -> None:
         if caso.get("recientes", 1):
             propios.sort(key=lambda r: (-r["puntaje"], -(r.get("ano") or 0)))
         propios = propios[:MAX_POR_CUESTION]
-        a = _llamar(_prompt_cuestion(caso, plan, c, propios), uso, 2200)
+        a = _llamar(_prompt_cuestion(caso, plan, c, propios), uso, 4000)
         permitidos = {r["radicado"] for r in propios}
         ajenas: list[str] = []
         estado, x = _marcar_citas(str(a.get("estado") or ""), permitidos)
@@ -587,6 +622,7 @@ def analizar_ia(aid: int, caso: dict, amplitud: str) -> None:
             return salida
 
         c["analisis"] = {
+            "incompleto": bool(a.get("_reparado")),
             "estado": estado,
             "argumentos": limpiar_args(a.get("argumentos"), True)[:4],
             "contraparte": limpiar_args(a.get("contraparte"), False)[:3],
@@ -603,37 +639,61 @@ def analizar_ia(aid: int, caso: dict, amplitud: str) -> None:
             try:
                 futuro.result()
             except ia.ErrorIA as exc:
-                errores.append(str(exc))
+                _falla(errores, "el análisis de uno de los temas", exc)
     for c in plan["cuestiones"]:
-        c.setdefault("analisis", {"estado": "No se pudo desarrollar esta cuestión (error de conexión con la IA).",
+        c.setdefault("analisis", {"estado": "No se pudo desarrollar esta cuestión. Vuelva a buscar precedentes para completarla.",
                                   "argumentos": [], "contraparte": [], "por_verificar": [], "vacios": "", "citas_ajenas": []})
         c.setdefault("precedentes", [])
 
-    # Revisión crítica.
-    _avance(aid, "Revisión crítica de los argumentos", 94, uso)
+    # Revisión crítica: una llamada por tema (respuestas cortas) y una de coherencia global.
+    _avance(aid, "Revisión crítica de los argumentos", 92, uso)
     citados = {rad for c in plan["cuestiones"] for a in c["analisis"]["argumentos"] for rad in a["apoyo"]}
     reglas_por_rad = {r["radicado"]: [f"({x['papel']}) {x['regla']}" for x in r["ficha"]["reglas"]] + [f"Resultado: {r['ficha']['resultado']['efecto']}"]
                       for r in resultados if r["radicado"] in citados}
-    try:
-        revision = _llamar(_prompt_revision(caso, plan, plan["cuestiones"], reglas_por_rad), uso, 1500)
-        for obs in revision.get("revision") or []:
-            if not isinstance(obs, dict):
-                continue
-            c = next((x for x in plan["cuestiones"] if x["id"] == obs.get("cuestion")), None)
+
+    def anotar(c, idx, tipo, problema, gravedad):
+        if 0 <= idx < len(c["analisis"]["argumentos"]):
+            c["analisis"]["argumentos"][idx].setdefault("revision", []).append({
+                "tipo": str(tipo or ""), "problema": str(problema or "")[:500],
+                "gravedad": gravedad if gravedad in ("alta", "media", "baja") else "media"})
+
+    def revisar_tema(c):
+        if not c["analisis"]["argumentos"]:
+            return c, {}
+        return c, _llamar(_prompt_revision_tema(caso, c, reglas_por_rad), uso, 2000)
+
+    with ThreadPoolExecutor(max_workers=HILOS) as grupo:
+        futuros = {grupo.submit(revisar_tema, c): c for c in plan["cuestiones"]}
+        futuro_global = grupo.submit(_llamar, _prompt_coherencia(caso, plan["cuestiones"]), uso, 1500)
+        for futuro in as_completed(futuros):
+            c = futuros[futuro]
             try:
-                idx = int(obs.get("argumento")) - 1
-            except (TypeError, ValueError):
+                _, revision = futuro.result()
+            except ia.ErrorIA as exc:
+                _falla(errores, f"la revisión crítica del tema {c['id']}", exc)
                 continue
-            if c and 0 <= idx < len(c["analisis"]["argumentos"]):
-                c["analisis"]["argumentos"][idx].setdefault("revision", []).append({
-                    "tipo": str(obs.get("tipo") or ""), "problema": str(obs.get("problema") or "")[:500],
-                    "gravedad": obs.get("gravedad") if obs.get("gravedad") in ("alta", "media", "baja") else "media"})
-        plan["observaciones_generales"] = [str(x)[:500] for x in revision.get("observaciones_generales") or []][:3]
-    except ia.ErrorIA as exc:
-        plan["observaciones_generales"] = [f"No se pudo hacer la revisión crítica: {exc}"]
+            for obs in revision.get("revision") or []:
+                if isinstance(obs, dict):
+                    try:
+                        anotar(c, int(obs.get("argumento")) - 1, obs.get("tipo"), obs.get("problema"), obs.get("gravedad"))
+                    except (TypeError, ValueError):
+                        continue
+        try:
+            coherencia = futuro_global.result()
+            for obs in coherencia.get("contradicciones") or []:
+                if not isinstance(obs, dict):
+                    continue
+                m = re.match(r"(C\d+)-A(\d+)", str(obs.get("tesis") or ""))
+                c = next((x for x in plan["cuestiones"] if m and x["id"] == m.group(1)), None)
+                if c:
+                    con = f" (choca con {obs.get('choca_con')})" if obs.get("choca_con") else ""
+                    anotar(c, int(m.group(2)) - 1, "contradiccion", f"{obs.get('problema') or ''}{con}", obs.get("gravedad"))
+            plan["observaciones_generales"] = [str(x)[:500] for x in coherencia.get("observaciones_generales") or []][:3]
+        except ia.ErrorIA as exc:
+            _falla(errores, "la revisión de coherencia de la estrategia", exc)
 
     if errores:
-        plan["errores"] = sorted(set(errores))[:3]
+        plan["errores"] = list(dict.fromkeys(errores))[:4]
     casos.actualizar_analisis(aid, planteamiento=plan, resultados=resultados, estado="listo", paso="Listo",
                               progreso=100, tokens_entrada=uso.entrada, tokens_salida=uso.salida)
 
@@ -655,7 +715,11 @@ def iniciar(caso_id: int, usuario_id: int | None, amplitud: str = "normal") -> i
         try:
             (analizar_ia if modo == "ia" else analizar_local)(aid, caso, amplitud)
         except ia.ErrorIA as exc:
-            casos.actualizar_analisis(aid, estado="error", error=str(exc), paso="Error")
+            ia.registrar(f"Análisis {aid}: {exc}")
+            mensaje = str(exc) if getattr(exc, "accionable", False) else (
+                "No se pudo completar la búsqueda con IA. Intente de nuevo; si se repite, envíe el archivo "
+                "datos/registro_ia.log de la carpeta del buscador.")
+            casos.actualizar_analisis(aid, estado="error", error=mensaje, paso="Error")
         except Exception as exc:  # error inesperado: se guarda para mostrarlo
             traceback.print_exc()
             casos.actualizar_analisis(aid, estado="error", error=f"Error inesperado: {exc}", paso="Error")

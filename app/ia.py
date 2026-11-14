@@ -30,7 +30,13 @@ _bloqueo = threading.Lock()
 
 
 class ErrorIA(Exception):
-    """Error con un mensaje que se le puede mostrar a la persona."""
+    """Error de la IA. `accionable` indica que la persona puede resolverlo (clave, saldo,
+    configuración) y conviene mostrarle el mensaje tal cual; los demás se muestran con un
+    texto neutro y el detalle queda en datos/registro_ia.log."""
+
+    def __init__(self, mensaje: str, accionable: bool = False) -> None:
+        super().__init__(mensaje)
+        self.accionable = accionable
 
 
 def _leer_config() -> dict:
@@ -96,17 +102,22 @@ def _mensaje_http(codigo: int, cuerpo: str) -> str:
     return f"DeepSeek no respondió bien (error {codigo}). Intenta de nuevo más tarde."
 
 
-def chat(mensajes: list[dict], *, json_salida: bool = True, max_tokens: int = 2000,
-         temperatura: float = 0.1, timeout: int = 240) -> tuple[str, dict]:
-    """Llama al modelo y devuelve (texto, uso de tokens). Reintenta errores pasajeros."""
+TOPE_SALIDA = 8000          # máximo de tokens de respuesta que admite deepseek-chat
+TOPE_SALIDA_RAZONADOR = 32000
+REGISTRO = config.DATOS_DIR / "registro_ia.log"
+
+
+def _chat(mensajes: list[dict], *, json_salida: bool, max_tokens: int, temperatura: float,
+          timeout: int) -> tuple[str, dict, str]:
+    """Una llamada (con reintentos de red). Devuelve (texto, uso, motivo de fin)."""
     clave = _clave()
     if not clave:
-        raise ErrorIA("La IA no está configurada. Agrega la clave de DeepSeek en Configuración.")
+        raise ErrorIA("La IA no está configurada. Agrega la clave de DeepSeek en Configuración.", accionable=True)
     modelo = _modelo()
-    cuerpo: dict = {"model": modelo, "messages": mensajes, "max_tokens": max_tokens, "stream": False}
+    cuerpo: dict = {"model": modelo, "messages": mensajes, "max_tokens": min(max_tokens, TOPE_SALIDA), "stream": False}
     if modelo == "deepseek-reasoner":
         # En el modelo que razona, el límite incluye su razonamiento interno.
-        cuerpo["max_tokens"] = max(max_tokens * 4, 8000)
+        cuerpo["max_tokens"] = min(max(max_tokens * 4, 8000), TOPE_SALIDA_RAZONADOR)
     else:
         cuerpo["temperature"] = temperatura
         if json_salida:
@@ -121,20 +132,22 @@ def chat(mensajes: list[dict], *, json_salida: bool = True, max_tokens: int = 20
         try:
             with urllib.request.urlopen(solicitud, timeout=timeout) as resp:
                 respuesta = json.loads(resp.read())
-            texto = respuesta["choices"][0]["message"].get("content") or ""
+            opcion = respuesta["choices"][0]
+            texto = opcion["message"].get("content") or ""
+            fin = opcion.get("finish_reason") or ""
             uso = respuesta.get("usage") or {}
             if not texto.strip():
                 ultimo_error = "respuesta vacía"
                 time.sleep(2 * (intento + 1))
                 continue
-            return texto, {"entrada": uso.get("prompt_tokens", 0), "salida": uso.get("completion_tokens", 0)}
+            return texto, {"entrada": uso.get("prompt_tokens", 0), "salida": uso.get("completion_tokens", 0)}, fin
         except urllib.error.HTTPError as exc:
             cuerpo_error = exc.read().decode("utf-8", "replace")
             if exc.code in (429, 500, 502, 503, 504) and intento < 3:
                 ultimo_error = _mensaje_http(exc.code, cuerpo_error)
                 time.sleep(5 * (intento + 1))
                 continue
-            raise ErrorIA(_mensaje_http(exc.code, cuerpo_error)) from exc
+            raise ErrorIA(_mensaje_http(exc.code, cuerpo_error), accionable=exc.code in (401, 402)) from exc
         except (urllib.error.URLError, TimeoutError, OSError) as exc:
             ultimo_error = f"sin conexión con DeepSeek ({exc})"
             time.sleep(5 * (intento + 1))
@@ -144,25 +157,132 @@ def chat(mensajes: list[dict], *, json_salida: bool = True, max_tokens: int = 20
     raise ErrorIA(f"No se pudo completar la consulta a DeepSeek: {ultimo_error}.")
 
 
-def leer_json(texto: str) -> dict:
-    """Extrae el objeto JSON de la respuesta (tolera texto o ``` alrededor)."""
-    texto = texto.strip()
+def chat(mensajes: list[dict], *, json_salida: bool = True, max_tokens: int = 2000,
+         temperatura: float = 0.1, timeout: int = 240) -> tuple[str, dict]:
+    """Llama al modelo y devuelve (texto, uso de tokens). Reintenta errores pasajeros."""
+    texto, uso, _ = _chat(mensajes, json_salida=json_salida, max_tokens=max_tokens,
+                          temperatura=temperatura, timeout=timeout)
+    return texto, uso
+
+
+def registrar(detalle: str) -> None:
+    """Anota un error en datos/registro_ia.log (solo en este computador)."""
     try:
-        return json.loads(texto)
-    except ValueError:
+        config.DATOS_DIR.mkdir(parents=True, exist_ok=True)
+        with open(REGISTRO, "a", encoding="utf-8") as f:
+            f.write(f"\n=== {time.strftime('%Y-%m-%d %H:%M:%S')} · modelo {_modelo()} · error\n{detalle}\n")
+    except OSError:
         pass
+
+
+def _registrar_falla(texto: str, fin: str, intento: int) -> None:
+    """Guarda en datos/registro_ia.log las respuestas que no se pudieron leer (solo en este computador)."""
+    try:
+        config.DATOS_DIR.mkdir(parents=True, exist_ok=True)
+        if REGISTRO.exists() and REGISTRO.stat().st_size > 2_000_000:
+            REGISTRO.unlink()
+        with open(REGISTRO, "a", encoding="utf-8") as f:
+            f.write(f"\n=== {time.strftime('%Y-%m-%d %H:%M:%S')} · modelo {_modelo()} · fin={fin or '?'} · "
+                    f"intento {intento} · {len(texto)} caracteres\n{texto[:1500]}\n[…]\n{texto[-800:]}\n")
+    except OSError:
+        pass
+
+
+def _sin_envoltura(texto: str) -> str:
+    texto = texto.strip()
+    texto = re.sub(r"^```(?:json)?\s*", "", texto)
+    texto = re.sub(r"\s*```\s*$", "", texto)
+    inicio = texto.find("{")
+    return texto[inicio:] if inicio > 0 else texto
+
+
+def _sin_comas_finales(texto: str) -> str:
+    return re.sub(r",\s*([}\]])", r"\1", texto)
+
+
+def reparar_json(texto: str) -> dict | None:
+    """Rescata lo aprovechable de un JSON cortado: cierra cadenas y llaves abiertas,
+    descartando el último elemento incompleto."""
+    t = _sin_comas_finales(_sin_envoltura(texto))
+    if not t.startswith("{"):
+        return None
+    # Puntos donde se puede cortar sin romper la estructura: tras cerrar un valor.
+    cortes = []
+    pila, en_cadena, escape = [], False, False
+    for i, c in enumerate(t):
+        if en_cadena:
+            if escape:
+                escape = False
+            elif c == "\\":
+                escape = True
+            elif c == '"':
+                en_cadena = False
+            continue
+        if c == '"':
+            en_cadena = True
+        elif c in "{[":
+            pila.append(c)
+        elif c in "}]":
+            if pila:
+                pila.pop()
+            cortes.append((i + 1, list(pila)))
+        elif c == ",":
+            cortes.append((i, list(pila)))
+    for pos, abiertos in reversed(cortes[-200:]):
+        candidato = t[:pos].rstrip().rstrip(",")
+        cierre = "".join("}" if a == "{" else "]" for a in reversed(abiertos))
+        try:
+            datos = json.loads(_sin_comas_finales(candidato + cierre))
+        except ValueError:
+            continue
+        if isinstance(datos, dict):
+            datos["_reparado"] = True
+            return datos
+    return None
+
+
+def leer_json(texto: str) -> dict:
+    """Extrae el objeto JSON de la respuesta (tolera ``` alrededor, texto previo y comas sobrantes)."""
+    texto = texto.strip()
+    for candidato in (texto, _sin_envoltura(texto), _sin_comas_finales(_sin_envoltura(texto))):
+        try:
+            datos = json.loads(candidato)
+            if isinstance(datos, dict):
+                return datos
+        except ValueError:
+            pass
     inicio, fin = texto.find("{"), texto.rfind("}")
     if inicio >= 0 and fin > inicio:
         try:
-            return json.loads(texto[inicio : fin + 1])
+            return json.loads(_sin_comas_finales(texto[inicio : fin + 1]))
         except ValueError:
             pass
     raise ErrorIA("DeepSeek devolvió una respuesta que no se pudo interpretar. Intenta de nuevo.")
 
 
-def chat_json(mensajes: list[dict], **kw) -> tuple[dict, dict]:
-    texto, uso = chat(mensajes, json_salida=True, **kw)
-    return leer_json(texto), uso
+def chat_json(mensajes: list[dict], *, max_tokens: int = 2000, temperatura: float = 0.1,
+              timeout: int = 240) -> tuple[dict, dict]:
+    """Llama al modelo pidiendo JSON. Si la respuesta llega cortada por longitud la pide de
+    nuevo con más espacio; si no se puede leer, reintenta; al final intenta repararla."""
+    uso_total = {"entrada": 0, "salida": 0}
+    limite = max_tokens
+    texto = ""
+    for intento in range(1, 4):
+        texto, uso, fin = _chat(mensajes, json_salida=True, max_tokens=limite, temperatura=temperatura, timeout=timeout)
+        uso_total["entrada"] += uso["entrada"]
+        uso_total["salida"] += uso["salida"]
+        try:
+            return leer_json(texto), uso_total
+        except ErrorIA:
+            _registrar_falla(texto, fin, intento)
+            if limite >= TOPE_SALIDA and fin == "length":
+                break  # no cabe ni con el máximo: se repara lo que haya
+            limite = min(limite * 2 if fin == "length" else int(limite * 1.5), TOPE_SALIDA)
+    reparado = reparar_json(texto)
+    if reparado is not None:
+        return reparado, uso_total
+    raise ErrorIA("DeepSeek devolvió respuestas que no se pudieron interpretar (se intentó 3 veces). "
+                  "Intenta de nuevo; si se repite, envía el archivo datos/registro_ia.log.")
 
 
 def probar() -> dict:

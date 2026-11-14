@@ -320,3 +320,4 @@ mark.activa { background: var(--marca-activa); }
 .precedente.destacada { outline: 3px solid var(--acento); outline-offset: 2px; transition: outline .3s; }
 .selector-analisis { flex-wrap: wrap; }
 .selector-analisis select { min-width: 0; flex: 1 1 200px; }
+.por-precisar ul { margin: 4px 0 0; padding-left: 20px; }

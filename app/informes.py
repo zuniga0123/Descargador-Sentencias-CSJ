@@ -36,7 +36,7 @@ def _temas_md(plan: dict) -> list[str]:
     if plan.get("hechos_relevantes"):
         lineas += ["", "**Hechos determinantes:**", ""] + [f"{i}. {h}" for i, h in enumerate(plan["hechos_relevantes"], 1)]
     if plan.get("hechos_por_precisar"):
-        lineas += ["", "**Conviene precisar:** " + "; ".join(plan["hechos_por_precisar"])]
+        lineas += ["", "**Conviene precisar:**", ""] + [f"- {h}" for h in plan["hechos_por_precisar"]]
     parte = PARTES.get(plan.get("posicion"), "")
     lineas += ["", "## Temas jurídicos a resolver (generado con IA: verificar cada cita)"]
     for c in plan.get("cuestiones") or []:
