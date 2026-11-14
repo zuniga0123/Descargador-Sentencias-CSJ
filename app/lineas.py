@@ -221,7 +221,11 @@ def plantear(lid: int) -> None:
             plan[k] = str(propuesta[k])[:600]
     consultas = [str(q) for q in propuesta.get("consultas") or [] if str(q).strip()][:6]
     if not consultas:
-        claves = precedentes.palabras_clave(f"{plan.get('problema', '')} {plan.get('patron_factico', '')} {linea['entrada']}", 10)
+        base_texto = f"{plan.get('problema') or ''} {plan.get('patron_factico') or ''} {linea['entrada']}"
+        if linea["modo"] == "sentencia" and plan.get("sentencia_aportada"):
+            aportada = plan["sentencia_aportada"]
+            base_texto += " " + busqueda.leer_texto(busqueda.id_por_radicado(aportada["corte"], aportada["radicado"]))[:8000]
+        claves = precedentes.palabras_clave(base_texto, 10)
         consultas = [" O ".join(claves)] if claves else []
     plan["consultas"] = consultas
 
