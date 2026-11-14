@@ -67,6 +67,10 @@ def main() -> None:
         sys.exit("\nNo se pudo reemplazar la base: cierra la ventana del buscador y vuelve a ejecutar actualizar.bat.")
     for origen in origenes.values():
         origen.unlink(missing_ok=True)
+    print("\nPreparando la red de citas entre sentencias (para las líneas jurisprudenciales, unos 8 minutos)...\n")
+    from . import citas
+    r = citas.construir(lambda n, t: print(f"  {n:,} de {t:,}", flush=True) if n % 10000 == 0 else None)
+    print(f"  Listo: {r['relaciones']:,} relaciones de cita.")
     print("\nTodo listo. Abre el buscador con el acceso directo del escritorio o con iniciar.bat.")
 
 

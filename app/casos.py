@@ -341,3 +341,93 @@ def marcar_interrumpidos() -> None:
     _escribir(
         "UPDATE analisis SET estado = 'error', error = 'Se interrumpió porque se cerró el buscador.' WHERE estado = 'en_curso'"
     )
+
+
+# ---------- Líneas jurisprudenciales ----------
+
+ESQUEMA_LINEAS = """
+CREATE TABLE IF NOT EXISTS lineas (
+    id INTEGER PRIMARY KEY,
+    usuario_id INTEGER NOT NULL REFERENCES usuarios(id),
+    titulo TEXT NOT NULL,
+    modo TEXT NOT NULL,                 -- tema | sentencia
+    entrada TEXT NOT NULL,              -- problema escrito por la persona o radicado aportado
+    planteamiento TEXT,                 -- JSON editable: problema, polos, patrón, arquimédicas…
+    resultado TEXT,                     -- JSON de la línea construida
+    estado TEXT NOT NULL,               -- planteando | planteada | construyendo | lista | error
+    paso TEXT,
+    progreso INTEGER NOT NULL DEFAULT 0,
+    tokens_entrada INTEGER NOT NULL DEFAULT 0,
+    tokens_salida INTEGER NOT NULL DEFAULT 0,
+    error TEXT,
+    creado TEXT NOT NULL,
+    actualizado TEXT NOT NULL
+);
+CREATE INDEX IF NOT EXISTS idx_lineas_usuario ON lineas (usuario_id);
+"""
+
+
+def _linea_dict(fila: sqlite3.Row | None, completa: bool = True) -> dict | None:
+    if not fila:
+        return None
+    d = dict(fila)
+    d["planteamiento"] = json.loads(d["planteamiento"]) if d.get("planteamiento") else {}
+    if completa:
+        d["resultado"] = json.loads(d["resultado"]) if d.get("resultado") else None
+    else:
+        d.pop("resultado", None)
+    return d
+
+
+def _asegurar_lineas() -> sqlite3.Connection:
+    conn = conexion()
+    if not getattr(_local, "lineas_ok", False):
+        with _bloqueo:
+            conn.executescript(ESQUEMA_LINEAS)
+        _local.lineas_ok = True
+    return conn
+
+
+def crear_linea(usuario_id: int, modo: str, entrada: str, planteamiento: dict) -> dict:
+    _asegurar_lineas()
+    momento = ahora()
+    titulo = (entrada.strip()[:120] or "Línea sin título") if modo == "tema" else f"Línea desde {entrada.strip()}"
+    cur = _escribir(
+        "INSERT INTO lineas (usuario_id, titulo, modo, entrada, planteamiento, estado, paso, creado, actualizado) "
+        "VALUES (?, ?, ?, ?, ?, 'planteando', 'Iniciando', ?, ?)",
+        (usuario_id, titulo, modo, entrada.strip(), json.dumps(planteamiento, ensure_ascii=False), momento, momento),
+    )
+    return obtener_linea(cur.lastrowid)
+
+
+def obtener_linea(linea_id: int) -> dict | None:
+    return _linea_dict(_asegurar_lineas().execute("SELECT * FROM lineas WHERE id = ?", (linea_id,)).fetchone())
+
+
+def listar_lineas(usuario_id: int) -> list[dict]:
+    filas = _asegurar_lineas().execute(
+        "SELECT id, usuario_id, titulo, modo, entrada, planteamiento, estado, paso, progreso, error, creado, actualizado "
+        "FROM lineas WHERE usuario_id = ? ORDER BY actualizado DESC", (usuario_id,)).fetchall()
+    return [_linea_dict(f, completa=False) for f in filas]
+
+
+def actualizar_linea(linea_id: int, **campos: Any) -> None:
+    if not campos:
+        return
+    _asegurar_lineas()
+    for k in ("planteamiento", "resultado"):
+        if k in campos and not isinstance(campos[k], str):
+            campos[k] = json.dumps(campos[k], ensure_ascii=False)
+    columnas = ", ".join(f"{k} = ?" for k in campos)
+    _escribir(f"UPDATE lineas SET {columnas}, actualizado = ? WHERE id = ?", [*campos.values(), ahora(), linea_id])
+
+
+def eliminar_linea(linea_id: int) -> None:
+    _asegurar_lineas()
+    _escribir("DELETE FROM lineas WHERE id = ?", (linea_id,))
+
+
+def marcar_lineas_interrumpidas() -> None:
+    _asegurar_lineas()
+    _escribir("UPDATE lineas SET estado = 'error', error = 'Se interrumpió porque se cerró el buscador.' "
+              "WHERE estado IN ('planteando', 'construyendo')")

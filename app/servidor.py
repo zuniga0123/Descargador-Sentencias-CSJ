@@ -14,11 +14,11 @@ import webbrowser
 from typing import Annotated
 
 from fastapi import FastAPI, HTTPException, Query, Request
-from fastapi.responses import FileResponse, PlainTextResponse
+from fastapi.responses import FileResponse, PlainTextResponse, Response
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
-from . import busqueda, casos, config, ia, informes, precedentes
+from . import busqueda, casos, citas, config, exportar, ia, informes, lineas, precedentes
 from .texto import a_html, reflujo_pdf
 
 WEB_DIR = config.APP_DIR / "web"
@@ -269,6 +269,163 @@ def informe(caso_id: int):
                              headers={"Content-Disposition": f'attachment; filename="{nombre}.md"'})
 
 
+# ---------- Red de citas ----------
+
+_construccion_citas = {"en_curso": False, "hechas": 0, "total": 0, "error": None, "resultado": None}
+
+
+@app.get("/api/citas/estado")
+def citas_estado():
+    meta = {}
+    conn = citas.conexion()
+    if conn:
+        meta = {r["clave"]: r["valor"] for r in conn.execute("SELECT clave, valor FROM meta")}
+    return {"disponible": citas.disponible(), "meta": meta, **_construccion_citas}
+
+
+@app.post("/api/citas/construir")
+def citas_construir():
+    if _construccion_citas["en_curso"]:
+        return _construccion_citas
+
+    def trabajo():
+        _construccion_citas.update(en_curso=True, hechas=0, total=busqueda.total_sentencias(), error=None)
+        try:
+            _construccion_citas["resultado"] = citas.construir(
+                lambda n, t: _construccion_citas.update(hechas=n, total=t))
+        except Exception as exc:  # se informa en el estado
+            _construccion_citas["error"] = str(exc)
+        finally:
+            _construccion_citas["en_curso"] = False
+
+    threading.Thread(target=trabajo, daemon=True, name="red-de-citas").start()
+    return {**_construccion_citas, "en_curso": True}
+
+
+# ---------- Líneas jurisprudenciales ----------
+
+class NuevaLinea(BaseModel):
+    usuario_id: int
+    modo: str
+    entrada: str
+    cortes: list[str] | None = None
+    desde: int | None = None
+    hasta: int | None = None
+
+
+class EditarLinea(BaseModel):
+    titulo: str | None = None
+    problema: str | None = None
+    polo_a: str | None = None
+    polo_b: str | None = None
+    patron_factico: str | None = None
+    arquimedicas: dict[str, str] | None = None
+    cortes: list[str] | None = None
+    desde: int | None = None
+    hasta: int | None = None
+    profundidad: int | None = None
+
+
+class ConstruirLinea(BaseModel):
+    amplitud: str = "normal"
+    replantear: bool = False
+
+
+def _linea_o_404(linea_id: int) -> dict:
+    linea = casos.obtener_linea(linea_id)
+    if not linea:
+        raise HTTPException(404, "No existe esa línea.")
+    return linea
+
+
+@app.get("/api/lineas")
+def listar_lineas(usuario: int):
+    return casos.listar_lineas(usuario)
+
+
+@app.post("/api/lineas")
+def nueva_linea(datos: NuevaLinea):
+    if datos.modo not in ("tema", "sentencia"):
+        raise HTTPException(400, "Modo no válido.")
+    if len(datos.entrada.strip()) < (3 if datos.modo == "sentencia" else 15):
+        raise HTTPException(400, "Escribe el problema jurídico con más detalle." if datos.modo == "tema" else "Escribe el radicado.")
+    if not casos.usuario(datos.usuario_id):
+        raise HTTPException(400, "Usuario desconocido.")
+    cortes = [c for c in (datos.cortes or ["csj", "cc"]) if c in ("csj", "cc")] or ["csj", "cc"]
+    linea = casos.crear_linea(datos.usuario_id, datos.modo, datos.entrada,
+                              {"cortes": cortes, "desde": datos.desde, "hasta": datos.hasta, "profundidad": 2})
+    lineas.iniciar_planteamiento(linea["id"])
+    return casos.obtener_linea(linea["id"])
+
+
+@app.get("/api/lineas/{linea_id}")
+def ver_linea(linea_id: int):
+    return lineas.con_ids(_linea_o_404(linea_id))
+
+
+@app.put("/api/lineas/{linea_id}")
+def editar_linea(linea_id: int, datos: EditarLinea):
+    linea = _linea_o_404(linea_id)
+    plan = linea["planteamiento"]
+    cambios = datos.model_dump(exclude_none=True)
+    titulo = cambios.pop("titulo", None)
+    if "arquimedicas" in cambios:
+        validas = {}
+        for corte, rad in cambios["arquimedicas"].items():
+            if not rad:
+                continue
+            resuelta = lineas.resolver_entrada(rad)
+            if not resuelta or resuelta[0] != corte:
+                raise HTTPException(400, f"No se encontró «{rad}» en la base de esa corte.")
+            validas[corte] = resuelta[1]
+        cambios["arquimedicas"] = validas
+    plan.update(cambios)
+    campos = {"planteamiento": plan}
+    if titulo:
+        campos["titulo"] = titulo.strip()[:200]
+    casos.actualizar_linea(linea_id, **campos)
+    return casos.obtener_linea(linea_id)
+
+
+@app.post("/api/lineas/{linea_id}/construir")
+def construir_linea(linea_id: int, datos: ConstruirLinea):
+    linea = _linea_o_404(linea_id)
+    if linea["estado"] in ("planteando", "construyendo"):
+        raise HTTPException(409, "La línea ya se está procesando.")
+    if datos.replantear:
+        lineas.iniciar_planteamiento(linea_id)
+    else:
+        lineas.iniciar_construccion(linea_id, datos.amplitud)
+    return casos.obtener_linea(linea_id)
+
+
+@app.delete("/api/lineas/{linea_id}")
+def borrar_linea(linea_id: int):
+    _linea_o_404(linea_id)
+    casos.eliminar_linea(linea_id)
+    return {"ok": True}
+
+
+@app.get("/api/lineas/{linea_id}/word")
+def linea_word(linea_id: int):
+    linea = _linea_o_404(linea_id)
+    if linea["estado"] != "lista":
+        raise HTTPException(400, "La línea todavía no está construida.")
+    contenido, nombre = exportar.linea_docx(linea)
+    return Response(contenido, media_type="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    headers={"Content-Disposition": f'attachment; filename="{nombre}"'})
+
+
+@app.get("/api/lineas/{linea_id}/excel")
+def linea_excel(linea_id: int):
+    linea = _linea_o_404(linea_id)
+    if linea["estado"] != "lista":
+        raise HTTPException(400, "La línea todavía no está construida.")
+    contenido, nombre = exportar.linea_xlsx(linea)
+    return Response(contenido, media_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    headers={"Content-Disposition": f'attachment; filename="{nombre}"'})
+
+
 @app.get("/")
 def inicio():
     return FileResponse(WEB_DIR / "index.html")
@@ -296,6 +453,7 @@ def main() -> None:
     args = parser.parse_args()
 
     casos.marcar_interrumpidos()
+    casos.marcar_lineas_interrumpidas()
     if not config.DB_PATH.exists():
         print("\nTodavía no está la base de datos. Ejecuta primero actualizar.bat\n")
     host = "0.0.0.0" if args.red else config.HOST
