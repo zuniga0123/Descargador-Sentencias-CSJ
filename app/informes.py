@@ -28,6 +28,53 @@ def cita(f: dict) -> str:
     return f"Corte Suprema de Justicia, {f.get('sala') or 'Sala Laboral'}, Sentencia {f['radicado']}{rad}, {fecha}, M.P. {ponente}."
 
 
+PARTES = {"trabajador": "la parte trabajadora", "empleador": "la parte empleadora"}
+
+
+def _temas_md(plan: dict) -> list[str]:
+    lineas = []
+    if plan.get("hechos_relevantes"):
+        lineas += ["", "**Hechos determinantes:**", ""] + [f"{i}. {h}" for i, h in enumerate(plan["hechos_relevantes"], 1)]
+    if plan.get("hechos_por_precisar"):
+        lineas += ["", "**Conviene precisar:** " + "; ".join(plan["hechos_por_precisar"])]
+    parte = PARTES.get(plan.get("posicion"), "")
+    lineas += ["", "## Temas jurídicos a resolver (generado con IA: verificar cada cita)"]
+    for c in plan.get("cuestiones") or []:
+        a = c.get("analisis") or {}
+        lineas += ["", f"### {c['id']}. {c['cuestion']}", ""]
+        if c.get("por_que"):
+            lineas += [f"*{c['por_que']}*", ""]
+        if a.get("estado"):
+            lineas += ["**Qué dice la jurisprudencia encontrada:** " + a["estado"], ""]
+        if a.get("argumentos"):
+            lineas.append(f"**Argumentos{' para ' + parte if parte else ''}:**")
+            lineas.append("")
+            for n, x in enumerate(a["argumentos"], 1):
+                lineas.append(f"{n}. **{x['tesis']}** {x.get('desarrollo', '')}")
+                if x.get("apoyo"):
+                    lineas.append(f"   - Apoyo: {', '.join(x['apoyo'])}")
+                if x.get("apoyo_no_verificado"):
+                    lineas.append(f"   - Citas no verificadas: {', '.join(x['apoyo_no_verificado'])}")
+                if x.get("objecion"):
+                    lineas.append(f"   - Objeción previsible: {x['objecion']}")
+                for rv in x.get("revision") or []:
+                    lineas.append(f"   - ⚠ Revisión crítica ({rv['gravedad']}): {rv['problema']}")
+            lineas.append("")
+        if a.get("contraparte"):
+            lineas.append("**Lo que alegará la contraparte:**")
+            lineas += [f"- {x['tesis']}" + (f" ({', '.join(x['apoyo'])})" if x.get("apoyo") else "") for x in a["contraparte"]]
+            lineas.append("")
+        if a.get("por_verificar"):
+            lineas.append("**Por verificar en el expediente:**")
+            lineas += [f"- {v}" for v in a["por_verificar"]]
+            lineas.append("")
+        if a.get("vacios"):
+            lineas += [f"**Vacíos:** {a['vacios']}", ""]
+    if plan.get("observaciones_generales"):
+        lineas += ["", "**Revisión crítica de la estrategia:**"] + [f"- {o}" for o in plan["observaciones_generales"]]
+    return lineas
+
+
 def informe_md(caso: dict, guardadas: list[dict], lista_analisis: list[dict]) -> str:
     usuario = casos.usuario(caso["usuario_id"]) or {}
     lineas = [
@@ -51,6 +98,8 @@ def informe_md(caso: dict, guardadas: list[dict], lista_analisis: list[dict]) ->
             lineas += ["", f"**Asunto de fondo:** {plan['asunto_de_fondo']}"]
     if plan.get("sintesis"):
         lineas += ["", "## Síntesis de la jurisprudencia (generada con IA, verificar)", "", plan["sintesis"]]
+    if plan.get("version") == 2:
+        lineas += _temas_md(plan)
 
     precedentes = [g for g in guardadas if g["estado"] == "precedente" and g.get("ficha")]
     lineas += ["", f"## Precedentes seleccionados ({len(precedentes)})", ""]
@@ -62,6 +111,8 @@ def informe_md(caso: dict, guardadas: list[dict], lista_analisis: list[dict]) ->
         for etiqueta, clave in (("Decisión", "decision"), ("Regla aplicable", "regla"), ("Relación con el caso", "por_que")):
             if d.get(clave):
                 lineas.append(f"   - {etiqueta}: {d[clave]}")
+        if d.get("cita"):
+            lineas.append(f"   - Texto de la sentencia (cita verificada): «{d['cita']}»")
         if g.get("nota"):
             lineas.append(f"   - Nota: {g['nota']}")
         lineas.append("")
@@ -73,8 +124,10 @@ def informe_md(caso: dict, guardadas: list[dict], lista_analisis: list[dict]) ->
         if otras:
             lineas += ["## Otros precedentes sugeridos (sin revisar)", ""]
             for r in otras:
-                extra = f" — {r['por_que']}" if r.get("por_que") else ""
-                lineas.append(f"- {cita(r)} Puntaje {r['puntaje']}.{extra}")
+                explicacion = r.get("por_que") or (r.get("comparacion") or {}).get("explicacion_utilidad") or ""
+                resultado = ((r.get("ficha") or {}).get("resultado") or {}).get("efecto")
+                extra = (f" Resultado: {resultado}." if resultado else "") + (f" — {explicacion}" if explicacion else "")
+                lineas.append(f"- {cita(r)} Pertinencia {r.get('pertinencia', r['puntaje'])}.{extra}")
             lineas.append("")
     lineas += ["---", "Las calificaciones y síntesis generadas con IA son orientativas: verifique cada sentencia antes de citarla."]
     return "\n".join(lineas) + "\n"

@@ -263,3 +263,60 @@ mark.activa { background: var(--marca-activa); }
 .caso-cuerpo > * { min-width: 0; }
 .pestanas { overflow-x: auto; }
 .pestanas button { flex: 0 0 auto; }
+
+/* ---------- Análisis v2: temas jurídicos y fichas ---------- */
+.titulo-seccion { font-size: 17px; margin: 22px 0 4px; }
+.cuestiones { display: flex; flex-direction: column; gap: 10px; margin-top: 10px; }
+.cuestion { background: var(--panel); border: 1px solid var(--borde); border-radius: 8px; box-shadow: var(--sombra); }
+.cuestion > summary { cursor: pointer; padding: 12px 16px; font-weight: 600; font-size: 15.5px; list-style-position: outside; margin-left: 16px; }
+.cuestion[open] > summary { border-bottom: 1px solid var(--borde); }
+.id-cuestion { display: inline-block; background: var(--acento); color: var(--panel); border-radius: 4px; padding: 0 6px; font-size: 13px; margin-right: 4px; }
+.cuestion-cuerpo { padding: 6px 18px 14px; }
+.cuestion-cuerpo h4 { margin: 14px 0 6px; font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--suave); }
+.estado-jurisprudencia { font-family: var(--lectura); font-size: 15.5px; line-height: 1.6; margin: 0; }
+.argumentos { margin: 0; padding-left: 22px; display: flex; flex-direction: column; gap: 10px; }
+.argumento p { margin: 3px 0; font-size: 14.5px; }
+.argumento .tesis { font-weight: 600; font-size: 15px; }
+.apoyo { font-size: 13.5px; color: var(--suave); display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.chip-sentencia { display: inline-block; padding: 1px 8px; border-radius: 10px; background: var(--acento-suave); color: var(--acento); text-decoration: none; font-size: 13px; font-weight: 600; border-left: 3px solid var(--borde); }
+.chip-sentencia.csj { border-left-color: var(--csj); } .chip-sentencia.cc { border-left-color: var(--cc); }
+.objecion { color: var(--suave); }
+.revision { background: var(--medio-suave); color: var(--medio); border-radius: 6px; padding: 6px 10px; }
+.revision.alta { background: var(--mal-suave); color: var(--mal); }
+.cita-dudosa { background: var(--mal-suave); color: var(--mal); border-radius: 4px; padding: 0 5px; font-size: .92em; }
+.por-verificar { margin: 0; padding-left: 20px; font-size: 14.5px; }
+.vacios { font-size: 14px; color: var(--suave); }
+.revision-general { background: var(--medio-suave); color: var(--medio); border-radius: 8px; padding: 10px 14px; margin-bottom: 12px; font-size: 14.5px; }
+.revision-general ul { margin: 4px 0 0; padding-left: 20px; }
+.por-precisar { background: var(--medio-suave); color: var(--medio); border-radius: 6px; padding: 6px 10px; font-size: 14px; }
+.hechos-caso { margin: 4px 0; padding-left: 26px; font-size: 14.5px; }
+.hechos-caso li::marker { content: "H" counter(list-item) ". "; color: var(--suave); font-size: 12.5px; }
+.filtro-cuestiones { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 12px; }
+.filtro-cuestiones button[aria-pressed="true"] { background: var(--acento); color: var(--panel); border-color: var(--acento); }
+.ficha-v2 .resultado { margin-top: 8px; }
+.cita-textual { margin: 6px 0 8px; padding: 6px 12px; border-left: 3px solid var(--borde); font-family: var(--lectura); font-size: 14.5px; color: var(--texto); background: var(--fondo); border-radius: 0 6px 6px 0; }
+.cita-textual.verificada { border-left-color: var(--ok); }
+.cita-textual.no-verificada { border-left-color: var(--mal); opacity: .85; }
+.cita-textual .sello { display: inline-block; font-family: var(--ui); font-size: 12px; margin-left: 4px; color: var(--ok); }
+.cita-textual.no-verificada .sello { color: var(--mal); }
+.cita-textual a { font-family: var(--ui); font-size: 12.5px; margin-left: 8px; }
+.regla { margin: 8px 0 2px; font-size: 14.5px; }
+.regla .papel { display: inline-block; font-size: 11.5px; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; padding: 1px 7px; border-radius: 10px; margin-right: 4px; background: var(--acento-suave); color: var(--acento); }
+.regla.reiteracion .papel, .regla.obiter .papel { background: var(--fondo); color: var(--suave); border: 1px solid var(--borde); }
+.frente-al-caso { border-top: 1px dashed var(--borde); margin-top: 8px; padding-top: 6px; }
+.frente-al-caso details { margin: 4px 0; font-size: 14px; }
+.frente-al-caso summary { cursor: pointer; color: var(--acento); }
+.analogia { background: var(--ok-suave); border-radius: 6px; padding: 4px 8px; }
+.matriz-hechos { list-style: none; padding: 0; margin: 6px 0; }
+.matriz-hechos li { display: flex; gap: 8px; padding: 3px 0; }
+.matriz-hechos .simbolo { flex: 0 0 22px; text-align: center; font-weight: 700; border-radius: 4px; }
+.rel-coincide .simbolo { color: var(--ok); background: var(--ok-suave); }
+.rel-difiere .simbolo { color: var(--mal); background: var(--mal-suave); }
+.rel-no_consta .simbolo { color: var(--suave); background: var(--fondo); }
+.etiqueta.forma { background: var(--medio-suave); color: var(--medio); }
+.etiqueta.util-a_favor { background: var(--ok-suave); color: var(--ok); }
+.etiqueta.util-en_contra { background: var(--mal-suave); color: var(--mal); }
+.etiqueta.util-mixta { background: var(--medio-suave); color: var(--medio); }
+.precedente.destacada { outline: 3px solid var(--acento); outline-offset: 2px; transition: outline .3s; }
+.selector-analisis { flex-wrap: wrap; }
+.selector-analisis select { min-width: 0; flex: 1 1 200px; }

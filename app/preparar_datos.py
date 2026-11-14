@@ -159,7 +159,7 @@ def ponente_en_texto(cuerpo: str) -> str | None:
 def _limpiar_ponente(nombre: str | None) -> str | None:
     if not nombre:
         return None
-    return re.sub(r"^(?:Dra?|Doctora?)\.?\s+", "", nombre.strip(), flags=re.I).strip(" .,") or None
+    return re.sub(r"^(?:Dra?|Doctora?)(?:\.\s*|\s+)", "", nombre.strip(), flags=re.I).strip(" .,") or None
 
 
 _MINUSCULAS = {"de", "del", "la", "las", "los", "y", "e"}

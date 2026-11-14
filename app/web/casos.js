@@ -152,6 +152,7 @@ async function pintarCaso(id) {
     caja.innerHTML = `<div class="pagina"><p class="meta">Cargando caso…</p></div>`;
     try { await recargarCaso(id); } catch (err) { caja.innerHTML = `<div class="pagina"><p>${esc(err.message)}</p></div>`; return; }
     analisisVisible = casoActual.ultimo;
+    filtroCuestion = "";
     pestana = "sugeridos";
   }
   await cargarEstadoIA();
@@ -180,6 +181,13 @@ async function pintarCaso(id) {
           <label>Lo que se pide o se discute
             <textarea id="caso-pretensiones" rows="4" placeholder="Pretensiones, defensa o pregunta jurídica concreta. Ej.: reintegro por estabilidad laboral reforzada, indemnización de 180 días…">${esc(caso.pretensiones)}</textarea>
           </label>
+          <label>Parte que representa
+            <select id="caso-posicion">
+              <option value="trabajador" ${caso.posicion === "trabajador" ? "selected" : ""}>La parte trabajadora (demandante o accionante)</option>
+              <option value="empleador" ${caso.posicion === "empleador" ? "selected" : ""}>La parte empleadora (demandada o accionada)</option>
+              <option value="neutral" ${!caso.posicion || caso.posicion === "neutral" ? "selected" : ""}>Ninguna: análisis neutral (juez, estudio)</option>
+            </select>
+          </label>
           <fieldset>
             <legend>Buscar en</legend>
             <label class="opcion"><input type="checkbox" name="corte" value="csj" ${!caso.cortes.length || caso.cortes.includes("csj") ? "checked" : ""}> Corte Suprema – Sala Laboral</label>
@@ -189,6 +197,7 @@ async function pintarCaso(id) {
               <span>–</span>
               <input id="caso-hasta" type="number" min="1992" max="2100" placeholder="Hasta" value="${caso.hasta || ""}" aria-label="Hasta el año">
             </div>
+            <label class="opcion"><input type="checkbox" id="caso-recientes" ${caso.recientes === 0 ? "" : "checked"}> Dar prioridad a las sentencias recientes</label>
           </fieldset>
           <div class="buscar-precedentes">
             <button type="submit" class="primario grande" id="btn-analizar">Buscar precedentes</button>
@@ -225,6 +234,8 @@ async function pintarCaso(id) {
   $("#caso-titulo").onchange = () => guardarCampo({ titulo: $("#caso-titulo").value.trim() || "Caso sin título" });
   $("#caso-descripcion").onchange = () => guardarCampo({ descripcion: $("#caso-descripcion").value });
   $("#caso-pretensiones").onchange = () => guardarCampo({ pretensiones: $("#caso-pretensiones").value });
+  $("#caso-posicion").onchange = () => guardarCampo({ posicion: $("#caso-posicion").value });
+  $("#caso-recientes").onchange = () => guardarCampo({ recientes: $("#caso-recientes").checked ? 1 : 0 });
   $$('#form-caso [name="corte"]').forEach(x => x.onchange = () => guardarCampo({ cortes: cortesMarcadas().length === 2 ? [] : cortesMarcadas() }));
   ["desde", "hasta"].forEach(k => $(`#caso-${k}`).onchange = () => guardarCampo({ [k]: +$(`#caso-${k}`).value || null }));
 
@@ -237,6 +248,7 @@ async function pintarCaso(id) {
         titulo: $("#caso-titulo").value.trim() || "Caso sin título", descripcion: $("#caso-descripcion").value,
         pretensiones: $("#caso-pretensiones").value, cortes: cortesMarcadas().length === 2 ? [] : cortesMarcadas(),
         desde: +$("#caso-desde").value || null, hasta: +$("#caso-hasta").value || null,
+        posicion: $("#caso-posicion").value, recientes: $("#caso-recientes").checked ? 1 : 0,
       });
       const { analisis_id } = await enviar("POST", `api/casos/${caso.id}/analizar`, { usuario_id: u.id, amplitud: $("#amplitud").value });
       analisisVisible = { id: analisis_id, estado: "en_curso", progreso: 0, paso: "Iniciando", resultados: [] };
@@ -324,12 +336,13 @@ function htmlSugeridos() {
     return `${selector}<div class="progreso">
       <p id="paso-analisis">${esc(a.paso || "Iniciando")}</p>
       <div class="barra-progreso"><div id="progreso-analisis" style="width:${a.progreso || 2}%"></div></div>
-      <p class="meta">${a.modo === "local" ? "Unos segundos." : "Con IA suele tardar entre 30 segundos y 2 minutos. Puedes seguir trabajando: el resultado queda guardado en el caso."}</p>
+      <p class="meta">${a.modo === "local" ? "Unos segundos." : "Con IA tarda entre 1 y 4 minutos (menos cuando las sentencias ya se habían leído en otro caso). Puedes seguir trabajando: el resultado queda guardado en el caso."}</p>
     </div>`;
   }
   if (a.estado === "error") {
     return `${selector}<div class="error-analisis"><b>No se pudo completar la búsqueda.</b><br>${esc(a.error || "")}</div>`;
   }
+  if (a.modo === "ia" && a.planteamiento?.version === 2) return selector + htmlAnalisisV2(a);  // analisis.js
   const guardadas = new Map(casoActual.guardadas.map(g => [clave(g.corte_clave, g.radicado), g.estado]));
   const visibles = a.resultados.filter(r => guardadas.get(clave(r.corte_clave, r.radicado)) !== "descartada");
   const conIA = a.modo === "ia";
@@ -478,6 +491,7 @@ function conectarAcciones(caja) {
     try { await navigator.clipboard.writeText(texto); } catch { /* sin portapapeles */ }
     aviso("Cita copiada: " + texto);
   });
+  conectarAccionesV2(caja);  // analisis.js
   const sel = $("#elegir-analisis", caja);
   if (sel) sel.onchange = async () => {
     analisisVisible = await api(`api/analisis/${sel.value}`);

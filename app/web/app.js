@@ -271,7 +271,7 @@ function quitarMarcas(raiz, clase) {
 let abierta = null;
 async function abrirLector(id) {
   const lector = $("#lector");
-  if (abierta?.id == id) { lector.hidden = false; return; }
+  if (abierta?.id == id) { lector.hidden = false; irACita(); return; }
   lector.hidden = false;
   document.body.style.overflow = "hidden";
   $("#lector-titulo").textContent = "Cargando…";
@@ -310,6 +310,22 @@ async function abrirLector(id) {
   if (marcas.length) setTimeout(() => marcas[0].scrollIntoView({ block: "center" }), 50);
   $("#q-texto").value = "";
   $("#q-texto-conteo").textContent = marcas.length ? `${marcas.length} coincidencias` : "";
+  irACita();
+}
+
+// Lleva a una cita literal dentro de la sentencia abierta (desde "ver en el texto").
+function irACita() {
+  const cita = window.citaLector;
+  if (!cita) return;
+  window.citaLector = "";
+  const palabras = cita.replace(/[«»"“”…]/g, " ").split(/\s+/).filter(Boolean);
+  for (const n of [8, 5, 3]) {
+    if (palabras.length < n) continue;
+    $("#q-texto").value = palabras.slice(0, n).join(" ");
+    $("#q-texto").dispatchEvent(new Event("input"));
+    if (enTexto.length) return;
+  }
+  aviso("No se pudo ubicar la cita exacta en el texto; búsquela con el cuadro de abajo.");
 }
 
 function cerrarLector(actualizarURL = true) {

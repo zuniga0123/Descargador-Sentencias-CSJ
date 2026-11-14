@@ -60,27 +60,52 @@ En **Mis casos** cada persona crea sus casos (al entrar elige su nombre; no
 hay contraseña, sirve para separar el trabajo).
 
 1. **Nuevo caso** → escribe los hechos y particularidades como se los
-   contarías a un colega, y lo que se pide o se discute. Se guarda solo.
-2. **Buscar precedentes**. El buscador propone sentencias con antecedentes
-   parecidos que resuelven el mismo asunto de fondo. Cada una trae un puntaje
-   de 0 a 100, si resuelve el fondo, si es favorable o desfavorable a lo que se
-   pide, la decisión, la regla aplicable y en qué se parece o se diferencia.
+   contarías a un colega, lo que se pide o se discute, y **a qué parte
+   representas** (trabajadora, empleadora o análisis neutral). Puedes limitar
+   cortes y años, y dar prioridad a las sentencias recientes (activado por
+   defecto). Todo se guarda solo.
+2. **Buscar precedentes**. Con DeepSeek el resultado tiene dos partes:
+   - **Temas jurídicos a resolver**: las cuestiones que el caso debe decidir
+     (incluidas las previas, como prescripción o legitimación). En cada una:
+     qué dice la jurisprudencia encontrada, **argumentos** para tu parte con
+     su apoyo, la objeción previsible, lo que alegará la contraparte, lo que
+     hay que verificar en el expediente y los vacíos. Una revisión crítica
+     marca los argumentos que podrían perjudicar a tu propia parte.
+   - **Sentencias evaluadas**: de cada una, el resultado (qué decidió y a quién
+     favoreció), si decidió el fondo, sus reglas marcadas como *ratio*,
+     *reiteración* u *obiter* con la **cita textual**, y la comparación hecho
+     por hecho con el caso.
 3. **☆ Guardar en el caso** las que sirven (con tus notas) y **No sirve** las
    que no: estas ya no vuelven a aparecer en las búsquedas de ese caso.
-4. **Exportar informe**: un archivo .md con los hechos, el problema jurídico,
-   la síntesis y los precedentes elegidos con su cita, listo para Word.
+4. **Exportar informe**: un archivo .md con los hechos, los temas jurídicos,
+   los argumentos y los precedentes elegidos con su cita, listo para Word.
 5. El **Historial** registra quién hizo qué y cuándo. Desde el buscador general
    también se puede guardar una sentencia en un caso (botón en el lector).
+
+### Cómo evita la app que la IA "acomode" las sentencias
+
+- La IA lee cada sentencia **sin conocer el caso** y hace una ficha neutra
+  (hechos, resultado, reglas). Solo después la compara con el caso, y en esa
+  comparación no puede cambiar lo que dice la ficha.
+- Cada regla y cada resultado traen una **cita literal** que la app busca en el
+  texto completo de la sentencia: ✓ si la encontró (con enlace "ver en el
+  texto"), ⚠ si no la encontró (no la uses sin revisar).
+- La similitud de hechos la calcula la app a partir de la comparación hecho por
+  hecho, no la IA a ojo.
+- Si la IA cita una sentencia que no está entre las revisadas para ese tema, la
+  app la marca como no verificada.
+- Las cortes tienen cupos separados: las tutelas de la Corte Constitucional no
+  desplazan a la Sala Laboral.
 
 ### Con DeepSeek (recomendado) o sin IA
 
 - **Sin IA** funciona por palabras clave del caso: útil, pero sin explicaciones.
-- **Con DeepSeek** la IA identifica el problema jurídico y el asunto de fondo,
-  arma varias búsquedas, lee extractos de 40 (u 80) sentencias candidatas
-  (antecedentes, pasajes pertinentes y decisión), califica cada una y redacta
-  una síntesis de la jurisprudencia con citas. Tarda entre 30 segundos y 2
-  minutos y usa unos 40.000 tokens por búsqueda (el costo depende de las
-  tarifas vigentes de DeepSeek; es prepago).
+- **Con DeepSeek** la primera búsqueda de un caso tarda entre 1 y 4 minutos:
+  la IA lee unas 40 sentencias (u 80) y usa alrededor de 180.000 tokens. Las
+  fichas de las sentencias quedan guardadas en `datos/cache_ia.sqlite`, así que
+  las búsquedas siguientes que vuelven a encontrar esas sentencias son mucho
+  más rápidas y baratas (unos 20.000 tokens). El costo depende de las tarifas
+  vigentes de DeepSeek; es prepago.
 - Para activarlo: **Configuración** → pega la clave de API de DeepSeek
   (platform.deepseek.com → API keys) → **Guardar**. Se prueba sola. La clave
   se guarda únicamente en ese computador; quienes usan el buscador en red
@@ -106,10 +131,11 @@ app/
   precedentes.py    buscador de precedentes: planteamiento, candidatas,
                     extractos, evaluación y síntesis (o modo sin IA)
   casos.py          usuarios, casos, análisis, guardadas e historial
+  fichas.py         fichas neutras de sentencias con citas verificadas (caché)
   informes.py       informe del caso en Markdown
   texto.py          limpieza del texto (PDF de la Corte Suprema, secciones)
   instalar.py       pasos de instalación con Python
-  web/              interfaz (HTML + CSS + JS, sin dependencias; casos.js)
+  web/              interfaz (HTML + CSS + JS, sin dependencias; casos.js, analisis.js)
   windows/          instalador y lanzadores .bat
 ```
 
