@@ -126,16 +126,21 @@ def _cortes(caso: dict) -> list[str]:
     return caso.get("cortes") or ["csj", "cc"]
 
 
-def _lista_por_corte(consultas: list[str], corte: str, caso: dict, excluir: set[int]) -> list[int]:
+def _lista_por_corte(consultas: list[str], corte: str, caso: dict, excluir: set[int],
+                     fallidas: set[str] | None = None) -> list[int]:
     """Fusiona varias consultas en una sola lista ordenada para una corte."""
     puntaje: dict[int, float] = {}
     for c in consultas:
         fts = busqueda.a_consulta_fts(c)
         if not fts:
+            if fallidas is not None:
+                fallidas.add(c)
             continue
         try:
             ids = busqueda.candidatos(fts, [corte], caso.get("desde"), caso.get("hasta"), POR_CONSULTA)
-        except Exception:  # consulta inválida para FTS: se omite
+        except Exception:  # consulta inválida para FTS: se omite, pero queda registrada
+            if fallidas is not None:
+                fallidas.add(c)
             continue
         for pos, pid in enumerate(ids):
             if pid not in excluir:
@@ -147,11 +152,12 @@ def _lista_por_corte(consultas: list[str], corte: str, caso: dict, excluir: set[
     return sorted(puntaje, key=puntaje.get, reverse=True)
 
 
-def reunir_candidatas(grupos: dict[str, list[str]], caso: dict, limite: int) -> tuple[list[int], dict[int, list[str]]]:
+def reunir_candidatas(grupos: dict[str, list[str]], caso: dict, limite: int,
+                      fallidas: set[str] | None = None) -> tuple[list[int], dict[int, list[str]]]:
     """grupos: {cuestión: [consultas]}. Reparte cupos por cuestión y por corte
     (ronda por turnos) y devuelve (ids, cuestiones que recuperaron cada id)."""
     excluir = _excluidas(caso["id"])
-    listas = {(g, corte): _lista_por_corte(consultas, corte, caso, excluir)
+    listas = {(g, corte): _lista_por_corte(consultas, corte, caso, excluir, fallidas)
               for g, consultas in grupos.items() for corte in _cortes(caso)}
     elegidas: list[int] = []
     origen: dict[int, list[str]] = {}
@@ -385,6 +391,9 @@ Si no hay problemas, "revision" es una lista vacía."""
 # ---------- Validaciones deterministas ----------
 
 _RE_CITA = re.compile(r"\[([^\[\]]{3,40})\]")
+# Radicados: T-760-08, T-760/08, SU-214/16, C-355-06 (Corte Constitucional);
+# SL1234-2020, STL123-2021, AL45-2019 o 39601(21-02-12) (Corte Suprema).
+_RE_RADICADO = re.compile(r"^(?:(?:T|C|SU|A)-\d{1,4}[-/]\d{2,4}|S?[A-Z]{1,3}\d{1,6}-\d{4}|\d{5,6}(?:\(\d{2}-\d{2}-\d{2}\))?)$")
 
 
 def _marcar_citas(texto: str, permitidos: set[str]) -> tuple[str, list[str]]:
@@ -393,7 +402,7 @@ def _marcar_citas(texto: str, permitidos: set[str]) -> tuple[str, list[str]]:
 
     def reemplazo(m):
         rad = m.group(1).strip()
-        if rad in permitidos or not re.search(r"\d", rad):
+        if rad in permitidos or not _RE_RADICADO.match(rad):
             return m.group(0)
         ajenas.append(rad)
         return f"[{rad} — no está entre los precedentes revisados para este tema: verifíquela]"
@@ -460,7 +469,11 @@ def analizar_ia(aid: int, caso: dict, amplitud: str) -> None:
     casos.actualizar_analisis(aid, planteamiento=plan)
 
     _avance(aid, "Buscando sentencias candidatas en cada corte", 10, uso)
-    ids, origen = reunir_candidatas(grupos, caso, CANDIDATAS[amplitud])
+    fallidas: set[str] = set()
+    ids, origen = reunir_candidatas(grupos, caso, CANDIDATAS[amplitud], fallidas)
+    if fallidas:
+        plan["consultas_fallidas"] = sorted(fallidas)
+        casos.actualizar_analisis(aid, planteamiento=plan)
     if not ids:
         casos.actualizar_analisis(aid, resultados=[], estado="listo", paso="Listo", progreso=100,
                                   tokens_entrada=uso.entrada, tokens_salida=uso.salida)

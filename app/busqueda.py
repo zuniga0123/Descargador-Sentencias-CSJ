@@ -94,7 +94,8 @@ def a_consulta_fts(texto: str) -> str | None:
             grupos.append([p])
         unir = False
     piezas = [g[0] if len(g) == 1 else "(" + " OR ".join(g) + ")" for g in grupos]
-    return " ".join(piezas + negativos)
+    # FTS5 exige AND explícito junto a un grupo entre paréntesis.
+    return " ".join([" AND ".join(piezas)] + negativos)
 
 
 @dataclass

@@ -80,8 +80,9 @@ function htmlAnalisisV2(a) {
       <h3>Problema jurídico</h3><p>${esc(plan.problema_juridico)}</p>
       ${hechos.length ? `<p><b>Hechos determinantes:</b></p><ol class="hechos-caso">${hechos.map(h => `<li>${esc(h)}</li>`).join("")}</ol>` : ""}
       ${(plan.hechos_por_precisar || []).length ? `<p class="por-precisar"><b>Conviene precisar en la descripción:</b> ${plan.hechos_por_precisar.map(esc).join("; ")}</p>` : ""}
-      <details><summary>Búsquedas que hizo</summary><ul class="consultas">${(plan.consultas || []).map(c =>
-        `<li><a href="?q=${encodeURIComponent(c.consulta)}" target="_blank" rel="noopener"><code>${esc(c.consulta)}</code></a> ${c.proposito ? `<span class="meta">— ${esc(c.proposito)}</span>` : ""}</li>`).join("")}</ul></details>
+      <details><summary>Búsquedas que hizo${(plan.consultas_fallidas || []).length ? ` <span class="cita-dudosa">⚠ ${plan.consultas_fallidas.length} no se pudieron ejecutar</span>` : ""}</summary><ul class="consultas">${(plan.consultas || []).map(c =>
+        `<li><a href="?q=${encodeURIComponent(c.consulta)}" target="_blank" rel="noopener"><code>${esc(c.consulta)}</code></a> ${c.proposito ? `<span class="meta">— ${esc(c.proposito)}</span>` : ""}
+         ${(plan.consultas_fallidas || []).includes(c.consulta) ? `<span class="cita-dudosa">⚠ no se pudo ejecutar</span>` : ""}</li>`).join("")}</ul></details>
     </div>
     ${(plan.observaciones_generales || []).length ? `<div class="revision-general"><b>Revisión crítica de la estrategia:</b><ul>${plan.observaciones_generales.map(o => `<li>${esc(o)}</li>`).join("")}</ul></div>` : ""}
     ${(plan.errores || []).length ? `<div class="error-analisis">Algunas partes no se completaron: ${plan.errores.map(esc).join(" · ")}</div>` : ""}
