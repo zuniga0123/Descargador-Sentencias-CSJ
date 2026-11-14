@@ -321,3 +321,73 @@ mark.activa { background: var(--marca-activa); }
 .selector-analisis { flex-wrap: wrap; }
 .selector-analisis select { min-width: 0; flex: 1 1 200px; }
 .por-precisar ul { margin: 4px 0 0; padding-left: 20px; }
+
+/* ---------- Líneas jurisprudenciales ---------- */
+:root { --serie-cc: #2a78d6; --serie-csj: #eb6834; }
+@media (prefers-color-scheme: dark) { :root { --serie-cc: #3987e5; --serie-csj: #d95926; } }
+.nueva-linea textarea, .nueva-linea input:not([type]), .planteamiento-linea textarea, .planteamiento-linea input:not([type="checkbox"]):not([type="number"]) {
+  width: 100%; font: 14px/1.5 var(--ui); padding: 8px 10px; border: 1px solid var(--borde); border-radius: 6px; background: var(--fondo); resize: vertical;
+}
+.nueva-linea label, .planteamiento-linea label { display: flex; flex-direction: column; gap: 5px; font-weight: 600; font-size: 14px; margin: 10px 0; }
+.nueva-linea label.opcion, .planteamiento-linea label.opcion { flex-direction: row; font-weight: 400; margin: 2px 0; }
+.modo-linea { display: flex; gap: 18px; flex-wrap: wrap; }
+.planteamiento-linea fieldset { border: 1px solid var(--borde); border-radius: 6px; padding: 6px 12px 10px; margin: 10px 0; }
+.planteamiento-linea legend { font-size: 13px; font-weight: 600; }
+.polos-form { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+label.compacto { flex-direction: row !important; align-items: center; gap: 6px !important; font-weight: 400 !important; }
+label.compacto input, label.compacto select { width: 90px; padding: 5px 7px; border: 1px solid var(--borde); border-radius: 5px; background: var(--panel); }
+label.compacto select { width: auto; }
+.problema-linea .pregunta { font-family: var(--lectura); font-size: 17px; margin: 4px 0 10px; }
+.polos { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.polo { border-radius: 6px; padding: 8px 12px; background: var(--fondo); border: 1px solid var(--borde); font-size: 14.5px; }
+.polo b { display: block; font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--suave); }
+.estados-linea { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 12px; margin: 12px 0; }
+.estado-corte { background: var(--panel); border: 1px solid var(--borde); border-top: 4px solid var(--borde); border-radius: 8px; padding: 10px 14px; }
+.estado-corte.cc { border-top-color: var(--serie-cc); } .estado-corte.csj { border-top-color: var(--serie-csj); }
+.estado-corte h3 { margin: 0 0 6px; font-size: 15px; }
+.estado-corte p { margin: 4px 0; font-size: 14px; }
+.estado-pacifica { background: var(--ok-suave) !important; color: var(--ok) !important; }
+.estado-tension { background: var(--mal-suave) !important; color: var(--mal) !important; }
+.estado-cambio { background: var(--medio-suave) !important; color: var(--medio) !important; }
+.grafico-linea { background: var(--panel); border: 1px solid var(--borde); border-radius: 8px; padding: 10px 12px; }
+.leyenda-linea { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 13px; color: var(--texto); align-items: center; margin-bottom: 6px; }
+.leyenda-linea span { display: inline-flex; gap: 5px; align-items: center; }
+.polos-grafico { display: flex; justify-content: space-between; gap: 16px; font-size: 12.5px; color: var(--suave); margin: 2px 0 4px; }
+.polos-grafico span { max-width: 48%; }
+.polos-grafico span:last-child { text-align: right; }
+.lienzo-grafico { position: relative; }
+.lienzo-grafico svg { display: block; overflow: visible; }
+.lienzo-grafico .eje { font: 12px var(--ui); fill: var(--suave); }
+.lienzo-grafico .punto { cursor: pointer; outline: none; }
+.lienzo-grafico .punto:focus-visible circle:last-child { stroke: var(--texto); stroke-width: 1.5; }
+.tooltip-linea { position: absolute; z-index: 3; width: 250px; background: var(--panel); border: 1px solid var(--borde); border-radius: 6px; padding: 8px 10px; font-size: 13px; box-shadow: var(--sombra); pointer-events: none; }
+.tabla-lopez-detalle { margin: 8px 0; }
+.tabla-lopez-detalle summary { cursor: pointer; color: var(--acento); }
+.tabla-lopez { border-collapse: collapse; width: 100%; margin: 10px 0; font-size: 13px; background: var(--panel); }
+.tabla-lopez caption { text-align: left; font-weight: 600; padding: 4px 0; }
+.tabla-lopez th, .tabla-lopez td { border: 1px solid var(--borde); padding: 4px 6px; text-align: center; vertical-align: top; }
+.tabla-lopez th { background: var(--acento-suave); }
+.tabla-lopez .polo-celda { text-align: left; width: 22%; font-size: 12.5px; }
+.tabla-lopez a { text-decoration: none; color: var(--acento); }
+.tabla-lopez a.hito { font-weight: 700; }
+.balance-corte { margin-bottom: 10px; }
+.balance-corte h4 { margin: 0 0 4px; font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--suave); }
+.subregla-final { background: var(--acento-suave); border-radius: 6px; padding: 8px 12px; }
+.nicho { background: var(--panel); border: 1px solid var(--borde); border-radius: 8px; padding: 10px 14px; display: flex; flex-direction: column; gap: 10px; }
+.nivel-nicho { display: grid; grid-template-columns: 170px 1fr; gap: 8px; align-items: start; }
+.nivel-nicho .meta { grid-column: 2; font-size: 12.5px; }
+.etiqueta-nivel { font-size: 12.5px; font-weight: 600; color: var(--suave); padding-top: 2px; }
+.chips { display: flex; flex-wrap: wrap; gap: 5px; }
+.contactos { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 8px; }
+.contactos li { background: var(--panel); border: 1px solid var(--borde); border-radius: 8px; padding: 8px 12px; font-size: 14px; }
+.puntaje.posicion { background: var(--acento-suave); color: var(--acento); }
+.etiqueta.clase-fundadora, .etiqueta.clase-hito_consolidadora, .etiqueta.clase-hito_modificadora, .etiqueta.clase-hito_reconceptualizadora { background: var(--acento); color: var(--panel); }
+.etiqueta.clase-no_fija_linea { background: var(--medio-suave); color: var(--medio); }
+.etiqueta.peso-1 { background: var(--medio-suave); color: var(--medio); }
+@media (max-width: 860px) {
+  .polos-form, .polos { grid-template-columns: 1fr; }
+  .nivel-nicho { grid-template-columns: 1fr; }
+  .nivel-nicho .meta { grid-column: 1; }
+  .polos-grafico { flex-direction: column; gap: 2px; }
+  .polos-grafico span { max-width: 100%; text-align: left !important; }
+}

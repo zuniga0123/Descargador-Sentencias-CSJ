@@ -264,7 +264,9 @@ def quitar(caso_id: int, usuario_id: int, corte_clave: str, radicado: str):
 def informe(caso_id: int):
     caso = _caso_o_404(caso_id)
     texto = informes.informe_md(caso, _guardadas_con_fichas(caso_id), casos.analisis_del_caso(caso_id))
-    nombre = re.sub(r"[^\w\-]+", "_", caso["titulo"])[:60] or "caso"
+    import unicodedata
+    nombre = "".join(c for c in unicodedata.normalize("NFD", caso["titulo"]) if unicodedata.category(c) != "Mn")
+    nombre = re.sub(r"[^A-Za-z0-9\-]+", "_", nombre)[:60] or "caso"
     return PlainTextResponse(texto, media_type="text/markdown; charset=utf-8",
                              headers={"Content-Disposition": f'attachment; filename="{nombre}.md"'})
 

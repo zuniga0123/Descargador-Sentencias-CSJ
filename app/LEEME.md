@@ -119,6 +119,55 @@ hay contraseña, sirve para separar el trabajo).
 Los casos se guardan en `datos/casos.sqlite`, aparte de las sentencias:
 actualizar el buscador no los borra. Para respaldarlos, copia ese archivo.
 
+## Líneas jurisprudenciales
+
+Pestaña **Líneas**. Sigue el método de López Medina: problema jurídico con dos
+polos, punto arquimédico, ingeniería reversa, nicho citacional y ubicación de
+cada sentencia entre los polos.
+
+1. **Nueva línea**, de dos formas:
+   - **Por problema jurídico**: escribe el asunto; la app lo formula como pregunta
+     con dos respuestas extremas (polo A y polo B) y propone el punto arquimédico
+     de cada corte (la sentencia más reciente con el mismo patrón fáctico).
+   - **Desde una sentencia**: escribe su radicado (T-076-24, SU-061 de 2023,
+     SL1152-2023); esa es el punto arquimédico y la app propone el problema.
+2. **Ajusta el planteamiento** (problema, polos, patrón fáctico, punto
+   arquimédico de cada corte, años, niveles del nicho) y pulsa **Construir línea**.
+3. Resultado:
+   - **Estado de cada línea** (pacífica, en tensión, cambio reciente) con la fecha
+     de la última sentencia, la sentencia dominante, las disidencias recurrentes
+     y advertencias (por ejemplo, que las Salas de Descongestión no pueden cambiar
+     la jurisprudencia de la Sala permanente).
+   - **Gráfico** tiempo contra posición (1 = polo A, 5 = polo B), con la forma del
+     punto según la clasificación (fundadora, hito, confirmadora, no fija línea)
+     y el relleno según el peso de la sala; también como **tabla** al estilo
+     López Medina.
+   - **Balance**: doctrina vigente, evolución de las subreglas, vacíos, relación
+     entre las dos cortes y subregla de derecho.
+   - **Nicho citacional**: punto arquimédico, niveles de citas, puntos nodales
+     (las más citadas dentro de la línea), sentencias posteriores que las citan
+     (búsqueda prospectiva) y citadas que no están en la base.
+   - **Puntos de contacto entre las cortes**, con el texto literal donde una
+     cita a la otra (incluidas las notas al pie).
+   - **Cada sentencia**: posición con su justificación, el apartado y una **cita
+     literal verificada** contra el texto (✓ / ⚠), clasificación, subregla,
+     peso de la sala, votos particulares y cómo usa a las demás sentencias de la
+     línea (fundamento, reiteración, mención, distinción, apartamiento).
+4. **Exportar Word y Excel** con el formato de la skill de análisis
+   jurisprudencial: `Linea_[tema].docx` (apartados del método y gráfico como
+   tabla) y `Matriz_Linea_[tema].xlsx` (hojas Matriz, Citas y Gráfico).
+
+Dos capas: la red de citas es **determinista** (se extrae del texto completo,
+notas al pie incluidas, sin IA); la IA solo ubica y clasifica, siempre con una
+cita que la app comprueba. Sin IA se obtiene la red de citas, el nicho, la
+prospectiva y los contactos entre cortes, pero no la ubicación entre polos.
+
+La red de citas se prepara una vez (unos 8 minutos) durante la instalación o
+la actualización, o desde la pestaña Líneas. Se guarda en `datos/citas.sqlite`.
+Límites: la base no incluye tutelas de la Sala Laboral (STL) ni autos, y la
+Corte Suprema está desde 2009; las citas a sentencias anteriores aparecen como
+"citadas, no están en la base".
+
 ## Para quien programa
 
 ```
@@ -132,10 +181,13 @@ app/
                     extractos, evaluación y síntesis (o modo sin IA)
   casos.py          usuarios, casos, análisis, guardadas e historial
   fichas.py         fichas neutras de sentencias con citas verificadas (caché)
+  citas.py          red de citas entre sentencias y votos particulares (sin IA)
+  lineas.py         líneas jurisprudenciales (López Medina)
+  exportar.py       línea a Word y Excel
   informes.py       informe del caso en Markdown
   texto.py          limpieza del texto (PDF de la Corte Suprema, secciones)
   instalar.py       pasos de instalación con Python
-  web/              interfaz (HTML + CSS + JS, sin dependencias; casos.js, analisis.js)
+  web/              interfaz (HTML + CSS + JS, sin dependencias; casos.js, analisis.js, lineas.js)
   windows/          instalador y lanzadores .bat
 ```
 

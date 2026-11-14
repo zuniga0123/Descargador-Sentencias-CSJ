@@ -14,7 +14,7 @@ function leerURL() {
   const p = new URLSearchParams(location.search);
   const e = { q: p.get("q") || "", orden: p.get("orden") || "relevancia", pagina: +p.get("pagina") || 1,
               desde: p.get("desde") || "", hasta: p.get("hasta") || "", ver: p.get("ver") || "",
-              vista: p.get("vista") || "", caso: p.get("caso") || "" };
+              vista: p.get("vista") || "", caso: p.get("caso") || "", linea: p.get("linea") || "" };
   FACETAS.forEach(f => (e[f] = p.getAll(f)));
   return e;
 }
@@ -23,6 +23,7 @@ function aParams(e, conVer = true) {
   const p = new URLSearchParams();
   if (e.vista) p.set("vista", e.vista);
   if (e.vista === "caso" && e.caso) p.set("caso", e.caso);
+  if (e.vista === "linea" && e.linea) p.set("linea", e.linea);
   if (e.q) p.set("q", e.q);
   FACETAS.forEach(f => e[f].forEach(v => p.append(f, v)));
   ["desde", "hasta"].forEach(k => e[k] && p.set(k, e[k]));
@@ -62,7 +63,8 @@ async function api(ruta) {
 function mostrarVista(vista) {
   $("main.contenedor").hidden = !!vista;
   $$(".vista").forEach(v => (v.hidden = v.id !== "vista-" + vista));
-  $$(".menu [data-vista]").forEach(a => a.classList.toggle("activo", a.dataset.vista === (vista === "caso" ? "casos" : vista)));
+  const grupo = { caso: "casos", linea: "lineas" }[vista] || vista;
+  $$(".menu [data-vista]").forEach(a => a.classList.toggle("activo", a.dataset.vista === grupo));
 }
 
 // ---------- Búsqueda ----------

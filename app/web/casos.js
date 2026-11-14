@@ -83,9 +83,12 @@ async function asegurarUsuario() {
 
 async function renderVista(vista) {
   if (vista !== "caso") detenerSondeo();
+  if (vista !== "linea") detenerSondeoLinea();
   if (vista === "casos") return pintarCasos();
   if (vista === "caso") return pintarCaso(+estado.caso);
   if (vista === "config") return pintarConfig();
+  if (vista === "lineas") return pintarLineas();   // lineas.js
+  if (vista === "linea") return pintarLinea(+estado.linea);
 }
 
 async function cargarEstadoIA() {
@@ -617,7 +620,7 @@ $("#btn-usuario").onclick = async () => {
 };
 $$(".menu [data-vista]").forEach(a => a.onclick = ev => {
   ev.preventDefault();
-  navegar({ vista: a.dataset.vista, caso: "", ver: "" });
+  navegar({ vista: a.dataset.vista, caso: "", linea: "", ver: "" });
 });
 pintarUsuario();
 

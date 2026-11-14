@@ -31,7 +31,9 @@ def _fecha(s: dict) -> str:
 def _tema_breve(linea: dict) -> str:
     plan = linea["planteamiento"]
     base = plan.get("subtema") or plan.get("tema") or linea["titulo"]
-    palabras = re.findall(r"\w+", base.lower())[:6]
+    import unicodedata
+    sin_tildes = "".join(c for c in unicodedata.normalize("NFD", base.lower()) if unicodedata.category(c) != "Mn")
+    palabras = re.findall(r"[a-z0-9]+", sin_tildes)[:6]
     return "-".join(palabras) or f"linea-{linea['id']}"
 
 
