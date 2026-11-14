@@ -327,3 +327,16 @@ def ficha(pid: int) -> dict | None:
         "radicacion FROM providencias WHERE id = ?", (pid,)
     ).fetchone()
     return dict(fila) if fila else None
+
+
+def anos(ids: list[int]) -> dict[int, int | None]:
+    """Año de cada sentencia (para dar prioridad a las recientes)."""
+    if not ids:
+        return {}
+    salida: dict[int, int | None] = {}
+    conn = conexion()
+    for i in range(0, len(ids), 500):
+        parte = ids[i : i + 500]
+        for f in conn.execute(f"SELECT id, ano FROM providencias WHERE id IN ({','.join('?' * len(parte))})", parte):
+            salida[f[0]] = f[1]
+    return salida

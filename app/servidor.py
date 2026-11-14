@@ -140,6 +140,8 @@ class DatosCaso(BaseModel):
     desde: int | None = None
     hasta: int | None = None
     archivado: int | None = None
+    posicion: str | None = None
+    recientes: int | None = None
 
 
 class Analizar(BaseModel):

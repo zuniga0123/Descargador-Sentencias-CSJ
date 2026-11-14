@@ -93,8 +93,29 @@ def conexion() -> sqlite3.Connection:
         conn.execute("PRAGMA journal_mode = WAL")
         with _bloqueo:
             conn.executescript(ESQUEMA)
+            _migrar(conn)
         _local.conn = conn
     return conn
+
+
+# Columnas agregadas después de la primera versión (bases ya creadas).
+COLUMNAS_NUEVAS = {
+    "posicion": "TEXT NOT NULL DEFAULT 'neutral'",   # trabajador | empleador | neutral
+    "recientes": "INTEGER NOT NULL DEFAULT 1",       # preferir sentencias recientes
+}
+
+
+def _migrar(conn: sqlite3.Connection) -> None:
+    existentes = {f[1] for f in conn.execute("PRAGMA table_info(casos)")}
+    for nombre, definicion in COLUMNAS_NUEVAS.items():
+        if nombre not in existentes:
+            conn.execute(f"ALTER TABLE casos ADD COLUMN {nombre} {definicion}")
+    conn.commit()
+
+
+POSICIONES = {"trabajador": "la parte trabajadora (demandante o accionante)",
+              "empleador": "la parte empleadora (demandada o accionada)",
+              "neutral": "ninguna parte: análisis neutral (juez, estudio o docencia)"}
 
 
 def _escribir(sql: str, params: tuple | list = ()) -> sqlite3.Cursor:
@@ -135,7 +156,7 @@ def usuario(uid: int) -> dict | None:
 
 # ---------- Casos ----------
 
-CAMPOS_CASO = ("titulo", "descripcion", "pretensiones", "cortes", "desde", "hasta", "archivado")
+CAMPOS_CASO = ("titulo", "descripcion", "pretensiones", "cortes", "desde", "hasta", "archivado", "posicion", "recientes")
 
 
 def listar_casos(usuario_id: int, archivados: bool = False) -> list[dict]:
@@ -158,11 +179,13 @@ def crear_caso(usuario_id: int, datos: dict) -> dict:
     titulo = (datos.get("titulo") or "").strip()[:200] or "Caso sin título"
     momento = ahora()
     cur = _escribir(
-        "INSERT INTO casos (usuario_id, titulo, descripcion, pretensiones, cortes, desde, hasta, creado, actualizado) "
-        "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
+        "INSERT INTO casos (usuario_id, titulo, descripcion, pretensiones, cortes, desde, hasta, posicion, recientes, "
+        "creado, actualizado) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
         (
             usuario_id, titulo, datos.get("descripcion") or "", datos.get("pretensiones") or "",
-            json.dumps(datos.get("cortes") or []), datos.get("desde"), datos.get("hasta"), momento, momento,
+            json.dumps(datos.get("cortes") or []), datos.get("desde"), datos.get("hasta"),
+            datos.get("posicion") if datos.get("posicion") in POSICIONES else "neutral",
+            0 if datos.get("recientes") in (0, False) else 1, momento, momento,
         ),
     )
     registrar(cur.lastrowid, usuario_id, "Creó el caso", titulo)
@@ -178,10 +201,15 @@ def actualizar_caso(caso_id: int, usuario_id: int, datos: dict) -> dict:
         return actual
     if "cortes" in cambios:
         cambios["cortes"] = json.dumps(cambios["cortes"] or [])
+    if "posicion" in cambios and cambios["posicion"] not in POSICIONES:
+        cambios.pop("posicion")
+    if "recientes" in cambios:
+        cambios["recientes"] = 1 if cambios["recientes"] else 0
     columnas = ", ".join(f"{k} = ?" for k in cambios)
     _escribir(f"UPDATE casos SET {columnas}, actualizado = ? WHERE id = ?", [*cambios.values(), ahora(), caso_id])
     nombres = {"titulo": "título", "descripcion": "hechos", "pretensiones": "lo que se discute", "cortes": "cortes",
-               "desde": "años", "hasta": "años", "archivado": "archivo"}
+               "desde": "años", "hasta": "años", "archivado": "archivo", "posicion": "parte representada",
+               "recientes": "preferencia por sentencias recientes"}
     if "archivado" in cambios:
         registrar(caso_id, usuario_id, "Archivó el caso" if cambios["archivado"] else "Reabrió el caso")
     otros = sorted({nombres[k] for k in cambios if k != "archivado"})

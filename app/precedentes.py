@@ -1,20 +1,26 @@
-"""Buscador de precedentes para un caso.
+"""Buscador de precedentes y análisis de un caso (versión 2).
 
 Con DeepSeek configurado:
-  1. Planteamiento: la IA lee el caso y devuelve el problema jurídico, el
-     asunto de fondo, los hechos determinantes y varias consultas de búsqueda.
-  2. Candidatas: cada consulta se corre en la base local y se combinan los
-     resultados (fusión por posición). Se descartan las que la persona ya
-     marcó como "no sirve" en este caso.
-  3. Extractos: de cada candidata se toman los antecedentes, los pasajes que
-     más se parecen al caso y la decisión (unos 2.400 caracteres; nunca la
-     sentencia completa).
-  4. Evaluación: la IA califica cada candidata por similitud de hechos y por
-     si resuelve el mismo asunto de fondo, y explica por qué.
-  5. Síntesis: un párrafo con la posición de la jurisprudencia, con citas.
+  1. Planteamiento: la IA lee el caso y devuelve el problema jurídico, los
+     hechos determinantes y las CUESTIONES (temas jurídicos) que el caso debe
+     resolver, cada una con sus consultas de búsqueda.
+  2. Candidatas: por cada cuestión y por cada corte se corren las consultas
+     en la base local, con cupos separados por corte (para que las tutelas no
+     desplacen a la Sala Laboral) y, si se pide, prioridad a las recientes.
+  3. Fichas neutras (app/fichas.py): la IA lee cada candidata SIN conocer el
+     caso: hechos, resultado, si decide el fondo y reglas con citas literales
+     que se verifican contra el texto.
+  4. Comparación: con las fichas (no con el texto crudo) la IA compara hecho
+     por hecho con el caso, sin poder cambiar el resultado ni las reglas.
+     La similitud de hechos la calcula la app a partir de esa tabla.
+  5. Por cuestión: qué dicen los precedentes, argumentos para la parte
+     representada, objeciones, puntos por verificar y vacíos.
+  6. Revisión crítica: otra pasada busca argumentos que perjudiquen a la
+     propia parte o que atribuyan a una sentencia algo que no dice.
+  Las citas a radicados que no están entre las revisadas se marcan.
 
-Sin IA se hace una versión local: palabras clave del caso -> búsqueda ->
-orden por coincidencia, sin explicaciones.
+Sin IA: palabras clave del caso -> búsqueda con los mismos cupos -> orden por
+coincidencia, sin explicaciones.
 """
 
 from __future__ import annotations
@@ -22,17 +28,22 @@ from __future__ import annotations
 import math
 import re
 import threading
+import time
 import traceback
 import unicodedata
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-from . import busqueda, casos, ia
-from .texto import marcar_secciones, reflujo_pdf
+from . import busqueda, casos, fichas, ia
 
-LOTE = 8                 # candidatas por llamada de evaluación
-HILOS = 3                # llamadas simultáneas a DeepSeek
+VERSION = 2
+HILOS = 6
+LOTE_COMPARACION = 5
 CANDIDATAS = {"normal": 40, "amplia": 80}
-UMBRAL_PRECEDENTE = 40   # puntaje mínimo para mostrarla como precedente
+POR_CONSULTA = 30          # resultados que se piden a cada consulta
+UMBRAL_PRECEDENTE = 40     # pertinencia mínima para mostrarla como precedente
+MAX_POR_CUESTION = 8       # precedentes que se le dan a la IA por cuestión
+ANO_ACTUAL = time.localtime().tm_year
+NOMBRES_CORTE = {"csj": "Corte Suprema de Justicia, Sala Laboral", "cc": "Corte Constitucional"}
 
 _STOP = set("""
 a al algo algun alguna algunas alguno algunos ante antes aquel aquella aquellas aquellos aqui asi aun aunque bajo bien
@@ -42,16 +53,13 @@ las le les lo los mas me mi mientras mismo mucho muy nada ni no nos nuestra nues
 poco por porque que quien quienes se sea segun ser si sido sin sobre solo su sus tal tambien tan tanto te tiene tienen
 todo todos tras tu un una unas uno unos usted ya yo dicho dicha dichos dichas cuya cuyo debe deben puede pueden hace
 hizo tuvo tenia caso senor senora senores cliente mi mis quiero quiere solicita solicito pide pidio afirma indica
-manifiesta ahora luego despues durante anos ano meses mes dias dia vez veces parte partes
+manifiesta ahora luego despues durante anos ano meses mes dias dia vez veces parte partes pagando dejados
 """.split())
 
 
 def _plano(texto: str) -> str:
-    sin = "".join(c for c in unicodedata.normalize("NFD", texto.lower()) if unicodedata.category(c) != "Mn")
-    return sin
+    return "".join(c for c in unicodedata.normalize("NFD", texto.lower()) if unicodedata.category(c) != "Mn")
 
-
-# ---------- Utilidades de texto ----------
 
 def palabras_clave(texto: str, maximo: int = 14) -> list[str]:
     """Términos del caso más distintivos frente a la colección (tf-idf)."""
@@ -72,178 +80,14 @@ def palabras_clave(texto: str, maximo: int = 14) -> list[str]:
     return sorted(puntajes, key=puntajes.get, reverse=True)[:maximo]
 
 
-def _bloques(texto: str, corte_clave: str) -> list[str]:
-    if corte_clave == "csj":
-        texto = reflujo_pdf(texto)
-    return [b.strip() for b in marcar_secciones(texto).split("\n\n") if b.strip()]
+def factor_reciente(ano: int | None) -> float:
+    """1 para este año, 0,5 a los 10 años, 0,25 a los 20."""
+    if not ano:
+        return 0.5
+    return 0.5 ** (max(0, ANO_ACTUAL - ano) / 10)
 
 
-def _limpio(bloque: str) -> str:
-    bloque = re.sub(r"[#*_>|`]+", " ", bloque)
-    return re.sub(r"\s+", " ", bloque).strip()
-
-
-def _tomar(bloques: list[str], desde: int, maximo: int) -> tuple[str, set[int]]:
-    salida, usados = [], set()
-    total = 0
-    for i in range(desde, len(bloques)):
-        if bloques[i].startswith("#"):
-            if salida:
-                break
-            continue
-        trozo = _limpio(bloques[i])
-        salida.append(trozo)
-        usados.add(i)
-        total += len(trozo)
-        if total >= maximo:
-            break
-    return " ".join(salida)[:maximo], usados
-
-
-_RE_HECHOS = re.compile(r"ANTECEDENTES|HECHOS|LA DEMANDA|S[IÍ]NTESIS|ASUNTO", re.I)
-_RE_DECISION = re.compile(r"RESUELVE|DECISI[OÓ]N|DECIDE|FALLA", re.I)
-
-
-def extracto(pid: int, terminos: list[str]) -> dict:
-    """Lo esencial de una sentencia para que la IA la compare con el caso."""
-    texto = busqueda.leer_texto(pid)
-    datos = busqueda.ficha(pid) or {}
-    bloques = _bloques(texto, datos.get("corte_clave", ""))
-    titulos = [(i, b) for i, b in enumerate(bloques) if b.startswith("#")]
-
-    inicio_hechos = next((i + 1 for i, b in titulos if _RE_HECHOS.search(b)), min(3, len(bloques)))
-    hechos, usados = _tomar(bloques, inicio_hechos, 900)
-
-    decision = ""
-    for i, b in reversed(titulos):
-        if _RE_DECISION.search(b):
-            decision, u = _tomar(bloques, i + 1, 600)
-            usados |= u
-            break
-    if not decision:
-        plano = _limpio(texto)
-        m = list(re.finditer(r"RESUELVE|NO CASA|CASA LA SENTENCIA|DECIDE", plano))
-        if m:
-            decision = plano[m[-1].start() : m[-1].start() + 600]
-
-    patron = [t for t in terminos if len(t) >= 4]
-    puntuados = []
-    for i, b in enumerate(bloques):
-        if i in usados or b.startswith("#") or len(b) < 200:
-            continue
-        plano = _plano(b)
-        coincide = sum(1 for t in patron if t in plano)
-        if coincide:
-            puntuados.append((coincide, i))
-    puntuados.sort(reverse=True)
-    pasajes = [busqueda.fragmento(_limpio(bloques[i]), patron, 480) for _, i in puntuados[:3]]
-
-    return {
-        "hechos": hechos,
-        "pasajes": pasajes,
-        "decision": decision,
-        "resumen": (datos.get("resumen") or "")[:400],
-    }
-
-
-def _ficha_texto(ref: str, f: dict, e: dict) -> str:
-    cabeza = f"[{ref}] {f['corte']} · {f.get('sala') or ''} · {f.get('tipo')} {f['radicado']} ({f.get('fecha') or f.get('ano')})"
-    partes = [cabeza]
-    if f.get("tema") and not str(f["tema"]).startswith("Otros"):
-        partes.append(f"Tema: {f['tema']} / {f.get('subtema') or ''}")
-    if e["resumen"]:
-        partes.append(f"Síntesis de relatoría: {e['resumen']}")
-    if e["hechos"]:
-        partes.append(f"Antecedentes: {e['hechos']}")
-    for p in e["pasajes"]:
-        partes.append(f"Pasaje: {p}")
-    if e["decision"]:
-        partes.append(f"Decisión: {e['decision']}")
-    return "\n".join(partes)
-
-
-# ---------- Prompts ----------
-
-SISTEMA = (
-    "Eres un abogado colombiano experto en jurisprudencia laboral y constitucional "
-    "(Corte Suprema de Justicia, Sala de Casación Laboral y Sala de Descongestión Laboral; "
-    "Corte Constitucional). Respondes únicamente con un objeto JSON válido, en español."
-)
-
-
-def _texto_caso(caso: dict) -> str:
-    partes = [f"Título: {caso['titulo']}", f"Hechos y particularidades:\n{caso['descripcion'].strip()}"]
-    if caso.get("pretensiones", "").strip():
-        partes.append(f"Lo que se pide o se discute:\n{caso['pretensiones'].strip()}")
-    return "\n\n".join(partes)
-
-
-def _prompt_planteamiento(caso: dict) -> str:
-    return f"""Prepara la búsqueda de precedentes judiciales para este caso.
-
-{_texto_caso(caso)}
-
-Devuelve este JSON:
-{{
-  "problema_juridico": "la pregunta jurídica central, en una o dos frases",
-  "asunto_de_fondo": "lo que un juez debe decidir de fondo",
-  "hechos_relevantes": ["3 a 8 hechos determinantes, en abstracto, sin nombres propios"],
-  "normas": ["normas probablemente aplicables"],
-  "terminos_clave": ["10 a 20 palabras o expresiones jurídicas que usaría una sentencia análoga"],
-  "consultas": [{{"consulta": "...", "proposito": "qué busca esta consulta"}}]
-}}
-
-Reglas para "consultas" (5 a 8), que se correrán en un buscador de texto completo:
-- Todas las palabras sueltas deben aparecer en la sentencia; "frase exacta" entre comillas; O entre alternativas (p. ej. "fuero de maternidad" O "estado de embarazo"); prefijo con * (p. ej. reintegr*).
-- Cada consulta con 2 a 5 elementos. Usa las expresiones técnicas como las redactan las cortes.
-- Mezcla consultas estrechas (hechos muy particulares del caso) y amplias (el asunto de fondo).
-- Sin nombres de personas, empresas, ciudades ni fechas."""
-
-
-def _prompt_evaluacion(caso: dict, plan: dict, fichas: list[str]) -> str:
-    hechos = "\n".join(f"- {h}" for h in plan.get("hechos_relevantes") or [])
-    return f"""CASO
-{_texto_caso(caso)}
-
-Problema jurídico: {plan.get('problema_juridico') or '-'}
-Asunto de fondo: {plan.get('asunto_de_fondo') or '-'}
-Hechos determinantes:
-{hechos or '-'}
-
-SENTENCIAS CANDIDATAS (extractos)
-{chr(10).join(fichas)}
-
-Evalúa cada candidata como posible precedente del caso, solo con base en su extracto:
-1. similitud_hechos (0 a 10): ¿sus antecedentes se parecen a los hechos determinantes del caso?
-2. resuelve_fondo (true/false): ¿decide el mismo asunto de fondo? Es false si solo lo menciona, si se decide por razones formales o procesales (improcedencia, técnica de casación, caducidad, hecho superado) o si trata otro problema.
-3. puntaje (0 a 100): 80-100 precedente muy análogo que resuelve el fondo; 60-79 resuelve el fondo con hechos parcialmente distintos; 40-59 útil como referencia; menos de 40 no es precedente. Sé exigente.
-4. sentido frente a lo que se pide en el caso: "favorable", "desfavorable", "mixto" o "no_aplica".
-
-Devuelve este JSON, con una entrada por cada candidata y usando su referencia [S…]:
-{{"evaluaciones": [{{"ref": "S1", "similitud_hechos": 0, "resuelve_fondo": false, "puntaje": 0, "sentido": "no_aplica",
-  "decision": "qué decidió la corte, máximo 25 palabras",
-  "regla": "la regla o razón de la decisión aplicable al caso, máximo 45 palabras; vacío si no hay",
-  "por_que": "semejanzas y diferencias con el caso, máximo 45 palabras"}}]}}"""
-
-
-def _prompt_sintesis(caso: dict, plan: dict, mejores: list[dict]) -> str:
-    lineas = "\n".join(
-        f"- [{r['radicado']}] {r['corte']} {r.get('ano')}: puntaje {r['puntaje']}, sentido {r['sentido']}. "
-        f"Decisión: {r['decision']} Regla: {r['regla']}"
-        for r in mejores
-    )
-    return f"""Problema jurídico del caso: {plan.get('problema_juridico') or caso['titulo']}
-Lo que se pide: {caso.get('pretensiones') or '-'}
-
-Precedentes encontrados (ya evaluados):
-{lineas}
-
-Devuelve este JSON:
-{{"sintesis": "120 a 220 palabras: qué posición tiene la jurisprudencia sobre el asunto de fondo, qué reglas aplican al caso, si hay posturas favorables y desfavorables o diferencias entre cortes. Cita cada afirmación con el radicado entre corchetes, p. ej. [SL1234-2020]. No inventes sentencias que no estén en la lista.",
-  "advertencias": ["0 a 3 advertencias útiles (p. ej. pocos precedentes de una corte, hechos del caso que conviene precisar)"]}}"""
-
-
-# ---------- Ejecución ----------
+# ---------- Utilidades de ejecución ----------
 
 class _Uso:
     def __init__(self) -> None:
@@ -264,30 +108,9 @@ def _avance(aid: int, paso: str, progreso: int, uso: _Uso | None = None) -> None
     casos.actualizar_analisis(aid, **campos)
 
 
-def _fusionar(listas: list[list[int]], excluir: set[int], limite: int) -> list[tuple[int, float]]:
-    puntaje: dict[int, float] = {}
-    for lista in listas:
-        for pos, pid in enumerate(lista):
-            if pid not in excluir:
-                puntaje[pid] = puntaje.get(pid, 0) + 1 / (60 + pos)
-    return sorted(puntaje.items(), key=lambda x: -x[1])[:limite]
-
-
 def _base_resultado(f: dict) -> dict:
-    return {k: f.get(k) for k in ("corte", "corte_clave", "sala", "tipo", "radicado", "ano", "fecha", "ponente", "tema", "subtema", "radicacion")}
-
-
-def _correr_consultas(consultas: list[str], caso: dict, limite: int) -> list[list[int]]:
-    listas = []
-    for c in consultas:
-        fts = busqueda.a_consulta_fts(c)
-        if not fts:
-            continue
-        try:
-            listas.append(busqueda.candidatos(fts, caso.get("cortes"), caso.get("desde"), caso.get("hasta"), limite))
-        except Exception:  # consulta inválida para FTS: se omite
-            continue
-    return listas
+    return {k: f.get(k) for k in ("corte", "corte_clave", "sala", "tipo", "radicado", "ano", "fecha", "ponente",
+                                  "tema", "subtema", "radicacion")}
 
 
 def _excluidas(caso_id: int) -> set[int]:
@@ -299,130 +122,505 @@ def _excluidas(caso_id: int) -> set[int]:
     return ids
 
 
+def _cortes(caso: dict) -> list[str]:
+    return caso.get("cortes") or ["csj", "cc"]
+
+
+def _lista_por_corte(consultas: list[str], corte: str, caso: dict, excluir: set[int]) -> list[int]:
+    """Fusiona varias consultas en una sola lista ordenada para una corte."""
+    puntaje: dict[int, float] = {}
+    for c in consultas:
+        fts = busqueda.a_consulta_fts(c)
+        if not fts:
+            continue
+        try:
+            ids = busqueda.candidatos(fts, [corte], caso.get("desde"), caso.get("hasta"), POR_CONSULTA)
+        except Exception:  # consulta inválida para FTS: se omite
+            continue
+        for pos, pid in enumerate(ids):
+            if pid not in excluir:
+                puntaje[pid] = puntaje.get(pid, 0) + 1 / (60 + pos)
+    if caso.get("recientes", 1):
+        anos = busqueda.anos(list(puntaje))
+        for pid in puntaje:
+            puntaje[pid] *= 0.55 + 0.45 * factor_reciente(anos.get(pid))
+    return sorted(puntaje, key=puntaje.get, reverse=True)
+
+
+def reunir_candidatas(grupos: dict[str, list[str]], caso: dict, limite: int) -> tuple[list[int], dict[int, list[str]]]:
+    """grupos: {cuestión: [consultas]}. Reparte cupos por cuestión y por corte
+    (ronda por turnos) y devuelve (ids, cuestiones que recuperaron cada id)."""
+    excluir = _excluidas(caso["id"])
+    listas = {(g, corte): _lista_por_corte(consultas, corte, caso, excluir)
+              for g, consultas in grupos.items() for corte in _cortes(caso)}
+    elegidas: list[int] = []
+    origen: dict[int, list[str]] = {}
+    posicion = 0
+    while len(elegidas) < limite and any(posicion < len(l) for l in listas.values()):
+        for (g, _), lista in listas.items():
+            if posicion < len(lista):
+                pid = lista[posicion]
+                if pid not in origen:
+                    if len(elegidas) >= limite:
+                        continue
+                    elegidas.append(pid)
+                    origen[pid] = []
+                if g not in origen[pid]:
+                    origen[pid].append(g)
+        posicion += 1
+    # Una sentencia recuperada por varias cuestiones se anota en todas.
+    for (g, _), lista in listas.items():
+        for pid in lista[:POR_CONSULTA]:
+            if pid in origen and g not in origen[pid]:
+                origen[pid].append(g)
+    return elegidas, origen
+
+
+# ---------- Modo sin IA ----------
+
 def analizar_local(aid: int, caso: dict, amplitud: str) -> None:
     _avance(aid, "Buscando palabras clave del caso", 10)
     texto = f"{caso['titulo']} {caso['descripcion']} {caso.get('pretensiones', '')}"
     claves = palabras_clave(texto)
     if not claves:
         raise ia.ErrorIA("Describe el caso con más detalle: no se encontraron palabras para buscar.")
-    consulta = " O ".join(claves)
-    casos.actualizar_analisis(aid, planteamiento={"terminos_clave": claves, "consultas": [{"consulta": consulta, "proposito": "palabras más distintivas del caso"}]})
+    consultas = [" O ".join(claves), " ".join(claves[:4])]
+    casos.actualizar_analisis(aid, planteamiento={
+        "version": VERSION, "terminos_clave": claves,
+        "consultas": [{"consulta": consultas[0], "proposito": "palabras más distintivas del caso"}]})
     _avance(aid, "Buscando sentencias", 40)
-    listas = _correr_consultas([consulta, " ".join(claves[:4])], caso, 80)
-    fusion = _fusionar(listas, _excluidas(caso["id"]), CANDIDATAS[amplitud] // 2)
-    maximo = fusion[0][1] if fusion else 1
+    ids, _ = reunir_candidatas({"general": consultas}, caso, CANDIDATAS[amplitud] // 2)
     resultados = []
-    for pid, valor in fusion:
+    total = len(ids)
+    for pos, pid in enumerate(ids):
         f = busqueda.ficha(pid)
-        plano = _plano(busqueda.leer_texto(pid))
+        texto_s = busqueda.leer_texto(pid)
+        plano = _plano(texto_s)
         presentes = [c for c in claves if c in plano]
         resultados.append({
             **_base_resultado(f),
-            "puntaje": round(100 * valor / maximo),
+            "puntaje": round(100 * (1 - pos / max(total, 1))),
             "por_que": "Coincide en: " + ", ".join(presentes[:10]),
-            "fragmento": busqueda.fragmento(busqueda.leer_texto(pid), claves[:6], 360),
+            "fragmento": busqueda.fragmento(texto_s, claves[:6], 360),
         })
     casos.actualizar_analisis(aid, resultados=resultados, estado="listo", paso="Listo", progreso=100)
 
 
+# ---------- Prompts con IA ----------
+
+SISTEMA = (
+    "Eres un abogado colombiano experto en derecho laboral, seguridad social y derecho constitucional, y conoces la "
+    "jurisprudencia de la Corte Suprema de Justicia (Sala de Casación Laboral y Sala de Descongestión Laboral) y de "
+    "la Corte Constitucional. Eres riguroso: no atribuyes a una sentencia lo que no dice. Respondes únicamente con "
+    "un objeto JSON válido, en español."
+)
+
+
+def _texto_caso(caso: dict) -> str:
+    partes = [f"Título: {caso['titulo']}", f"Hechos y particularidades:\n{caso['descripcion'].strip()}"]
+    if caso.get("pretensiones", "").strip():
+        partes.append(f"Lo que se pide o se discute:\n{caso['pretensiones'].strip()}")
+    partes.append(f"Parte representada: {casos.POSICIONES.get(caso.get('posicion') or 'neutral')}")
+    return "\n\n".join(partes)
+
+
+def _prompt_planteamiento(caso: dict) -> str:
+    return f"""Analiza este caso y prepara la búsqueda de precedentes.
+
+{_texto_caso(caso)}
+
+Devuelve este JSON:
+{{
+  "problema_juridico": "la pregunta jurídica central, en una o dos frases",
+  "hechos_relevantes": ["3 a 8 hechos determinantes, concretos, sin nombres propios"],
+  "hechos_por_precisar": ["0 a 5 datos que faltan en la descripción y pueden cambiar el análisis (p. ej., régimen del trabajador, fechas exactas)"],
+  "cuestiones": [
+    {{"id": "C1", "cuestion": "una pregunta jurídica concreta que el juez debe resolver en este caso",
+      "por_que": "qué hechos del caso la hacen relevante",
+      "consultas": [{{"consulta": "...", "proposito": "..."}}]}}
+  ],
+  "terminos_clave": ["10 a 20 expresiones jurídicas que usaría una sentencia análoga"]
+}}
+
+Sobre "cuestiones" (2 a 6, de la más determinante a la menos):
+- Incluye las previas o procesales que pueden decidir el caso (prescripción o caducidad, procedencia, legitimación, competencia, carga de la prueba) y las de fondo.
+- Si hay hechos cuya calificación jurídica es discutible (p. ej., si una comunicación ya era un despido), plantéalo como cuestión.
+
+Sobre "consultas" (2 a 4 por cuestión), que se corren en un buscador de texto completo:
+- Todas las palabras sueltas deben aparecer; "frase exacta" entre comillas; O entre alternativas; prefijo con * (p. ej., reintegr*).
+- 2 a 5 elementos por consulta, con las expresiones técnicas como las redactan las cortes (la Sala Laboral y la Corte Constitucional usan vocabularios distintos: cubre ambos).
+- Una consulta estrecha (hechos particulares) y una amplia (la regla). Sin nombres, ciudades ni fechas."""
+
+
+def _texto_ficha(ref: str, f: dict, ficha: dict) -> str:
+    r = ficha["resultado"]
+    lineas = [f"[{ref}] {NOMBRES_CORTE.get(f['corte_clave'], f['corte'])} · {f.get('sala') or ''} · "
+              f"{f.get('tipo') or ''} {f['radicado']} ({f.get('ano')})"]
+    if ficha["hechos"]:
+        lineas.append("Hechos: " + " | ".join(ficha["hechos"]))
+    if ficha["problema_juridico"]:
+        lineas.append(f"Problema jurídico: {ficha['problema_juridico']}")
+    lineas.append(f"Resultado: {r['tipo']} — {r['efecto']} (favoreció a: {r['favorece_a']})")
+    if not ficha["decide_fondo"]:
+        lineas.append(f"NO decide el fondo: {ficha['motivo_si_no_decide_fondo']}")
+    for n, regla in enumerate(ficha["reglas"], 1):
+        marca = "cita verificada" if regla["verificada"] else "cita NO verificada"
+        lineas.append(f"Regla {n} ({regla['papel']}; {marca}): {regla['regla']}")
+    return "\n".join(lineas)
+
+
+def _prompt_comparacion(caso: dict, plan: dict, bloques: list[str]) -> str:
+    hechos = "\n".join(f"H{i}. {h}" for i, h in enumerate(plan["hechos_relevantes"], 1))
+    cuestiones = "\n".join(f"{c['id']}. {c['cuestion']}" for c in plan["cuestiones"])
+    return f"""CASO
+{_texto_caso(caso)}
+
+Hechos determinantes del caso:
+{hechos}
+
+Cuestiones del caso:
+{cuestiones}
+
+FICHAS DE SENTENCIAS (las elaboró un relator sin conocer el caso; NO las modifiques)
+{chr(10).join(bloques)}
+
+Compara cada sentencia con el caso. Devuelve este JSON, con una entrada por cada ficha:
+{{"comparaciones": [{{
+  "ref": "S1",
+  "cuestiones": ["C1"],
+  "hechos": [{{"h": "H1", "relacion": "coincide | difiere | no_consta", "detalle": "máximo 20 palabras"}}],
+  "analogias": "hechos de la sentencia especialmente parecidos al caso que conviene destacar, aunque no estén en la lista (máximo 40 palabras; vacío si no hay)",
+  "diferencias": "diferencias que pueden impedir aplicarla (máximo 40 palabras)",
+  "utilidad": "a_favor | en_contra | mixta | ninguna",
+  "explicacion_utilidad": "por qué, a partir del resultado y de las reglas de la ficha (máximo 45 palabras)",
+  "pertinencia": 0
+}}]}}
+
+Reglas:
+- Evalúa TODOS los hechos determinantes (H1, H2…) en cada sentencia.
+- No cambies el resultado ni las reglas de la ficha. Si la ficha dice que se negó, no digas que se concedió.
+- "cuestiones": solo las cuestiones del caso que la sentencia DECIDE con una regla de papel "ratio"; no las que solo menciona. Lista vacía si ninguna.
+- "utilidad" es para la parte representada. Si la posición es neutral, usa "mixta" o "ninguna" y explica a quién sirve. Una sentencia con hechos análogos que favoreció a la contraparte suele ser "en_contra", salvo que su regla, aplicada a los hechos del caso, lleve a lo contrario; explícalo.
+- Si la sentencia no decide el fondo, pertinencia máxima 40, salvo que su motivo sea en sí una cuestión del caso.
+- "pertinencia": 80-100 hechos análogos y ratio sobre una cuestión del caso; 60-79 ratio sobre una cuestión con hechos distintos; 40-59 solo reitera la regla o es referencia útil; menos de 40 no sirve. Una regla de papel "reiteracion" u "obiter" no justifica más de 59."""
+
+
+def _prompt_cuestion(caso: dict, plan: dict, cuestion: dict, precedentes: list[dict]) -> str:
+    bloques = []
+    for p in precedentes:
+        fi, comp = p["ficha"], p["comparacion"]
+        reglas = "\n".join(
+            f"   - ({r['papel']}{'' if r['verificada'] else ', cita no verificada'}) {r['regla']}"
+            + (f"\n     Texto: «{r['cita'][:400]}»" if r["verificada"] and r["cita"] else "")
+            for r in fi["reglas"])
+        bloques.append(
+            f"[{p['radicado']}] {NOMBRES_CORTE.get(p['corte_clave'])}, {p.get('sala') or ''}, {p.get('ano')}. "
+            f"Resultado: {fi['resultado']['efecto']} (favoreció a: {fi['resultado']['favorece_a']})."
+            f"{'' if fi['decide_fondo'] else ' NO decidió el fondo: ' + fi['motivo_si_no_decide_fondo']}\n"
+            f"   Reglas:\n{reglas}\n"
+            f"   Frente al caso: {comp.get('analogias') or ''} Diferencias: {comp.get('diferencias') or '—'} "
+            f"Utilidad: {comp.get('utilidad')} — {comp.get('explicacion_utilidad') or ''}")
+    recientes = ("- Funda los argumentos preferiblemente en las sentencias más recientes. Si solo hay sentencias antiguas "
+                 "(más de 10 años), adviértelo; si una más reciente dice algo distinto que una antigua, señala que la "
+                 "reciente refleja la postura actual.\n") if caso.get("recientes", 1) else ""
+    neutral = (caso.get("posicion") or "neutral") == "neutral"
+    return f"""CASO
+{_texto_caso(caso)}
+
+Hechos determinantes: {' | '.join(plan['hechos_relevantes'])}
+
+CUESTIÓN {cuestion['id']}: {cuestion['cuestion']}
+Por qué importa: {cuestion.get('por_que') or '—'}
+
+PRECEDENTES SOBRE ESTA CUESTIÓN (son los únicos que puedes citar):
+{chr(10).join(bloques) if bloques else '(ninguno en la base)'}
+
+Devuelve este JSON:
+{{
+  "estado": "qué han decidido estos precedentes sobre la cuestión, 60 a 160 palabras. Solo reporta lo que dicen sus reglas y resultados; cada afirmación con su radicado entre corchetes, p. ej. [SL1234-2020]. Distingue posturas distintas.",
+  "argumentos": [{{"tesis": "el argumento en una frase", "desarrollo": "cómo construirlo con los hechos del caso (máximo 90 palabras)", "apoyo": ["radicados de la lista"], "objecion": "la objeción previsible y cómo responderla (máximo 60 palabras)"}}],
+  "contraparte": [{{"tesis": "argumento previsible de la otra parte", "apoyo": ["radicados de la lista"]}}],
+  "por_verificar": ["hechos, pruebas o cálculos (p. ej., términos con las fechas del expediente) de los que depende la cuestión"],
+  "vacios": "qué no cubren estos precedentes; vacío si nada"
+}}
+
+Reglas:
+- {"La posición es neutral: en 'argumentos' presenta los de la parte trabajadora y en 'contraparte' los de la empleadora." if neutral else "Los 'argumentos' (1 a 4) deben favorecer a la parte representada."}
+- Antes de proponer un argumento, comprueba que su conclusión no perjudica la pretensión o la defensa de esa parte, ni contradice otro argumento. Si una lectura de los hechos ayuda en esta cuestión pero perjudica en otra, dilo en "objecion".
+- Cita solo radicados de la lista y solo para lo que dicen sus reglas o resultados. No atribuyas a una sentencia una regla que no aparece en su ficha. Una regla de papel "reiteracion" se cita como reiteración, no como lo decidido.
+- Si ningún precedente apoya un argumento, deja "apoyo" vacío y escribe en el desarrollo "(sin precedente en la base)".
+- No hagas cómputos de términos ni des por probado lo que no está en la descripción del caso: ponlo en "por_verificar".
+{recientes}- Si no hay precedentes, "estado" debe decir "No se encontraron precedentes sobre esta cuestión en la base"."""
+
+
+def _prompt_revision(caso: dict, plan: dict, cuestiones: list[dict], reglas_por_rad: dict[str, list[str]]) -> str:
+    partes = []
+    for c in cuestiones:
+        a = c.get("analisis") or {}
+        args = "\n".join(f"  A{i}. {x['tesis']} — {x['desarrollo']} Apoyo: {', '.join(x['apoyo']) or 'ninguno'}"
+                         for i, x in enumerate(a.get("argumentos") or [], 1))
+        partes.append(f"{c['id']}. {c['cuestion']}\n{args or '  (sin argumentos)'}")
+    reglas = "\n".join(f"[{rad}] " + " / ".join(r) for rad, r in reglas_por_rad.items())
+    return f"""Revisa, como abogado litigante experimentado, los argumentos preparados para este caso.
+
+{_texto_caso(caso)}
+
+ARGUMENTOS POR CUESTIÓN
+{chr(10).join(partes)}
+
+LO QUE REALMENTE DICEN LOS PRECEDENTES CITADOS (reglas de sus fichas)
+{reglas or '(ninguno)'}
+
+Busca solo problemas reales:
+(a) un argumento cuya conclusión perjudica a la parte representada o contradice otro argumento (p. ej., una lectura de los hechos que ayuda en una cuestión pero hace caer la pretensión en otra);
+(b) un argumento que atribuye a un precedente algo que sus reglas no dicen;
+(c) un argumento que da por probado algo que no está en los hechos.
+
+Devuelve este JSON:
+{{"revision": [{{"cuestion": "C1", "argumento": 1, "tipo": "contradiccion | cita_indebida | hecho_no_probado", "problema": "explicación breve", "gravedad": "alta | media | baja"}}],
+  "observaciones_generales": ["0 a 3 observaciones sobre la estrategia del caso en conjunto"]}}
+Si no hay problemas, "revision" es una lista vacía."""
+
+
+# ---------- Validaciones deterministas ----------
+
+_RE_CITA = re.compile(r"\[([^\[\]]{3,40})\]")
+
+
+def _marcar_citas(texto: str, permitidos: set[str]) -> tuple[str, list[str]]:
+    """Marca las citas [RADICADO] que no están entre los precedentes revisados."""
+    ajenas = []
+
+    def reemplazo(m):
+        rad = m.group(1).strip()
+        if rad in permitidos or not re.search(r"\d", rad):
+            return m.group(0)
+        ajenas.append(rad)
+        return f"[{rad} — no está entre los precedentes revisados para este tema: verifíquela]"
+
+    return _RE_CITA.sub(reemplazo, texto or ""), ajenas
+
+
+def _similitud(comparacion: list[dict], n_hechos: int) -> int:
+    if not n_hechos:
+        return 0
+    coinciden = sum(1 for h in comparacion if h.get("relacion") == "coincide")
+    difieren = sum(1 for h in comparacion if h.get("relacion") == "difiere")
+    return max(0, min(10, round(10 * (coinciden - 0.25 * difieren) / n_hechos)))
+
+
+# ---------- Análisis con IA ----------
+
+def _llamar(prompt: str, uso: _Uso, max_tokens: int) -> dict:
+    datos, u = ia.chat_json([{"role": "system", "content": SISTEMA}, {"role": "user", "content": prompt}],
+                            max_tokens=max_tokens)
+    uso.sumar(u)
+    return datos
+
+
+def _normalizar_plan(plan: dict, caso: dict) -> dict:
+    cuestiones = []
+    for i, c in enumerate(plan.get("cuestiones") or [], 1):
+        if not isinstance(c, dict) or not c.get("cuestion"):
+            continue
+        consultas = []
+        for q in (c.get("consultas") or [])[:4]:
+            if isinstance(q, dict) and q.get("consulta"):
+                consultas.append({"consulta": str(q["consulta"]), "proposito": str(q.get("proposito") or "")})
+            elif isinstance(q, str) and q.strip():
+                consultas.append({"consulta": q, "proposito": ""})
+        cuestiones.append({"id": f"C{len(cuestiones) + 1}", "cuestion": str(c["cuestion"])[:400],
+                           "por_que": str(c.get("por_que") or "")[:400], "consultas": consultas})
+    if not cuestiones:
+        raise ia.ErrorIA("La IA no identificó cuestiones jurídicas. Describe el caso con más detalle e intenta de nuevo.")
+    return {
+        "version": VERSION,
+        "posicion": caso.get("posicion") or "neutral",
+        "problema_juridico": str(plan.get("problema_juridico") or "")[:600],
+        "hechos_relevantes": [str(h)[:300] for h in plan.get("hechos_relevantes") or []][:8],
+        "hechos_por_precisar": [str(h)[:300] for h in plan.get("hechos_por_precisar") or []][:5],
+        "cuestiones": cuestiones[:6],
+        "terminos_clave": [str(t) for t in plan.get("terminos_clave") or []][:20],
+    }
+
+
 def analizar_ia(aid: int, caso: dict, amplitud: str) -> None:
     uso = _Uso()
-    _avance(aid, "La IA está analizando el caso", 5)
-    plan, u = ia.chat_json(
-        [{"role": "system", "content": SISTEMA}, {"role": "user", "content": _prompt_planteamiento(caso)}], max_tokens=1500
-    )
-    uso.sumar(u)
-    propuestas = []
-    for c in (plan.get("consultas") or [])[:8]:
-        if isinstance(c, dict) and c.get("consulta"):
-            propuestas.append({"consulta": str(c["consulta"]), "proposito": str(c.get("proposito") or "")})
-        elif isinstance(c, str) and c.strip():
-            propuestas.append({"consulta": c, "proposito": ""})
+    _avance(aid, "La IA está identificando el problema jurídico y los temas a resolver", 4)
+    plan = _normalizar_plan(_llamar(_prompt_planteamiento(caso), uso, 2500), caso)
     texto_caso = f"{caso['titulo']} {caso['descripcion']} {caso.get('pretensiones', '')}"
-    claves_locales = palabras_clave(texto_caso, 12)
-    if claves_locales:  # red de seguridad con las palabras más distintivas del caso
-        propuestas.append({"consulta": " O ".join(claves_locales), "proposito": "palabras más distintivas del caso"})
-    plan["consultas"] = propuestas
-    consultas = [p["consulta"] for p in propuestas]
+    claves = palabras_clave(texto_caso, 12)
+    grupos = {c["id"]: [q["consulta"] for q in c["consultas"]] for c in plan["cuestiones"]}
+    if claves:  # red de seguridad con las palabras más distintivas del caso
+        grupos["general"] = [" O ".join(claves)]
+    plan["consultas"] = [{"consulta": q["consulta"], "proposito": f"{c['id']}: {q['proposito']}"}
+                         for c in plan["cuestiones"] for q in c["consultas"]]
+    if claves:
+        plan["consultas"].append({"consulta": grupos["general"][0], "proposito": "palabras más distintivas del caso"})
     casos.actualizar_analisis(aid, planteamiento=plan)
 
-    _avance(aid, "Buscando sentencias candidatas", 15, uso)
-    listas = _correr_consultas(consultas, caso, 50)
-    fusion = _fusionar(listas, _excluidas(caso["id"]), CANDIDATAS[amplitud])
-    if not fusion:
+    _avance(aid, "Buscando sentencias candidatas en cada corte", 10, uso)
+    ids, origen = reunir_candidatas(grupos, caso, CANDIDATAS[amplitud])
+    if not ids:
         casos.actualizar_analisis(aid, resultados=[], estado="listo", paso="Listo", progreso=100,
                                   tokens_entrada=uso.entrada, tokens_salida=uso.salida)
         return
 
-    _avance(aid, f"Leyendo {len(fusion)} sentencias candidatas", 22, uso)
-    terminos = list({*claves_locales, *(_plano(t) for t in plan.get("terminos_clave") or [] if isinstance(t, str))})
-    terminos = [w for t in terminos for w in re.findall(r"[a-zñ]{4,}", t) if w not in _STOP]
-    candidatas = []
-    for n, (pid, _) in enumerate(fusion, 1):
-        f = busqueda.ficha(pid)
-        candidatas.append((f"S{n}", f, extracto(pid, terminos)))
+    def avance_fichas(hechas, total):
+        _avance(aid, f"La IA está leyendo las sentencias sin conocer el caso ({hechas} de {total})",
+                12 + int(46 * hechas / total), uso)
 
-    lotes = [candidatas[i : i + LOTE] for i in range(0, len(candidatas), LOTE)]
-    evaluaciones: dict[str, dict] = {}
+    fichas_por_id, errores = fichas.elaborar_varias(ids, uso.sumar, avance_fichas)
+    if not fichas_por_id:
+        raise ia.ErrorIA(errores[0] if errores else "No se pudo leer ninguna sentencia.")
+    ids = [pid for pid in ids if pid in fichas_por_id]
+    datos = {pid: busqueda.ficha(pid) for pid in ids}
+
+    # Comparación con el caso, por lotes.
+    refs = {f"S{n}": pid for n, pid in enumerate(ids, 1)}
+    lotes = [list(refs.items())[i : i + LOTE_COMPARACION] for i in range(0, len(refs), LOTE_COMPARACION)]
+    comparaciones: dict[int, dict] = {}
     hechos_lotes = 0
 
-    def evaluar(lote):
-        fichas = [_ficha_texto(ref, f, e) for ref, f, e in lote]
-        datos, u = ia.chat_json(
-            [{"role": "system", "content": SISTEMA}, {"role": "user", "content": _prompt_evaluacion(caso, plan, fichas)}],
-            max_tokens=200 * len(lote) + 300,
-        )
-        uso.sumar(u)
-        return datos.get("evaluaciones") or []
+    def comparar(lote):
+        bloques = [_texto_ficha(ref, datos[pid], fichas_por_id[pid]) for ref, pid in lote]
+        respuesta = _llamar(_prompt_comparacion(caso, plan, bloques), uso, 450 * len(lote) + 300)
+        return lote, respuesta.get("comparaciones") or []
 
-    _avance(aid, f"La IA está evaluando las candidatas (0 de {len(candidatas)})", 25, uso)
+    _avance(aid, f"Comparando {len(ids)} sentencias con los hechos del caso", 60, uso)
     with ThreadPoolExecutor(max_workers=HILOS) as grupo:
-        futuros = [grupo.submit(evaluar, lote) for lote in lotes]
-        for futuro in as_completed(futuros):
-            for ev in futuro.result():
-                if isinstance(ev, dict) and ev.get("ref"):
-                    evaluaciones[str(ev["ref"]).strip("[] ")] = ev
+        for futuro in as_completed([grupo.submit(comparar, lote) for lote in lotes]):
+            try:
+                lote, lista = futuro.result()
+            except ia.ErrorIA as exc:
+                errores.append(str(exc))
+                continue
+            validos = dict(lote)
+            for comp in lista:
+                if isinstance(comp, dict) and str(comp.get("ref", "")).strip("[] ") in validos:
+                    comparaciones[validos[str(comp["ref"]).strip("[] ")]] = comp
             hechos_lotes += 1
-            hechas = min(hechos_lotes * LOTE, len(candidatas))
-            _avance(aid, f"La IA está evaluando las candidatas ({hechas} de {len(candidatas)})",
-                    25 + int(65 * hechos_lotes / len(lotes)), uso)
+            _avance(aid, f"Comparando con los hechos del caso ({min(hechos_lotes * LOTE_COMPARACION, len(ids))} de {len(ids)})",
+                    60 + int(18 * hechos_lotes / len(lotes)), uso)
 
+    ids_cuestiones = {c["id"] for c in plan["cuestiones"]}
+    n_hechos = len(plan["hechos_relevantes"])
     resultados = []
-    for ref, f, e in candidatas:
-        ev = evaluaciones.get(ref)
-        if not ev:
+    for pid in ids:
+        comp = comparaciones.get(pid)
+        if not comp:
             continue
+        ficha = fichas_por_id[pid]
         try:
-            puntaje = max(0, min(100, int(float(ev.get("puntaje", 0)))))
-            similitud = max(0, min(10, int(float(ev.get("similitud_hechos", 0)))))
+            pertinencia = max(0, min(100, int(float(comp.get("pertinencia", 0)))))
         except (TypeError, ValueError):
-            continue
-        sentido = ev.get("sentido") if ev.get("sentido") in ("favorable", "desfavorable", "mixto", "no_aplica") else "no_aplica"
+            pertinencia = 0
+        if not ficha["decide_fondo"]:
+            pertinencia = min(pertinencia, 40) if not comp.get("cuestiones") else pertinencia
+        if not any(r["papel"] == "ratio" for r in ficha["reglas"]):
+            pertinencia = min(pertinencia, 59)
+        hechos_comp = [h for h in comp.get("hechos") or [] if isinstance(h, dict)]
+        utilidad = comp.get("utilidad") if comp.get("utilidad") in ("a_favor", "en_contra", "mixta", "ninguna") else "ninguna"
+        f = datos[pid]
+        bono = round(8 * factor_reciente(f.get("ano"))) if caso.get("recientes", 1) else 0
         resultados.append({
             **_base_resultado(f),
-            "puntaje": puntaje,
-            "similitud_hechos": similitud,
-            "resuelve_fondo": bool(ev.get("resuelve_fondo")),
-            "sentido": sentido,
-            "decision": str(ev.get("decision") or "")[:400],
-            "regla": str(ev.get("regla") or "")[:600],
-            "por_que": str(ev.get("por_que") or "")[:600],
+            "cuestiones": [c for c in comp.get("cuestiones") or [] if c in ids_cuestiones],
+            "recuperada_por": origen.get(pid, []),
+            "ficha": ficha,
+            "comparacion": {
+                "hechos": [{"h": str(h.get("h")), "relacion": h.get("relacion") if h.get("relacion") in ("coincide", "difiere", "no_consta") else "no_consta",
+                            "detalle": str(h.get("detalle") or "")[:200]} for h in hechos_comp],
+                "analogias": str(comp.get("analogias") or "")[:400],
+                "diferencias": str(comp.get("diferencias") or "")[:400],
+                "utilidad": utilidad,
+                "explicacion_utilidad": str(comp.get("explicacion_utilidad") or "")[:400],
+            },
+            "similitud_hechos": _similitud(hechos_comp, n_hechos),
+            "pertinencia": pertinencia,
+            "puntaje": min(100, pertinencia + bono),
         })
-    resultados.sort(key=lambda r: (-r["puntaje"], -r["similitud_hechos"]))
+    resultados.sort(key=lambda r: (-r["puntaje"], -r["similitud_hechos"], -(r.get("ano") or 0)))
 
-    mejores = [r for r in resultados if r["puntaje"] >= 50][:12]
-    if mejores:
-        _avance(aid, "La IA está redactando la síntesis", 93, uso)
-        try:
-            sintesis, u = ia.chat_json(
-                [{"role": "system", "content": SISTEMA}, {"role": "user", "content": _prompt_sintesis(caso, plan, mejores)}],
-                max_tokens=900,
-            )
-            uso.sumar(u)
-            plan["sintesis"] = str(sintesis.get("sintesis") or "")
-            plan["advertencias"] = [str(a) for a in sintesis.get("advertencias") or []][:3]
-        except ia.ErrorIA as exc:
-            plan["advertencias"] = [f"No se pudo redactar la síntesis: {exc}"]
+    # Análisis por cuestión.
+    _avance(aid, "La IA está desarrollando cada tema jurídico", 80, uso)
+    def analizar_cuestion(c):
+        propios = [r for r in resultados if c["id"] in r["cuestiones"] and r["pertinencia"] >= UMBRAL_PRECEDENTE]
+        if caso.get("recientes", 1):
+            propios.sort(key=lambda r: (-r["puntaje"], -(r.get("ano") or 0)))
+        propios = propios[:MAX_POR_CUESTION]
+        a = _llamar(_prompt_cuestion(caso, plan, c, propios), uso, 2200)
+        permitidos = {r["radicado"] for r in propios}
+        ajenas: list[str] = []
+        estado, x = _marcar_citas(str(a.get("estado") or ""), permitidos)
+        ajenas += x
+
+        def limpiar_args(lista, con_detalle):
+            salida = []
+            for arg in lista or []:
+                if not isinstance(arg, dict) or not arg.get("tesis"):
+                    continue
+                apoyo = [str(r).strip("[] ") for r in arg.get("apoyo") or []]
+                fuera = [r for r in apoyo if r not in permitidos]
+                ajenas.extend(fuera)
+                item = {"tesis": str(arg["tesis"])[:400], "apoyo": [r for r in apoyo if r in permitidos],
+                        "apoyo_no_verificado": fuera}
+                if con_detalle:
+                    desarrollo, y = _marcar_citas(str(arg.get("desarrollo") or "")[:900], permitidos)
+                    objecion, z = _marcar_citas(str(arg.get("objecion") or "")[:600], permitidos)
+                    ajenas.extend(y + z)
+                    item.update(desarrollo=desarrollo, objecion=objecion)
+                salida.append(item)
+            return salida
+
+        c["analisis"] = {
+            "estado": estado,
+            "argumentos": limpiar_args(a.get("argumentos"), True)[:4],
+            "contraparte": limpiar_args(a.get("contraparte"), False)[:3],
+            "por_verificar": [str(v)[:300] for v in a.get("por_verificar") or []][:6],
+            "vacios": str(a.get("vacios") or "")[:500],
+            "citas_ajenas": sorted(set(ajenas)),
+        }
+        c["precedentes"] = [r["radicado"] for r in propios]
+        return c
+
+    with ThreadPoolExecutor(max_workers=HILOS) as grupo:
+        futuros = [grupo.submit(analizar_cuestion, c) for c in plan["cuestiones"]]
+        for futuro in as_completed(futuros):
+            try:
+                futuro.result()
+            except ia.ErrorIA as exc:
+                errores.append(str(exc))
+    for c in plan["cuestiones"]:
+        c.setdefault("analisis", {"estado": "No se pudo desarrollar esta cuestión (error de conexión con la IA).",
+                                  "argumentos": [], "contraparte": [], "por_verificar": [], "vacios": "", "citas_ajenas": []})
+        c.setdefault("precedentes", [])
+
+    # Revisión crítica.
+    _avance(aid, "Revisión crítica de los argumentos", 94, uso)
+    citados = {rad for c in plan["cuestiones"] for a in c["analisis"]["argumentos"] for rad in a["apoyo"]}
+    reglas_por_rad = {r["radicado"]: [f"({x['papel']}) {x['regla']}" for x in r["ficha"]["reglas"]] + [f"Resultado: {r['ficha']['resultado']['efecto']}"]
+                      for r in resultados if r["radicado"] in citados}
+    try:
+        revision = _llamar(_prompt_revision(caso, plan, plan["cuestiones"], reglas_por_rad), uso, 1500)
+        for obs in revision.get("revision") or []:
+            if not isinstance(obs, dict):
+                continue
+            c = next((x for x in plan["cuestiones"] if x["id"] == obs.get("cuestion")), None)
+            try:
+                idx = int(obs.get("argumento")) - 1
+            except (TypeError, ValueError):
+                continue
+            if c and 0 <= idx < len(c["analisis"]["argumentos"]):
+                c["analisis"]["argumentos"][idx].setdefault("revision", []).append({
+                    "tipo": str(obs.get("tipo") or ""), "problema": str(obs.get("problema") or "")[:500],
+                    "gravedad": obs.get("gravedad") if obs.get("gravedad") in ("alta", "media", "baja") else "media"})
+        plan["observaciones_generales"] = [str(x)[:500] for x in revision.get("observaciones_generales") or []][:3]
+    except ia.ErrorIA as exc:
+        plan["observaciones_generales"] = [f"No se pudo hacer la revisión crítica: {exc}"]
+
+    if errores:
+        plan["errores"] = sorted(set(errores))[:3]
     casos.actualizar_analisis(aid, planteamiento=plan, resultados=resultados, estado="listo", paso="Listo",
                               progreso=100, tokens_entrada=uso.entrada, tokens_salida=uso.salida)
 
