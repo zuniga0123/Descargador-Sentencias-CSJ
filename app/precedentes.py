@@ -61,8 +61,9 @@ def _plano(texto: str) -> str:
     return "".join(c for c in unicodedata.normalize("NFD", texto.lower()) if unicodedata.category(c) != "Mn")
 
 
-def palabras_clave(texto: str, maximo: int = 14) -> list[str]:
-    """Términos del caso más distintivos frente a la colección (tf-idf)."""
+def palabras_clave(texto: str, maximo: int = 14, min_df: int = 1, max_frac: float = 0.6, min_tf: int = 1) -> list[str]:
+    """Términos del caso más distintivos frente a la colección (tf-idf). Con min_df alto se
+    prefieren términos jurídicos (presentes en muchas sentencias) a los hechos particulares."""
     tokens = [t for t in re.findall(r"[a-zñ]{4,}", _plano(texto)) if t not in _STOP]
     if not tokens:
         return []
@@ -74,7 +75,7 @@ def palabras_clave(texto: str, maximo: int = 14) -> list[str]:
     puntajes = {}
     for t, f in tf.items():
         d = df.get(t, 0)
-        if d == 0 or d > 0.6 * n:
+        if d < max(1, min_df) or d > max_frac * n or f < min_tf:
             continue
         puntajes[t] = (1 + math.log(f)) * math.log(n / d)
     return sorted(puntajes, key=puntajes.get, reverse=True)[:maximo]

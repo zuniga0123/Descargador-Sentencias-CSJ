@@ -224,9 +224,18 @@ def plantear(lid: int) -> None:
         base_texto = f"{plan.get('problema') or ''} {plan.get('patron_factico') or ''} {linea['entrada']}"
         if linea["modo"] == "sentencia" and plan.get("sentencia_aportada"):
             aportada = plan["sentencia_aportada"]
-            base_texto += " " + busqueda.leer_texto(busqueda.id_por_radicado(aportada["corte"], aportada["radicado"]))[:8000]
-        claves = precedentes.palabras_clave(base_texto, 10)
-        consultas = [" O ".join(claves)] if claves else []
+            pid_ap = busqueda.id_por_radicado(aportada["corte"], aportada["radicado"])
+            f = busqueda.ficha(pid_ap)
+            if aportada["corte"] == "cc":
+                # Las titulaciones de la relatoría son frases jurídicas que aparecen en los textos.
+                frases = [f'"{t}"' for t in (f.get("subtema"), f.get("tema")) if t and not str(t).startswith(("Otros", "Sin subtema"))]
+                consultas = frases[:2]
+            else:
+                # En la Corte Suprema se toman las palabras del análisis de la Corte, no de los hechos.
+                base_texto += " " + fichas.extracto_amplio(busqueda.leer_texto(pid_ap), "csj")["analisis"]
+        claves = precedentes.palabras_clave(base_texto, 8, min_df=150, max_frac=0.25, min_tf=2) if not consultas else []
+        if claves:  # las más distintivas juntas y, como alternativa, cualquiera de ellas
+            consultas = [" ".join(claves[:3]), " O ".join(claves)]
     plan["consultas"] = consultas
 
     # Candidatas y punto arquimédico de cada corte que no lo tenga.
