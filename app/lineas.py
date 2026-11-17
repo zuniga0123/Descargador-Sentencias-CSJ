@@ -547,7 +547,7 @@ def construir(lid: int, amplitud: str = "normal") -> None:
                 frag = "\n".join(f"  Cita a {x['destino']} ({x['seccion']}{', nota al pie' if x['en_nota'] else ''}): «{x['contexto']}»" for x in ctx)
                 bloques.append(f"[{ref}] {_ficha_corta(datos[k], fichas_por.get(k))}" + (f"\n{frag}" if frag else ""))
             r = _llamar(_prompt_ubicacion(plan, bloques), uso, 900 * len(lote) + 500)
-            return lote, r.get("ubicaciones") or []
+            return lote, ia.lista_de(r, "ubicaciones")
 
         hechos_l = 0
         _avance(lid, "La IA está ubicando cada sentencia entre los polos", 52, uso)
@@ -682,7 +682,7 @@ def construir(lid: int, amplitud: str = "normal") -> None:
                 ia.registrar(f"Línea {lid}, balance: {exc}")
                 continue
             permitidos = {s["radicado"] for s in sentencias if s["corte_clave"] == corte}
-            for c in b.get("clasificacion") or []:
+            for c in ia.lista_de(b, "clasificacion"):
                 if not isinstance(c, dict):
                     continue
                 s = next((x for x in sentencias if x["radicado"] == str(c.get("rad", "")).strip() and x["corte_clave"] == corte), None)

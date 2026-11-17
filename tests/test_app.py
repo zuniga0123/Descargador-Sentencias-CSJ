@@ -139,5 +139,39 @@ class LineaJurisprudencial(unittest.TestCase):
         self.assertIsNone(lineas.resolver_entrada("X-1-1"))
 
 
+
+class LecturaDeRespuestasIA(unittest.TestCase):
+    CASOS = {
+        '{"ok":<|endoftext|>true}': {"ok": True},                      # registro del usuario (17-nov)
+        '{"ok": true}<｜end▁of▁sentence｜>': {"ok": True},
+        '{"cita": "primera\nsegunda"}': {"cita": "primera\nsegunda"},
+        '{"cita": "art. 26 \\« Ley"}': {"cita": "art. 26 \\« Ley"},
+        "{'ok': True}": {"ok": True},
+        'Analicé {el caso}. Respuesta: {"ok": true}': {"ok": True},
+        '<think>pienso {algo}</think>\n{"ok": true}': {"ok": True},
+        '{"ok": true, // listo\n "url": "https://x.co"}': {"ok": True, "url": "https://x.co"},
+        '```json\n{"a": [1, 2,],}\n```': {"a": [1, 2]},
+        '[{"ref": "S1"}]': {"_lista": [{"ref": "S1"}]},
+    }
+
+    def test_formas_toleradas(self):
+        from app import ia
+        for texto, esperado in self.CASOS.items():
+            with self.subTest(texto=texto):
+                self.assertEqual(ia.leer_json(texto), esperado)
+
+    def test_cortada_se_repara_sin_perder_la_clave(self):
+        from app import ia
+        texto = '{"comparaciones": [{"ref": "S1", "pertinencia": 80}, {"ref": "S2", "perti'
+        with self.assertRaises(ia.ErrorIA):
+            ia.leer_json(texto)
+        reparado = ia.reparar_json(texto)
+        self.assertEqual(reparado["comparaciones"][0], {"ref": "S1", "pertinencia": 80})
+
+    def test_lista_sin_envolver(self):
+        from app import ia
+        self.assertEqual(ia.lista_de(ia.leer_json('[{"ref": "S1"}]'), "comparaciones"), [{"ref": "S1"}])
+
+
 if __name__ == "__main__":
     unittest.main()

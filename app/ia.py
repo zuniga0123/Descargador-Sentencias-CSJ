@@ -105,6 +105,7 @@ def _mensaje_http(codigo: int, cuerpo: str) -> str:
 TOPE_SALIDA = 8000          # máximo de tokens de respuesta que admite deepseek-chat
 TOPE_SALIDA_RAZONADOR = 32000
 REGISTRO = config.DATOS_DIR / "registro_ia.log"
+_SIN_JSON_RAZONADOR = threading.Event()
 
 
 def _chat(mensajes: list[dict], *, json_salida: bool, max_tokens: int, temperatura: float,
@@ -120,8 +121,8 @@ def _chat(mensajes: list[dict], *, json_salida: bool, max_tokens: int, temperatu
         cuerpo["max_tokens"] = min(max(max_tokens * 4, 8000), TOPE_SALIDA_RAZONADOR)
     else:
         cuerpo["temperature"] = temperatura
-        if json_salida:
-            cuerpo["response_format"] = {"type": "json_object"}
+    if json_salida and not (modelo == "deepseek-reasoner" and _SIN_JSON_RAZONADOR.is_set()):
+        cuerpo["response_format"] = {"type": "json_object"}
     datos = json.dumps(cuerpo).encode("utf-8")
     ultimo_error = "sin respuesta"
     for intento in range(4):
@@ -146,6 +147,12 @@ def _chat(mensajes: list[dict], *, json_salida: bool, max_tokens: int, temperatu
             if exc.code in (429, 500, 502, 503, 504) and intento < 3:
                 ultimo_error = _mensaje_http(exc.code, cuerpo_error)
                 time.sleep(5 * (intento + 1))
+                continue
+            if exc.code == 400 and "response_format" in cuerpo and "response_format" in cuerpo_error.lower():
+                # El modelo no admite el modo JSON: se repite sin él y se recuerda.
+                _SIN_JSON_RAZONADOR.set()
+                cuerpo.pop("response_format")
+                datos = json.dumps(cuerpo).encode("utf-8")
                 continue
             raise ErrorIA(_mensaje_http(exc.code, cuerpo_error), accionable=exc.code in (401, 402)) from exc
         except (urllib.error.URLError, TimeoutError, OSError) as exc:
@@ -188,25 +195,103 @@ def _registrar_falla(texto: str, fin: str, intento: int) -> None:
         pass
 
 
-def _sin_envoltura(texto: str) -> str:
+# Marcas internas del modelo que a veces se cuelan en la respuesta, p. ej. <|endoftext|>,
+# <｜end▁of▁sentence｜> o <|im_end|>; rompen el JSON y nunca son contenido real.
+_RE_MARCAS = re.compile(r"<[|｜][^<>\n]{1,60}?[|｜]>")
+_RE_PENSAMIENTO = re.compile(r"<think>.*?</think>", re.S)
+
+
+def limpiar_respuesta(texto: str) -> str:
+    texto = _RE_MARCAS.sub("", texto or "")
+    texto = _RE_PENSAMIENTO.sub("", texto)
     texto = texto.strip()
-    texto = re.sub(r"^```(?:json)?\s*", "", texto)
+    texto = re.sub(r"^```(?:json|JSON)?\s*", "", texto)
     texto = re.sub(r"\s*```\s*$", "", texto)
-    inicio = texto.find("{")
-    return texto[inicio:] if inicio > 0 else texto
+    return texto.strip()
 
 
-def _sin_comas_finales(texto: str) -> str:
-    return re.sub(r",\s*([}\]])", r"\1", texto)
+def _normalizar_fuera_de_cadenas(t: str) -> str:
+    """Recorre el texto distinguiendo lo que está dentro de comillas: dentro, convierte los
+    saltos de línea y tabuladores literales en escapes y corrige escapes inválidos; fuera,
+    quita comentarios // y /* */ y comas sobrantes antes de } o ]."""
+    salida, i, n = [], 0, len(t)
+    en_cadena = False
+    while i < n:
+        c = t[i]
+        if en_cadena:
+            if c == "\\":
+                sig = t[i + 1] if i + 1 < n else ""
+                if sig in '"\\/bfnrt':
+                    salida.append(c + sig); i += 2; continue
+                if sig == "u" and re.match(r"[0-9a-fA-F]{4}", t[i + 2 : i + 6]):
+                    salida.append(t[i : i + 6]); i += 6; continue
+                salida.append("\\\\"); i += 1; continue   # escape inválido: se conserva la barra
+            if c == '"':
+                en_cadena = False
+            elif c == "\n":
+                salida.append("\\n"); i += 1; continue
+            elif c == "\r":
+                i += 1; continue
+            elif c == "\t":
+                salida.append("\\t"); i += 1; continue
+            elif ord(c) < 32:
+                i += 1; continue
+            salida.append(c); i += 1; continue
+        if c == '"':
+            en_cadena = True
+        elif c == "/" and t[i + 1 : i + 2] == "/":
+            fin = t.find("\n", i)
+            i = n if fin < 0 else fin
+            continue
+        elif c == "/" and t[i + 1 : i + 2] == "*":
+            fin = t.find("*/", i + 2)
+            i = n if fin < 0 else fin + 2
+            continue
+        salida.append(c); i += 1
+    return re.sub(r",\s*([}\]])", r"\1", "".join(salida))
+
+
+def _como_objeto(datos) -> dict | None:
+    if isinstance(datos, dict):
+        return datos
+    if isinstance(datos, list):  # algunos modelos devuelven la lista sin la clave que la envuelve
+        return {"_lista": datos}
+    return None
+
+
+def _cargar(t: str) -> dict | None:
+    """Intenta leer un JSON con tolerancia creciente; None si no se puede."""
+    for candidato in (t, _normalizar_fuera_de_cadenas(t)):
+        try:
+            r = _como_objeto(json.loads(candidato, strict=False))
+            if r is not None:
+                return r
+        except ValueError:
+            pass
+    # Último recurso: sintaxis de Python (comillas simples, True/False/None).
+    if "'" in t:
+        import ast
+        try:
+            convertido = re.sub(r"\btrue\b", "True", re.sub(r"\bfalse\b", "False", re.sub(r"\bnull\b", "None", t)))
+            return _como_objeto(ast.literal_eval(convertido))
+        except (ValueError, SyntaxError, MemoryError, RecursionError):
+            pass
+    return None
+
+
+def _inicios(t: str) -> list[int]:
+    """Posiciones donde puede empezar el JSON (primer { o [ y los siguientes, por si hay texto antes)."""
+    return [m.start() for m in re.finditer(r"[{\[]", t)][:40]
 
 
 def reparar_json(texto: str) -> dict | None:
     """Rescata lo aprovechable de un JSON cortado: cierra cadenas y llaves abiertas,
     descartando el último elemento incompleto."""
-    t = _sin_comas_finales(_sin_envoltura(texto))
-    if not t.startswith("{"):
+    limpio = limpiar_respuesta(texto)
+    inicios = _inicios(limpio)
+    if not inicios:
         return None
-    # Puntos donde se puede cortar sin romper la estructura: tras cerrar un valor.
+    t = _normalizar_fuera_de_cadenas(limpio[inicios[0]:])
     cortes = []
     pila, en_cadena, escape = [], False, False
     for i, c in enumerate(t):
@@ -231,33 +316,45 @@ def reparar_json(texto: str) -> dict | None:
     for pos, abiertos in reversed(cortes[-200:]):
         candidato = t[:pos].rstrip().rstrip(",")
         cierre = "".join("}" if a == "{" else "]" for a in reversed(abiertos))
-        try:
-            datos = json.loads(_sin_comas_finales(candidato + cierre))
-        except ValueError:
-            continue
-        if isinstance(datos, dict):
+        datos = _cargar(candidato + cierre)
+        if datos is not None:
             datos["_reparado"] = True
             return datos
     return None
 
 
 def leer_json(texto: str) -> dict:
-    """Extrae el objeto JSON de la respuesta (tolera ``` alrededor, texto previo y comas sobrantes)."""
-    texto = texto.strip()
-    for candidato in (texto, _sin_envoltura(texto), _sin_comas_finales(_sin_envoltura(texto))):
-        try:
-            datos = json.loads(candidato)
-            if isinstance(datos, dict):
-                return datos
-        except ValueError:
-            pass
-    inicio, fin = texto.find("{"), texto.rfind("}")
-    if inicio >= 0 and fin > inicio:
-        try:
-            return json.loads(_sin_comas_finales(texto[inicio : fin + 1]))
-        except ValueError:
-            pass
-    raise ErrorIA("DeepSeek devolvió una respuesta que no se pudo interpretar. Intenta de nuevo.")
+    """Extrae el objeto JSON de la respuesta. Tolera marcas internas del modelo, bloques ```,
+    texto antes o después, saltos de línea dentro de las cadenas, escapes inválidos,
+    comentarios, comas sobrantes y una lista en lugar de un objeto."""
+    limpio = limpiar_respuesta(texto)
+    directo = _cargar(limpio)
+    if directo is not None:
+        return directo
+    decodificador = json.JSONDecoder(strict=False)
+    for inicio in _inicios(limpio):
+        # Si antes empezó algo con forma de JSON ({" o [{) que no se pudo leer, la respuesta está
+        # cortada: no se acepta un fragmento interno (se perderían la clave y el resto); se repara.
+        if re.search(r'[{\[]\s*[\[{"]', limpio[:inicio]):
+            break
+        fragmento = limpio[inicio:]
+        for candidato in (fragmento, _normalizar_fuera_de_cadenas(fragmento)):
+            try:
+                datos, _ = decodificador.raw_decode(candidato)
+            except ValueError:
+                continue
+            r = _como_objeto(datos)
+            if r is not None:
+                return r
+    raise ErrorIA("La respuesta de la IA no se pudo interpretar. Intenta de nuevo.")
+
+
+def lista_de(datos: dict, clave: str) -> list:
+    """La lista esperada bajo `clave` (o la lista que el modelo devolvió sin envolver)."""
+    valor = datos.get(clave)
+    if isinstance(valor, list):
+        return valor
+    return datos.get("_lista") if isinstance(datos.get("_lista"), list) else []
 
 
 def chat_json(mensajes: list[dict], *, max_tokens: int = 2000, temperatura: float = 0.1,
@@ -274,7 +371,12 @@ def chat_json(mensajes: list[dict], *, max_tokens: int = 2000, temperatura: floa
         try:
             return leer_json(texto), uso_total
         except ErrorIA:
-            _registrar_falla(texto, fin, intento)
+            try:
+                json.loads(limpiar_respuesta(texto), strict=False)
+                motivo = ""
+            except ValueError as exc:
+                motivo = str(exc)
+            _registrar_falla(texto, f"{fin} · {motivo}" if motivo else fin, intento)
             if limite >= TOPE_SALIDA and fin == "length":
                 break  # no cabe ni con el máximo: se repara lo que haya
             limite = min(limite * 2 if fin == "length" else int(limite * 1.5), TOPE_SALIDA)
@@ -286,7 +388,15 @@ def chat_json(mensajes: list[dict], *, max_tokens: int = 2000, temperatura: floa
 
 
 def probar() -> dict:
-    datos, uso = chat_json(
-        [{"role": "user", "content": 'Responde solo este JSON: {"ok": true}'}], max_tokens=20, timeout=60
+    """Comprueba que la clave funciona: basta con que DeepSeek responda."""
+    texto, uso = chat(
+        [{"role": "user", "content": 'Devuelve un objeto JSON con la clave "estado" y el valor "listo".'}],
+        json_salida=True, max_tokens=60, timeout=60,
     )
-    return {"ok": bool(datos.get("ok")), "modelo": _modelo(), "uso": uso}
+    try:
+        leer_json(texto)
+        formato = True
+    except ErrorIA:
+        formato = False
+        _registrar_falla(texto, "prueba de conexión", 1)
+    return {"ok": True, "formato_json": formato, "modelo": _modelo(), "uso": uso}

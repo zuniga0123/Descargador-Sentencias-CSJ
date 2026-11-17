@@ -527,7 +527,7 @@ def analizar_ia(aid: int, caso: dict, amplitud: str) -> None:
     def comparar(lote, intento=1):
         bloques = [_texto_ficha(ref, datos[pid], fichas_por_id[pid]) for ref, pid in lote]
         respuesta = _llamar(_prompt_comparacion(caso, plan, bloques), uso, 750 * len(lote) + 600)
-        completas = [c for c in respuesta.get("comparaciones") or []
+        completas = [c for c in ia.lista_de(respuesta, "comparaciones")
                      if isinstance(c, dict) and "pertinencia" in c and "utilidad" in c and c.get("ref")]
         hechas = {str(c["ref"]).strip("[] ") for c in completas}
         faltan = [(ref, pid) for ref, pid in lote if ref not in hechas]
@@ -673,7 +673,7 @@ def analizar_ia(aid: int, caso: dict, amplitud: str) -> None:
             except ia.ErrorIA as exc:
                 _falla(errores, f"la revisión crítica del tema {c['id']}", exc)
                 continue
-            for obs in revision.get("revision") or []:
+            for obs in ia.lista_de(revision, "revision"):
                 if isinstance(obs, dict):
                     try:
                         anotar(c, int(obs.get("argumento")) - 1, obs.get("tipo"), obs.get("problema"), obs.get("gravedad"))
@@ -681,7 +681,7 @@ def analizar_ia(aid: int, caso: dict, amplitud: str) -> None:
                         continue
         try:
             coherencia = futuro_global.result()
-            for obs in coherencia.get("contradicciones") or []:
+            for obs in ia.lista_de(coherencia, "contradicciones"):
                 if not isinstance(obs, dict):
                     continue
                 m = re.match(r"(C\d+)-A(\d+)", str(obs.get("tesis") or ""))
