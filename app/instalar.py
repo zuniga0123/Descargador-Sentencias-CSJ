@@ -27,7 +27,7 @@ def verificar_sqlite() -> None:
 
 def copiar_lanzadores() -> None:
     origen = config.APP_DIR / "windows"
-    for nombre in ("iniciar.bat", "iniciar_en_red.bat", "actualizar.bat"):
+    for nombre in ("iniciar.bat", "iniciar_en_red.bat", "actualizar.bat", "actualizar_programa.bat"):
         nuevo, actual = origen / nombre, config.BASE_DIR / nombre
         # Solo si cambió: así no se reescribe un .bat mientras se ejecuta.
         if nuevo.exists() and (not actual.exists() or actual.read_bytes() != nuevo.read_bytes()):

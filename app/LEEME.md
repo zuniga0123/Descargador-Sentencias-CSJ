@@ -49,10 +49,21 @@ Requisitos: Windows 10 u 11 y unos 5 GB libres durante la instalación
   Windows puede pedir permiso del Firewall: acepta solo **Redes privadas**.
   Ese computador debe quedar encendido con la ventana abierta.
 
-## Actualizar (sentencias nuevas o nueva versión)
+## Actualizar
 
-Cierra el buscador y ejecuta `actualizar.bat` en la carpeta del buscador.
-Vuelve a bajar los datos de GitHub y reconstruye la base (10–20 minutos).
+Cierre primero la ventana del buscador. Hay dos formas:
+
+- **Solo el programa** (correcciones y funciones nuevas, menos de un minuto):
+  `actualizar_programa.bat` en la carpeta del buscador. Baja de GitHub solo los
+  archivos que cambiaron y no toca la base de sentencias ni sus casos.
+  Si su instalación todavía no tiene ese archivo, descárguelo una vez:
+  <https://raw.githubusercontent.com/zuniga0123/Descargador-Sentencias-CSJ/claude/csj-colombia-sentencias-app-7eisz7/app/windows/actualizar_programa.zip>
+  → clic derecho → **Extraer todo** → doble clic en `actualizar_programa.bat`
+  (encuentra solo la carpeta del buscador; después queda copiado allí).
+- **Programa y sentencias** (sentencias nuevas, 30 a 45 minutos): `actualizar.bat`.
+  Vuelve a bajar los datos, reconstruye la base y la red de citas.
+
+Los casos, las líneas y la configuración de DeepSeek se conservan en ambos casos.
 
 ## Casos y búsqueda de precedentes
 
@@ -187,6 +198,7 @@ app/
   informes.py       informe del caso en Markdown
   texto.py          limpieza del texto (PDF de la Corte Suprema, secciones)
   instalar.py       pasos de instalación con Python
+  actualizar_programa.py  actualiza solo app/ desde GitHub (archivos cambiados)
   web/              interfaz (HTML + CSS + JS, sin dependencias; casos.js, analisis.js, lineas.js)
   windows/          instalador y lanzadores .bat
 ```
